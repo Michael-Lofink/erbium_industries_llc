@@ -3,5 +3,9 @@
   "ITS@@drwn": false,
   "ITS@@mini": false,
   "ITS@@notion": false,
-  "ITS@@its-d": false
+  "ITS@@its-d": false,
+  "ITS@@select": "pathfinder-remaster",
+  "ITS@@accent-color": true,
+  "ITS@@nord": false,
+  "ITS@@slrvb-g": false
 }
