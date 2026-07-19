@@ -1,0 +1,6 @@
+![[erbium_industries_fed.png]]
+![[erbium_industries_fed_voxel.png|50]] Our forefathers sat on Wander staring up at the stars, daring to question if life existed beyond their reach. Now we of the settled systems have a duty and responsibility to continue the efforts put forth in front of us. Join Erbium Industries LLC on our Frontier Extraction Division to pioneer into the unsettled systems and bring home the stars. \* Whether here through the Great Volunteer or in certain service to the settled systems\*^2, we thank for your service.
+
+\* Erbium Industries is not held liable for any dismemberment, loss of memory, exposure to erratic radiation, exposure to the unknowable, change in philosophical understanding of creation; or other injury of the mind, body, or spirit.
+
+\*^2 Erbium Industries loans out equipment to its employees to be paid for in full until such tools are no-longer serviced under leasing terms or relevant parties have expired. Those in certain service will not receive paid wages under code A4%9&1-1440 of the settled systems. Those here as employees because of the Great Volunteering may choose to defer payment from Erbium Industries out of gratitude for this opportunity.
