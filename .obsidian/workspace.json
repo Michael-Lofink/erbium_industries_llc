@@ -14,27 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign/Plot Hook.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Plot Hook"
-            }
-          }
-        ]
-      },
-      {
-        "id": "551729412f991a28",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd0626988ec6c7b0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
