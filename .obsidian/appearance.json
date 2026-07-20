@@ -1,4 +1,15 @@
 {
   "cssTheme": "ITS Theme",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "image_align",
+    "pf2-only-statblocks",
+    "pf2-compendium",
+    "pf2e-actions-font",
+    "pf2e-spell",
+    "pf2e-text-highlight",
+    "S - Encoded Icons",
+    "S - Encoded Fonts",
+    "supercharged-links-gen"
+  ]
 }

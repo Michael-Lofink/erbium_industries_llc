@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Androids.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Androids"
+              "title": "Android"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Android"
             }
           },
           {
@@ -182,9 +182,18 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "25b202f8e76c7de4",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
@@ -209,8 +219,23 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk.md",
+    "Starfinder 2e Rules/Conditions/Fatigued.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+    "Starfinder 2e Rules/Conditions/Unconscious.md",
+    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
+    "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
+    "Starfinder 2e Rules/Conditions",
+    "Campaign/Plot Hook.md",
+    "Worldbuilding/Time in the Settled Systems.md",
+    "Starfinder 2e Rules/Equipment/Armor",
+    "Starfinder 2e Rules/Equipment",
+    "Starfinder 2e Rules",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages",
+    "Worldbuilding/Ancestries of the Settled Systems/Android",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk.md",
+    "Campaign/System/Campaign Clock.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human.md",
@@ -218,18 +243,24 @@
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf.md",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Androids.md",
-    "Campaign/Plot Hook.md",
+    "Campaign/Sessions/Session 1.md",
+    "Campaign/Campaign Timeline.md",
+    "Templates/Advance Stamp.md",
+    "Templates/Corporate Frontier Grit — Image Prompt Templates.md",
+    "Templates/image_alignment.md",
+    "Scripts/Untitled.md",
+    "Scripts/advance_stamp.js",
+    "Scripts",
+    "Worldbuilding/Erbium Campaign Art Style.md",
+    "Campaign/Locations",
+    "Campaign/Sessions",
+    "Resources/ancestryPortrait_Android.png",
+    "ChatGPT Image Jul 19, 2026, 03_23_41 PM_inspyrenet.png",
     "Pasted image 20260719014732.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Autoborg.md",
-    "Worldbuilding/Ancestries of the Settled Systems",
-    "Resources/erbium_industries_fed_voxel.png",
     "Resources/erbium_industries_fed.png",
-    "Resources",
+    "Resources/erbium_industries_fed_voxel.png",
+    "Worldbuilding/Ancestries of the Settled Systems/Autoborg.md",
     "Pasted image 20260718155938.png",
-    "Pasted image 20260718155936.png",
-    "Campaign",
-    "Worldbuilding",
-    "Welcome.md"
+    "Pasted image 20260718155936.png"
   ]
 }

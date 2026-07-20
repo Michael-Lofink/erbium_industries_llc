@@ -1,0 +1,1109 @@
+Core Art Direction Statement
+
+Corporate Frontier Grit is a grounded, low-science-fiction visual style built around blue-collar extraction work at the edge of colonized space. It combines utilitarian industrial hardware, modular frontier infrastructure, controlled corporate branding, and an undercurrent of cosmic unease. Technology is advanced but not elegant. Surfaces are worn, patched, dented, dust-coated, and branded. The world should feel like humanity expanded into space with contract labor, leased equipment, prefab structures, and PR-approved optimism, not with utopian abundance.
+
+The Blend You’re Actually Going For
+
+Here’s how I’d translate your inspirations into usable visual priorities:
+
+From Starfield
+
+Take:
+
+grounded NASA-industrial hardware language
+practical space suits
+modular ships
+believable materials
+clean but not futuristic-for-futurism’s-sake interfaces
+
+Do not take:
+
+overly clean heroic presentation
+too much polished white “explorer prestige”
+From The Outer Worlds
+
+Take:
+
+anti-corporate absurdity
+cheerful propaganda over ugly labor realities
+branded equipment and institutional control
+workers as assets, liabilities, and debtors
+
+Do not take:
+
+too much caricature
+overly colorful retro camp
+exaggerated comic proportions
+From Outer Wilds
+
+Take:
+
+wonder, isolation, silence
+intimate camp-like frontier humanity
+cosmic mystery
+handmade survival improvisation
+
+Do not take:
+
+cozy whimsy as the dominant tone
+too much wood-and-rope rusticity unless you want a very specific fringe settlement
+From Deep Rock Galactic
+
+Take:
+
+readable mining silhouettes
+rugged equipment
+cavern hazard energy
+heavy utility gear
+blue-collar industrial competence
+
+Do not take:
+
+exaggerated chunky cartoon proportions
+high-saturation arcade color language
+The Final Rendering Style
+
+This is important because it controls how assets feel.
+
+Recommended rendering approach
+
+Use:
+
+stylized realism
+concept-art realism
+clean readable shapes
+semi-realistic hard-surface design
+painterly detail over photorealism
+clear silhouette hierarchy
+medium-to-high surface detail
+restrained color saturation
+
+That means:
+
+more realistic than Deep Rock Galactic
+less photoreal than a AAA cinematic still
+less comedic than The Outer Worlds
+less pristine than Starfield
+
+So your assets should look like:
+
+a believable sci-fi world rendered with slightly simplified, readable forms and controlled stylization
+
+That is the sweet spot.
+
+Visual Pillars
+1. Industrial practicality
+
+Everything should look like it has a job.
+
+exposed bolts
+maintenance panels
+seals and latches
+warning labels
+reinforced corners
+grip textures
+pressure doors
+cable routing
+pipe clusters
+brackets and struts
+scuffed paint
+dust buildup
+replaced parts
+
+Even “nice” equipment should still look built to survive abuse.
+
+2. Corporate false reassurance
+
+Erbium Industries should look competent, standardized, and respectable.
+
+Their visual language should say:
+
+safety
+progress
+expansion
+reliability
+scientific legitimacy
+
+But the world around it should quietly contradict that.
+
+Examples:
+
+clean logo on damaged machinery
+safety slogans on hazardous worksites
+corporate posters in grim barracks
+bright recruitment screens in ugly extraction camps
+branded leases on life-support tools
+3. Frontier exhaustion
+
+The frontier should feel:
+
+underfunded
+understaffed
+overworked
+isolated
+dangerous
+patched together
+
+Not “post-apocalypse.” Just neglected capitalism in space.
+
+4. Cosmic mystery
+
+The unknown should not feel magical fantasy. It should feel:
+
+geologically strange
+astronomically uncanny
+biologically ambiguous
+philosophically destabilizing
+
+The mystery should look real enough to be taken seriously and weird enough to disturb.
+
+Shape Language
+
+This matters a lot for consistency.
+
+Corporate / Erbium Industries shapes
+
+Use:
+
+hexagons
+faceted polygons
+trapezoids
+chamfered rectangles
+hard diagonals
+symmetrical or near-symmetrical marks
+inset panels
+modular grid logic
+
+This matches the Erbium branding you’ve already made.
+
+Their logo and equipment language should imply:
+
+mineral extraction
+refined geometry
+industrial standardization
+planned systems
+Frontier / labor shapes
+
+Use:
+
+boxy modules
+stacked containers
+frame supports
+cage structures
+braced gantries
+cylindrical tanks
+rugged tool silhouettes
+practical harnesses and packs
+Natural / unknown shapes
+
+Use:
+
+fractured stone
+crystalline shear planes
+layered rock
+unusual erosion
+collapsed caverns
+asymmetrical voids
+sparse, unsettling structures if ancient ruins exist
+
+Let nature be more irregular than the corporate built world.
+
+Material Language
+
+This is one of the biggest tone-setters.
+
+Primary materials
+painted steel
+brushed aluminum
+dull titanium
+ceramic composite panels
+matte polymers
+rubber seals
+acrylic display glass
+scuffed visors
+fabric webbing
+canvas utility surfaces
+foam insulation
+carbon-black machine housings
+Surface condition
+
+Lean heavily into:
+
+scratches
+chips
+dust
+grime in seams
+oil residue
+faded stencils
+heat discoloration
+patched repairs
+replacement panels with slightly different colors
+
+Avoid:
+
+mirror-finish chrome
+pristine seamless sci-fi plastics
+overdone rust everywhere
+grimdark filth on every surface
+
+This is not junk sci-fi. It is maintained neglect.
+
+Color Palette
+
+You need a world palette and then faction-specific overlays.
+
+1. Erbium Industries corporate palette
+
+This should stay compatible with your current logo work.
+
+Charcoal black
+gunmetal
+pale gray
+cold silver
+muted erbium-magenta / violet-pink accent
+
+Use magenta sparingly:
+
+logo insets
+indicator strips
+UI highlights
+collar piping
+equipment labels
+rank tabs
+division markings
+
+It should feel controlled, not playful.
+
+2. Frontier infrastructure palette
+weathered off-white
+faded industrial yellow
+orange-brown dust
+olive drab
+faded red hazard paint
+gray-blue steel
+dirty beige
+oxidized metal brown
+desaturated teal indicator lights
+
+These colors should feel sun-bleached and work-worn.
+
+3. Worker palette
+brown utility leathers
+charcoal uniforms
+faded blue-gray coveralls
+tan pressure fabrics
+dusty orange safety accents
+worn black boots
+muted magenta company insignia
+4. Cosmic anomaly palette
+
+Use these sparingly so they remain special:
+
+pale cyan
+ghostly ultraviolet
+muted emerald glow
+deep indigo
+weird pearlescent refraction
+faint amber spectral lines
+
+These should look alien or uncanny, not nightclub neon.
+
+Lighting Style
+Default lighting
+practical work lights
+overhead strips
+flood lamps
+visor lights
+vehicle headlights
+dim corridor illumination
+cool moonlight / star light
+warm sodium industrial lamps
+Mood
+
+Use lighting contrast to sell tone:
+
+hard shadows in mines
+overexposed dust in exterior worksites
+low-key interiors with equipment glow
+bright corporate display screens in drab environments
+Avoid
+over-saturated cyberpunk neon
+too much glowing hologram clutter
+constant dramatic rim-lighting
+rainbow sci-fi lighting
+Environment Style
+Settled systems corporate spaces
+
+These should look:
+
+cleaner
+more geometrically controlled
+better lit
+more standardized
+more branded
+more surveilled
+
+Think:
+
+recruitment halls
+corporate terminals
+lobby displays
+extraction planning rooms
+shipping depots
+investor-facing control centers
+
+But do not make them luxurious unless they are executive spaces.
+
+Frontier extraction sites
+
+These should look:
+
+prefab
+pressurized
+modular
+assembled quickly
+expanded unevenly
+badly repaired over time
+
+Think:
+
+drill platforms
+ore sorters
+crawler garages
+barracks
+med bays
+mess halls
+airlocks
+landing pads
+survey shacks
+tunnel supports
+freight lifts
+Wild / unsettled environments
+
+These should feel:
+
+quiet
+lonely
+hostile
+awe-inspiring
+geologically striking
+
+Think:
+
+crater basins
+ice caverns
+shattered moon rock
+dry alien deserts
+metallic mineral ridges
+storm-blasted valleys
+ancient impact scars
+subglacial fissures
+low-gravity debris fields
+Character Style
+Worker / miner / surveyor look
+
+Your baseline people should read as:
+
+contractors
+miners
+logistics staff
+engineers
+prospectors
+security hands
+equipment techs
+reluctant explorers
+Wardrobe features
+utilitarian jumpsuits
+layered pressure clothing
+harnesses and tether points
+tool belts
+reinforced gloves
+dusty boots
+utility vests
+ID patches
+corporate insignia
+serial labels
+cheap but robust helmets
+shoulder lamps
+portable air or power packs
+Tone
+
+They should look:
+
+capable
+tired
+underappreciated
+branded
+not heroic in a clean propaganda way
+Corporate officials
+
+They should look:
+
+cleaner
+more composed
+less dirty
+slightly better materials
+better-fitting uniforms
+more visible branding
+more insulated from physical labor
+Security / corporate enforcement
+
+They should look:
+
+practical, not sleek
+armored in a workmanlike way
+like private-sector control, not military grandeur
+Props and Equipment
+
+This category will carry a lot of your setting flavor.
+
+Design rules
+
+Every prop should feel:
+
+labeled
+leased
+modular
+repairable
+branded
+slightly overbuilt
+Good prop categories
+handheld drills
+plasma cutters
+ore sample canisters
+hazard beacons
+med injectors
+mineral scanners
+pressure masks
+air canisters
+survival packs
+field tablets
+cargo clamps
+beacon stakes
+utility drones
+portable floodlights
+ration tins
+employee lease tags
+containment cases
+Branding trick
+
+Put Erbium Industries or FED markings on things in understated ways:
+
+serial panels
+stenciled logos
+patch tabs
+warning placards
+magenta stripe accents
+asset tags
+
+That will tie the whole world together fast.
+
+Ship and Vehicle Style
+Ships
+
+Think:
+
+practical utility hulls
+cargo-first silhouettes
+modular components
+visible landing gear
+engine housings that look serviceable
+docking collars
+external storage
+industrial paint schemes
+
+Not:
+
+elegant starfighters
+luxury yachts
+smooth alien super-tech curves
+Ground vehicles
+
+Think:
+
+squat rovers
+tracked or multi-wheel haulers
+drilling crawlers
+maintenance carts
+ore transports
+mobile rig platforms
+
+They should look like something a company bought in bulk and keeps repairing instead of replacing.
+
+UI and Graphic Design
+
+This matters because the logo already gives you a direction.
+
+UI style
+clean modular interface blocks
+grid-based layouts
+condensed sans-serif fonts
+muted gray interfaces
+magenta used as corporate highlight color
+white and pale gray text
+occasional amber or red warning layers
+minimal ornament
+emphasis on legibility
+Corporate posters / forms / terminals
+
+These should feel:
+
+bureaucratic
+polished
+slightly patronizing
+standardized
+full of euphemism
+
+Examples:
+
+SAFETY IS SHARED RESPONSIBILITY
+EXTRACTION IS CIVILIZATION
+RETURN VALUE TO THE SETTLED SYSTEMS
+BRING HOME THE STARS
+How Erbium Branding Fits the Style
+
+Your current Erbium Industries Frontier Extraction Division branding already works. It should become the cleanest visual layer in the whole setting.
+
+That means:
+
+the logo is crisp
+the typography is orderly
+the magenta accent is controlled
+the geometry is faceted and mineral-inspired
+the presentation implies competence and legitimacy
+
+Then the world around it reveals the truth:
+
+same logo on dented cargo doors
+same logo on faulty life-support units
+same logo on exploitative employee contracts
+same logo on memorial plaques
+same logo on recruitment posters
+
+That contrast is where the anti-corporate tone lives.
+
+Style Rules: Do and Don’t
+Do
+grounded sci-fi hardware
+blue-collar labor texture
+modular prefab architecture
+restrained corporate branding
+mineral and extraction motifs
+readable silhouettes
+stylized realism
+muted palette with targeted accents
+cosmic awe with practical framing
+industrial signage and labels
+Don’t
+sleek utopian futurism
+glossy Apple-like minimalism
+heavy cyberpunk neon
+ultra-cartoony exaggeration
+fantasy-looking crystals everywhere
+Star Wars-style lived-in clutter without structure
+over-baroque alien forms
+shiny superhero armor
+too much retro camp
+Asset Prompting Language
+
+When you generate assets, I would stop using franchise names as the main driver and instead use a house prompt block like this.
+
+Master style block
+
+You can reuse this in almost every asset prompt:
+
+Corporate Frontier Grit, grounded low-science-fiction setting, blue-collar interstellar extraction world, anti-corporate frontier industrial aesthetic, stylized realism, readable hard-surface forms, modular prefab infrastructure, worn but functional materials, practical mining equipment, subtle cosmic mystery, restrained color palette, charcoal and pale gray base tones, weathered industrial surfaces, muted erbium-magenta corporate accents, clean corporate branding contrasted with harsh labor conditions, clear silhouette design, concept-art realism, no glossy futurism, no cyberpunk neon, no cartoon exaggeration
+
+Prompt Templates
+Environment prompt template
+
+[subject], in the Corporate Frontier Grit style, grounded low-science-fiction frontier extraction setting, modular industrial architecture, prefabricated mining infrastructure, worn painted metal, dust, hazard markings, Erbium Industries branding, muted palette, practical lighting, stylized realism, strong readability, concept art
+
+Character prompt template
+
+[subject], Corporate Frontier Grit style, blue-collar space worker, practical layered pressure gear, utility harness, worn equipment, Erbium Industries insignia, grounded sci-fi materials, subtle corporate branding, tired but competent, stylized realism, muted industrial palette, clear silhouette
+
+Prop prompt template
+
+[subject], Corporate Frontier Grit style, industrial sci-fi equipment, modular and repairable design, labeled components, weathered materials, hazard markings, Erbium Industries branding, magenta accent stripe, practical function-first construction, flat background or presentation sheet, stylized realism
+
+Settlement / facility prompt template
+
+[subject], Corporate Frontier Grit style, frontier corporate mining outpost, prefab structures, cargo stacks, drill towers, floodlights, dirty off-white and gunmetal palette, restrained magenta branding, lived-in labor environment, atmospheric concept art, grounded sci-fi
+
+If You Want a Single Concise Style Bible Summary
+
+You could save this in Obsidian:
+
+# Corporate Frontier Grit
+
+A grounded low-science-fiction art style built around blue-collar extraction labor in the outer reaches of colonized space. The world combines NASA-industrial hardware, anti-corporate branding, modular frontier infrastructure, and subtle cosmic mystery. Technology is advanced but utilitarian. Surfaces are worn, dusty, patched, and branded. Erbium Industries presents itself through clean geometric design, restrained magenta accents, and polished corporate order, while the lived reality is dangerous, underfunded, and exploitative.
+
+## Pillars
+- Industrial practicality
+- Corporate false reassurance
+- Frontier exhaustion
+- Cosmic mystery
+
+## Rendering
+- Stylized realism
+- Concept-art realism
+- Clean silhouettes
+- Medium-to-high material detail
+- Muted saturation
+
+## Shape Language
+- Corporate: faceted geometry, hexagons, trapezoids, chamfered forms
+- Frontier: boxy modules, gantries, containers, tanks, braces
+- Natural: fractured rock, crystalline shears, asymmetry
+
+## Palette
+- Corporate: charcoal, silver, pale gray, muted erbium-magenta
+- Frontier: off-white, faded yellow, rust-brown, olive, gray-blue
+- Anomaly: pale cyan, muted ultraviolet, spectral emerald, deep indigo
+
+## Avoid
+- Sleek utopian futurism
+- Heavy cyberpunk neon
+- Cartoon exaggeration
+- Glossy surfaces
+- Overly clean environments
+
+---
+aliases:
+  - Corporate Frontier Grit
+  - Erbium Campaign Art Style
+tags:
+  - starfinder-2e
+  - art-direction
+  - erbium-industries
+  - campaign-style
+---
+
+# Corporate Frontier Grit
+
+> [!summary]
+> A grounded, low-science-fiction visual style centered on blue-collar extraction work at the edge of settled space. Advanced technology is practical, modular, expensive, and frequently repaired. Corporate branding remains clean and reassuring while workers, equipment, and frontier facilities show the physical cost of expansion.
+
+## Core Visual Direction
+
+**Rendering:** Stylized concept-art realism with clear silhouettes, believable materials, restrained saturation, and moderate surface detail.
+
+**World tone:** Industrial competence, institutional neglect, corporate optimism, labor exploitation, frontier isolation, and restrained cosmic unease.
+
+**Technology:** Advanced without appearing effortless. Machines require fuel, maintenance, replacement parts, operators, cables, seals, vents, and access panels.
+
+**Condition:** Worn but functional. Use chipped paint, dust, patched panels, grease near moving parts, faded labels, replacement components, and repairs made with available materials.
+
+## Visual Pillars
+
+### Industrial Practicality
+
+Every object should communicate its function through visible construction.
+
+- Reinforced corners, handles, hinges, bolts, clamps, vents, and maintenance panels
+- Modular components designed for repair and replacement
+- Heavy equipment with readable weight and mechanical purpose
+- Equipment labels, serial numbers, hazard markings, and inspection tags
+
+### Corporate Reassurance
+
+Erbium Industries presents extraction as orderly, safe, scientific, and necessary.
+
+- Clean geometric branding applied to damaged or dangerous equipment
+- Polished recruitment material contrasted with harsh working conditions
+- Standardized uniforms, signage, packaging, interfaces, and safety language
+- Euphemistic slogans and legal disclaimers
+
+### Frontier Labor
+
+Settlements and worksites are built quickly, expanded unevenly, and maintained under limited budgets.
+
+- Prefabricated structures, cargo modules, gantries, tanks, floodlights, and temporary barriers
+- Crowded barracks, utilitarian mess halls, equipment lockers, and improvised repairs
+- Workers who appear capable, tired, practical, and visibly employed
+- Limited personal decoration inside standardized corporate spaces
+
+### Cosmic Unknown
+
+Unsettled systems contain phenomena that resist easy classification without becoming overt fantasy.
+
+- Strange geology, unusual erosion, unfamiliar biology, and anomalous light behavior
+- Sparse visual evidence rather than constant spectacle
+- Scientific equipment used to study things it cannot fully explain
+- Anomalies should feel physically present and dangerous
+
+## Shape Language
+
+**Erbium Industries:** Faceted polygons, chamfered rectangles, trapezoids, hexagonal structures, inset panels, hard diagonals, and controlled symmetry.
+
+**Frontier infrastructure:** Boxy modules, cylindrical tanks, exposed frames, stacked containers, braces, ladders, gantries, and service platforms.
+
+**Natural environments:** Fractured stone, layered strata, mineral shear planes, irregular caverns, asymmetrical formations, and weathered surfaces.
+
+**Unknown technology or structures:** Precise but unfamiliar geometry, limited ornament, ambiguous function, and forms that do not resemble conventional human manufacturing.
+
+## Materials and Surfaces
+
+Primary materials:
+
+- Painted steel and dull aluminum
+- Ceramic composite panels
+- Matte polymers and rubber seals
+- Reinforced glass and scratched visors
+- Canvas, webbing, pressure fabric, and insulated padding
+- Carbon-black equipment housings
+
+Preferred wear:
+
+- Scratched edges
+- Chipped paint
+- Dust collected in seams
+- Heat discoloration
+- Oil residue around mechanical joints
+- Faded stencils
+- Mismatched replacement panels
+
+Avoid universal rust, excessive grime, mirror chrome, seamless plastics, and pristine showroom finishes.
+
+## Color Palette
+
+### Erbium Industries
+
+- Dark charcoal
+- Gunmetal
+- Cold silver
+- Pale gray
+- Muted erbium-magenta or violet-pink
+
+Magenta is a controlled identification color used for logos, interface highlights, uniform piping, division markings, equipment labels, and status indicators.
+
+### Frontier Environments
+
+- Weathered off-white
+- Gray-blue steel
+- Faded industrial yellow
+- Dusty orange-brown
+- Olive drab
+- Dirty beige
+- Desaturated hazard red
+
+### Anomalies
+
+Use sparingly:
+
+- Pale cyan
+- Deep indigo
+- Muted ultraviolet
+- Spectral green
+- Pearlescent white
+- Dim amber
+
+Avoid saturated rainbow lighting and dominant cyberpunk neon.
+
+## Lighting
+
+Use practical sources:
+
+- Industrial floodlights
+- Overhead work strips
+- Vehicle lamps
+- Helmet and shoulder lights
+- Emergency beacons
+- Sodium-yellow facility lighting
+- Cold planetary or stellar light
+- Equipment screens and status indicators
+
+Lighting should reveal dust, depth, machinery, damage, and working conditions. Corporate interiors may be cleaner and more evenly illuminated than frontier installations.
+
+## Character Design
+
+Workers should resemble miners, technicians, surveyors, pilots, logistics personnel, security contractors, and maintenance crews.
+
+Common elements:
+
+- Utility jumpsuits and layered pressure clothing
+- Reinforced boots and gloves
+- Tool harnesses and tether points
+- ID patches, serial markings, and company insignia
+- Practical helmets, lamps, air systems, and equipment packs
+- Visible wear, repairs, and personalized adjustments
+
+Corporate officials use cleaner materials, better tailoring, fewer tools, and more controlled branding. Security equipment should feel commercially manufactured and workmanlike rather than ceremonial.
+
+## Erbium Industries Brand Rules
+
+The Erbium emblem is the cleanest visual element in the setting.
+
+- Use charcoal, pale gray, silver, and muted magenta
+- Maintain faceted mineral geometry
+- Use the **Er** monogram and **68** designation consistently
+- Apply the detailed logo to recruitment material, headquarters, and formal displays
+- Apply the simplified emblem to uniforms, machinery, crates, helmets, doors, and ship hulls
+- Keep typography bold, technical, geometric, and highly legible
+
+The anti-corporate tone comes from where the branding appears: malfunctioning equipment, leased survival tools, hazardous worksites, employee contracts, and memorial records.
+
+## Avoid
+
+- Sleek utopian futurism
+- Excessive cyberpunk neon
+- Cartoon proportions
+- Retro-futurist comedy as the default tone
+- Fantasy crystals and magical visual effects
+- Decorative technology without a visible function
+- Universally filthy or ruined environments
+- Smooth luxury spacecraft used as ordinary work vehicles
+- Generic military styling for all corporate personnel
+
+## Reusable Prompt Block
+
+> **Corporate Frontier Grit**, grounded low-science-fiction setting, blue-collar interstellar extraction industry, stylized concept-art realism, practical hard-surface design, modular prefab infrastructure, worn but functional machinery, believable materials, visible maintenance access, restrained saturation, charcoal and pale-gray foundation, muted erbium-magenta corporate accents, clean corporate branding contrasted with harsh labor conditions, strong readable silhouettes, practical lighting, subtle cosmic unease, no glossy utopian futurism, no cyberpunk neon, no cartoon exaggeration
+
+---
+aliases:
+  - Corporate Frontier Grit Prompt Templates
+tags:
+  - starfinder-2e
+  - art-direction
+  - image-generation
+  - erbium-industries
+---
+
+# Corporate Frontier Grit — Image Prompt Templates
+
+Use the bracketed fields to customize each prompt. Delete any unused options before generating.
+
+## Shared Style Block
+
+Append this block to most prompts:
+
+> **Corporate Frontier Grit**, grounded low-science-fiction setting, blue-collar interstellar extraction industry, stylized concept-art realism, clear readable silhouettes, practical hard-surface design, believable construction, worn but functional materials, moderate surface detail, restrained saturation, charcoal and pale-gray foundation, weathered industrial colors, muted erbium-magenta corporate accents, practical lighting, clean corporate branding contrasted with hazardous labor conditions, subtle cosmic unease, no glossy utopian futurism, no excessive cyberpunk neon, no cartoon exaggeration
+
+## Shared Negative Prompt
+
+> No polished utopian sci-fi, no excessive neon, no glossy plastic surfaces, no ornamental technology without a function, no superhero armor, no generic military tactical gear, no fantasy clothing, no magical glow, no steampunk machinery, no exaggerated cartoon proportions, no spotless equipment, no universal rust, no excessive grime, no text unless specifically requested, no watermark, no frame, no collage
+
+---
+
+# Character Template
+
+> Create a full-body character design for **[character name or role]**, a **[occupation, faction, and social role]** operating in **[environment or system]**.
+>
+> The character is **[species and ancestry]**, with **[age range, body type, facial features, hair, skin, scales, fur, or other physical traits]**. Their posture and expression communicate **[current emotional state, professional attitude, fatigue, suspicion, confidence, fear, or stress]**.
+>
+> They wear **[jumpsuit, pressure gear, environmental suit, civilian clothing, security equipment, medical clothing, or improvised frontier attire]** designed for **[specific working conditions]**. Include practical features such as **[tool harnesses, tether points, reinforced knees, sealed gloves, utility pockets, pressure fittings, respirator, helmet lamp, identification patch, portable air supply, or equipment pack]**.
+>
+> Their clothing and equipment show **[dust, repairs, patched fabric, worn edges, chemical stains, faded labels, replacement components, or careful maintenance]**. Add **[personal modifications, keepsakes, union badge, handwritten labels, unauthorized patches, religious item, family photograph, or scavenged component]** to distinguish them from standardized corporate personnel.
+>
+> They carry **[tools, weapon, scanner, medical equipment, sample case, cutting device, or survival equipment]** appropriate to their role. Every visible object should have a clear practical function.
+>
+> **Faction branding:** [Erbium Industries emblem, Frontier Extraction Division patch, independent settlement markings, rival corporation colors, no corporate branding]. Erbium branding uses charcoal, pale gray, cold silver, and restrained muted magenta.
+>
+> **Presentation:** [neutral standing pose / active working pose / portrait / character turnaround / equipment inspection], **[front view, three-quarter view, or profile]**, plain **[light gray, dark gray, or transparent]** background, clear separation between the character and equipment.
+>
+> [Shared Style Block]
+
+### Character Detail Options
+
+- **Corporate worker:** standardized uniform, visible asset number, leased equipment, limited personalization
+- **Frontier veteran:** mismatched repairs, older equipment, locally fabricated components
+- **Corporate official:** clean fitted clothing, better materials, minimal tools, controlled insignia
+- **Security contractor:** commercially produced armor, restraint equipment, body camera, practical weapon mount
+- **Independent settler:** repaired civilian clothing, converted industrial gear, removed or painted-over branding
+- **Stranded survivor:** damaged seals, depleted supplies, improvised repairs, visible exhaustion
+
+### Character Negative Additions
+
+> No fashion-runway pose, no clean superhero suit, no ornamental armor, no unexplained glowing components, no oversized weapon, no excessive pouches, no identical military camouflage, no dramatic cape, no polished recruitment-poster smile unless requested
+
+---
+
+# Prop Template
+
+> Design a **[prop or equipment type]** manufactured by **[company, settlement, faction, or individual]** for use in **[specific task and environment]**.
+>
+> The object’s function is **[describe exactly what it does]**. Its construction should visibly support that purpose through **[handles, grips, clamps, seals, hinges, vents, access panels, replaceable cartridges, pressure fittings, cooling elements, cable ports, status lights, protective cages, or reinforced edges]**.
+>
+> The prop is made from **[painted steel, dull aluminum, ceramic composite, matte polymer, rubber, reinforced glass, canvas, pressure fabric, or other materials]**. Show **[scratched edges, dust in seams, faded stencils, grease around joints, heat discoloration, chipped paint, field repairs, or mismatched replacement parts]** appropriate to its history.
+>
+> Include believable industrial markings: **[asset number, hazard classification, inspection sticker, lease tag, operating arrows, measurement scale, warning stripe, serial plate, or Frontier Extraction Division emblem]**. Keep all markings visually simple and avoid long blocks of illegible generated text.
+>
+> Use **[charcoal, pale gray, weathered off-white, faded industrial yellow, olive, gray-blue, muted hazard red]** with a restrained **muted erbium-magenta** identification accent where appropriate.
+>
+> **Presentation:** isolated product-design view, **[side view / three-quarter view / top view / orthographic sheet]**, plain **[white, light gray, dark gray, or transparent]** background, no character holding the object, no scenery, entire object visible.
+>
+> [Shared Style Block]
+
+### Prop Categories
+
+Replace the opening field with:
+
+- Portable mineral scanner
+- Industrial plasma cutter
+- Core-sample extraction drill
+- Pressurized specimen canister
+- Emergency atmosphere recycler
+- Portable hazard beacon
+- Employee identification terminal
+- Leased survival pack
+- Tunnel-support deployment tool
+- Medical stabilization case
+- Survey drone
+- Equipment battery module
+- Ore-analysis tablet
+- Pressure-door control unit
+- Corporate ration container
+
+### Prop Negative Additions
+
+> No floating holographic parts, no unexplained blades, no fantasy runes, no decorative fins, no toy-like proportions, no excessive glowing lines, no impossible grip placement, no exposed mechanism that would injure the operator during normal use
+
+---
+
+# Settlement and Facility Template
+
+> Create a wide establishing view of **[settlement, extraction facility, station, colony, or worksite name]**, a **[facility type and approximate population or scale]** located in **[planetary environment, moon, asteroid, cavern, orbital location, or unusual system]**.
+>
+> The location was built for **[mining, refining, surveying, logistics, habitation, research, salvage, or corporate administration]** and currently functions as **[active facility, declining work camp, abandoned installation, independent settlement, emergency refuge, or contested site]**.
+>
+> Organize the environment around visible functional zones:
+>
+> - **[landing pad, docking area, or vehicle access]**
+> - **[ore processing, drilling, refinery, or industrial machinery]**
+> - **[worker housing, barracks, mess hall, or civilian district]**
+> - **[storage containers, tanks, cargo stacks, and maintenance areas]**
+> - **[administrative office, communications tower, or corporate terminal]**
+> - **[hazardous, damaged, restricted, or unexplained area]**
+>
+> Architecture uses modular prefabricated structures, pressure doors, cylindrical tanks, stacked cargo units, exposed braces, gantries, ladders, service platforms, pipes, cable runs, and practical floodlights. Expansion should appear uneven, with newer modules attached to older infrastructure.
+>
+> Show evidence of daily operation through **[vehicle tracks, ore residue, discarded packaging, repair scaffolds, laundry lines, shift-change workers, maintenance carts, temporary barriers, leaking condensation, or posted work notices]**.
+>
+> Apply **[heavy, moderate, minimal, damaged, or painted-over]** Erbium Industries branding. Corporate markings remain geometrically clean even when the structures carrying them are worn.
+>
+> Environmental conditions include **[dust, wind, ice, low gravity, rain, toxic atmosphere, volcanic ash, mineral haze, darkness, or unusual stellar light]**. Use practical illumination from floodlights, vehicle lamps, windows, emergency beacons, and work areas.
+>
+> Include one restrained indication of local danger or mystery: **[sealed tunnel, unexplained mineral growth, abandoned equipment, distant structure, sensor array aimed at empty terrain, damaged quarantine barrier, or workers avoiding a particular area]**.
+>
+> **Composition:** wide environmental concept art, readable site layout, foreground work area, middle-ground settlement, surrounding terrain visible, no dramatic battle unless requested.
+>
+> [Shared Style Block]
+
+### Settlement Condition Modifiers
+
+- **Active corporate site:** orderly traffic, maintained machinery, visible supervision, aggressive branding
+- **Budget-starved site:** delayed repairs, crowded housing, reused containers, aging life support
+- **Abandoned site:** halted machinery, loose equipment, dust accumulation, unresolved evacuation evidence
+- **Independent settlement:** removed logos, locally painted panels, converted machinery, mixed construction
+- **Hidden research facility:** minimal exterior signage, hardened access points, unusual sensor equipment
+- **Former corporate site:** faded branding, altered room functions, old warnings preserved beneath new paint
+
+### Settlement Negative Additions
+
+> No sleek megacity skyline, no generic medieval settlement arrangement, no decorative towers without function, no random pipe clutter, no universal destruction, no excessive fog concealing the design, no empty environment unless abandonment is requested
+
+---
+
+# Creature Template
+
+> Design a native creature from **[planet, moon, habitat, or system]** known locally as **[creature name or provisional designation]**.
+>
+> The creature occupies the ecological role of **[predator, scavenger, grazer, filter feeder, burrower, parasite, ambush hunter, colony organism, or symbiotic species]**. It survives in **[gravity, atmospheric pressure, temperature, radiation, terrain, available food, and other environmental conditions]**.
+>
+> Build its anatomy around practical adaptations:
+>
+> - **Locomotion:** [legs, gripping limbs, fins, membrane wings, burrowing plates, low-gravity propulsion, or anchored movement]
+> - **Feeding:** [jaw structure, filtering organ, mineral scraping surface, proboscis, crushing plates, chemical digestion]
+> - **Senses:** [heat detection, vibration sensing, polarized vision, pressure sensitivity, electrical fields, scent organs]
+> - **Protection:** [shell, dense hide, flexible armor, camouflage, warning coloration, defensive secretion, rapid retreat]
+> - **Reproduction or colony behavior:** [eggs, spores, live young, budding, mobile larvae, hive structure, seasonal migration]
+>
+> Its anatomy should follow a coherent biological plan rather than combining unrelated animal features. The creature may look unfamiliar, but every major structure should support survival or behavior.
+>
+> Use **[natural colors derived from the habitat]** with **[limited warning coloration, reflective tissue, mineral deposits, or dim bioluminescence]** only where biologically useful. Avoid bright fantasy coloration unless the environment supports it.
+>
+> Show evidence of how workers encounter it: **[ore dust on its hide, damage from industrial equipment, nesting in warm machinery, feeding on waste, following survey lights, attacking vibration sources, or avoiding corporate deterrent markers]**.
+>
+> **Presentation:** creature concept sheet showing **[full-body side view, three-quarter view, scale comparison, head detail, movement study, or habitat vignette]**. Use a plain background for reference art or a restrained environmental background for ecological context.
+>
+> [Shared Style Block]
+
+### Creature Tone Options
+
+- **Common frontier wildlife:** practical, recognizable behavior, little cosmic mystery
+- **Industrial pest:** attracted to heat, waste, radiation, wiring, or vibration
+- **Large territorial animal:** dangerous due to behavior and environment rather than malice
+- **Colony organism:** multiple bodies functioning as a shared biological system
+- **Anomalous organism:** coherent anatomy with one scientifically troubling property
+- **Corporate experiment:** visible intervention, tagging, implants, surgical alteration, or containment history
+
+### Creature Negative Additions
+
+> No fantasy dragon anatomy, no demonic symbolism, no random tentacles, no human skull face, no ornamental spikes without biological purpose, no magical aura, no excessive bioluminescence, no exact resemblance to a single Earth animal, no cute mascot styling unless requested
+
+---
+
+# Ship Template
+
+> Design a **[ship class and role]** operated by **[Erbium Industries, independent workers, settlement authority, rival corporation, smugglers, or unknown faction]**.
+>
+> The vessel is built primarily for **[ore transport, survey work, personnel movement, drilling support, salvage, medical evacuation, security patrol, long-range expedition, or frontier resupply]**. Its silhouette should prioritize that role over elegance.
+>
+> Include visible functional systems:
+>
+> - **Propulsion:** [main drives, maneuvering thrusters, heat-management structures, fuel access]
+> - **Cargo:** [external containers, internal hold, ore hoppers, loading doors, cranes, docking clamps]
+> - **Crew access:** [airlocks, docking collar, boarding ramp, maintenance ladder, emergency hatch]
+> - **Landing or docking:** [heavy landing gear, magnetic clamps, modular docking frame, asteroid anchors]
+> - **Operations:** [sensor mast, drilling assembly, survey arrays, work lights, repair arms, communications equipment]
+> - **Maintenance:** visible access panels, replaceable modules, service corridors, numbered components
+>
+> The construction uses boxy modules, cylindrical tanks, reinforced frames, chamfered hull plates, protective cages, exposed service structures, and practical radiator or heat-dissipation surfaces. Avoid smooth aerodynamic shaping unless atmospheric operation requires it.
+>
+> Show **[age and condition]** through faded paint, repaired hull panels, thruster staining, impact marks, replaced modules, cargo wear, or carefully maintained corporate surfaces.
+>
+> Apply **[Erbium Industries / Frontier Extraction Division / independent / removed corporate]** markings. Erbium vessels use charcoal, pale gray, cold silver, and restrained muted magenta identification panels. Include simple registration numbers and hazard markings without relying on long generated text.
+>
+> **Scale:** [small two-person utility craft / six-person survey ship / medium ore hauler / large mobile refinery / corporate transport].
+>
+> **Presentation:** isolated ship concept art, complete vessel visible, **[three-quarter exterior view / side orthographic / top-down view / landing configuration / landed on plain industrial pad]**, neutral background or minimal space backdrop.
+>
+> [Shared Style Block]
+
+### Ship Role Modifiers
+
+- **Survey ship:** sensor arrays, sample storage, deployable probes, limited cargo capacity
+- **Mining tender:** industrial arms, tool mounts, ore handling, worker airlocks
+- **Ore hauler:** reinforced cargo spine, detachable containers, slow heavy silhouette
+- **Frontier shuttle:** rugged landing gear, passenger compartment, external baggage modules
+- **Salvage vessel:** cutting equipment, clamps, floodlights, irregular replacement parts
+- **Corporate executive transport:** cleaner surfaces, concealed machinery, controlled branding
+- **Stranded campaign ship:** practical range, repairable modules, visible weak points, enough interior space for recurring scenes
+
+### Ship Negative Additions
+
+> No sleek fighter-jet silhouette unless atmospheric, no luxury-yacht curves, no excessive weapon mounts, no meaningless wings in vacuum, no glowing energy sails unless specified, no impossible engine placement, no tiny landing gear beneath a massive hull, no decorative greeble covering every surface
+
+---
+
+# Quick Prompt Formula
+
+For fast generation, use:
+
+> **[Subject]**, **[role and function]**, **[faction]**, designed for **[environment]**, featuring **[three to five defining physical details]**, constructed from **[materials]**, showing **[wear and history]**, colored **[palette]**, presented as **[composition and camera angle]**. Corporate Frontier Grit, grounded low-science-fiction, stylized concept-art realism, practical industrial construction, readable silhouette, worn but functional, restrained saturation, muted erbium-magenta accents, subtle cosmic unease. [Relevant negative prompt.]
+
+# Consistency Checklist
+
+Before generating, specify:
+
+- What is its function?
+- Who manufactured, owns, or maintains it?
+- What environment was it designed for?
+- What has happened to it since manufacture?
+- Where does the Erbium branding appear?
+- What parts move, open, detach, or require maintenance?
+- What should remain readable at thumbnail size?
+- Is the output concept art, a game asset, a portrait, an icon, or a scene?
+- Should the background be transparent, neutral, or environmental?
+- Which details must remain consistent across future images?

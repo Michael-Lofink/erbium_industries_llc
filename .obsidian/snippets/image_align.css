@@ -1,0 +1,123 @@
+/* =========================================================
+   IMAGE ALIGNMENT AND WRAPPING
+   =========================================================
+
+   Usage:
+   ![[image.png#left|300]]
+   ![[image.png#center|300]]
+   ![[image.png#right|300]]
+
+   ![[image.png#wrapleft|300]]
+   ![[image.png#wrapright|300]]
+*/
+
+
+/* =========================================================
+   LEFT — NO TEXT WRAPPING
+   ========================================================= */
+
+.markdown-reading-view
+  .image-embed[src*="#left"],
+.markdown-source-view.mod-cm6
+  .cm-contentContainer
+  .cm-content
+  .image-embed[src*="#left"] {
+  display: block;
+  float: none;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+
+/* =========================================================
+   CENTER — NO TEXT WRAPPING
+   ========================================================= */
+
+.markdown-reading-view
+  .image-embed[src*="#center"],
+.markdown-source-view.mod-cm6
+  .cm-contentContainer
+  .cm-content
+  .image-embed[src*="#center"] {
+  display: block;
+  float: none;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+
+/* =========================================================
+   RIGHT — NO TEXT WRAPPING
+   ========================================================= */
+
+.markdown-reading-view
+  .image-embed[src*="#right"],
+.markdown-source-view.mod-cm6
+  .cm-contentContainer
+  .cm-content
+  .image-embed[src*="#right"] {
+  display: block;
+  float: none;
+  margin-left: auto !important;
+  margin-right: 0 !important;
+}
+
+
+/* =========================================================
+   WRAP LEFT
+   ========================================================= */
+
+.markdown-reading-view
+  .image-embed[src*="#wrapleft"],
+.markdown-source-view.mod-cm6
+  .cm-contentContainer
+  .cm-content
+  .image-embed[src*="#wrapleft"] {
+  display: block;
+  float: left;
+  max-width: 48%;
+  margin-top: 0.25rem !important;
+  margin-right: 1rem !important;
+  margin-bottom: 0.5rem !important;
+  margin-left: 0 !important;
+}
+
+
+/* =========================================================
+   WRAP RIGHT
+   ========================================================= */
+
+.markdown-reading-view
+  .image-embed[src*="#wrapright"],
+.markdown-source-view.mod-cm6
+  .cm-contentContainer
+  .cm-content
+  .image-embed[src*="#wrapright"] {
+  display: block;
+  float: right;
+  max-width: 48%;
+  margin-top: 0.25rem !important;
+  margin-right: 0 !important;
+  margin-bottom: 0.5rem !important;
+  margin-left: 1rem !important;
+}
+
+
+/* Keep nested images responsive inside floated wrappers */
+
+.markdown-reading-view
+  .image-embed:is(
+    [src*="#wrapleft"],
+    [src*="#wrapright"]
+  )
+  img,
+.markdown-source-view.mod-cm6
+  .image-embed:is(
+    [src*="#wrapleft"],
+    [src*="#wrapright"]
+  )
+  img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
