@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -188,6 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
