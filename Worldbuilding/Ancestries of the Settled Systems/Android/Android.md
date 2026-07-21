@@ -1,3 +1,14 @@
+---
+type: ancestry
+ancestry: "Android"
+rarity: common
+status: draft
+created: 2026-07-19
+tags:
+  - starfinder-2e
+  - ancestry
+  - settled-systems
+---
 ```sf2e-stats
 | ==Common== ==Android== ==Humanoid==
 ```
@@ -46,25 +57,11 @@ Android society developed rapidly after the Star Dream, shaped by the conflictin
 
 This has led to the creation of maintenance cooperatives, communal lease funds, independent body shops, and mutual-aid networks. These organizations collect compatible parts, provide emergency repairs, cover missed payments, and help delinquent androids relocate before repossession orders can be enforced. Erbium classifies many such groups as unauthorized service providers.
 
-Service stability carries considerable cultural weight. Android leases may require payments as frequently as every 43,800 stamp-minutes, and the loss of employment can quickly become a threat to bodily continuity. Many androids value predictable work, reliable housing, and access to repair facilities. Others reject this caution and attempt to live off-stamp, maintain themselves with salvaged parts, or establish independent foundries beyond Erbium’s relay network.
+Service stability carries considerable cultural weight. Android leases may require payments as frequently as every 43,800 stamp-offset, and the loss of employment can quickly become a threat to bodily continuity. Many androids value predictable work, reliable housing, and access to repair facilities. Others reject this caution and attempt to live off-stamp, maintain themselves with salvaged parts, or establish independent foundries beyond Erbium’s relay network.
 
 Androids often preserve removed components, especially pieces associated with significant memories or earlier stages of their lives. Opinions differ on whether replacing a body part changes the person who inhabited it. Some consider the body an interchangeable platform for a continuous mind. Others regard every component as part of the individual’s history and resist replacement until failure becomes unavoidable.
 
 Tension also exists between pre-Star Dream androids and those assembled afterward. The oldest androids remember servitude directly, while newly assembled androids awaken into a culture already shaped by legal recognition, debt, resistance, and the unexplained memories of the Star Dream.
-
-# Erbium Proprietary Property
-
-Most android bodies in the Settled Systems contain components leased from Erbium Industries. These contracts permit Erbium to collect recurring payments, restrict authorized repairs, audit installed components, and pursue repossession of leased parts.
-
-This legal status has no automatic effect on your available credits unless the campaign uses part-lease rules. Your GM may use unpaid leases, unauthorized modifications, repossession orders, severance from Erbium relays, or disputes over component ownership as story complications.
-
-#### Lease-Bound
-
-If the campaign uses part-lease rules, your GM may allow you to begin play with either one additional 1st-level android ancestry feat for which you qualify or an equipment package determined by the GM.
-
-Every 43,800 stamp-minutes[^1] while connected to an Erbium relay, a lease payment becomes due. Missing a payment does not remove credits you do not possess or automatically deactivate your body. Instead, your account becomes delinquent.
-
-Delinquency may affect your access to authorized repairs, replacement parts, Erbium facilities, corporate employment, transportation, and other company services. Continued nonpayment may result in collection efforts or a repossession order. The GM determines when delinquency creates a story complication.
 
 # Beliefs
 
@@ -85,6 +82,20 @@ Android existence resembles immortality while remaining financially and material
 # Sample Names
 
 Asha, Celita, Daniv, Flick, Garro, Iseph, Melody, Naga, Olas, Omen, Prime, Stringer, Twenty Six, Urdun, Yose
+
+# Other Information
+## Erbium Proprietary Property
+Most android bodies in the Settled Systems contain components leased from Erbium Industries. These contracts permit Erbium to collect recurring payments, restrict authorized repairs, audit installed components, and pursue repossession of leased parts.
+
+This legal status has no automatic effect on your available credits unless the campaign uses part-lease rules. Your GM may use unpaid leases, unauthorized modifications, repossession orders, severance from Erbium relays, or disputes over component ownership as story complications.
+
+#### Lease-Bound
+
+If the campaign uses part-lease rules, your GM may allow you to begin play with either one additional 1st-level android ancestry feat for which you qualify or an equipment package determined by the GM.
+
+Every 43,800 stamp-offset[^1] while connected to an Erbium relay, a lease payment becomes due. Missing a payment does not remove credits you do not possess or automatically deactivate your body. Instead, your account becomes delinquent.
+
+Delinquency may affect your access to authorized repairs, replacement parts, Erbium facilities, corporate employment, transportation, and other company services. Continued nonpayment may result in collection efforts or a repossession order. The GM determines when delinquency creates a story complication.
 
 # Android Mechanics
 
@@ -122,11 +133,11 @@ You can see in dim light as though it were bright light, and you ignore the conc
 
 Your synthetic body resists ailments better than the body of a purely biological organism. You gain a +2 circumstance bonus to saving throws against diseases, poisons, and radiation. You always have [[Environmental Protection|basic environmental protections]].[^2]
 
-You don't need to eat or drink. You don't sleep, but you must enter a recuperating standby state for 6 hours each day to gain the benefits of rest and complete your daily preparations.
+You don't need to eat or drink. You don't sleep, but you must enter a recuperating standby state for a 360 stamp-offset[^3] each day to gain the benefits of rest and complete your daily preparations.
 
 While in standby, you remain aware of your surroundings but can take no actions without ending the standby state. You are not [[Unconscious|unconscious]] during this period.
 
-If you go too long without completing your standby period, you become [[Fatigued|fatigued]][^3] and can't recover from that condition until you complete 6 hours of standby.
+If you go too long without completing your standby period, you become [[Fatigued|fatigued]][^4] and can't recover from that condition until you complete a 360 stamp-offset.
 
 #### Lease-Bound
 
@@ -136,5 +147,6 @@ See [[#Erbium Proprietary Property|Erbium Proprietary Property]].
 
 [^2]: Basic environmental protections remain subject to the normal duration and limitations of [[Environmental Protection]].
 
-[^3]: See [[Fatigued]] for the effects of the condition.
+[^3]:43,800 standard minutes is approximately 6 standard hours.
 
+[^4]: See [[Fatigued]] for the effects of the condition.

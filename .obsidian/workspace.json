@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+                "file": "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Android"
+              "title": "The Fall of Wander and the Rise of Erbium Industries"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+                "file": "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Android"
+              "title": "Outline of The Fall of Wander and the Rise of Erbium Industries"
             }
           },
           {
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,50 +218,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bd412512e6cfaaef",
+  "active": "b25d00fc11f20878",
   "lastOpenFiles": [
-    "Starfinder 2e Rules/Conditions/Fatigued.md",
+    "Worldbuilding/Erbium Industries LLC",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
-    "Starfinder 2e Rules/Conditions/Unconscious.md",
-    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
-    "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
-    "Starfinder 2e Rules/Conditions",
-    "Campaign/Plot Hook.md",
-    "Worldbuilding/Time in the Settled Systems.md",
-    "Starfinder 2e Rules/Equipment/Armor",
-    "Starfinder 2e Rules/Equipment",
-    "Starfinder 2e Rules",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages",
-    "Worldbuilding/Ancestries of the Settled Systems/Android",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk.md",
-    "Campaign/System/Campaign Clock.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan.md",
-    "Campaign/Sessions/Session 1.md",
-    "Campaign/Campaign Timeline.md",
-    "Templates/Advance Stamp.md",
-    "Templates/Corporate Frontier Grit — Image Prompt Templates.md",
-    "Templates/image_alignment.md",
-    "Scripts/Untitled.md",
-    "Scripts/advance_stamp.js",
-    "Scripts",
     "Worldbuilding/Erbium Campaign Art Style.md",
-    "Campaign/Locations",
-    "Campaign/Sessions",
+    "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Resources/ancestryPortrait_Android.png",
+    "Campaign/Plot Hook.md",
+    "Templates/Ancestry Outline.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
+    "Templates/Advance Stamp.md",
+    "Worldbuilding/Time in the Settled Systems.md",
+    "Resources/ancestryPortrait_Astrazoan4.png",
+    "Resources/ancestryPortrait_Astrazoan3.png",
+    "Resources/ancestryPortrait_Astrazoan1.png",
+    "Resources/ancestryPortrait_Astrazoan2.png",
+    "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
+    "ChatGPT Image Jul 20, 2026, 11_22_05 AM_birefnet.png",
+    "ChatGPT Image Jul 20, 2026, 11_19_45 AM_inspyrenet.png",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Versatile Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta",
+    "Worldbuilding/Ancestries of the Settled Systems/Human",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan",
+    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
+    "Campaign/Sessions/Session 1.md",
+    "Campaign/System/Campaign Clock.md",
+    "Starfinder 2e Rules/Conditions/Fatigued.md",
+    "Resources/Resources/ancestryPortrait_Android.png",
+    "Resources/Resources",
     "ChatGPT Image Jul 19, 2026, 03_23_41 PM_inspyrenet.png",
-    "Pasted image 20260719014732.png",
-    "Resources/erbium_industries_fed.png",
-    "Resources/erbium_industries_fed_voxel.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Autoborg.md",
-    "Pasted image 20260718155938.png",
-    "Pasted image 20260718155936.png"
+    "Pasted image 20260719014732.png"
   ]
 }

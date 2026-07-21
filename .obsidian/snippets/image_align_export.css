@@ -1,5 +1,8 @@
 /* =========================================================
-   IMAGE ALIGNMENT, WRAPPING, AND STACKING
+   BETTER EXPORT PDF — IMAGE ALIGNMENT, WRAPPING, AND STACKING
+
+   Keep this snippet disabled under Appearance.
+   Select it inside the Better Export PDF dialog.
    =========================================================
 
    STANDARD ALIGNMENT — NO TEXT WRAPPING
@@ -22,23 +25,20 @@
    LEFT — NO TEXT WRAPPING
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed[src*="#left"],
-.markdown-source-view.mod-cm6
-  .cm-contentContainer
-  .cm-content
-  .image-embed[src*="#left"] {
-  display: block;
-  width: fit-content;
-  max-width: 100%;
+.image-embed[src*="#left"] {
+  display: table !important;
+  float: none !important;
+  clear: both !important;
 
-  float: none;
-  clear: both;
+  max-width: 100% !important;
 
   margin-top: 0.25rem !important;
   margin-right: auto !important;
   margin-bottom: 0.75rem !important;
   margin-left: 0 !important;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 
@@ -46,23 +46,20 @@
    CENTER — NO TEXT WRAPPING
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed[src*="#center"],
-.markdown-source-view.mod-cm6
-  .cm-contentContainer
-  .cm-content
-  .image-embed[src*="#center"] {
-  display: block;
-  width: fit-content;
-  max-width: 100%;
+.image-embed[src*="#center"] {
+  display: table !important;
+  float: none !important;
+  clear: both !important;
 
-  float: none;
-  clear: both;
+  max-width: 100% !important;
 
   margin-top: 0.25rem !important;
   margin-right: auto !important;
   margin-bottom: 0.75rem !important;
   margin-left: auto !important;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 
@@ -70,23 +67,20 @@
    RIGHT — NO TEXT WRAPPING
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed[src*="#right"],
-.markdown-source-view.mod-cm6
-  .cm-contentContainer
-  .cm-content
-  .image-embed[src*="#right"] {
-  display: block;
-  width: fit-content;
-  max-width: 100%;
+.image-embed[src*="#right"] {
+  display: table !important;
+  float: none !important;
+  clear: both !important;
 
-  float: none;
-  clear: both;
+  max-width: 100% !important;
 
   margin-top: 0.25rem !important;
   margin-right: 0 !important;
   margin-bottom: 0.75rem !important;
   margin-left: auto !important;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 
@@ -97,22 +91,20 @@
    share the same horizontal row when space permits.
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed[src*="#wrapleft"],
-.markdown-source-view.mod-cm6
-  .cm-contentContainer
-  .cm-content
-  .image-embed[src*="#wrapleft"] {
-  display: block;
-  float: left;
+.image-embed[src*="#wrapleft"] {
+  display: block !important;
+  float: left !important;
   clear: none !important;
 
-  max-width: 48%;
+  max-width: 48% !important;
 
   margin-top: 0.25rem !important;
   margin-right: 1rem !important;
   margin-bottom: 0.5rem !important;
   margin-left: 0 !important;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 
@@ -123,22 +115,20 @@
    share the same horizontal row when space permits.
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed[src*="#wrapright"],
-.markdown-source-view.mod-cm6
-  .cm-contentContainer
-  .cm-content
-  .image-embed[src*="#wrapright"] {
-  display: block;
-  float: right;
+.image-embed[src*="#wrapright"] {
+  display: block !important;
+  float: right !important;
   clear: none !important;
 
-  max-width: 48%;
+  max-width: 48% !important;
 
   margin-top: 0.25rem !important;
   margin-right: 0 !important;
   margin-bottom: 0.5rem !important;
   margin-left: 1rem !important;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 
@@ -149,22 +139,20 @@
    Text continues wrapping along the right side.
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed[src*="#stackleft"],
-.markdown-source-view.mod-cm6
-  .cm-contentContainer
-  .cm-content
-  .image-embed[src*="#stackleft"] {
-  display: block;
-  float: left;
+.image-embed[src*="#stackleft"] {
+  display: block !important;
+  float: left !important;
   clear: left !important;
 
-  max-width: 48%;
+  max-width: 48% !important;
 
   margin-top: 0.25rem !important;
   margin-right: 1rem !important;
   margin-bottom: 0.5rem !important;
   margin-left: 0 !important;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 
@@ -175,23 +163,20 @@
    Centered stacks do not permit text wrapping beside them.
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed[src*="#stackcenter"],
-.markdown-source-view.mod-cm6
-  .cm-contentContainer
-  .cm-content
-  .image-embed[src*="#stackcenter"] {
-  display: block;
-  width: fit-content;
-  max-width: 100%;
-
-  float: none;
+.image-embed[src*="#stackcenter"] {
+  display: table !important;
+  float: none !important;
   clear: both !important;
+
+  max-width: 100% !important;
 
   margin-top: 0.25rem !important;
   margin-right: auto !important;
   margin-bottom: 0.5rem !important;
   margin-left: auto !important;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 
@@ -202,22 +187,20 @@
    Text continues wrapping along the left side.
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed[src*="#stackright"],
-.markdown-source-view.mod-cm6
-  .cm-contentContainer
-  .cm-content
-  .image-embed[src*="#stackright"] {
-  display: block;
-  float: right;
+.image-embed[src*="#stackright"] {
+  display: block !important;
+  float: right !important;
   clear: right !important;
 
-  max-width: 48%;
+  max-width: 48% !important;
 
   margin-top: 0.25rem !important;
   margin-right: 0 !important;
   margin-bottom: 0.5rem !important;
   margin-left: 1rem !important;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 
@@ -227,31 +210,34 @@
    Keeps the actual image contained within its wrapper.
    ========================================================= */
 
-.markdown-reading-view
-  .image-embed:is(
-    [src*="#left"],
-    [src*="#center"],
-    [src*="#right"],
-    [src*="#wrapleft"],
-    [src*="#wrapright"],
-    [src*="#stackleft"],
-    [src*="#stackcenter"],
-    [src*="#stackright"]
-  )
-  img,
-.markdown-source-view.mod-cm6
-  .image-embed:is(
-    [src*="#left"],
-    [src*="#center"],
-    [src*="#right"],
-    [src*="#wrapleft"],
-    [src*="#wrapright"],
-    [src*="#stackleft"],
-    [src*="#stackcenter"],
-    [src*="#stackright"]
-  )
-  img {
-  display: block;
-  max-width: 100%;
-  height: auto;
+.image-embed:is(
+  [src*="#left"],
+  [src*="#center"],
+  [src*="#right"],
+  [src*="#wrapleft"],
+  [src*="#wrapright"],
+  [src*="#stackleft"],
+  [src*="#stackcenter"],
+  [src*="#stackright"]
+) img {
+  display: block !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+
+/* =========================================================
+   SECTION HEADINGS
+
+   Prevent headings from appearing beside tall floated images.
+   They begin beneath any active image wrapping or stack.
+   ========================================================= */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  clear: both;
 }
