@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-                "mode": "preview",
-                "source": true
+                "file": "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Brenneri"
+              "title": "Armor Statistics"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+                "file": "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brenneri"
+              "title": "Outline of Armor Statistics"
             }
           },
           {
@@ -220,10 +220,26 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
+    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
+    "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
+    "Resources/ancestryPortrait_Astrazoan1.png",
+    "Campaign/System/Campaign Clock.md",
+    "Campaign/Campaign Timeline.md",
+    "Campaign/Plot Hook.md",
+    "Campaign/Sessions/Session 1.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
+    "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
+    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
     "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
     "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
@@ -231,8 +247,6 @@
     "A2%1&4-12.md",
     "Worldbuilding/Settled Systems Code/Generating a New Law.md",
     "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
-    "Worldbuilding/Erbium Campaign Art Style.md",
-    "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13",
     "Worldbuilding/Settled Systems Code/A2/1/4",
     "Worldbuilding/Settled Systems Code/A2/1",
@@ -242,28 +256,14 @@
     "Worldbuilding/Settled Systems Code/Title/Chapter",
     "Worldbuilding/Settled Systems Code/Title",
     "Worldbuilding/Settled Systems Code",
-    "Campaign/Plot Hook.md",
     "Resources/ancestryPortrait_Brenneri.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
-    "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
-    "Worldbuilding/Time in the Settled Systems.md",
     "Worldbuilding/Notable Locations",
     "Resources/ancestryPortrait_Android.png",
-    "Templates/Ancestry Outline.md",
-    "Templates/Advance Stamp.md",
     "Resources/ancestryPortrait_Astrazoan4.png",
     "Resources/ancestryPortrait_Astrazoan3.png",
-    "Resources/ancestryPortrait_Astrazoan1.png",
     "Resources/ancestryPortrait_Astrazoan2.png",
-    "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
     "ChatGPT Image Jul 20, 2026, 11_22_05 AM_birefnet.png",
     "ChatGPT Image Jul 20, 2026, 11_19_45 AM_inspyrenet.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Versatile Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
     "Resources/Resources/ancestryPortrait_Android.png",
     "ChatGPT Image Jul 19, 2026, 03_23_41 PM_inspyrenet.png"
   ]

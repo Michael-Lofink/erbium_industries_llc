@@ -23,7 +23,7 @@ Categorical hardship grants are made available at designated stamps during each 
 
 By Lapse 29, androids live throughout the Settled Systems. Many remain dependent on Erbium Industries for replacement parts, authorized repairs, and continued access to leased components. Under standard leasing agreements, Erbium may assert ownership over those components and initiate repossession proceedings when an account becomes delinquent.
 
-If you want to play a synthetic person balancing self-determination against the corporation that owns parts of their body, you should play an android.
+If you want to play a synthetic person balancing self-determination against the corporation that owns parts of your body, you should play an android.
 
 # You Might...
 

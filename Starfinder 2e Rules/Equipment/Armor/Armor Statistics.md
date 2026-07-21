@@ -1,1 +1,0 @@
-![[ancestryPortrait_Astrazoan2.png]]
