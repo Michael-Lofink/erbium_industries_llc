@@ -55,7 +55,7 @@ Wander became the material heart of the Settled Systems.
 
 As demand increased, Wander’s separate mining, refining, transportation, and engineering operations struggled to coordinate production.
 
-[[The Fall of Wander and the Rise of Erbium Industries]] was formed to organize those efforts.
+Erbium Industries LLC was formed to organize those efforts.
 
 The company united extraction firms, Drift engineers, refinery operators, relay technicians, and intersystem transportation contractors under a shared administrative structure. Erbium Industries established standards for refinement, improved distribution, and ensured that even distant members of the Elect could receive the materials needed to answer the Star Dream.
 
