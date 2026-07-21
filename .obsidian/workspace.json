@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-                "mode": "preview",
+                "file": "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Astrazoan"
+              "title": "example"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+                "file": "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Astrazoan"
+              "title": "Outline of example"
             }
           },
           {
@@ -220,20 +220,31 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
+    "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
+    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
+    "Worldbuilding/Settled Systems Code/A2/1/4/13",
+    "Worldbuilding/Settled Systems Code/A2/1/4",
+    "Worldbuilding/Settled Systems Code/A2/1",
+    "Worldbuilding/Settled Systems Code/A2",
+    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause",
+    "Worldbuilding/Settled Systems Code/Title/Chapter/Section",
+    "Worldbuilding/Settled Systems Code/Title/Chapter",
+    "Worldbuilding/Settled Systems Code/Title",
+    "Worldbuilding/Settled Systems Code",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+    "Campaign/Plot Hook.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+    "Resources/ancestryPortrait_Brenneri.png",
+    "Worldbuilding/Erbium Campaign Art Style.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
     "Worldbuilding/Time in the Settled Systems.md",
     "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
     "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Notable Locations",
-    "Worldbuilding/Erbium Campaign Art Style.md",
-    "Worldbuilding/Erbium Industries LLC",
     "Resources/ancestryPortrait_Android.png",
-    "Campaign/Plot Hook.md",
     "Templates/Ancestry Outline.md",
     "Templates/Advance Stamp.md",
     "Resources/ancestryPortrait_Astrazoan4.png",
@@ -253,18 +264,7 @@
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta",
-    "Worldbuilding/Ancestries of the Settled Systems/Human",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri",
-    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
-    "Campaign/Sessions/Session 1.md",
     "Resources/Resources/ancestryPortrait_Android.png",
-    "ChatGPT Image Jul 19, 2026, 03_23_41 PM_inspyrenet.png",
-    "Pasted image 20260719014732.png"
+    "ChatGPT Image Jul 19, 2026, 03_23_41 PM_inspyrenet.png"
   ]
 }
