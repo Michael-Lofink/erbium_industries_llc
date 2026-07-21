@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
+                "file": "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Erbium Industries -- Settled Systems -- Setting Guide"
+              "title": "Quick Code Entry"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
+                "file": "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Erbium Industries -- Settled Systems -- Setting Guide"
+              "title": "Outline of Quick Code Entry"
             }
           },
           {
@@ -220,11 +220,12 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Worldbuilding/Erbium Campaign Art Style.md",
-    "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
-    "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
     "Worldbuilding/Settled Systems Code/Interpreting an Existing Code.md",
     "Worldbuilding/Settled Systems Code/Generating a New Law.md",
+    "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
+    "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
+    "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
+    "Worldbuilding/Erbium Campaign Art Style.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
     "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
@@ -246,7 +247,6 @@
     "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
     "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
     "Worldbuilding/Time in the Settled Systems.md",
-    "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
     "Worldbuilding/Notable Locations",
     "Resources/ancestryPortrait_Android.png",
     "Templates/Ancestry Outline.md",

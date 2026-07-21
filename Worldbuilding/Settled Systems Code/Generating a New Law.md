@@ -1,4 +1,4 @@
-Using the Settled Systems Administrative Code system in the provided reference note, create a law governing the following subject:
+Using the Settled Systems Administrative Code System in the provided reference note, create a law governing the following subject:
 
 [DESCRIBE THE PROPOSED LAW]
 
