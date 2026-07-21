@@ -131,7 +131,7 @@ Erbium-compatible systems can use the node to confirm the astrazoan’s ancestry
 
 The node also allows authorized systems to identify an astrazoan beneath a form that would otherwise pass every available visual, vocal, and biometric examination. Employees are not always informed when the node is queried or which information was retrieved.
 
-Masking, removing, or falsifying a continuity node violates Settled Systems Code `A2%1&4-13`. An astrazoan found in violation can be classified as an unverified infiltrator, denied access to relay infrastructure, detained by corporate security, and subjected to closure.
+Masking, removing, or falsifying a continuity node violates Settled Systems Code `A2%1&4-13`. An astrazoan found in violation may be placed under unverified continuity status, denied access to relay infrastructure, detained by corporate security, and prosecuted under the applicable continuity laws. Aggravated violations involving fatal harm or critical infrastructure may be referred for closure eligibility review.
 
 ## Remembrance Service
 

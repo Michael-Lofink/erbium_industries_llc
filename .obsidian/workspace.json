@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
+                "file": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Code Entry"
+              "title": "A2%1&4-13"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
+                "file": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quick Code Entry"
+              "title": "Outline of A2%1&4-13"
             }
           },
           {
@@ -220,13 +220,16 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Worldbuilding/Settled Systems Code/Interpreting an Existing Code.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+    "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
+    "A2%1&4-12.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Worldbuilding/Settled Systems Code/Generating a New Law.md",
-    "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
+    "Worldbuilding/Settled Systems Code/Interpreting an Existing Code.md",
     "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
+    "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
     "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
     "Worldbuilding/Erbium Campaign Art Style.md",
-    "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
     "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13",
@@ -238,9 +241,7 @@
     "Worldbuilding/Settled Systems Code/Title/Chapter",
     "Worldbuilding/Settled Systems Code/Title",
     "Worldbuilding/Settled Systems Code",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Campaign/Plot Hook.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
     "Resources/ancestryPortrait_Brenneri.png",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
@@ -263,7 +264,6 @@
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
     "Resources/Resources/ancestryPortrait_Android.png",
     "ChatGPT Image Jul 19, 2026, 03_23_41 PM_inspyrenet.png"
   ]
