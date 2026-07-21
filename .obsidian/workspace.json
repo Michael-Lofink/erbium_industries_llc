@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
+                "file": "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "example"
+              "title": "Erbium Industries -- Settled Systems -- Setting Guide"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
+                "file": "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of example"
+              "title": "Outline of Erbium Industries -- Settled Systems -- Setting Guide"
             }
           },
           {
@@ -220,7 +220,13 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
+    "Worldbuilding/Erbium Campaign Art Style.md",
+    "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
+    "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
+    "Worldbuilding/Settled Systems Code/Interpreting an Existing Code.md",
+    "Worldbuilding/Settled Systems Code/Generating a New Law.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
+    "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13",
     "Worldbuilding/Settled Systems Code/A2/1/4",
@@ -236,13 +242,11 @@
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
     "Resources/ancestryPortrait_Brenneri.png",
-    "Worldbuilding/Erbium Campaign Art Style.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
     "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
     "Worldbuilding/Time in the Settled Systems.md",
     "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
-    "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Notable Locations",
     "Resources/ancestryPortrait_Android.png",
     "Templates/Ancestry Outline.md",
@@ -260,10 +264,6 @@
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
     "Resources/Resources/ancestryPortrait_Android.png",
     "ChatGPT Image Jul 19, 2026, 03_23_41 PM_inspyrenet.png"
   ]
