@@ -16,9 +16,11 @@ tags:
 
 ![[ancestryPortrait_Brenneri.png#wrapright|300]]
 
-Brenneri, who hail from Wander, are friendly but socially anxious. During early development, young brenneri make a pact bond with an inanimate object (typically a rock) that brings comfort and confidence, but the Settled Systems worried that this might distract the brenneri from focusing on their assigned service and so under 
+Brenneri, who hail from Wander, are friendly but socially anxious. During early development, young brenneri make a pair bond with an inanimate object (typically a rock) that brings comfort and confidence, but the Settled Systems worried that this might distract the brenneri from focusing on their assigned service and so under Settled Systems Code `[placeholder]` a brenneri's bounded object is retained by Erbium Industries for the betterment of the brenneri individual. Once service, whether following their expiration or the complete fulfillment of their service, has concluded, a brenneri may be reunited with their bonded object leading them to be very sociable for the few years they realistically have left. 
 
-If you want to roleplay <% tp.file.cursor(2) %>, you should play a brenneri.
+The brenneri have specialized whiskers that allow them to accurately predict, or sense, the emotions of people around them, cultivated to more serve their betters, and positioning them as ambassadors or settled systems person forward employees (like an Ancestry Resources department). When emotions are strong or aggressive, a peaceful brenneri might clutch a friend's hand or long to squeeze their favorite rock for comfort.
+
+If you want to play a character who uses empathetic abilities to resolve conflict and complete your service to reacquire your pair-bonded rock, you should play a brenneri.
 
 # You Might...
 
@@ -94,8 +96,6 @@ You can see in darkness and dim light just as well as you can see in bright ligh
 Your whiskers continuously sense the emotions of those around you, which makes you susceptible to mirroring their feelings. You take a –1 circumstance penalty to Will saves against [emotion](https://2e.aonsrd.com/traits/72-emotion) effects. When you end your turn adjacent to an ally with the [frightened](https://2e.aonsrd.com/conditions/18-frightened) condition, you must attempt a DC 5 flat check. On a failure, you become frightened 1.
 
 #### Breath Control
-
-<% tp.file.cursor(21) %>
 
 You gain the [Breath Control](https://2e.aonsrd.com/feats/773-breath-control) general feat.
 
