@@ -149,14 +149,6 @@ Some astrazoans remain assigned to the same remembrance for years. They may occu
 
 Families of the deceased have little consistent authority over the practice. Some find comfort in seeing a familiar face continue necessary work. Others experience the remembrance as a corporate imitation that prevents them from grieving. Erbium generally treats these objections as personal disputes unless they interfere with operations.
 
-## Astrazoan Adventurers
-
-Astrazoans might become adventurers to explore identities outside their assigned services, learn more about their disputed origins, or escape systems that have registered every body they ordinarily inhabit.
-
-Some leave remembrance service after carrying another person’s face for years. Others flee continuity-node mandates, search for surviving records of pre-collapse Wander, or travel beyond Erbium relays in the hope of developing identities that cannot be reduced to employment classifications.
-
-Their curiosity, adaptability, and ability to operate through different bodies allow astrazoans to fill many roles in an adventuring group. An astrazoan adventurer might be nearly anything or anyone, but the forms they choose remain parts of a single evolving life.
-
 ## Shifting Skin
 
 Astrazoans transform through a coordinated somatic process that redistributes their organs, muscles, nervous tissue, and stored body mass. Their skin cells possess an adaptive quality that allows rapid control over pigmentation, texture, and surface structure.
