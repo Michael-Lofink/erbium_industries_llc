@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dwarf"
+              "title": "Fonqugon"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dwarf"
+              "title": "Outline of Fonqugon"
             }
           },
           {
@@ -220,22 +220,25 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "Campaign/System/Campaign Clock.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
+    "Resources/ancestryPortrait_Dwarf.png",
+    "Worldbuilding/Erbium Campaign Art Style.md",
+    "Campaign/System/Campaign Clock.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
     "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
     "Starfinder 2e Rules/Actions/Pardon Me.md",
     "Starfinder 2e Rules/Actions/Empathic Assistance.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
     "Starfinder 2e Rules/Actions",
     "Worldbuilding/Ancestries of the Settled Systems/Versatile Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
     "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Erbium Industries LLC/The Fall of Wander and the Rise of Erbium Industries.md",
@@ -244,10 +247,7 @@
     "Templates/Advance Stamp.md",
     "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
     "Starfinder 2e Rules/Conditions/Unconscious.md",
-    "Starfinder 2e Rules/Conditions/Fatigued.md",
-    "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
     "Resources/ancestryPortrait_Astrazoan1.png",
-    "Campaign/Campaign Timeline.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13",
     "Worldbuilding/Settled Systems Code/A2/1/4",
     "Worldbuilding/Settled Systems Code/A2/1",
@@ -264,7 +264,6 @@
     "Resources/ancestryPortrait_Astrazoan2.png",
     "ChatGPT Image Jul 20, 2026, 11_22_05 AM_birefnet.png",
     "ChatGPT Image Jul 20, 2026, 11_19_45 AM_inspyrenet.png",
-    "Resources/Resources/ancestryPortrait_Android.png",
-    "ChatGPT Image Jul 19, 2026, 03_23_41 PM_inspyrenet.png"
+    "Resources/Resources/ancestryPortrait_Android.png"
   ]
 }

@@ -13,11 +13,6 @@ You are not [off-guard](https://2e.aonsrd.com/conditions/28-off-guard) while in 
 # ==Clawed Brenneri==
 You are a particularly muscular brenneri with pronounced claws, standing out as a potential defender or soldier among your pod. You can pry open oysters or crabs with ease, and your claws are robust enough to serve as a natural defense. Additionally, you become trained in [Athletics](https://2e.aonsrd.com/skills/3-athletics). If you would automatically become trained in Athletics (from your background or class, for example), you instead become trained in a skill of your choice. You gain a +1 circumstance bonus on Athletics checks to [Force Open](https://2e.aonsrd.com/actions/63-force-open), and you gain the [Ancestral Unarmed Attack](https://2e.aonsrd.com/feats/1047-ancestral-unarmed-attack) (claw, 1d6 slashing [agile, finesse, unarmed], brawling weapon group) ancestry feat.
 
-# ==Jungle Brenneri==
-You hail from a jungle-planet civilization, following generations after the fall of Wander, perhaps the jungle-planet of [[Zeta Hydrae II]]. The great trunks of trees are planted firmly on underwater shelves, and their immense canopies are one of few places on the planet that remain above the highest tideline. Rope bridges span the gaps between branches. Platform buildings provide stability for housing and other infrastructure, but movement through canopy cities require regular climbing and scrabbling up ladders.  
-  
-You become trained in [Athletics](https://2e.aonsrd.com/skills/3-athletics). If you would automatically become trained in Athletics (from your background or class, for example), you instead become trained in a skill of your choice. You have a climb Speed of 20 feet.
-
 # ==Pod Brenneri==
 You are tightly bonded to a pod and are particularly attuned to their emotions. Your pod consists of a number of willing allies equal to your level, selected when you make your daily preparations.  
   
