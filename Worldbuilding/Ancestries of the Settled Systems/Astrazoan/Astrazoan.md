@@ -188,47 +188,36 @@ For an astrazoan PC, permanently losing an established identity might invalidate
 # Astrazoan Mechanics
 
 #### Hit Points
-
 8
 
 #### Size
-
 Medium
 
 #### Speed
-
 25 feet
 
 #### Attribute Boosts
-
 Dexterity, Charisma, Free
 
 #### Attribute Flaw
-
 Constitution
 
 #### Languages
-
 Common and one regional language of your choice.
 
 Additional languages equal to your Intelligence modifier, if it is positive. Choose from the list of common languages and any other languages to which you have access, such as languages prevalent on your home world.
 
 #### Low-Light Vision
-
 You can see in dim light as though it were bright light, and you ignore the concealed condition caused by dim light.
-
-#### Change Shape `pf2:1`
-
 ```sf2e-stats
+#### Change Shape `pf2:1`
 | ==Astrazoan== ==Concentrate== ==Polymorph==
 ```
-
 You transform into a Small, Medium, or Large ancestry you know, choosing your body type, gender, and any other physical features within the ordinary range for that ancestry. The form can resemble a specific individual or be completely unique. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. You can remain in the shape indefinitely and can return to your unassigned body or assume another shape by using this action again. If you die while using another shape, your body slowly returns to its unassigned form.
 
 Temporary or improvised shapes use your normal ability modifiers. An established skin can instead possess a fixed ability profile as described below.
 
 ##### Established Skin Profiles
-
 When you develop an established skin, you can reduce one of your ability modifiers other than Constitution by 1 and increase a different ability modifier other than Constitution by 1. The increased modifier cannot exceed the highest ability modifier you possessed before applying the skin’s adjustments. The adjustment belongs permanently to that established skin. Each time you assume it, use the same adjusted modifiers. Returning to your unassigned body or assuming a form without an established profile restores your normal modifiers.
 
 Developing a new established skin or changing an existing skin’s ability profile requires downtime and GM approval. A cosmetic alteration made during ordinary use of Change Shape does not create a new profile. These adjustments affect statistics normally calculated using the altered ability modifiers. They do not change your proficiency ranks, grant or remove languages, qualify you for character options, or alter other permanent choices made during character creation or advancement.

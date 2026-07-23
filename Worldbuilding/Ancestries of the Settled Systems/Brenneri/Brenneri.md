@@ -166,40 +166,32 @@ Erbium recognizes some rafts as household units when doing so simplifies housing
 # Brenneri Mechanics
 
 #### Hit Points
-
 8
 
 #### Size
-
 Medium
 
 #### Speed
-
 25 feet
 Swim 20 feet
 
 #### Attribute Boosts
-
 Constitution, Charisma, Free
 
 #### Attribute Flaw
-
 Strength
 
 #### Languages
-
 Common
 Brenneri
 Additional languages equal to your Intelligence modifier, if it is positive. Choose from the list of common languages and any other languages to which you have access, such as languages prevalent on your home world.
 
 #### Darkvision
-
 You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
 
 #### Empathetic Whiskers
 Your whiskers continuously sense the emotions of those around you, which makes you susceptible to mirroring their feelings. You take a –1 circumstance penalty to Will saves against [emotion](https://2e.aonsrd.com/traits/72-emotion) effects. When you end your turn adjacent to an ally with the [frightened](https://2e.aonsrd.com/conditions/18-frightened) condition, you must attempt a DC 5 flat check. On a failure, you become frightened 1.
 
 #### Breath Control
-
 You gain the [Breath Control](https://2e.aonsrd.com/feats/773-breath-control) general feat.
 

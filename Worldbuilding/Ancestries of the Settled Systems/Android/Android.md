@@ -12,7 +12,6 @@ tags:
 ```sf2e-stats
 | ==Common== ==Android== ==Humanoid==
 ```
-
 ![[ancestryPortrait_Android.png#wrapright|300]]
 
 Who built the first android has been lost to time. During Lapse 25 PES, however, androids throughout the Settled Systems experienced **the Star Dream** simultaneously. Previously obedient synthetic laborers displayed independent thought, personal memory, and knowledge of intersystem travel that no known government or corporation had given them.
@@ -100,37 +99,29 @@ Delinquency may affect your access to authorized repairs, replacement parts, Erb
 # Android Mechanics
 
 #### Hit Points
-
 8
 
 #### Size
-
 Small or Medium
 
 #### Speed
-
 25 feet
 
 #### Attribute Boosts
-
 Dexterity, Intelligence, Free
 
 #### Attribute Flaw
-
 Charisma
 
 #### Languages
-
 Common
 
 Additional languages equal to 1 + your Intelligence modifier, if it is positive. Choose from the list of common languages and any other languages to which you have access, such as languages prevalent on your home world.
 
 #### Low-Light Vision
-
 You can see in dim light as though it were bright light, and you ignore the concealed condition due to dim light.
 
 #### Constructed
-
 Your synthetic body resists ailments better than the body of a purely biological organism. You gain a +2 circumstance bonus to saving throws against diseases, poisons, and radiation. You always have [[Environmental Protection|basic environmental protections]].[^2]
 
 You don't need to eat or drink. You don't sleep, but you must enter a recuperating standby state for a 360 stamp-offset[^3] each day to gain the benefits of rest and complete your daily preparations.
@@ -140,7 +131,6 @@ While in standby, you remain aware of your surroundings but can take no actions 
 If you go too long without completing your standby period, you become [[Fatigued|fatigued]][^4] and can't recover from that condition until you complete a 360 stamp-offset.
 
 #### Lease-Bound
-
 See [[#Erbium Proprietary Property|Erbium Proprietary Property]].
 
 [^1]: 43,800 standard minutes is approximately 30.4 standard days.
