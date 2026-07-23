@@ -1,3 +1,14 @@
+---
+type: ancestry
+ancestry: Fonqugon
+rarity: common
+status: draft
+created: 2026-07-23
+tags:
+  - starfinder-2e
+  - ancestry
+  - settled-systems
+---
 ```sf2e-stats
 | ==Common== ==Fonqugon== ==Ooze==
 ```
