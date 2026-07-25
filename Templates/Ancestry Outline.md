@@ -334,7 +334,7 @@ ${attributeFlaw}
 
 ${languages}
 
-Additional languages equal to 1 + your Intelligence modifier, if it is positive. Choose from the list of common languages and any other languages to which you have access, such as languages prevalent on your home world.
+Additional languages equal to your Intelligence modifier, if it is positive. Choose from the list of common languages and any other languages to which you have access, such as languages prevalent on your home world.
 
 ${visionSection}${featureSections}%% Add ancestry-specific rules references and footnotes below. %%
 
