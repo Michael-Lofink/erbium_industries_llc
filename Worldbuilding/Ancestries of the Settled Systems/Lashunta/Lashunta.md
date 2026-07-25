@@ -16,174 +16,231 @@ tags:
 
 ![[ancestryPortrait_Lashunta.png#wrapright|300]]
 
-The ancestral Lashunta body bore little resemblance to the elegant humanoids celebrated throughout modern Settled Systems media. Early Lashunta were upright, chitinous beings with segmented limbs, powerful sensory antennae, complex mouthparts, and layered eyes adapted to the dense ecosystems of [[Velis]]. Their minds were already capable of deliberate telepathic communication, and their communities had studied the relationship between thought, biology, and natural psionic forces for centuries before the [[Star Dream]].
+The elegant humanoid form associated with modern lashuntas is the product of deliberate biological revision. Their distant ancestors were upright, chitinous predators native to [[Velis]], with segmented limbs, layered eyes, pronounced mandibles, armored bodies, and movements that many humanoid ancestries still find difficult to interpret. They developed natural telepathy while coordinating silent hunts through the dense psionic ecosystems of their homeworld, then spent centuries learning to manipulate the relationship between thought, heredity, and physical development.
 
-Through this study, Lashunta developed **somatic revision**, a combination of guided genetic alteration, psionic conditioning, developmental medicine, and controlled metamorphosis. Early revisions strengthened bodies against disease, environmental hazards, and neurological degeneration. Over time, communities began using the same methods to shape cognition, stature, sensory capacity, and physical appearance.
+Long before the [[Star Dream]], lashunta physicians and psionic naturalists had developed **somatic revision**, a combination of genetic therapy, guided metamorphosis, developmental medicine, and telepathic conditioning. Early revisions protected communities from disease, neurological degeneration, environmental toxins, and the rapid changes of Velis’s biosphere. Later generations used the same disciplines to alter sensory structures, cognition, musculature, stature, and appearance.
 
-The Star Dream radically changed the purpose of that technology. When Lashunta observed the other peoples who had received the revelation, many saw a recurring humanoid pattern. Some interpreted that pattern as evidence of a shared destination. Others believed adopting a more familiar shape would make communication and cooperation easier. A growing number feared that the other Elect would never recognize Lashunta personhood while their bodies remained so visibly alien.
+The Star Dream transformed a medical tradition into a civilizational argument. Lashuntas who received the revelation saw distant peoples whose bodies repeatedly followed a broadly humanoid pattern. Some interpreted this recurrence as evidence that the Elect were meant to converge. Others believed a more familiar shape would make peaceful contact possible. Many simply feared that the other recipients of the Dream would never treat an armored insectoid predator as an equal.
 
-These debates produced three dominant expressions. **Damayas** adopt tall, graceful humanoid bodies optimized for memory, psionic control, social perception, and sustained intellectual work. **Korashas** adopt shorter, denser humanoid bodies designed for physical strength, rapid response, environmental endurance, and combat coordination. **Katalash** refine their psionic and biological capabilities while retaining bodies closer to the ancestral chitinous form.
+These pressures produced three dominant adult expressions. **Damayas** adopt tall, graceful, highly attractive humanoid bodies optimized for psionic control, social perception, fine coordination, and sustained intellectual work. **Korashas** adopt shorter, denser humanoid bodies shaped for strength, physical endurance, rapid reaction, and disciplined aggression. **Katalash** refine their ancestral form instead, retaining layered eyes, chitin, mandibles, segmented anatomy, and the predatory traits that Damayas and Korashas removed.
 
-No expression is inherently more intelligent, disciplined, beautiful, or emotionally mature than another. That principle is repeated throughout modern Lashunta education. The Settled Systems nevertheless reward each body differently.
+Damayas and Korashas gained access to diplomacy, trade, compatible equipment, political recognition, and intersystem institutions. Katalash communities argue that these advantages were purchased by making lashuntas attractive, legible, and nonthreatening to foreign peoples. Most Damaya and Korasha institutions answer that adaptation prevented isolation and possible war.
 
-Damayas are idealized as diplomats, scholars, performers, negotiators, and public officials. Korashas are recruited into security, emergency response, heavy industry, and military service. Katalash frequently encounter environments, equipment, identification systems, and employers that classify their bodies as difficult to accommodate. Erbium Industries publicly celebrates Lashunta self-determination while reinforcing the exact social pressures that make some expressions easier to inhabit than others.
+The argument has never been resolved. It has only been absorbed into the employment practices, developmental programs, beauty standards, and security policies of the Settled Systems.
 
-If you want to roleplay a telepathic character whose body reflects generations of deliberate self-authorship, social expectation, and political compromise, you should play a lashunta.
+If you want to roleplay a telepathic character whose body reflects generations of self-revision, assimilation, beauty, ancestral anger, and disagreement over what acceptance is worth, you should play a lashunta.
 
 # You Might...
 
-- Speak openly about your emotional state or intentions because you consider that context necessary for honest communication.
-- Treat bodily development as a meaningful personal decision while resenting strangers who assume your expression determines your personality or profession.
-- Feel pride, discomfort, anger, or uncertainty about the humanoid beauty that the Settled Systems associates with your ancestry.
+- Be acutely aware of how appearance changes the patience, trust, desire, or fear other people show you.
+- State your emotions and intentions openly because you consider that context necessary for honest communication.
+- Feel pride, resentment, doubt, or political responsibility regarding the adult expression you inhabit.
 
 # Others Probably...
 
-- Assume you can read minds, detect lies, or understand emotions you were never told about.
-- Idealize, fetishize, or distrust you based on your expression before learning anything about you.
-- Expect a Damaya to be charming, a Korasha to be forceful, or a Katalash to be hostile and socially backward.
+- Assume you can read thoughts, detect lies, or understand feelings that were never communicated to you.
+- Expect a Damaya to be gentle and emotionally available, a Korasha to be disciplined and protective, or a Katalash to be hostile.
+- Idealize, fetishize, distrust, or fear you before learning anything about your actual personality.
 
 # Physical Description
 
-All Lashunta possess two long, highly sensitive antennae extending from the upper forehead or crown. These organs detect minute environmental changes and focus the psionic impulses used for telepathic communication. Their movements frequently accompany facial expression, though Lashunta consider attempts to interpret every antenna movement intrusive and unreliable.
+All lashuntas possess two long sensory antennae extending from the forehead or upper skull. These organs detect subtle environmental disturbances and help focus the psionic impulses used for telepathic communication. Their motion often accompanies expression, though antennae are not a reliable substitute for asking what a lashunta thinks or feels.
 
-Damayas are usually tall and lightly built, with elongated limbs, delicate facial structures, and proportionally large cranial cavities supporting extensive psionic and sensory development. Their features were deliberately shaped to produce readable expressions and broad cross-ancestry appeal. Skin tones range across greens, blues, violets, browns, copper, rose, gray, and natural human-adjacent shades. Fine scales, chitinous ridges, patterned pigmentation, and small sensory nodules frequently remain around the antennae, temples, eyes, shoulders, or spine.
+Damayas are tall, slender, and deliberately graceful. Their bodies emphasize bilateral symmetry, fine facial control, smooth or lightly patterned skin, large readable eyes, and proportions that produce broad and repeatable attraction among humanoid ancestries. Their skulls and nervous systems support precise telepathic focus, memory, sensory integration, and prolonged concentration.
 
-Korashas possess shorter, denser bodies with heavy musculature, reinforced joints, thicker skin, and more prominent chitinous structures. Their altered nervous systems prioritize rapid sensory processing, spatial awareness, and physical coordination. Their faces remain recognizably humanoid, though stronger mandibles, brow plating, jaw ridges, and segmented markings are more common than among Damayas.
+Damayas retain enough alien traits to be recognizably lashunta. Their antennae remain prominent, and many possess small chitinous ridges around the brow, temples, shoulders, or spine. Fine scales, sensory nodules, unusual pigmentation, and geometric facial markings are common. These features are usually arranged around an otherwise humanoid face rather than replacing it.
 
-Katalash vary more widely because their communities never adopted a single ideal ancestral reconstruction. Most possess extensive chitinous plating, layered or partially compound eyes, pronounced mandibles, digitigrade legs, segmented joints, and visible sensory structures along the face and limbs. Their bodies remain upright and capable of using ordinary tools, though much Settled Systems equipment requires modification.
+Korashas possess shorter, broader, and more muscular bodies. Their skeletons, connective tissues, and nervous systems are reinforced for physical labor, rapid movement, and violent impact. Their faces remain recognizably humanoid and are frequently considered attractive, though heavier jaws, stronger brows, thicker skin, visible chitin, and prominent cranial ridges are more common than among Damayas.
 
-Katalash should not resemble undeveloped Damayas or Korashas. Their bodies are equally engineered and frequently include sophisticated adaptations unavailable to the humanoid expressions. They represent a different philosophy of somatic revision rather than the refusal of biological advancement.
+The Korasha body is built to appear powerful without appearing uncontrolled. Settled Systems media favors Korashas whose strength is balanced by symmetry, composure, clean posture, and disciplined movement. An attractive Korasha is expected to look capable of violence while reassuring observers that the violence will be directed only where authorized.
 
-Lashunta usually begin life with a transitional juvenile body containing traits shared across all three expressions. During adolescence, they may undergo the developmental process that establishes their adult expression. The process unfolds across several years and combines gradual gene therapy, psionic exercises, hormonal regulation, and one or more controlled metamorphic stages.
+Katalash retain bodies much closer to the ancestral lashunta form. Most possess layered or partially compound eyes, pronounced mandibles, armored faces, digitigrade legs, segmented limbs, hooked fingers, dense chitin, and abrupt movements shaped by predatory reflexes. Some possess hardened cranial crests, secondary mouthparts, additional sensory structures, or reinforced lower limbs capable of sudden acceleration.
 
-Families and communities formally describe the choice as voluntary. Access to education, employment, medical care, and social acceptance can make that freedom highly conditional. Wealthy Lashunta can revise or refine an expression later in life. Poorer Lashunta may remain dependent on whichever development program their family, government, religious community, or employer was willing to fund.
+Most humans and other predominantly humanoid peoples find Katalash physically intimidating and substantially less attractive than Damayas or Korashas. Their faces provide fewer familiar emotional signals, their eyes can appear unblinking, and their mouths resemble those of dangerous native fauna. These responses are not universal, but they are consistent enough to affect employment, diplomacy, media representation, and ordinary social treatment.
+
+Katalash do not consider themselves undeveloped Damayas or Korashas. Their bodies undergo extensive revision and often possess sophisticated adaptations unavailable to either humanoid expression. They chose heightened perception, protection, mobility, and environmental resilience without removing the traits that made ancestral lashuntas difficult for foreigners to look at.
+
+Lashunta children are born in transitional bodies containing traits shared by all three expressions. Near adolescence, they begin a developmental process called the **Second Emergence**. Genetic therapies, psionic exercises, hormonal regulation, nutritional controls, surgical intervention, and one or more guided metamorphic stages gradually establish the adult body.
+
+The Second Emergence is described as a personal choice. The treatment required for each expression varies enormously in availability and cost. Families, schools, employers, governments, religious communities, and political movements frequently influence which options a young lashunta can realistically pursue.
+
+A wealthy lashunta may revise their expression later in life. Poorer lashuntas are usually limited to the treatment their family could afford or the expression an employer was willing to sponsor.
 
 # Society
 
-Velis lies near the frontier edge of what became the Settled Systems. Distance, difficult transit conditions, and a cautious post-Dream contact policy made Lashunta one of the last major ancestries to establish sustained contact with the other Elect.
+Velis lies near the frontier edge of the Settled Systems. Distance, dangerous transit conditions, and political caution made lashuntas one of the last major ancestries of the Elect to establish sustained contact with the other recipients of the Star Dream.
 
-Before contact, Lashunta settlements were organized around independent cities, ecological regions, and psionic research traditions. Telepathy allowed rapid coordination within small communities, though it never created a hive mind or eliminated disagreement. Lashunta politics were often intensely personal because public decisions required people to state their intentions, fears, and emotional investments more directly than many other cultures expected.
+Before intersystem contact, lashunta civilization consisted of independent cities, ecological territories, defensive settlements, and psionic research traditions. Telepathy supported rapid coordination, but it never created a hive mind or eliminated conflict. Lashunta politics became highly attentive to emotional motive because people could communicate private context more directly than ordinary speech allowed.
 
-Modern Lashunta society continues to value deliberate self-development. Education commonly combines academic study, physical training, emotional literacy, psionic discipline, and examination of personal motives. Lashunta are encouraged to recognize which ambitions are genuinely their own and which were inherited from family or society.
+Modern lashunta culture continues to value deliberate self-development. Education commonly combines academic study, physical discipline, emotional literacy, telepathic control, and examination of personal motivation. Lashuntas are encouraged to distinguish between what they desire and what their family, expression, employer, or community trained them to desire.
 
-That ideal has never prevented coercion. Damaya families may push children toward diplomacy, scholarship, public administration, medicine, or executive service. Korasha families may frame physical strength and protective labor as communal obligation. Katalash communities can place their own pressure on young Lashunta to preserve ancestral forms as a political act.
+The ideal is rarely achieved without contradiction. Damaya families often direct children toward scholarship, medicine, diplomacy, performance, administration, or prestigious social professions. Korasha families frequently treat physical strength and protective service as obligations owed to the community. Katalash communities may pressure young lashuntas to retain ancestral traits as proof that their people have not surrendered.
 
-The three expressions therefore function as bodies, cultural traditions, political identities, and social expectations simultaneously. A Lashunta who dislikes the assumptions attached to their expression may still value the body itself. Another may embrace the profession traditionally associated with their expression while rejecting the idea that biology determined the choice.
+Modern lashunta politics are divided into three broad tendencies.
 
-Lashunta communication is often emotionally explicit. A person might begin a difficult conversation by stating, “I am angry, but my anger is not directed at you,” or, “I want you to agree, and I recognize that this desire may be affecting my judgment.” Such declarations are considered ordinary context rather than unusual vulnerability.
+Accommodationists believe entry into the Settled Systems required compromise. Most Damaya and Korasha institutions fall within this tendency. They argue that attractive humanoid bodies allowed lashuntas to secure recognition, technology, political influence, and peace. A people who refused to account for the instincts and limitations of its neighbors would have condemned Velis to isolation.
 
-This practice can make Lashunta appear unusually candid. It does not make them incapable of deception. A Lashunta can lie telepathically as easily as they can lie aloud, provided they communicate something that could have been spoken. Their reputation for honesty comes from social convention, not biological compulsion.
+Preservationists believe Katalash communities require legal autonomy, ancestral education, compatible infrastructure, and freedom from developmental pressure. They do not necessarily demand that Damayas or Korashas abandon their bodies, but they reject the idea that convergence should remain the social default.
+
+Restorationists believe Damayas and Korashas are products of submission. They seek a broad return to ancestral or near-ancestral bodies and frequently describe humanoid expressions as domesticated forms. Moderate Restorationists pursue cultural separation and independent medical institutions. Extremist cells have attacked revision clinics, destroyed developmental records, threatened accommodationist families, and targeted Erbium facilities.
+
+Damaya and Korasha institutions often portray all Katalash political anger as evidence of instinctive aggression. Katalash movements answer that calmness is easy to praise when the system rewards your body and describes your submission as maturity.
+
+Lashunta communication is emotionally explicit by Settled Systems standards. A lashunta might begin a difficult conversation by saying, “I am angry, though not entirely with you,” or, “I want you to agree with me, and I recognize that desire may be affecting my judgment.” Such declarations are considered useful context rather than extraordinary vulnerability.
+
+This candor does not prevent deception. Lashuntas can lie through telepathy as easily as through speech. Their reputation for honesty comes from social convention and emotional literacy, not biological inability.
 
 # Beliefs
 
-Many Lashunta believe a person possesses both an inherited self and a chosen self. The inherited self includes biology, family expectations, instinct, history, and circumstances beyond personal control. The chosen self emerges through reflection, practice, revision, and deliberate action.
+Many lashuntas believe a person possesses an inherited self and a cultivated self. The inherited self includes biology, instinct, family, history, and circumstances beyond individual control. The cultivated self is produced through discipline, reflection, revision, and deliberate action.
 
-Different communities disagree over how much power a person should exercise over their own body. Some regard somatic revision as one of the highest expressions of personal freedom. Others believe the humanoid expressions demonstrate how easily self-improvement becomes conformity when one culture controls the definition of improvement.
+Damaya traditions often treat beauty as a form of cultivated harmony. Physical symmetry, controlled movement, health, social awareness, telepathic precision, and emotional composure are considered evidence that the individual has brought body and mind into alignment. Critics argue that this definition conveniently resembles the qualities rewarded by Settled Systems employers.
 
-The **Convergence tradition** teaches that the recurring humanoid pattern among the Elect possesses spiritual or evolutionary significance. Convergence adherents usually support Damaya and Korasha development while insisting that expression must remain voluntary.
+Korasha traditions emphasize mastery over strength and aggression. Power is considered valuable when disciplined and directed toward protection, service, or a chosen purpose. A Korasha who loses control is often judged more harshly than another ancestry committing the same act because their expression is understood as a promise that their strength will remain governed.
 
-The **Continuity tradition** emphasizes the ancestral Lashunta body and the psionic ecosystems from which their abilities emerged. Its adherents are strongly associated with Katalash communities, though some Damayas and Korashas also follow it. Continuity does not necessarily reject genetic alteration. It rejects the assumption that becoming more humanoid represents progress.
+Katalash traditions value continuity with the body that survived Velis before contact. Anger is not treated as a failure of self-command when it accurately responds to injury, humiliation, or coercion. Many Katalash teachers argue that constant emotional calm primarily benefits the people causing the harm.
 
-A more corporate philosophy called **Applied Expression** treats the body as an instrument whose value is determined by how effectively it fulfills a chosen purpose. Erbium frequently presents this philosophy as neutral and empowering. Critics argue that the corporation determines which purposes are employable and then calls the resulting choice voluntary.
+The principal accommodationist philosophy is called **Convergence**. It teaches that the humanoid pattern seen throughout the Star Dream reflects a meaningful direction in the development of the Elect. Its followers regard Damaya and Korasha bodies as chosen participation in an intersystem future.
 
-**Popular Edicts** cultivate your mind and body deliberately, communicate your intentions honestly, respect another person’s chosen expression, examine the motives behind your ambitions, protect mental and bodily autonomy
+The principal Katalash philosophy is called **Continuity**. It teaches that altering oneself under foreign pressure is not liberation merely because the alteration is technologically sophisticated. Continuity accepts medical and genetic improvement but rejects humanoid appearance as the default measure of advancement.
 
-**Popular Anathema** intrude upon another person’s mind without consent, assign social worth according to expression, compel developmental alteration, treat attractiveness as evidence of virtue, use telepathy to fabricate intimacy or authority
+Erbium promotes a third philosophy called **Applied Expression**. It describes every body as a tool selected to fulfill a chosen purpose. Damayas are suited to communication, Korashas to action, and Katalash to specialized environmental work. The philosophy is presented as neutral, though Erbium controls which purposes receive funding and employment.
+
+**Popular Edicts** cultivate your abilities deliberately, communicate emotional context honestly, protect mental autonomy, defend the expression you chose, understand how beauty and fear influence judgment
+
+**Popular Anathema** intrude upon another person’s mind without consent, compel somatic revision, conceal coercion behind the language of improvement, judge virtue by attractiveness, demand emotional calm solely for the comfort of an oppressor
 
 # Sample Names
 
-Common Lashunta names include Amashel, Domash, Hesori, Imaaz, Kima, Kopalo, Maenala, Nomae, Oraeus, Raia, Shess, Soryn, Taeon, Tarevi, Varikuara, Vesh, Ymaera, and Zorash.
+Common lashunta names include Amashel, Domash, Hesori, Imaaz, Kima, Kopalo, Maenala, Nomae, Oraeus, Raia, Shess, Soryn, Stretto, Taeon, Tarevi, Varikuara, Vesh, Ymaera, and Zorash.
 
-Many Lashunta possess a spoken name and a telepathic introduction. The telepathic component communicates the name with deliberate pacing, emotional context, or emphasis, but contains no information that could not also be expressed through speech. A Lashunta may use different introductions in professional, familial, ceremonial, and intimate settings.
+Many lashuntas possess both a spoken name and a telepathic introduction. The telepathic component may communicate the name with intended pacing, emphasis, emotional context, or personal associations, but contains no information that could not also be explained through ordinary language. A lashunta may use different introductions in professional, familial, ceremonial, and intimate settings.
 
 # Other Information
 
 ## Velis
 
-Velis is a warm, biologically dense world of towering vegetation, deep wetlands, seasonal forests, and heavily interconnected ecosystems. Its native life evolved amid natural psionic phenomena that alter animal behavior, migration, predation, and communication.
+Velis is a warm, biologically dense world of towering vegetation, deep wetlands, seasonal forests, and heavily interconnected ecosystems. Its native life evolved amid naturally occurring psionic phenomena produced by biological electrical fields, mineral formations, atmospheric conditions, and mechanisms that remain poorly understood.
 
-The ancestral Lashunta body developed under intense ecological pressure. Chitinous armor, layered senses, rapid threat recognition, and group communication were survival adaptations long before they became subjects of cultural debate.
+These phenomena influence animal migration, predator behavior, reproduction, communication, and territorial patterns. Lashunta telepathy developed as part of this ecology rather than as an isolated supernatural gift.
 
-Lashunta civilization developed in defensible city regions separated by dangerous wilderness. Early communities became highly skilled in telepathic coordination, ecological prediction, genetic medicine, and controlled adaptation. Somatic revision began as a means of surviving diseases and environmental changes that conventional inheritance could not answer quickly enough.
+Ancestral lashuntas were coordinated pursuit and ambush predators. Their early communities used silent communication to surround prey, warn one another of danger, and organize movement through vegetation where sight and sound were unreliable.
 
-Following the Star Dream, Velis constructed its own Drift infrastructure more slowly than many central systems. Lashunta political divisions over contact, bodily convergence, and the risks of outside cultural influence delayed full integration.
+As permanent settlements developed, those same abilities supported medicine, collective planning, ecological observation, and warfare. Lashunta cities were built as defended islands within hostile environments, connected through carefully monitored routes and extensive warning networks.
 
-By the time Erbium arrived, the corporation encountered a technologically capable civilization already engaged in an unresolved argument about what shape its future should take.
+Somatic revision began as a response to rapidly changing diseases and environmental pressures. Velis’s natural psionic fields allowed lashunta researchers to study how thought, neural development, and bodily metamorphosis influenced one another. This work eventually produced the techniques used during the Second Emergence.
 
-## The Three Expressions
+The Star Dream reached Velis before its people possessed reliable intersystem travel. Lashuntas spent generations debating the humanoid figures seen within the revelation before meeting them directly. Early Damaya and Korasha programs were already underway when sustained contact finally began.
 
-Damaya, Korasha, and Katalash are adult developmental expressions rather than separate sexes, genders, castes, or subspecies. Lashunta of any sex or gender may adopt any expression.
+## The Second Emergence
 
-A Damaya body emphasizes sustained psionic precision, memory, fine coordination, and social readability. Settled Systems media frequently treats the Damaya form as the default Lashunta appearance. This visibility produces professional advantages alongside intense pressure to remain attractive, composed, available, and emotionally intelligible.
+The Second Emergence usually begins during adolescence and continues across several local years. The process modifies the developing body gradually enough to preserve neural stability and telepathic function.
 
-A Korasha body emphasizes musculature, durability, fast neural response, and physical coordination. Korashas are commonly recruited into security, hazardous engineering, emergency services, military commands, and heavy labor. Their strength is frequently treated as public property, with employers and communities assuming they should volunteer for danger.
+A candidate undergoes genetic sequencing, psionic assessment, metabolic preparation, developmental counseling, and repeated medical review. The most intensive stages require controlled metamorphic chambers in which portions of the body are softened, resorbed, rebuilt, or reinforced.
 
-A Katalash body emphasizes continuity with ancestral Lashunta morphology. Individual Katalash programs differ, but common priorities include chitinous protection, expanded environmental sensing, resilience, and preservation of nonhumanoid forms of movement and expression. Katalash are frequently described as radicals even when their only political act is existing in a body that Settled Systems institutions did not standardize around.
+Damaya programs devote considerable resources to cranial development, fine sensory control, facial musculature, skeletal elongation, and telepathic precision. Korasha programs reinforce the skeleton, musculature, nervous system, cardiovascular function, and protective tissues. Katalash programs preserve or expand chitin, mandibles, layered vision, rapid movement, environmental perception, and other ancestral systems.
+
+The process is not risk-free. Poorly maintained clinics, interrupted treatments, incompatible gene packages, and rushed developmental schedules can cause chronic pain, neurological injury, sensory instability, physical asymmetry, or incomplete metamorphosis.
+
+Erbium and aligned institutions sponsor Second Emergence programs for adolescents who sign developmental service agreements. Damaya sponsorship commonly leads into personnel management, health services, diplomacy, recruitment, or public communications. Korasha sponsorship commonly leads into security, rescue, hazardous engineering, and industrial service.
+
+Katalash programs receive less support. Corporate medical formularies classify many ancestral traits as culturally elective adaptations rather than employment-relevant development.
+
+## Damayas
+
+Damayas represent the most extensive convergence with humanoid appearance. They receive disproportionate opportunities in diplomacy, medicine, counseling, education, entertainment, administration, hospitality, and public relations.
+
+The advantages are real. Damayas are more readily trusted, desired, accommodated, and invited into positions of social influence than other lashunta expressions.
+
+These advantages come with demands. A Damaya is expected to remain attractive, composed, socially perceptive, emotionally articulate, and available to manage the feelings of others. A Damaya who is blunt, private, visibly angry, physically unattractive, or unwilling to perform emotional labor is frequently treated as wasting the purpose of their expression.
+
+Corporate supervisors often describe Damaya emotional labor as a natural aptitude rather than a learned professional skill. Their presence is used to calm workers, soften disciplinary proceedings, increase customer compliance, and make corporate representatives appear compassionate.
+
+## Korashas
+
+Korashas represent the Settled Systems’ preferred form of controlled strength. Their bodies are physically capable, visibly powerful, and familiar enough to remain reassuring to humanoid observers.
+
+Korashas dominate security, emergency response, military contracting, industrial rescue, enforcement, hazardous maintenance, and physically demanding frontier work.
+
+Their strength is often treated as public property. Employers assume Korashas should accept danger, communities expect them to intervene in violence, and coworkers may judge refusal as cowardice or selfishness.
+
+Korasha anger is accepted when directed at approved threats. It is treated as instability when directed at supervisors, institutions, or the conditions under which Korashas are expected to sacrifice themselves.
+
+## Katalash
+
+Katalash preserve and enhance ancestral lashunta morphology. Their bodies are generally less attractive to humanoid observers, more difficult to accommodate, and more likely to provoke instinctive fear.
+
+Katalash communities do not consider those reactions morally neutral. They argue that Damayas and Korashas reshaped themselves around the preferences of foreign peoples and then renamed the resulting benefits self-improvement.
+
+Anger occupies a central place in many Katalash cultures. It is treated as evidence that a boundary has been crossed, a memory has been preserved, or a harm has not been converted into polite abstraction.
+
+This cultural acceptance of anger does not make every Katalash violent. It does make their political movements more confrontational than most Damaya or Korasha institutions. Demonstrations commonly include intimidation, destruction of corporate property, refusal of telepathic de-escalation, and deliberate use of ancestral body language that other peoples find threatening.
+
+Katalash movements are vulnerable to purity politics. Some communities question the loyalty of members who use humanoid clothing, live among other ancestries, or accept Erbium equipment. Restorationist extremists have coerced adolescents away from Damaya and Korasha programs while claiming to defend them from coercion.
+
+The conflict therefore cannot be reduced to courageous Katalash resistance against passive collaborators. Katalash grievances are substantial, their anger is often justified, and some of their movements reproduce the same denial of individual choice they condemn.
 
 ## Telepathic Etiquette
 
-Lashunta telepathy is deliberate communication rather than passive mind-reading. A Lashunta cannot hear unspoken thoughts through their ancestry’s ordinary telepathy, detect lies automatically, or access memories without an additional ability.
+Lashunta telepathy is deliberate communication. It does not allow passive access to unspoken thoughts, hidden memories, or objective truth.
 
-Consent remains central to Lashunta etiquette. Sending a telepathic message without prior permission is acceptable during emergencies or when ordinary speech is impossible. Repeatedly addressing an unwilling person mentally is treated similarly to following them and continuing to whisper into their ear.
+Consent remains central to traditional etiquette. Sending a brief telepathic warning during an emergency is acceptable. Repeatedly addressing an unwilling person mentally is treated as an intimate form of harassment.
 
-Many Lashunta consider telepathy more intimate than speech because the recipient experiences the speaker’s intended voice without distance, environmental noise, or the protective formality of physical posture. Others regard it as an ordinary accessibility tool.
+Many lashuntas send emotional context alongside their words. This context may communicate reassurance, urgency, anger, grief, attraction, or uncertainty. It does not force the recipient to experience the emotion and cannot communicate information beyond what ordinary speech could express.
 
-Settled Systems employers frequently exploit public misunderstanding about Lashunta abilities. Lashunta employees are assigned to negotiations, interrogations, disciplinary meetings, medical consultations, and worker disputes because their presence is assumed to produce honesty. Their actual assessment may have no more authority than any other trained observer’s, but reports often describe their conclusions as **telepathically informed**.
+Damaya culture tends to encourage rich emotional context. Korashas often prefer concise context suited to coordination. Katalash communication frequently includes emotional intensity that accommodationist institutions consider unnecessarily aggressive.
+
+The Settled Systems routinely misunderstand these differences. Damayas are expected to share emotional context on demand. Korashas are expected to suppress it during service. Katalash are penalized for communicating anger too directly.
 
 ## The Ideal Lashunta
 
-Erbium Industries played a major role in transforming Damaya beauty into an intersystem commercial ideal. Early corporate contact campaigns presented Damayas as graceful proof that the Elect were converging toward a shared future.
+Erbium Industries helped establish the Damaya as the public image of the lashunta ancestry: beautiful, perceptive, composed, sexually attractive, articulate, and capable of understanding others without making demands of their own.
 
-Damaya actors, diplomats, customer representatives, medical staff, hospitality workers, and recruitment officers became common in Erbium advertising. Their antennae and facial markings were exotic enough to signal diversity while their bodies remained compatible with human-standard clothing, furniture, equipment, and beauty industries.
+Damaya actors, diplomats, counselors, physicians, reception personnel, recruiters, and corporate representatives appear throughout Erbium media. Their antennae and markings signal diversity while their bodies remain compatible with human-standard clothing, furniture, architecture, and beauty products.
 
-Corporate media eventually produced the **Ideal Lashunta**: attractive, emotionally articulate, socially perceptive, sexually appealing without appearing threatening, and always willing to help others explain their feelings.
+Korashas became the secondary ideal: attractive protectors whose strength is reassuring because it remains disciplined, professional, and institutionally directed.
 
-Actual Lashunta rarely satisfy this image. Damayas who are blunt, private, unattractive by prevailing standards, disabled, emotionally exhausted, or uninterested in social labor are treated as wasting their supposed advantages.
+Katalash appear in corporate media primarily as extremists, wilderness specialists, historical ancestors, security threats, or comparisons to dangerous Velish fauna. Even neutral reporting tends to emphasize mandibles, chitin, abrupt movement, and anger.
 
-Korashas experience a parallel ideal built around disciplined strength and protective aggression. Katalash remain largely absent from corporate imagery except when used to represent wilderness, danger, extremism, or the ancestry’s supposedly primitive past.
+Erbium publicly recognizes every expression as valid. Its hiring systems, sponsored development, equipment standards, advertising, housing, and security classifications overwhelmingly favor two.
 
 ## Place in the Settled Systems
 
-Lashunta are heavily represented in diplomacy, counseling, education, medicine, public relations, entertainment, negotiation, recruitment, personnel management, security, emergency response, and command.
+Damayas are heavily represented in diplomacy, counseling, medicine, entertainment, recruitment, education, administration, personnel management, public relations, and customer-facing authority. Their telepathy and appearance are treated as professional assets, while the emotional labor demanded from them is rarely compensated separately.
 
-Erbium recruits Damayas into roles involving customer confidence, executive communication, worker mediation, and public-facing authority. Their emotional labor is frequently treated as an inherent aptitude rather than skilled work requiring compensation.
+Korashas are heavily represented in security, emergency response, military contracting, industrial rescue, hazardous engineering, enforcement, and Frontier Extraction Division operations. Employers frequently treat the choice of a Korasha expression as prior consent to physical danger.
 
-Korashas are recruited into enforcement, industrial rescue, security contracting, hazardous maintenance, and Frontier Extraction Division operations. Employers frequently cite their chosen expression as evidence that they knowingly accepted physical risk.
+Katalash are concentrated in independent Velish settlements, frontier enclaves, ecological work, hostile-environment surveying, heavy extraction, political movements, and communities with their own equipment standards. They undergo additional screening at ports, government offices, corporate housing, and medical facilities.
 
-Katalash encounter the greatest institutional friction. Human-standard protective equipment may not accommodate chitin, mandibles, digitigrade legs, or expanded sensory structures. Government and corporate offices classify modifications as special accommodation expenses even when Katalash communities provide established designs.
+Human-standard equipment often fails to accommodate Katalash mandibles, chitin, digitigrade legs, layered eyes, or sensory structures. Institutions classify compatible equipment as a special accommodation even when established designs already exist.
 
-Settled Systems authorities officially prohibit discrimination based on Lashunta expression. They permit employers to maintain appearance requirements, equipment-compatibility standards, customer-confidence policies, role-specific physical assessments, and developmental sponsorship agreements that produce much the same result.
+Settled Systems governments formally prohibit discrimination between lashunta expressions. They continue to recognize appearance requirements, customer-confidence policies, equipment-compatibility standards, security-risk assessments, and employer-sponsored developmental agreements that reproduce much of the same hierarchy.
 
-Some Lashunta adolescents receive corporate funding for somatic revision. These programs cover specialist treatment, developmental monitoring, education, and recovery in exchange for future service. Damaya and Korasha programs receive the greatest investment because Erbium maintains well-defined employment pipelines for those bodies.
-
-Katalash development is usually classified as culturally elective care and receives less support. The corporation describes the difference as evidence-based resource allocation.
+Erbium benefits from the resulting conflict. Damayas and Korashas are presented as proof that cooperation brings prosperity. Katalash militancy justifies surveillance, travel controls, developmental oversight, and expanded corporate security authority.
 
 # Lashunta Mechanics
 
 #### Hit Points
-
 6
 
 #### Size
-
 Medium
 
 #### Speed
-
 25 feet
 
 #### Attribute Boosts
-
-Charisma  
-Free
+Charisma, Free
 
 #### Languages
-
 Common  
-Lashuntan
-
+Velish
 Additional languages equal to your Intelligence modifier, if it is positive. Choose from the list of common languages and any other languages to which you have access, such as languages prevalent on your home world.
 
 #### Limited Telepathy
-
 You can communicate mentally with creatures within 30 feet. You can communicate only with creatures that share a language with you. This doesn’t give you access to their thoughts, and it communicates no more information than normal speech would.
+
+#### Emotional Context
+When you communicate using your Limited Telepathy, you can intentionally include a broad impression of your present emotional state. This can communicate feelings such as reassurance, urgency, anger, grief, attraction, or uncertainty, but it cannot transmit thoughts, memories, or information beyond what ordinary speech could express. It cannot force the recipient to experience the emotion.
+
+Once per 10 minutes, when you communicate telepathically with a creature that shares a language with you, you can make your emotional context explicit. Before the end of your next turn, you gain a +1 circumstance bonus to your next Diplomacy or Intimidation check against that creature. Until then, that creature gains a +1 circumstance bonus to Sense Motive against you.
