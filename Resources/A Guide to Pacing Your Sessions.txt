@@ -1,0 +1,708 @@
+https://www.youtube.com/watch?v=O8aI5bhLLZI
+
+Intro
+0:00
+Pacing is an essential tool in every
+0:01
+DM's toolbox. Not only does mastering it
+0:04
+help you build tension and give space
+0:06
+for drama or comedy, but we can use our
+0:09
+pacing mastery to ensure that every
+0:11
+session we run ends on a cliffhanger.
+0:13
+But how do you do it? Well, first you've
+0:15
+got to understand pacing. And it can be
+0:17
+tough. It sounds so nebulous. Like
+0:20
+what's the secret? Welcome to Mystic
+0:22
+Arts, where every episode ends like a
+0:24
+tel nolla with a slow zoom in on my face
+0:27
+as I act shocked. My name is D. I'm a
+0:29
+professional writer and director and
+0:30
+I've been DMing for over a decade.
+0:32
+Annoyingly, I don't think there is a
+0:35
+secret trick to master pacing. It more
+0:38
+than anything else we do as game masters
+0:40
+is an art, not a science. But if you're
+0:42
+wondering where to start thinking about
+0:44
+pacing for your game, I've got good
+0:46
+news. This video is a sequel to a video
+What is Pacing?
+0:48
+I didn't make. I watched an excellent
+0:50
+video from Corkboards and Curiosities
+0:52
+about pacing, and you should go watch
+0:54
+it. I honestly think Val is better at
+0:57
+this GM advice stuff than I am. So, go
+1:00
+watch her video, learn how to start
+1:01
+thinking about pacing, and then come
+1:03
+back here to see how I use those tricks
+1:06
+to make sure every session ends on a
+1:08
+cliffhanger. Go on, I'm I'm waiting.
+1:11
+Okay, now that you've watched Al's
+1:13
+video, you understand the difference
+1:15
+between surveillance footage and movie
+1:17
+pacing. But more importantly, you're
+1:19
+thinking about your games as being
+1:21
+structured in scenes and that all good
+1:24
+scenes have a clear purpose. A purpose,
+1:27
+Val tells us, is
+1:30
+the main idea really is that every scene
+1:32
+should have a goal? And so I ask myself
+1:34
+these questions. Is this moment one
+1:36
+where the players have to make any
+1:37
+meaningful decisions? Is there potential
+1:39
+for this to go wrong? If it's not that,
+1:40
+then is this moment at least carrying
+1:42
+emotional impact or delivering important
+1:44
+information that the players might need
+1:46
+later? four things, meaningful player
+1:48
+decisions, potential to go wrong,
+1:50
+emotional impact, or important
+1:53
+information. Once a scene has achieved
+1:55
+its purpose, Val says we cut through the
+1:58
+easy, gentle, or hard ways that she
+2:00
+outlines in her video. Basically, the
+2:02
+easy and gentle cuts take a bit of time,
+2:05
+maybe a few minutes, but it moves the
+2:07
+story along. Really, my big takeaway
+2:10
+from that video was that pacing really
+2:12
+is about understanding when to go fast
+2:15
+and when to go slow. Knowing when to
+2:17
+speed through your stuff because we
+2:18
+already achieved the scene's purpose and
+2:20
+knowing when to slow down because the
+2:23
+purpose of the scene is to live in it,
+2:26
+letting us linger. But to what end are
+2:28
+we doing pacing? And what do we get out
+2:31
+of it? Well, once we understand pacing,
+2:34
+we'll understand how long things take.
+2:37
+And once we understand how long things
+2:38
+take, we can use that to make sure all
+2:41
+our games end on a cliffhanger. But how
+2:43
+do we do that? Well, I'll tell you after
+MITHOS
+2:46
+this. This video is sponsored by Mythos,
+2:48
+a system agnostic TTRPG tool for game
+2:51
+masters. It consolidates all of your
+2:53
+tools into one place, so you don't have
+2:55
+to juggle multiple apps or Chrome tabs,
+2:58
+so you can just focus on telling stories
+3:00
+with your friends. It's got a party
+3:02
+tracker, combat tracker, NPC generator,
+3:04
+library, beastiary, session viewer, shop
+3:06
+generator, weather tool, custom
+3:07
+calendar, timekeeper, map display,
+3:09
+session recorder, sticky notes, dice
+3:11
+roller, custom layouts, and multiple
+3:13
+campaign support. It's kind of amazing.
+3:15
+It's made by a single developer, and
+3:17
+it's a onetime purchase. No need for a
+3:19
+subscription. You don't even need an
+3:21
+internet connection. It runs everything
+3:22
+locally on your device. And it's kind of
+3:25
+incredible. The creator is a dungeon
+3:27
+master like myself that's been DMing for
+3:29
+about 10 years. and they started by
+3:31
+creating one tool and slowly but surely
+3:34
+it snowballed into this entire suite of
+3:37
+tools that is now available on Steam.
+3:40
+So, if you're interested in Mythos, I'll
+3:41
+put a link to their Steam wish list down
+3:43
+below as well as to their Discord. Do
+3:45
+yourself a favor and go check out Mythos
+3:47
+using the link in the description so
+3:48
+they know who sent you. Now that we
+The DMG
+3:50
+understand the basics of pacing from a
+3:52
+GMing standpoint, how to understand the
+3:54
+purpose of a scene and cut between
+3:56
+scenes, let's talk about something more
+3:58
+nefarious. the time spent at the table
+4:02
+per scene. Page number eight of the 2024
+4:05
+Dungeon Masters Guide has this lovely
+4:07
+breakdown on how to think about pacing
+4:10
+at the table. It says, "The 1-hour
+4:12
+guideline, a D&D game session usually
+4:15
+starts with some of the outofgame
+4:17
+chatter as everyone settles down to
+4:18
+play. Once the session gets underway,
+4:20
+most groups can accomplish at least
+4:22
+three things during one hour of play,
+4:25
+where each thing might be any of the
+4:27
+following. Exploring a location, such as
+4:29
+a chamber in a castle or a cave,
+4:32
+converse with an intelligence creature,
+4:33
+reach a consensus on a divisive issue,
+4:36
+solve a tricky riddle or puzzle, survive
+4:38
+a deadly trap, fight a low difficulty
+4:41
+combat encounter, or it also says a more
+4:43
+difficult combat encounter might count
+4:46
+as two or three things. A tense
+4:48
+negotiation could use up to an hour of
+4:51
+play all on its own. Seems simple
+Pacing is Knowing
+4:53
+enough. How much you get done in a
+4:54
+single session obviously depends on the
+4:57
+length of your game sessions. How much
+4:59
+time you spend per scene. Yeah, but I
+5:02
+think assuming an average of three
+5:04
+purposeful scenes an hour, that seems
+5:06
+accurate to me. I think like 15 to 20
+5:09
+minutes seem right. We'll assume the
+5:11
+last zero to 15 minutes of the hour go
+5:13
+into sort of short few minute soft scene
+5:16
+transitions. Of course, like the DMG
+5:19
+says, a long combat or a tense
+5:21
+negotiation may be much longer. I've run
+5:24
+combats that lasted entire evenings and
+5:26
+they were awesome. I've run 10-minute
+5:28
+fights that felt like an eternity
+5:30
+because they sucked. That's not just
+5:32
+pacing, that's purpose. When there's
+5:34
+purpose to the combat, they feel
+5:37
+shorter, even if they are longer,
+5:39
+because we, the players, we're hooked.
+5:41
+Time flies when you're having fun.
+5:43
+Anyway, why did I bring up the Dungeon
+5:44
+Master's Guide? Because knowing how long
+5:46
+something takes is essential to command
+5:49
+pacing and essential to how to set up
+5:52
+cliffhers. Let's talk about real world
+5:55
+pacing for a second because I think it's
+5:56
+an important addition to this
+5:58
+discussion. Sometimes I realize that we
+6:00
+won't be able to play for a few weeks.
+6:02
+Say when the holidays are coming up or
+6:04
+when my players book their summer
+6:06
+vacations. How dare they? I look at the
+6:08
+calendar and I notice that after next
+6:10
+week's session, we're likely taking an
+6:12
+extended break. So, what do I do? Well,
+6:15
+I make sure that the last session before
+6:18
+the break is extra special, like a
+6:21
+mid-season finale in network television.
+6:23
+Seems obvious, doesn't it? I pull out a
+6:25
+bunch of stops, bells, and whistles to
+6:27
+make sure that the night feels climactic
+6:30
+because I know that we're going to be
+6:32
+taking a forced break soon. So, I do a
+6:35
+little extra song and a little extra
+6:36
+dance. I throw up a big boss fight, some
+6:39
+melodrama, enough to get everyone
+6:40
+feeling like it was a great night. As is
+6:43
+often the case when I do this, there
+6:45
+might be plots that I thought wouldn't
+6:47
+resolve for a couple of months, but the
+6:49
+real world pacing has dictated a finale.
+6:52
+So, I speed up the plot, give us enough
+6:54
+time to quickly get some closure before
+6:57
+we go take a break. That way, we can
+6:59
+come back all excited for the aftermath
+7:02
+to see what's different now that the
+7:04
+plot has sped up so significantly. But
+7:06
+here's the thing, that's true for inside
+7:09
+the session as well, not just between
+7:11
+sessions. Just like how I keep an eye on
+7:13
+the calendar to know when we're about to
+7:15
+take an extended break, while running
+7:17
+the game, I keep an eye on the clock.
+7:19
+It's hair past freckle. How much time do
+7:22
+I have left? About two hours. Well,
+7:24
+according to this DMG, that means I've
+7:26
+got time for about six purposeful
+7:28
+scenes. No need to worry about a
+7:30
+cliffhanger just yet. I'll leave the
+7:32
+ball in the player's court a bit longer.
+7:34
+See where they're headed. An hour and a
+7:35
+half. Well, I've got time for four
+7:38
+purposeful scenes. I better make sure
+7:40
+that in the next scene or two, the
+7:41
+players start deciding what they're
+7:43
+going to do next. That way, I can prep
+7:45
+the next session. Like we talked about
+7:47
+in this video about prepping only one
+7:48
+session at a time. less than an hour
+7:50
+left. Well, that's less than three
+7:52
+scenes and three scene transitions at
+7:54
+most. At this point, I should be
+7:56
+aggressively steering them towards
+7:58
+deciding what they're doing. And once
+8:00
+they've decided, I can dedicate a couple
+8:02
+of scenes towards setting it up in some
+8:03
+way. Maybe there's a dialogue about that
+8:06
+location they're headed to, or they
+8:08
+investigate something that leads to that
+8:10
+location. Maybe they just get started on
+8:12
+exploring the thing. That last hour, I'm
+8:14
+thinking about a cliffhanger. I'm
+8:15
+thinking to myself, what's a great way
+8:17
+to start the next session? And if that
+8:19
+seems too far ahead in the future at the
+8:21
+moment and I instead ask, what's a great
+8:23
+question for me to ask at the end of
+8:25
+this session so that I have a week or
+8:28
+two to think about an answer? What crazy
+8:30
+thing do I have in my notes that's
+8:32
+halfbaked but could be awesome if I had
+8:35
+a week to flesh it out? We're
+5 Types of Cliffhangers
+8:36
+approaching our time limit. Maybe we're
+8:38
+even getting slightly over it. I use all
+8:40
+of my meat computers RAM on trying to
+8:43
+find a line to end on, a moment to end
+8:46
+on. What is it? What do I do? How do I
+8:48
+make sure that we end on a good moment?
+8:49
+I turn to a reliable list because when
+8:52
+you think about it, there really are
+8:53
+only about five types of cliffhers.
+Combat
+8:56
+Cliffhanger number one, next session
+8:58
+starts with combat. I make sure that
+9:00
+this session ends with us dramatically
+9:02
+setting up a combat encounter,
+9:04
+describing the bad guys, describing the
+9:06
+battle map that I'll have to draw next
+9:08
+time, describing one of the villains
+9:09
+menacingly, and that's where we'll pick
+9:11
+it up next time. Cliffhanger number two.
+Dialogue
+9:13
+Next session starts with a dramatic
+9:15
+dialogue. I'll make sure that this
+9:17
+session ends with an NPC that we've been
+9:19
+waiting to talk to. That NPC invites the
+9:22
+character for a dialogue and ends with a
+9:25
+line that I can repeat at the top of
+9:27
+next session. The NPC looks at you and
+9:29
+says, "All right, why should I help
+9:31
+you?" And that's where we'll pick it up
+Weird
+9:33
+next time. Cliffhanger number three.
+9:34
+Next session is going to be weird and
+9:37
+out of genre. I'll end the session with
+9:39
+introducing a strange concept that'll
+9:42
+work for a TV show style bottle episode.
+9:45
+You watch as the world around you
+9:47
+transforms and you see something you've
+9:49
+never seen before. And that's where
+9:51
+we'll pick it up next time. Cliffhanger
+Cutscene
+9:53
+number four. I have nothing. So, uh, I
+9:56
+reach into my bucket of cutscenes to
+9:58
+have the bad guys talk about something
+10:00
+far from prying eyes. The players get an
+10:03
+inside scoop on something dastardly the
+10:06
+bad guys are planning. Strange things
+10:08
+are in motion, and soon a trap will be
+10:10
+sprung. And that's where we'll pick it
+Story
+10:12
+up next time. Four. Finally, cliffhanger
+10:14
+number five, the story. This ending
+10:16
+reiterates the dramatic themes of the
+10:18
+session by having an NPC state the theme
+10:21
+out loud. Literally just lampshad it. I
+10:24
+do a lot of role-play heavy political
+10:26
+intrigue games, and I often find a
+10:28
+single line of dialogue can kind of
+10:30
+encompass the whole session into a
+10:32
+thesis statement that brings the whole
+10:34
+thing together. Callum Rose takes one
+10:36
+last drag of his cigarette and says,
+10:38
+"But this time tomorrow, we'll be
+10:39
+fighting the horde." And he says, "Hang
+10:41
+in his head." before adding.
+10:43
+Everything's about to change, isn't it?
+10:44
+And that's where we'll pick it up next
+Cliffhangers Are Optional
+10:46
+time. Of course, you don't have to do a
+10:47
+cliffhanger. I just think they're a
+10:49
+great way to keep your players hooked,
+10:50
+to keep them thinking about the game
+10:52
+between sessions, and they are
+10:54
+relatively easy to add. As the clock
+10:56
+starts ticking down to 11, which um is
+10:59
+our assumed end time, I start thinking
+11:01
+about ways to close out the session. Any
+11:04
+moment from 30 minutes before 11 to 30
+11:07
+minutes after 11 becomes a theoretical
+11:09
+end point for the session. I think of an
+11:12
+end point that could work and I try and
+11:14
+see if I can get us there over the
+11:15
+course of one or two purposeful scenes
+11:18
+using the in between scene transitions
+11:20
+as a way to sort of hurry us along. Make
+11:23
+sure that we end on a good moment. And
+11:25
+then I pick from the five types of
+11:27
+cliffhers, combat, dialogue, weird
+11:29
+cutscene, or story endings. It's not
+11:32
+foolproof. I often find myself eyeing
+11:34
+the 11:00 endpoint, but my players want
+11:36
+to roleplay more amongst themselves, so
+11:38
+we usually run long. But sometimes one
+Player Cliffhangers
+11:41
+of them does me the favor and says
+11:43
+something theme encompassing themselves
+11:46
+out loud unprompted. Let's say they've
+11:48
+been working through a lot of character
+11:49
+backstory stuff over the course of a
+11:51
+session. A player might have their
+11:53
+character summarize what they went
+11:55
+through over the course of the session.
+11:57
+In those cases, I give them the
+11:59
+cliffhanger. I let them close out the
+12:01
+session. I just catch them after they
+12:03
+say it. I don't think I can ever go back
+12:05
+home. I belong here now. And that's
+12:08
+where we'll pick it up next time. This
+12:09
+channel is run by me and my girlfriend.
+12:12
+Oh, Flower Snoop. Come by our Patreon
+Broadsheet 5 is Out!
+12:14
+and pick up the newest issue of our
+12:16
+digital magazine, The Broad Sheet for
+12:18
+New Playable Species,
+12:20
+and the Doctor Who inspired base under
+12:22
+siege adventure set in my flintlock
+12:25
+fantasy metropolis of Blackard. Until
+12:28
+next time, keep studying the mystic
+12:29
+arts.

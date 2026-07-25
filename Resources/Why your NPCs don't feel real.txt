@@ -1,0 +1,1324 @@
+https://www.youtube.com/watch?v=pb3id4Czkec&t=1s
+
+Lighting your NPCs
+0:00
+Your NPCs are born in the dark. They're
+0:02
+without any details. You cannot make
+0:05
+them real in an instant. You build them
+0:07
+in passes, layer by layer. First, you
+0:11
+add the spotlight that shows them to the
+0:13
+players. And then you complement their
+0:16
+surroundings with a fill that puts them
+0:18
+into context. Next, your edge light will
+0:21
+bring out their features by highlighting
+0:23
+them. And then you cap it off with
+0:25
+practical lights that highlight parts of
+0:27
+their backstory. In those five steps,
+0:30
+you'll layer details with words, and the
+0:33
+image becomes higher and higher quality
+0:35
+in your player's minds. Practicals,
+0:38
+edge, fill,
+0:41
+spotlight, and dark. Let me show you
+0:44
+how. Welcome to Mystic Arts, where I'll
+DMs create images by rendering
+0:47
+use any analogy I can think of,
+0:50
+especially if it reminds people that my
+0:52
+name is Dali, and I'm a professional
+0:53
+writer and director, and I've been DMing
+0:55
+for over 10 years. In drawing, rendering
+0:58
+refers to the process of taking a sketch
+1:01
+with flat colors and slowly adding
+1:03
+shading and highlights as the picture
+1:06
+becomes more and more detailed. That
+1:08
+same principle can be applied to role
+1:10
+playing games, like when you sketch out
+1:12
+scenes or locations and then render in
+1:15
+details, but also for literally any part
+1:17
+of the game like NPCs. Because sometimes
+1:20
+the only thing that separates a mediocre
+1:23
+NPC and a brilliant NPC is just that
+1:27
+little bit of rendering that makes them
+1:29
+seem more three-dimensional. And we can
+1:32
+illustrate our example here fairly
+1:33
+easily by talking about lighting. You'll
+1:37
+have to excuse the film making
+1:38
+analogies, but it's important to me that
+1:39
+you all remember I went to film school.
+1:42
+Lighting a subject for film or
+1:43
+broadcasting, like I guess what we're
+1:45
+doing now is about artistic flare. Sure,
+1:48
+but there are certain basics you should
+1:51
+follow if your intention is for the
+1:52
+audience to understand what they're
+1:54
+looking at. Let's illustrate this
+1:56
+example by lighting a scene. This scene
+1:58
+right here. We've got four kinds of
+2:00
+lights in the room right now, and I
+2:02
+think they'll perfectly illustrate how
+2:04
+lighting creates depth and how it helps
+2:07
+you see characters in a new light. Get
+2:10
+it? Anyway, let's turn all of this off.
+Being in the DARK
+2:13
+In an RPG, the players rely on the DM to
+2:17
+be the light that illuminates what they
+2:19
+see. The DM is like a flashlight in an
+2:22
+unlit room. You, the DM, are always the
+2:25
+player's window into the game. The
+2:27
+players are relying on you to know what
+2:29
+the hell is going on. Out of all the
+2:31
+things a DM does, telling them what
+2:33
+players see, hear, and know has got to
+2:36
+be at the top. So the moment you mention
+2:39
+the existence of an NPC, there's a guy
+2:41
+in this room. You've pointed a
+2:43
+flashlight into a specific direction.
+2:45
+But what happens next? It's a flurry of
+2:47
+clarifying questions that will probably
+2:49
+be bizarre to you. Is he a human? Is he
+2:51
+going to kill us? Can I see if they have
+2:53
+tattoos? That's probably because your
+2:55
+players are confused. A common mistake
+2:57
+DMs make is to provide no light. They
+3:00
+take the flashlight and they switch it
+3:01
+off and expect the players to fill in
+3:04
+the details themselves. But lighting is
+3:06
+about focus, about directing the eye
+3:08
+where to look. While imperfect, the
+3:11
+flashlight can be useful. And if you
+3:13
+don't provide it, switch the flashlight
+3:15
+off. The players are sitting there in
+3:17
+total darkness as you say nothing, do
+3:20
+nothing, describe nothing, and then
+3:23
+things get worse from there. Because in
+3:25
+the dark with nothing to direct the eye,
+3:27
+the players will have to raise the
+3:29
+exposure and their vision of the world
+3:32
+gets grainy, messy, and ugly. If you had
+3:35
+players grasping at straws, asking
+3:38
+confusing questions, and generally
+3:40
+stumbling around, not believing in the
+3:41
+world, it's because you haven't lit it,
+3:43
+and they've turned up the exposure to
+3:45
+compensate, and where everything is a
+3:47
+grainy mess. I've done this, and my
+3:49
+players told me afterwards that sessions
+3:51
+felt like a fever dream where nothing
+3:53
+was certain, nothing was uncertain. So,
+3:56
+you want to avoid the darkness. You add
+3:58
+a spotlight. A spotlight is always a
+Start with SPOT lights
+4:02
+good place to start. It's how movie
+4:04
+shots are lit. They start with a key
+4:07
+light. A light that's key to
+4:10
+illuminating the subject and setting the
+4:11
+mood. For an NPC, this is their role in
+4:14
+the story. Once you know an NPC's role,
+4:17
+you can cast them in the right light.
+4:19
+But guard or queen or dragon isn't a
+4:22
+compelling role on its own because those
+4:24
+things don't have contrast. Notice how
+4:27
+sharp the spotlight is. It's got me all
+4:29
+lit, but the back wall is barely
+4:31
+touched. That's called contrast. It's
+4:33
+the difference between the brightest
+4:34
+parts of the picture and the darkest.
+4:36
+You have to add that contrast to the
+4:38
+NPC's role. They want X, but they have
+4:41
+to do Y. That's an internal conflict.
+4:43
+You decide that an NPC is a guard who
+4:46
+wants nothing more than to go home to
+4:47
+his kids at the end of the day, and now
+4:50
+suddenly he becomes a real person. Or
+4:51
+the queen who wants to do the best she
+4:53
+can under admittedly difficult
+4:55
+circumstances. That feels like a person.
+4:57
+Or the dragon who wants to subjugate the
+5:00
+world with its fiery breath. as long as
+5:02
+it doesn't endanger him personally.
+5:04
+That's like a proper persona. All of
+5:06
+these examples are full of contrast. You
+5:09
+can also give a character contrast by
+5:11
+separating them from their surroundings.
+5:13
+In the middle of the chaos of the city,
+5:16
+protesters run for their lives and
+5:18
+meteors rain from the sky. Celia Powell
+5:22
+stands calm and steadfast. "We charge
+5:25
+the palace," she shouts undeterred.
+5:29
+"Holy [ __ ] she's amazing. Why? The
+5:32
+contrast between the chaotic
+5:33
+surroundings and her calm demeanor
+5:36
+renders her as a hero. And the inverse
+5:39
+is true. Everyone draws deep breaths.
+5:42
+The soldiers are prepared for the battle
+5:44
+to come. They know death is on the line,
+5:46
+but they are ready. And then Jim Wisel
+5:48
+screams, "Oh god, we're doomed." And
+5:51
+runs off. Okay, Mr. Weasel.
+5:54
+Wisel.
+5:55
+His contrast to his surroundings renders
+5:57
+him clearly he's a coward. And if your
+6:00
+player success relies on him standing at
+6:03
+his post, they need to go get him or
+6:05
+they'll just laugh at him. That's
+6:06
+perfectly fine. But the thing with
+6:08
+renders like these is they only really
+6:10
+work as snapshots. I mean, there's a
+6:13
+reason why flash photography works. It
+6:15
+creates good snapshots of people without
+6:18
+any extra lighting faf. It provides an
+6:20
+excellent contrast in a single moment.
+6:24
+Basically, the spotlight is perfect for
+6:26
+NPC introductions. And if an NPC gets to
+6:30
+live for one scene, then it's perfect.
+6:33
+It's a picture worth a thousand words.
+6:36
+But what if after the players charge the
+6:38
+palace with Celia Powell, they meet her
+6:40
+over coffee? Well, she can't very well
+6:42
+be stoic and brave in the face of tea
+6:45
+time. So, we have to fill in the
+6:47
+details.
+FILL in the current situation
+6:49
+Sometimes you just need to illuminate a
+6:51
+character's surroundings. I think of the
+6:54
+fill light as the light that illuminates
+6:55
+the NPC's current situation. What
+6:58
+they're up to at this given moment, who
+7:01
+they are right now. Usually, this is
+7:04
+their job or their quest or their
+7:06
+service to a faction or a lege. Celia
+7:09
+Powell, that calm woman in the chaos,
+7:12
+she is the first chancellor of
+7:13
+Parliament, an elected position in the
+7:16
+government, and she is in direct
+7:17
+opposition to the emperor's recent
+7:20
+autocratic overreach. If the key light
+7:23
+told us about the drama, the fill
+7:26
+explains the circumstances. It's the
+7:28
+lore. Most of the time, a fill light, a
+7:30
+job or a quest or whatever is enough to
+7:33
+tell the story we're telling with the
+7:34
+character. You know, this guard NPC is a
+7:37
+guard. What more do you need? Yeah, the
+7:39
+key light from earlier about going home
+7:40
+to his kids is strong and clarifying,
+7:44
+but if he's not in conflict with the
+7:45
+players, then we'll likely never get
+7:47
+that detail, and we won't need it. He'll
+7:50
+only be lit by the film because unless a
+7:52
+dramatic question unfurs, odds are most
+7:55
+NPCs will always just be lit by the
+7:58
+film. And it's not terrible. Without the
+8:00
+key, you can still see what's going on.
+8:02
+It's just not as dramatic or as high
+8:05
+contrast, but it's perfectly
+8:07
+serviceable,
+8:09
+but it's stronger once the fill and the
+8:11
+key are both on. For our example with
+8:13
+Celia Powell, this might be us getting
+8:15
+to have a scene where the players speak
+8:17
+to her before the sky comes crashing
+8:20
+down as she explains her situation. The
+8:22
+emperor veto's bills passed by
+8:24
+Parliament and she's not going to take
+8:25
+it anymore. It's her job to represent
+8:27
+the people of Blackguard, so she's going
+8:30
+to the Philite helps us get it. Helps us
+8:33
+understand her as a person, her motives,
+8:35
+her wants and desires, her beliefs. But
+8:38
+how is Celia Powell going to act on
+8:41
+those beliefs? Well, that's where we
+Give your characters an EDGE
+8:43
+bring in the edge light. This light is
+8:45
+used to frame the detailed features of a
+8:48
+subject. Bring out their edges, shining
+8:51
+a light on who they really are. For
+8:53
+NPCs, think about what kind of problems
+8:56
+they face and how they solve those
+8:58
+problems. Celia Powell discovered the
+9:00
+emperor was abusing the law. He went
+9:02
+against the will of the Atroxian people.
+9:04
+So, she was forced to act outside the
+9:06
+law. She took to the streets and started
+9:09
+a protest. used her voice and charm to
+9:12
+rile people up and demand the emperor's
+9:15
+abdication. Damn the consequences. The
+9:18
+emperor must go at her edge. She is
+9:21
+nondirectly threatening the emperor. I
+9:23
+have the people on my side and if you
+9:25
+persist, I am going to incite a
+9:27
+revolution. That is how far she will go.
+9:30
+The emperor had his own edge. He had the
+9:32
+wizards attack the protesters. He's a
+9:35
+violent oppressor and will do anything
+9:37
+to hold on to his power. When his
+9:39
+spell-casters took to the sky to use
+9:41
+their magic, a shot was fired at one of
+9:44
+them. So, when the evoker supreme was
+9:46
+threatened, he revealed his edge. He'll
+9:49
+cast meteor swarm on protesters. Edges
+9:52
+are how characters come into conflict.
+9:54
+They're how they solve problems and
+9:56
+usually what makes them interesting,
+9:59
+what makes them active. Without an edge,
+10:02
+NPCs just sort of wait around for the
+10:04
+players to do stuff. Whereas NPCs that
+10:06
+have an edge have not just an opinion,
+10:09
+but a way they intend on acting on it.
+10:12
+If your NPCs feel like they're inactive
+10:14
+observers and only act when acted upon,
+10:17
+consider giving a few of them an edge.
+10:19
+Finally, we can add a little bit of
+10:20
+backstory. And yes, that really is last
+10:23
+on the list because it's not the most
+10:25
+important part. The important parts are
+10:28
+the active ones. They are the building
+10:30
+blocks of a person that exists now. Who
+10:33
+they were is less important than who
+10:36
+they are in your session tonight.
+10:38
+Anyway, let's add one practical feature
+Use PRACTICAL backstories
+10:42
+from a character's past. In film making,
+10:45
+these lights that are visible in the
+10:47
+frame are called practicals. And that's
+10:50
+how I want you to think of backstories.
+10:52
+Not as passive things, not my mom loved
+10:55
+me and my dad had a drinking problem.
+10:58
+Something practically actionable,
+11:00
+something that defines them. Celia
+11:02
+Powell's grandfather was killed by the
+11:05
+last emperor for rebelling. She carries
+11:07
+that with her. The emperor has spent his
+11:09
+whole life being raised by his father,
+11:12
+thinking he'll be usurped by a foreign
+11:14
+enemy. So, his fear explodes when that
+11:17
+enemy appears within his own city. He's
+11:19
+petrified. A practical element informs
+11:22
+us in our current story. It's something
+11:24
+we can all hang our hat on and
+11:25
+understand a character a little bit
+11:28
+better. Think of it like this. If your
+11:30
+NPC were to at any point lore dump their
+11:32
+backstory onto a player, you would want
+11:34
+that scene to feel like clarity. The
+11:37
+player should understand the NPC
+11:39
+afterwards, not have more questions. And
+11:41
+here's the beauty about practicals. You
+11:43
+can always just add more. Even in the
+11:45
+middle of a session, you can just add
+11:48
+new backstories for characters as they
+11:50
+go along. The reason Celia Powell won't
+11:52
+try to compromise with anyone is because
+11:54
+the last time she compromised it was
+11:56
+with a royalist party and they rewarded
+11:58
+her by arresting her. Now she trusts
+12:02
+only herself. Practicals are like wounds
+12:06
+that characters take to their psyche,
+12:08
+basically permanent. If you're listening
+12:10
+to me talk about all these details to
+12:12
+add to NPCs and you're thinking, "Well,
+12:14
+that's easy for you to say you do this
+12:16
+stuff for a living." Then fair. But I
+12:18
+don't think it's hard to start doing
+12:20
+this stuff as long as you're willing to
+12:22
+suck for the first couple of times you
+12:23
+do it. But you get better as you go. And
+12:26
+if you want help getting started, you
+12:28
+just need some references. And my
+12:30
+political plotline here isn't inspiring,
+12:32
+then let me introduce you to today's
+Explosive Creation
+12:34
+sponsor, The Game Master's Compendium of
+12:36
+Explosive Creation. A big book of big
+12:39
+tables. There's 50 different archetypes
+12:41
+in here, each with a table to determine
+12:43
+their drives, arcs, rivals, allies,
+12:45
+themes, and even plot hooks. Seriously,
+12:47
+sitting down with this book in hand and
+12:49
+the lighting tips in mind, you will be
+12:51
+able to spin up a real actual person in
+12:54
+a few minutes. It is available as print
+12:56
+on demand or digitally on Drive-Through
+12:58
+RPG. Affiliate links in description and
+13:00
+the pinned comment. What's powerful
+Light characters out of order
+13:02
+about thinking of NPCs like this is you
+13:04
+can light them in any order. Not just
+13:06
+from spotlight to fill to edge to
+13:08
+features, but in any order you like or
+13:11
+fits the unfolding narrative at your
+13:13
+table. There's an NPC in my current game
+13:15
+that kind of illustrates this perfectly.
+13:17
+The party met this bankerl looking
+13:20
+character named Callum Rose in
+13:21
+Roachport. There they learned he worked
+13:24
+for a private corporation called Fulburn
+13:26
+Consulting, a company that does private
+13:29
+espionage. One player at the table, CC
+13:31
+the rogue, has evidence that suggests
+13:34
+that Fulburn Consulting was responsible
+13:36
+for the assassination of her brother,
+13:39
+something Callum claims he knows nothing
+13:41
+about. That's an interesting filite.
+13:43
+Later, he hired the party to go explore
+13:45
+a ruin in the woods called Gaxic Point.
+13:48
+And when they accepted, he said he
+13:49
+joined them on this quest. But on the
+13:51
+quest, it turned out he was a capable
+13:53
+marksman, plenty able to dodge attacks
+13:55
+effectively and seems to be especially
+13:58
+fast with his firearm. They learned he
+14:00
+served in the army's ranger regiments.
+14:03
+He's dangerously capable in combat. And
+14:05
+there's our edge. When Alton the wizard
+14:07
+woke Callum up from his watch by
+14:09
+telepathically speaking in his mind,
+14:11
+Callum experienced some serious shell
+14:14
+shock because he associates telepathy
+14:16
+with a time his unit died in the
+14:18
+Frostmore fighting mind flares. He lost
+14:20
+his entire unit. That's a background
+14:23
+practical, a tangible event in his
+14:25
+backstory that we can rest our eyes on.
+14:27
+This unfurled over the course of many
+14:29
+sessions. It wasn't all dumped on them
+14:31
+at once. It was rendered over time. But
+14:33
+here's the thing. Even after that
+14:35
+mission, learning all of that, they
+14:37
+didn't know who he is because they've
+14:39
+never seen the key light on him. He's
+14:41
+probably a private spy. He probably
+14:43
+doesn't know about the assassination of
+14:45
+CC's brother, and he probably will help
+14:47
+the players in a fight like he did at
+14:49
+GIC Point, but we don't know. Push
+14:51
+hasn't turned to shove, and we haven't
+14:54
+seen him in a high contrast situation
+14:56
+yet, so the anticipation of seeing the
+14:58
+key light being switched on is always
+15:00
+present in every scene they do with him.
+15:03
+There's this hanging dramatic question
+15:05
+over every moment when the cards are
+15:07
+down. What will Callum Rose do? And not
+15:11
+knowing feels engaging. Now, it's not
+15:14
+like being in the dark either. We have a
+15:15
+clear feel, edge, and practical. This
+15:17
+kind of lack of knowledge is different
+15:19
+because as the DM, I've turned on every
+15:21
+other light in the scene. The players
+15:23
+know I'm deliberately keeping the key
+15:26
+light off for now until the right
+15:28
+moment. That creates tension. You can do
+15:30
+this by turning on every light except
+15:32
+one. And that creates this fruitful void
+15:35
+where we want to know more. The presence
+15:38
+of other lights makes the lack of that
+15:40
+one light source clear to the players.
+Deliberately incomplete lighting
+15:43
+Like what if we did everything except
+15:45
+the fill? We know how someone will act
+15:47
+under crisis. We know who they are and
+15:50
+why they are the way they are, but we
+15:52
+don't know what they're doing at a given
+15:53
+moment. Why not? What are they up to? Or
+15:56
+every other light except the edge. and
+15:58
+you make a character feel safe to a
+16:00
+degree that can create a little bit of
+16:02
+tension. You open up for a question
+16:03
+like, "Is that really all that's going
+16:05
+on with this NPC?" To which you can
+16:07
+remove the tension by saying, "Yes, they
+16:09
+are safe." Or you shrug and let your
+16:12
+players wonder. And that's not the only
+16:14
+trick with this. You can light a
+16:16
+character before they show up. You
+16:18
+pre-light them. This is especially
+Pre-lighting IMPORTANT characters
+16:20
+powerful if you want to introduce an
+16:22
+important or politically powerful NPC
+16:24
+and you want them to land into a scene
+16:27
+already fully formed. Let's say you've
+16:29
+got a scene coming up where the Raven
+16:31
+Queen is supposed to arrive and you want
+16:33
+her to show up fully rendered. Well,
+16:35
+then you spend time rendering the Raven
+16:37
+Queen before she shows up. You have
+16:40
+other NPCs talk about the Raven Queen.
+16:42
+Light her for the players as the NPCs
+16:45
+talk her up before she shows up. The
+16:47
+Raven Queen usurped the divinity over
+16:49
+the afterlife from the pale knight
+16:51
+through bloodshed and conquest. Okay.
+16:53
+Slay. The Raven Queen controls her
+16:55
+domain, the Shadowfell, from her tower
+16:58
+in the fortress of memories in
+17:00
+Evergloom. Okay. Queen. The Raven Queen
+17:03
+is a lonely god bereff of the joy given
+17:05
+to the living forever more, such as her
+17:08
+price for divinity. Okay, bummer. By the
+17:10
+time she finally shows up, you've
+17:12
+already lit a whole persona and the
+17:15
+players will have created in their head
+17:17
+and map their ideas about her onto her.
+17:20
+For bonus points, you introduce her with
+17:22
+a high contrast key light and capture
+17:24
+that moment. And suddenly everything
+17:26
+will slide together and she'll appear
+17:28
+fully formed to your player's eye. And
+17:31
+you're not stuck here either. You can
+17:33
+always relight the character when a new
+17:35
+scene with them starts. Hell, once a
+17:37
+scene is started, you've still got a
+17:39
+little bit of, let's call it
+17:40
+post-processing. You can tweak the
+17:42
+colors, the saturation, the contrast,
+17:44
+the shadows. The beauty of rendering
+17:46
+scenes is that it's an active process.
+17:49
+Since RPGs happen in your head, they're
+17:52
+being created by every sentence spoken
+17:54
+at the table. You're not hidebound by
+17:56
+something you said once. You can shift
+17:58
+and change and adjust and massage your
+18:01
+renders and light characters as they're
+18:04
+played. Hopefully getting closer and
+18:07
+closer to yours and your player's vision
+18:10
+with each render pass. And I also say
+18:12
+rendering and lighting characters like
+18:14
+this is a whole process. It's not quick.
+18:16
+It takes time and effort to render a
+Most NPCs are good with 1 light
+18:19
+character. And as speaking as someone
+18:21
+whose players have an incomplete
+18:23
+spreadsheet to keep track of NPCs which
+18:25
+has 97 entries on it, I'll tell you
+18:27
+this. I don't do this for every
+18:29
+character. I do this for like a handful
+18:31
+of characters per adventure. 90% of my
+18:34
+characters are much simpler because you
+18:36
+don't have to do much to create a
+18:37
+memorable NPC. You really, really,
+18:40
+really, really don't. There is a reason
+18:42
+we nerds know about Boblin the Goblin
+18:46
+and we all cried when Fartbuckle died.
+18:49
+An NPC can just be a funny name, a silly
+18:52
+accent, or in the case of one of my
+18:54
+players favorite NPCs, some old guy. I
+18:58
+just pull down my glasses and try my
+19:00
+best to sound like an old man. And I
+19:02
+swear to God, they all go, "A,
+Old Man Whitelock
+19:05
+he's old."
+19:06
+And then I had this old man trust the
+19:09
+players implicitly, shower them with
+19:10
+praise, and every night I roll a D 100
+19:13
+to see if he died in his sleep.
+19:15
+Boom. And I'm telling you, they watch me
+19:17
+roll those dice behind the screen with
+19:19
+baited breath. I don't tell them the
+19:21
+result. I'll roll even if I've already
+19:22
+gotten hundreds the the heart attack
+19:25
+result because every time they go back
+19:26
+to Roachport, where old White Lock
+19:29
+lives, they go visit him to see if he's
+19:31
+doing okay or not. They love him. At
+19:33
+first, he was just old man and old bad
+19:36
+voice. And over time, they kept coming
+19:39
+back to him. So, I added a little light
+19:41
+here, a little light there, and he
+19:43
+slowly gets more and more illuminated as
+19:46
+the characters come back to him, which
+19:48
+really is just going to make his
+19:49
+inevitable heart attack that much more
+19:50
+tragic. Loads of films do this, too.
+19:52
+They'll introduce a strong character
+19:54
+with a strong keylight and then just
+Bit-parts in films
+19:56
+leave him like that until they need to
+19:58
+add some more depth. I was watching The
+20:00
+Patriot with AB the other day. Look,
+20:02
+it's a historically inaccurate, cheesy
+20:04
+movie mess from the year 2000, but oh my
+20:06
+god, are the feelings real. But don't
+20:09
+judge me. And it's full of simple side
+20:12
+characters that the movie feels no need
+20:14
+to develop further. And listen, it works
+20:16
+a treat. There's a guy who's enjoying
+20:18
+this gorilla fighting thing a little too
+20:20
+much. There's a battlebeaten general who
+20:22
+just wants to win the war. There is the
+20:24
+reverend who joins the gorillas and all
+20:26
+of his lines are reverendi. There's
+20:28
+General Cornwallis, a walking stereotype
+20:31
+of a British aristocratic gentleman
+20:33
+commander. and Jason Issac plays muggle
+20:36
+Lucius Malfoy in the 1700s. There's this
+20:38
+one French guy who's really French and
+20:41
+really wants to kill the Brits in a
+20:42
+French way. And it's a good ways into
+20:45
+the film where we learn that his beef
+20:47
+isn't just standard Anglo French foreign
+20:49
+relations. It's something deeper.
+20:51
+British men of war gave no such quarter
+20:53
+when it fired on a ship carrying my wife
+20:55
+and daughters. I watched from 200 yards
+20:58
+off as they were burnt alive. Those
+21:01
+characters are all memorable because of
+21:03
+a much simpler trick. They're bit parts.
+21:05
+They're just what it says on the tin.
+21:07
+That way, we can keep all these
+21:08
+characters in our head. And then for
+21:10
+morally complex or emotionally complex
+21:12
+characters, we have the father-son duo
+21:15
+of Benjamin and Gabriel Martin. They are
+21:18
+fully lit and rendered, and the rest
+21:20
+just lit with a single light. It's
+21:22
+enough for most characters anyway. Don't
+21:24
+go overboard. Just light what you need.
+21:26
+Let the rest be sharp and memorable by
+21:28
+leaning into stereotypes. They are
+21:30
+useful. You don't need to know anything
+21:32
+more about General Cornwallis than him
+21:34
+being a British gentleman general. It
+21:36
+does the job for us perfectly fine. And
+21:39
+this becomes especially powerful the
+21:41
+more you revisit a character too in the
+21:43
+same campaign or across multiple
+Revisiting characters is POWERFUL
+21:45
+campaigns, which almost all of my
+21:47
+favorite NPCs have done now. A character
+21:49
+not unlike General Cornwallis, Lord
+21:52
+Trevor Rosenthal was at first an admiral
+21:54
+that was a largely antagonistic force to
+21:57
+the player characters, but they never
+21:59
+confronted him. So in a different
+22:01
+campaign, he was more of an ally, a
+22:03
+useful ally. He had a navy. Later,
+22:05
+players met him as the president of
+22:07
+Atroxia, and now he was getting depth
+22:09
+just by virtue of the fact that him
+22:11
+having been an admiral was now his
+22:13
+backstory. So he added a layer of depth,
+22:16
+a new light. And later on, players met
+22:18
+him as the scenile former president. And
+22:21
+at that point, he mostly wanted to talk
+22:23
+about cowboy fiction books he loved
+22:24
+growing up. Same character, different
+22:26
+light. Now, that's a lot of advice on
+22:29
+how to create a fully detailed 3D render
+22:31
+of an NPC, which is fantastic fun, and
+NPCs aren't the heroes
+22:34
+they can capture and enrapture your
+22:37
+players. But here's the thing, the
+22:38
+players are the heroes of your story,
+22:40
+not your NPCs. So, you've got to be
+22:42
+careful here that you're not
+22:43
+overstepping as the DM. Your most
+22:46
+important characters at the table should
+22:48
+be your players characters. When you
+22:50
+start creating these detailed NPCs,
+22:52
+you're going to have to promise yourself
+22:54
+that their job is to act as a mirror to
+22:57
+the players. Their job is to frame up
+23:00
+characters and their conflict. Celia
+23:02
+Powell's charge on the palace was
+23:04
+initiated by the players. Rosenthal,
+23:07
+seen as a scenile bookworm, was
+23:08
+reflective of a player's experience of
+23:11
+even political rivals being just people.
+23:13
+Callum Rose exists to poke at Cece's
+23:17
+tension with Fullburn Consulting. Your
+23:19
+PCs are the heroes of the story. And if
+23:21
+you're wanting to create memorable NPCs,
+23:23
+I want you to ask yourself why. Because
+23:26
+if you really want is to play, then you
+23:28
+should be honest about that and go get
+23:30
+yourself a chance to play. But if you're
+23:32
+watching this video because you want
+23:34
+NPCs that inspire players to roleplay,
+23:37
+think of them as mirrors or funhouse
+23:39
+reflections. Create NPCs that are a lot
+23:42
+like one of the player characters, but
+23:44
+different in a few noticeable ways, and
+23:46
+then have them ask the player characters
+23:48
+some leading questions. Use them as
+23:51
+little pokers to ask fun questions of
+23:53
+the characters or as moral quandries
+23:56
+that make your players question what the
+23:59
+right thing to do is. Do we let Celia
+24:01
+Powell storm the palace and unseat the
+24:03
+emperor? Or do we calm her down to save
+24:06
+the lives of the people who will
+24:08
+undoubtedly die in her revolution? Use
+24:10
+the NPC's edge to create an inflection
+24:13
+point and then get the players in on the
+24:15
+inflection point. Put the question to
+24:17
+them. What's the right thing to do? And
+24:19
+then you don't answer. Let your players
+24:22
+answer. It's their story.
+24:25
+Give it to them. And that's where we'll
+24:27
+pick it up next time. Thanks so much for
+24:28
+watching this video. This channel is run
+24:30
+by me and my girlfriend. And if you want
+Support us on our Patreon
+24:32
+us to support us directly, consider
+24:34
+joining our Patreon. Patrons get access
+24:36
+to our Discord and adept members and get
+24:38
+spells, monsters, magic items, and
+24:40
+classes. And all compatible with fifth
+24:42
+edition. If you're feeling especially
+24:44
+generous, you might like the video,
+24:45
+comment, share, or subscribe, and hit
+24:47
+the bell to be notified when we release
+24:48
+new videos. Until next time, keep
+24:51
+studying the mystic arts.
+

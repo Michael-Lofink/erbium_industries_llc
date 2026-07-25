@@ -1,0 +1,485 @@
+https://www.youtube.com/watch?v=tys56FmrFnE&t=45s
+
+Chapter 1: Boss Battles can fall flat
+0:00
+0 seconds
+have you ever run a boss battle that just fell flat either because the players made such short work of it that you all just felt bummed afterwards or
+0:06
+6 seconds
+that it took ages and was boring the whole time I think the issue might be that your encounter was a little undercooked you know like food I tend to
+0:15
+15 seconds
+think of D andd Boss Battles is featuring several key ingredients each providing essential spice and balance to the feeling of a climactic final end
+0:23
+23 seconds
+boss when you take these ingredients and mix them perfectly you cannot fumble the boss fight it will be memorable so let
+0:30
+30 seconds
+me introduce you to the six essential ingredients to any boss fight how they work together and then line up some bonus tips at the end I promise your
+0:39
+39 seconds
+next end boss will be epic welcome to Mystic Arts where I want your main takeaway from this video be that cleric Beast is the ideal way to start boss
+0:47
+47 seconds
+battles my name is D I'm a professional writer and director and I've been dming for 10 years okay picture this you're at a fancy restaurant dressed in your
+Chapter 2: You're in the Meat Room
+0:55
+55 seconds
+finest dining clothes with your significant other on a special occasion getting the seat at this particular time was a challenge because it's a very
+1:03
+1 minute, 3 seconds
+popular restaurant so you booked this 2 years in advance you invested some serious money in this and when your main
+1:10
+1 minute, 10 seconds
+course arrives it's a single cut of round steak and nothing else no sides no sauce no drink just the cut of the meat
+1:18
+1 minute, 18 seconds
+and it's not even cooked the way you asked and to boot it's sitting on a cheap Ikea plate and all you've got is a fork and butter knife there aren't even
+1:26
+1 minute, 26 seconds
+candles just those overhead fluorescent lights that make you feel like you're in an office that would be um pretty disappointing to say the least that
+1:35
+1 minute, 35 seconds
+wouldn't feel like a fancy restaurant at all you're just eating raw meat in a plain room all right all right I maybe I'm stretching the analogy just a bit
+1:43
+1 minute, 43 seconds
+but hear me out I think we've all run the bossal equivalent of the meat room at one point in our lives What If instead of this meat room we crafted a
+1:51
+1 minute, 51 seconds
+meal complete with sides drinks and presentation presentation we made it a worthwhile
+1:59
+1 minute, 59 seconds
+experience because the players may not have had to put down a reservation 2 years ago but this is your final end boss the climax of The Campaign you
+2:06
+2 minutes, 6 seconds
+might have been playing for years and it'll have the weight of expectations on it and you can let folks down here that disappointment can be palpable that's
+Chapter 3: Ingredient 1: The Boss
+2:15
+2 minutes, 15 seconds
+rough but we're going to fix that right now if you're running a boss battle at the end of a shorter Adventure you don't need anything too crazy but knowing the
+2:23
+2 minutes, 23 seconds
+principles behind end boss design will let you scale down those Adventure ending boss fights too you just need to look at six crucial ingredients so in
+2:31
+2 minutes, 31 seconds
+this steak analogy the steak is the boss monster that's our first ingredient the meat you could get all kinds of steak but it's important that we start with
+2:40
+2 minutes, 40 seconds
+the right cut of meat Something level appropriate a cheap cut in our analogy like the round steak could be the representative of a boss monster best
+2:47
+2 minutes, 47 seconds
+described as being low interest basically a boss that's largely just a big bag of hit points with a mean swing that'll scare the crap out of the
+2:55
+2 minutes, 55 seconds
+players cheaper Cuts have their place so do low interest boss monsters but for your campaign Ender you want something extravagant like the fet Minon tender
+3:03
+3 minutes, 3 seconds
+mild expensive it'll chew easy and it's rich in flavor a highin boss monster something that has loads of options and
+3:12
+3 minutes, 12 seconds
+is fun to run what is that what are we looking for like with every fight you're looking for variety but since this is
+3:19
+3 minutes, 19 seconds
+the boss monster the variety has to be baked into the stat block not just spread around the battlefield let's imagine we're about to run a final end
+3:28
+3 minutes, 28 seconds
+boss at 13th level for a capable party of six and they've got a healthy chunk of magic items and some time to prepare
+Chapter 4: Converting statblocks
+3:35
+3 minutes, 35 seconds
+here's a few tricks to convert a stat block and make it interesting let's imagine we start with the storm giant from the 2024 monster manual it's a good
+3:43
+3 minutes, 43 seconds
+cut to begin with right the St block is interesting without us doing anything it's rich in flavor look it has some immunities and resistances a swim speed
+3:52
+3 minutes, 52 seconds
+and a fly speed it's got true sight and the multiattack has variant baked into it can use a Storm sword and a thunderbolt in any combination so good
+3:59
+3 minutes, 59 seconds
+good at both range and melee but better in melee already I've got loads of ideas swim speed and cold resistance tells me a lot about the environment but we'll
+4:08
+4 minutes, 8 seconds
+get there in a bit it's got a hard-hitting main ability the lightning storm and some spellcasting that's largely useless but decent flavor it's
+4:15
+4 minutes, 15 seconds
+somewhat Hardy 230 hit points but that won't be enough okay I think we can work with this now we start treating the meat
+4:23
+4 minutes, 23 seconds
+rubbing in the spices and marinating and Searing it good analogy we're going to elevate the meat from its Rock cut into
+4:30
+4 minutes, 30 seconds
+a delicious Standalone main course there's nothing wrong with a standalone main course many fancy restaurants serve meat with minimal sides but that's
+4:39
+4 minutes, 39 seconds
+because they can cook it to Perfection let's try and get our steak perfect as in let's Elevate this storm giant into a
+Chapter 5: Elevating statblocks
+4:46
+4 minutes, 46 seconds
+boss monster so how do you do that well good end bosses break the rules of the game they can do stuff when it is in their turn they have ways of resisting
+4:55
+4 minutes, 55 seconds
+the players stun locking abilities otherwise the players can just outpace them in the action economy so we have to give it some new features first we'll
+Chapter 6: Legendary Actions
+5:04
+5 minutes, 4 seconds
+give it legendary actions all other major boss monsters in the monster manual have them so let's give it to our storm Giant and boss I could go invent
+5:12
+5 minutes, 12 seconds
+new ones but it's going to be more effective to just steal and adjust from other stap blocks the ancient bronze dragon has Thunderclap let's steal it
+5:21
+5 minutes, 21 seconds
+and put it on our giant so it has a legendary AOE that can deafen players and will inevitably Force PCS into melee
+5:28
+5 minutes, 28 seconds
+or tax the backround the elemental cataclysm has rumbling movement which lets it move without provoking attacks of opportunity and nearby creatures must
+5:37
+5 minutes, 37 seconds
+make saves to avoid falling prone that seems flavorful let's steal it it's good to give bosses movement as a legendary
+5:44
+5 minutes, 44 seconds
+action it avoids the battle from getting too locked down this way movement continues to matter a fun interaction related to this because the giant is
+5:52
+5 minutes, 52 seconds
+fastest at swimming means that it's incentivized to stay in the water when it can both of these legendary actions should only be possible once per round
+6:01
+6 minutes, 1 second
+so let's give it a reliable and repeatable action surge the storm giant moves up to half its speed and then makes one Storm sword attack We could
+6:10
+6 minutes, 10 seconds
+decide that the giant can do Thunderbolt with this action but I think that would make this character more someone who's incentivized to stay at range and for some reason it doesn't feel right to me
+6:19
+6 minutes, 19 seconds
+so we'll decide that it only works with a melee attack that just feels right that's three options for legendary actions we'll say it can do three
+6:26
+6 minutes, 26 seconds
+actions or four in its layer like the Dragon but this doesn't defend the Giant from getting stun locked by a lucky
+Chapter 7: Legendary Resistances
+6:33
+6 minutes, 33 seconds
+failed save so we'll have to bump its defenses I'll use legendary resistances probably stealing the dragon's version
+6:41
+6 minutes, 41 seconds
+of it legendary resistance four times a day or five times a day in the layer if the dragon fails a saving throw it can choose to succeed instead there's a lot
+6:49
+6 minutes, 49 seconds
+of people who don't like legendary resistances because they feel that players hate them and there are alternatives like in making the boss lose hit points when they use legendary
+6:57
+6 minutes, 57 seconds
+resistances or something like that but I of like legendary assistances though I do run them with a few caveats I typically roll boss monster saves in the
+7:06
+7 minutes, 6 seconds
+middle of the table and that way players can see the save and they can see if the boss fails and I then describe the boss
+7:13
+7 minutes, 13 seconds
+reeling and shaking off the effect and then I tell them in no uncertain terms they use the first of their legendary resistances this way the players know
+7:22
+7 minutes, 22 seconds
+that the boss has those resistances and they'll plan their spells around it No Sa suck but saber half as it go until we're down to zero resistance is left
+7:30
+7 minutes, 30 seconds
+and I try to make sure that they understand where they're at the whole time like they're chipping away at a second pool of hit points making sure to
+7:37
+7 minutes, 37 seconds
+communicate they use their Fifth and final legendary resistance because at that point they'll all bust out the sa
+7:44
+7 minutes, 44 seconds
+sock spells and the fight quickly ends after that this mechanic gives the fight a shape kind of a story and it's a
+7:52
+7 minutes, 52 seconds
+little Arc inside the fight like a side objective getting the legendary resistances down to zero while still being effective one more addition for
+Chapter 8: Bonus Action Attack!
+8:00
+8 minutes
+the boss monster variant of this creature let's increase its attacks give it a third attack with a Storm sword but as a bonus action this way the boss can
+8:08
+8 minutes, 8 seconds
+be even more effective in melee and by making it a bonus action I've opened the door for a casting of lightning storm to be paired with a Storm sword attack
+8:16
+8 minutes, 16 seconds
+finally I'm increasing the hit points another 10 hit dice brings the total up to 345 that seems better I'm increasing the hit dice because I don't want the
+8:24
+8 minutes, 24 seconds
+con saves to balloon too much as a side note you can adjust hit points in three ways changing the con score the amount of hit dice or the size of the creature
+8:32
+8 minutes, 32 seconds
+bigger creatures get bigger hit dice I like adjusting the number of hit dice since it's the most arbitrary number anyway okay I think this is a pretty
+8:39
+8 minutes, 39 seconds
+good Sak but it's not a complete meal yet next up some signs how about potatoes everyone loves potatoes could
+Chapter 9: Ingredient 2: Lieutenants
+8:46
+8 minutes, 46 seconds
+be a baked potato or french fries in our analogy the potatoes are the lieutenants you could have a single powerful lieutenant or two or three lieutenants
+8:54
+8 minutes, 54 seconds
+even I wouldn't go much higher or you start to Veer into an elite team for lieutenants you're going to want more monsters that stay on theme to your end
+9:02
+9 minutes, 2 seconds
+boss but behave differently and are less powerful you don't want them stealing the show basically you want their presence to make the boss more powerful
+9:11
+9 minutes, 11 seconds
+not just through damage but through their abilities as well in our example let's have two lieutenants a tank and a spellcaster let's say they're both
+9:19
+9 minutes, 19 seconds
+Giants but one of them is a cloud Giant and has the spellcasting of a mage there's AOE spells sure that's good but more importantly there's counter spell
+9:28
+9 minutes, 28 seconds
+the tank meanwhile will be a fire giant but will add a bunch of the warrior Commander fun abilities like sap Counterattack and tactical charge and
+9:37
+9 minutes, 37 seconds
+especially maneuver to help keep the boss safe the players will want to kill these guys ASAP what about something lighter and
+Chapter 10: Ingredient 3: Mooks
+9:46
+9 minutes, 46 seconds
+refreshing to balance the heaviness of those giant meat and potatoes well kids you got to eat your greens or beans wait eggplant is purple whatever get your
+9:54
+9 minutes, 54 seconds
+veggies on a plate in our analogy that means mukes these guys should be very squishy you could even run them as
+10:01
+10 minutes, 1 second
+fourth edition minions basically they all have one hit point and die to whatever damage they take that way you don't have to track anything I suggest
+10:09
+10 minutes, 9 seconds
+you make Ms deal average damage numbers that way you're only rolling to hit in our case let's make them all suan Warriors and give them a ranged attack
+10:17
+10 minutes, 17 seconds
+since otherwise they'll be useless these are Soo again that the storm giant Coral to their side pun intended next up consider what to pair your giant steak
+Chapter 11: Ingredient 4: Lair
+10:25
+10 minutes, 25 seconds
+with red wine is a classic and for good reason so what's the the classic pairing for a big bad boss an evil layer of
+10:33
+10 minutes, 33 seconds
+course you could let your work up until now Inspire your lair look at what environments your boss monster lives in and weave that into the lair match the
+10:42
+10 minutes, 42 seconds
+flavor so what is it for our storm giant well remember the swim speed this Lair should be out at Sea maybe there's a
+10:49
+10 minutes, 49 seconds
+tower rising out of the ocean Lighthouse something the storm giant can fly up to or a deep pool that allows the giant to dive into and Escape danger the weather
+10:58
+10 minutes, 58 seconds
+could even be controlled by the storm Giant and by extension the entire Battlefield your boss should have full control and knowledge of their layer
+11:08
+11 minutes, 8 seconds
+they should be in charge of it what's also great about this particular choice of layer is that it pairs especially well with the minions you can always have more Sahan come splashing out of
+11:16
+11 minutes, 16 seconds
+the water an especially good Lair invites a fun approach to combat areas of difficult terrain elevation and cover
+11:24
+11 minutes, 24 seconds
+go check out our video on map Fu for more on all that if you're looking for amazing battle maps you you could find loads of them online like this thonic
+Chapter 12: dScryb.com
+11:32
+11 minutes, 32 seconds
+Lighthouse no I don't have a lisp that's how you say it the map itself is evocative and you might describe it as
+11:39
+11 minutes, 39 seconds
+strange alien light pours from The Towering stained glass windows of a lighthouse drawing ships to Jagged rocks
+11:46
+11 minutes, 46 seconds
+Sailors give the island a wide birth believing it to be cursed by a fell otherworldly entity luring Unfortunate
+11:53
+11 minutes, 53 seconds
+Souls to their Doom this enormous mind-bending fungi growing around this magnificent edifice admits a low
+12:01
+12 minutes, 1 second
+hypnotic durge as they pulse with a luring Prismatic Hues this map the thonic lighthouse is available with a bunch of annotated text and a lot more
+12:09
+12 minutes, 9 seconds
+on describe. comom which is the sponsor of today's video you've got loads of stuff like this eldrich Lighthouse and a
+12:17
+12 minutes, 17 seconds
+powerful Search ENT if you want access to a huge library of maps and descriptions you can go check out describe and use the promo code Mystic
+12:24
+12 minutes, 24 seconds
+Arts for a 30-day free trial on any plan they offer there's also a referral link in the description go check it out next up some sauce not always necessary but
+Chapter 13: Ingredient 5: Objective
+12:33
+12 minutes, 33 seconds
+it does elevate the meal for boss fights give your party a tasty goal I mean obviously the goal is to kill the boss
+12:40
+12 minutes, 40 seconds
+and end the adventure so maybe a better question is is there some kind of ticking clock in Star Wars the death star is moving into position to blow up
+12:49
+12 minutes, 49 seconds
+the rebel base so if Luke doesn't make that shot into the blowy uphole the rebels become Stardust set those Stakes for your game
+12:57
+12 minutes, 57 seconds
+pun intendent an easy way to to check if you've done this right is to fill in the blanks in this phrase if we don't blank
+13:04
+13 minutes, 4 seconds
+then blank happens for our ongoing example if we don't kill the storm giant he'll summon the Kraken a kraken that
+13:12
+13 minutes, 12 seconds
+sounds fun I didn't know I was going to say just that that that's so cool but that's the fun of this game you can just make up you then decide how long that'll take and keep reminding the
+13:20
+13 minutes, 20 seconds
+players that a Titan might be around the corner feel free to make the odds of that happening super slim this isn't a part of the encounter it's actually a
+13:29
+13 minutes, 29 seconds
+lose condition as in if the players lose this fight then the campaign doesn't end tonight there's a kraken loose and that'll have to be its own adventure or
+13:38
+13 minutes, 38 seconds
+at least its own boss fight if you decide that the Kraken can show up in the encounter then you need a different lose condition give it a moment and find
+13:45
+13 minutes, 45 seconds
+your failure state if we don't stop the storm giant today then they'll sink water deep feel free to make the stakes big if this is your end boss you won't
+13:54
+13 minutes, 54 seconds
+get a chance to make the stakes higher later high level play is about high stakes finally the sixth ingredient and
+Chapter 14: Ingredient 6: Second Phase
+14:02
+14 minutes, 2 seconds
+maybe the most controversial take I think no steak is complete without a garnish your little touch of specialty oddness makes the fight that much more
+14:11
+14 minutes, 11 seconds
+memorable otherwise you're just chowing on red meat for me that's the Mythic phase when your boss monster reaches zero hit points you put their HP back at
+14:20
+14 minutes, 20 seconds
+Max and you do a handful of things to really kick the fight up a gear you recharge the big AOE ability and use it
+14:27
+14 minutes, 27 seconds
+as a reaction or our storm giant it's the lightning storm you upgrade the legendary actions into Mythic actions and now they can do those specialty
+14:36
+14 minutes, 36 seconds
+actions every time it wants to The Surge could now be two attacks including two ranged attacks that mechanic tells us a story The Storm giant doesn't need melee
+14:44
+14 minutes, 44 seconds
+anymore it's powerful without it it takes to the sky flies up to the tower and rains lightning storms onto the
+14:52
+14 minutes, 52 seconds
+players now they need to fight the Giant on its own terms at this stage in the fight which is basically an entirely
+15:00
+15 minutes
+separate fight the lieutenants and muks are all probably dead so the giant has to match the party's damage output all by itself let it do that embrace the
+15:09
+15 minutes, 9 seconds
+insanity loads of people don't like Mythic phases for a number of reasons often related to it being weird that the hit points go to zero twice or that a
+15:17
+15 minutes, 17 seconds
+creature gets a blooded condition twice at that point it's mostly semantics if you don't like the idea of going back to 100% just give the giant more hit points
+15:25
+15 minutes, 25 seconds
+and activate the second phase when it's bloodied I'm sure that does the same job but I think there's value in the monster becoming cooler as the fight goes on
+15:33
+15 minutes, 33 seconds
+because the players will be low on resources at that point and now the boss is cooler it dramatically increases the
+15:41
+15 minutes, 41 seconds
+stakes make sure to describe this moment as best as you can too describe the monster shedding its skin or assuming a
+15:47
+15 minutes, 47 seconds
+form of light or growing in size you need to tell your players that they've triggered the second phase video games
+15:55
+15 minutes, 55 seconds
+literally have the health bar refill you can end your description by telling your players and it activates its Mythic
+16:02
+16 minutes, 2 seconds
+phase and resets all lost hit points or whatever phrase you find appropriate just communicate your intentions to the
+Chapter 15: Escaping the Meat Room
+16:09
+16 minutes, 9 seconds
+players so with that you should have assembled a pretty spectacular plate of food right but you're still in the meat room Ikea plate butter knife fluorescent
+16:18
+16 minutes, 18 seconds
+lights the presentation is still lacking don't just say what features the monster uses describe them as best you can the
+16:25
+16 minutes, 25 seconds
+storm giant hefts a bolt of lightning and throws it out Octavia the Paladin actually why do we keep calling it a storm giant it's no good let's call it
+16:34
+16 minutes, 34 seconds
+Queen zerella the master of storms she demands the Loyalty of all giant kin after upending giant hierarchies to
+16:42
+16 minutes, 42 seconds
+elevate herself above all others let's make a playlist of boss battle music let's pair it with sound effects let's draw a battle map and name the
+16:50
+16 minutes, 50 seconds
+lieutenants we'll see the ticking clock earlier in the fight we'll make sure to tell the players about a horror story about a kraken's destructive capab ities
+16:59
+16 minutes, 59 seconds
+you know like 5 months ago or failing that at least a night before the fight we sketch and render the details at
+17:06
+17 minutes, 6 seconds
+flavor Stakes references tie giant kin into the adventure if you're running online find Art and a token if you're running in person get a good mini and
+17:15
+17 minutes, 15 seconds
+this whole thing will start to come together that's the power of presentation suddenly we're in a candlelit restaurant oh right the butter
+Chapter 16: Level Up BEFORE the fight!
+17:23
+17 minutes, 23 seconds
+knife make sure your players level up just before the battle starts your penultimate session ends with the boss showing up the fight about to begin and
+17:32
+17 minutes, 32 seconds
+then you end the session and you tell everyone to level up one last time give them that power boost ideally try to tie
+17:39
+17 minutes, 39 seconds
+this to a point in their characters levels where they hit a new power threshold like level 11 or 13 where the
+17:47
+17 minutes, 47 seconds
+Spells get more powerful and the marshals get their bigger abilities now your players can stab that giant with a proper steak Knife your final session
+17:55
+17 minutes, 55 seconds
+then starts with roll for initiative I try to always always make sure my end boss fights start at the beginning of a session that way there is space for an
+Chapter 17: Start sessions with the fight
+18:04
+18 minutes, 4 seconds
+epilog when we're done fighting lets them digest their food I taking the analogy too far I don't think so which brings me to a caveat here you can
+Chapter 18: Overcooked Fights
+18:12
+18 minutes, 12 seconds
+overcook the meal you might burn the steak drench it in sauce drown the baked potato in salt and now the only way to
+18:19
+18 minutes, 19 seconds
+make the meal palatable is by holding your nose that would suck since you know people who order steaks generally want to taste their food it's double Ed sword
+18:28
+18 minutes, 28 seconds
+really you know know how in Marvel movies all third act finale fights feel kind of the same at a certain point the
+18:34
+18 minutes, 34 seconds
+movie becomes a huge previs CGI action sequence for about 30 minutes guaranteed to produce excitement at least to some
+18:42
+18 minutes, 42 seconds
+degree sometimes it's a relief you're watching eternals it's not hitting you right then the third act finale starts and you breathe a sigh of relief the
+18:50
+18 minutes, 50 seconds
+movie at least sticks the ending a bit and now you can feel like it wasn't all that bad other times like in Changi you're left feeling disappointed that
+18:58
+18 minutes, 58 seconds
+kung fu movie also ended in a huge CGI slugfest you don't have to do all six ingredients you can mix and match play
+19:06
+19 minutes, 6 seconds
+around with expectations skip muks for more lieutenants or skip lieutenants for more muks just make sure it fits your game and theme and if you want something
+19:14
+19 minutes, 14 seconds
+reliable just stick to the six ingredient approach and it'll fit basically any game you want just make some preparation I suggest if it's your
+19:23
+19 minutes, 23 seconds
+first time you start by developing the entire meal as I've described and then start fiddling around with the options as you run more adventures and more boss
+19:31
+19 minutes, 31 seconds
+fights I often find that a satisfying boss fight can Elevate an otherwise mediocre Adventure like a internals so I'd suggest you give yourself a bit of
+Chapter 19: Put it all together
+19:39
+19 minutes, 39 seconds
+time to play around with this pick the cut marinate rub select sides garnish pair with a drink and present in a
+19:46
+19 minutes, 46 seconds
+palatable and appetizing way think that'll work feel like food analogy is tied to D andd I may have been inspired by fellow dungeon tuer nyobi and her
+19:54
+19 minutes, 54 seconds
+video can cooking help you become a better dungeon master she's a fantastic Creator and you folks will probably get a kick out of her videos was lucky enough to get to voice a character in
+20:01
+20 minutes, 1 second
+her upcoming video subscribe to see that that's where we'll pick it up next time thanks so much for watching this video this channel is run by me and my girlfriend and if you want to support
+Chapter 20: Join our discord!
+20:10
+20 minutes, 10 seconds
+directly consider joining our patreon any member or Patron gets access to our exclusive Discord where we hang out with a bunch of you folks and we talk about
+20:18
+20 minutes, 18 seconds
+the game books animals obsidian whatever it is you're interested in and if you're feeling especially generous you might like this video comment share or
+20:25
+20 minutes, 25 seconds
+subscribe and hit the Bell to be notified when we release new videos until next time keep studying the mystic Arts
+

@@ -1,0 +1,850 @@
+https://www.youtube.com/watch?v=mlyyjfXZo8s
+
+Meaningful campaigns
+0:00
+On page 37 of the Dungeon Master's
+0:02
+Guide, Gary Gyax wrote,
+0:03
+"You cannot have a meaningful campaign
+0:05
+if strict time records are not kept."
+0:09
+And low, nerds across the hobby
+0:11
+scratched their heads, wondering if
+0:13
+their campaigns were devoid of meaning.
+0:15
+More entrepreneurial nerds wondered how
+0:17
+best to keep strict time records [music]
+0:19
+and what that even means. Are we talking
+0:22
+round by round, dayby day, years between
+0:24
+campaigns? What's going on? On one hand,
+0:26
+Gary is talking about mechanics. Yeah,
+0:28
+back in AD and D you regained one hit
+0:31
+point a day. So, it was important to
+0:33
+know how many days were passing. But
+0:35
+also, back then they had dungeon
+0:37
+crawling rules, so time spent in a
+0:39
+dungeon was important. But it's about
+0:42
+more than that. I think you can split D
+0:44
+and D adventures into [music] six
+0:45
+different time scales. If you stick
+0:47
+around, I'll tell you why Gary Gyax is
+0:49
+wrong. Welcome to Mystic Arts, where we
+0:52
+overexamine that one Gigax quote dungeon
+0:54
+tubers talk about in every video about
+0:56
+time in Dn D. My name is Davi. I'm a
+0:58
+professional writer and director, and
+0:59
+I've been DMing for over 11 years. The
+Combat Time
+1:01
+goblin draws its sword and lunges at
+1:04
+you. Roll initiative. Now, we're in
+1:06
+combat where each round consists of 6
+1:08
+seconds of in-game or in universe time.
+1:12
+You can think of this time scale as
+1:13
+being in combat time, which is kind of
+1:15
+like bullet time from the Matrix. You
+1:17
+know, combat can take an hour or two to
+1:19
+play, but it happens in a few seconds in
+1:22
+the fictional world. That is probably
+1:23
+the thinnest we slice time at the table,
+1:26
+barring some major other circumstance.
+1:29
+In combat time, all the heroes fight in
+1:31
+bullet time, in slow-mo, and their
+1:33
+heroic instincts account for how quickly
+1:35
+they think on their feet in life or
+1:37
+death scenarios. Heroes know each other.
+1:41
+They're used to fighting as allies, so
+1:42
+they can cooperate. The players can talk
+1:45
+to each other. They can plan their turns
+1:47
+because the heroes know how all the
+1:49
+other heroes fight. And we know it's
+1:52
+important to keep track of combat time
+1:54
+using initiative because rules are so
+1:57
+specific. Most of the rules in this
+1:58
+hefty rule book are about combat time,
+2:01
+how it works, who can bend or break it,
+2:03
+all that stuff. You, as a player
+2:05
+character, have a set movement speed,
+2:07
+one action per round. Reactions recharge
+2:09
+on your turn. Legendary actions change
+2:12
+the rhythm of play. And there are plenty
+2:14
+of spells that have a duration of 1
+2:16
+minute, which is to say it'll be enough
+2:18
+for one combat, but no more than that.
+2:20
+All in all, that seems self-explanatory.
+2:23
+So, what are the other time scales?
+Real Time
+2:25
+Well, off the top of my head, there is
+2:27
+talking. Real time. Whenever you're
+2:29
+role-playing or engaging in dialogue,
+2:31
+you're talking in character and the DM's
+2:33
+talking in character. We assume that
+2:35
+time is passing in world in the same way
+2:38
+as it is at the table. And there are fun
+2:40
+bits to play around with real time. Some
+2:42
+DMs like to use timers, either on their
+2:45
+side of the screen, literally looking at
+2:46
+a clock ticking down, or maybe one
+2:48
+facing the players. You can get one of
+2:50
+those board game uh turn timer watches
+2:52
+or an actual ticking clock or go on
+2:54
+Google and look for timer counting down
+2:56
+30 seconds. Show it to your players and
+2:58
+you can put the real-time screws on
+2:59
+them. And hell, there are even old
+3:01
+modules and plenty of them that assume
+3:03
+that you're dungeon crawling in real
+3:05
+time. But since it is real time, you
+3:07
+can't really put mechanics on top of it.
+3:09
+You kind of have to just experiment with
+3:11
+playing around with how real time feels
+3:14
+at the table. What then should you do
+Dungeon Time
+3:16
+when the party enters the silvered vault
+3:18
+in the mountains north of Roachport?
+3:20
+They light their torches and prepare for
+3:22
+what is bound to be a few hours of
+3:25
+exploration. They enter dungeon time.
+3:27
+Remember how older editions had rules
+3:29
+for dungeon crawling? This is that. In
+3:31
+dungeon time, you slice time as an
+3:33
+increment of 10-minute rounds. Now, this
+3:36
+isn't a time scale that exists
+3:38
+explicitly in the player's handbook, at
+3:40
+least not in the current edition of the
+3:42
+game, but dungeon time or dungeon turns
+3:44
+or exploration turns, maybe we should
+3:47
+invent our own word, a loop, whatever
+3:49
+you want to call them, they've been
+3:50
+around since the dawn of the hobby.
+3:52
+They're kind of essential for big
+3:54
+dungeon crawls. And at first when you're
+3:57
+hearing about this, it may seem like an
+3:58
+odd time scale, but you quickly realize
+4:01
+that there is a lot of stuff in the D
+4:03
+and D players Handbook, the current
+4:05
+edition, that already uses 10-minute
+4:07
+turns. They just don't explicitly say
+4:10
+they do. Rituals take 10 minutes to
+4:12
+cast. Lots of spells last 10 minutes. In
+4:15
+particular, detect spells like detect
+4:17
+magic, detect thoughts, detect traps,
+4:19
+because they were originally designed to
+4:21
+help players exploring a dungeon in
+4:24
+dungeon time. Keeping track of time in
+4:26
+10-minute increments can be extremely
+4:28
+useful. This way, you can structure
+4:30
+random encounters in a dungeon. Rolling
+4:32
+for a random encounter after a certain
+4:34
+number of 10-minute turns, like three
+4:36
+turns for halfhour increments or every
+4:39
+six turns for 1 hour increments. You can
+4:41
+use dungeon time to grant meaning to a
+4:43
+dungeon crawl to make time matter.
+4:45
+That's what it's for. I'll go more into
+4:47
+depth on this in a video I'll make later
+4:49
+this month. I love dungeon time and you
+4:51
+can tell because so far every adventure
+4:53
+we've written for the broad sheets uses
+4:56
+dungeon turns to some degree. It's a
+4:58
+great way of making time matter inside
+5:01
+the adventure. Otherwise, our campaigns
+5:03
+risk becoming meaningless. At least
+5:05
+that's what Gary says.
+Travel Time
+5:08
+Next, I think is the sort of awkward
+5:10
+middle time of going from A to B.
+5:13
+Basically, travel time. Increments in
+5:15
+travel time can vary. Maybe it's a
+5:17
+matter of hours or a number of days. You
+5:19
+know, all depends on the journey, the
+5:21
+scale of the map, the campaign, whether
+5:22
+you're doing exploration or point
+5:24
+crawls, like I've talked about before on
+5:26
+this channel, you're probably using some
+5:29
+form of travel time. If your journey is
+5:31
+on a local map on a hex grid, where each
+5:33
+hex is 3 mi, you're probably tracking
+5:35
+time in terms of [music] hours. Entering
+5:37
+a forest hex takes 4 hours, a mountain
+5:40
+hex takes eight. If you're on a ship
+5:41
+journey or a long road journey on the
+5:43
+world map, you're tracking days in
+5:46
+hex's. So 5 24 mile hex's is 5 days
+5:50
+along a road. That makes sense to me.
+5:52
+This, I think, is where most adventures
+5:54
+progress timewise, where we mark off a
+5:56
+few days, and that's usually that. But
+5:59
+it's important to keep in mind that time
+6:01
+skipped when traveling is also a good
+6:03
+excuse to advance the story on several
+6:06
+fronts. You know, on one hand, player
+6:07
+characters get to know each other. You
+6:09
+know, offscreen, they bond over time.
+6:11
+They talk. We can assume they learn
+6:13
+things about one another. But on the
+6:14
+other hand, the bad guys plots and
+6:17
+schemes [music] can advance. The
+6:19
+politics of your world can progress onto
+6:21
+a later, more dangerous stage. The clock
+6:25
+keeps ticking as the party is moving
+6:27
+around the map. It's the inevitable
+6:29
+ticking along of the days and weeks. And
+6:31
+honestly, if you're not tracking time
+6:32
+already, you may want to do it for the
+6:34
+sake of travel time alone. Even if you
+6:37
+just think in terms of the campaign
+6:38
+started at day zero and now it's day 18,
+6:41
+that might be better and feel more
+6:43
+realistic than no time tracking at all.
+6:45
+I remember when we were playing West
+6:47
+Marches back in the day, keeping track
+6:49
+of time became very important because in
+6:51
+West March's style of play, you use it
+6:53
+to craft items or prepare for the
+6:55
+dungeon, make potions. They become these
+6:57
+kind of downtime actions. And if you are
+West Marches
+6:59
+playing a West Marches game and you want
+7:01
+to include that kind of thing, you can
+7:02
+use West Marches.game, games, the
+7:04
+sponsor of today's video, to handle it.
+7:06
+When you're using that website, there is
+7:07
+a thing called the marketplace where you
+7:09
+can spend money and you can spend time.
+7:11
+You can play around with all these
+7:12
+elements to take care of your
+7:14
+character's downtime when they're not
+7:16
+actively dungeon crawling. The website
+7:18
+ties directly into Discord by including
+7:20
+signups by character and automatic
+7:22
+reminders for everything. You can try
+7:24
+the whole thing for free, or you can get
+7:25
+their premium services by signing up to
+7:27
+their Patreon to support their creator.
+7:30
+In return, you'll get bigger maps, more
+7:31
+storage, and advanced tools. So whether
+7:33
+you're a player or a DM, go check out
+7:35
+west marches.games and see if it doesn't
+7:37
+solve your logistical problems for your
+7:39
+West Marches games right now. But also,
+Calendar Time
+7:41
+time doesn't move that much when players
+7:43
+walk around. Our in-game journeys rarely
+7:45
+take long enough that we're skipping
+7:47
+huge swaths of time. You know, enough to
+7:50
+have to all go buy new calendars or
+7:52
+begin to think about what season it is.
+7:54
+That's where calendar time comes in.
+7:57
+Once I made a calendar for my world, I
+7:59
+immediately believed in it more. Both
+8:01
+through small things as making sure to
+8:03
+describe taverns as being less busy on
+8:05
+Mondays or more busy on the weekend. My
+8:07
+world we call them moon days. Or being
+8:09
+able to mention days of the week in
+8:12
+character. Of course, that required me
+8:13
+to name the days of the weeks, the
+8:15
+months, the seasons, and the faces of
+8:17
+the moon, making weather tables, all
+8:19
+that stuff. Though, I'd caution you to
+8:20
+not make things too different. Your
+8:23
+players have limited storage space in
+8:25
+their brain for useless lore. Don't fill
+8:27
+it up with overly complex words for
+8:29
+months and days. Or, you know, do
+8:31
+something insane like have there be 29
+8:33
+months in 3-day weeks. I recommend
+8:35
+taking the real world calendar and
+8:37
+shifting it slightly in a couple of ways
+8:39
+to make it feel more fantasy. My
+8:42
+calendar's months are reference to the
+8:44
+seasons, and the days are a mixture
+8:46
+between the Icelandic names for days and
+8:48
+the English names for days of the week
+8:49
+[music] in what is a fairly explanatory
+8:52
+way to my table of Icelandic players. I
+8:54
+assume I'll make a video on fantasy
+8:56
+calendars at some point. Uh I I promise,
+8:58
+actually, that's two promises for future
+8:59
+videos in this episode. Calendar time
+9:01
+comes into play when you start skipping
+9:03
+around, when months might pass between
+9:05
+sessions, or when you find that a
+9:07
+session is taking place on a holiday.
+9:09
+Maybe you make that holiday interesting
+9:10
+by introducing either complimentary
+9:13
+moods. You know, you get happy news on a
+9:15
+celebratory holiday or sad news on a sad
+9:18
+holiday. Or you can use the mood as
+9:20
+contrast. If it's a sad holiday, have it
+9:23
+correspond with a happy event or vice
+9:25
+versa. I also tend to think of calendar
+9:27
+time as encompassing the next few and
+9:29
+the last few years of in-game time. You
+9:31
+know, somewhere between living memory
+9:33
+and whatever may happen over the course
+9:35
+of a grand campaign. That's five. But I
+Historical Time
+9:37
+think there's one time scale beyond
+9:39
+that. It's historical time. The deep
+9:41
+abyss of neverending time. This time
+9:44
+scale only comes up when discussing
+9:46
+something like how old ruins, artifacts,
+9:49
+or gods are. [music] Instead of saying
+9:51
+this sword is from 2,332
+9:54
+years ago, which is just fairly dry, you
+9:57
+can invoke historical time by saying
+9:59
+this sword comes from the age of ruin.
+10:02
+And now it has some kind of bakedin
+10:04
+implication. I for instance break my
+10:06
+historical ages down into periods and
+10:09
+each period into ages. This helps me
+10:11
+contextualize history in a series of
+10:14
+thematic ages and it makes it easy for
+10:16
+me to place an event in history because
+10:18
+I'm not arbitrarily saying a very big
+10:21
+number of years ago. I am naming the
+10:23
+age. Four periods prehistoric periodican
+10:26
+period draconic period and modern
+10:28
+period. And each period has ages. Like
+10:30
+the modern period encompasses almost
+10:32
+like 5,000 years with the ages of ruin,
+10:34
+heroes, grace, empires, war, peace, and
+10:37
+chaos. And if you want to set a game, a
+10:40
+whole campaign in your game's past,
+10:42
+historical time is perfect because check
+10:44
+this out. If you set a campaign 4 years
+10:46
+ago, you might end up creating a paradox
+10:49
+that changes the future. There are ways
+10:51
+around that. I've done it, but you'll
+10:53
+have to keep it in mind. But if you set
+10:55
+an event in another age or another
+10:57
+period, you're almost guaranteed to be
+11:00
+able to paper over any inconsistency.
+11:02
+Oh, we blew up this mountain in the
+11:04
+past. Well, a dwarf mountainmancer
+11:06
+missed it dearly and made a new one in
+11:08
+the intervening 1,000 years. I would say
+11:10
+do that sparingly and only when you
+11:12
+absolutely have to because having
+11:14
+consequences from the prequel ripple
+11:16
+into the modern game is awesome, but
+11:18
+retcons might need to happen. I've done
+11:20
+it. I just try to make sure to reccon
+11:22
+the least important part. If I can't
+11:24
+afford to just erase a mountain off the
+Strict Time Records
+11:26
+world, I'm going to do it. So, why is it
+11:27
+useful to think in these terms, these
+11:29
+six time scales, combat, real, dungeon,
+11:32
+travel, calendar, historical, because it
+11:34
+allows us to keep strict time records.
+11:37
+And I don't want to anger the ghost of
+11:39
+Gyax and make unmeaning games. Combat
+11:42
+time has its own time record mechanic.
+11:45
+It's called initiative. Dungeon Time
+11:47
+needs a homebrew one. I'm certain there
+11:48
+are some out there, but I'll go make my
+11:50
+own. and let you know when I'm done.
+11:51
+Travel and calendar time would be both
+11:54
+fixed by you, the DM, making a calendar.
+11:57
+So, go make a calendar or click the link
+11:59
+in the description and get mine. And
+12:01
+historical time you can invent by making
+12:03
+your own histories. I also put mine into
+12:05
+the first issue of the broad sheets, our
+Switching Time Gears
+12:08
+digital magazine. But more than that,
+12:09
+you can use these time scales to switch
+12:11
+between gears depending on the
+12:13
+appropriate time scale. You literally
+12:15
+hop between them. As you leave town and
+12:17
+walk towards the dungeon, you switch to
+12:19
+travel time. You zoom out to cover time
+12:22
+in days and hours. And when the party
+12:24
+arrives at the dungeon, you zoom in or
+12:26
+maybe gear down and slow us into dungeon
+12:29
+time. And when the party opens the door
+12:31
+that has all the goblins behind it, you
+12:33
+gear down again into first. You enter
+12:35
+combat time. And then out of combat time
+12:37
+to dungeon time, and when you leave
+12:38
+dungeon time, you switch to third.
+12:40
+You're at cruising speed in travel time.
+12:42
+Another way to think of it is that your
+12:44
+time scales [music] are your gearbox for
+12:47
+intensity. The more danger you're in,
+12:50
+the slower time goes. [music] And if
+12:52
+nothing interesting is about to happen
+12:54
+for a few months, put into top gear and
+12:56
+skip to calendar time. Skip to the next
+12:58
+interesting beat. If the main bad guy is
+13:01
+defeated, you skip to historical time
+13:03
+and come back during a more dramatic age
+13:05
+of history. There's a great video from
+TUNIC Gears
+13:07
+Questing Beast about the time until next
+13:09
+[music] impactful choice or tunic. If
+13:12
+you haven't seen it, absolutely go watch
+13:14
+it. Essentially, it boils down to you
+13:17
+should always skip until your next
+13:19
+impactful choice [music] because that's
+13:21
+what role- playinging games do that no
+13:23
+other game can do. It's what makes them
+Gary Gygax is Wrong
+13:26
+special. And one final note here at the
+13:27
+end of the video when viewers have
+13:28
+clicked off, I'm going to have to
+13:30
+disagree with Gyax. I think there are
+13:32
+plenty of games full of meaning with no
+13:35
+real time tracking. I played in a game I
+13:37
+loved which was all episodic sessions.
+13:40
+Each adventure a oneshot set in a
+13:42
+wizarding school. Every adventure took
+13:44
+place sometime later. And then we were
+13:47
+in school when something happened and we
+13:49
+all had to suddenly spring into action
+13:50
+and go do an adventure. We never took a
+13:52
+long rest in a session, only between
+13:54
+sessions. And time never mattered ever.
+13:57
+And I loved it. What makes a game
+13:59
+meaningful is the stuff that happens at
+14:01
+the table, not whether or not somebody
+14:03
+is keeping strict time records. So, go
+14:06
+run a game with no time tracking. Or go
+14:08
+make your own calendar or your world's
+14:10
+history and ages. Just go have fun.
+14:13
+That's what's most important. [music]
+14:14
+And that's where we'll pick it up next
+14:15
+time. Thanks so much for watching this
+Video Suggestions?
+14:17
+video. This channel is run by me and my
+14:18
+girlfriend. And if you want to support
+14:20
+us directly, consider joining our
+14:22
+Patreon. All patrons get access to our
+14:24
+Discord where this video idea came from.
+14:27
+Mr. teacher writes, "Was surprised that
+14:29
+I hadn't made a video about this, so I
+14:31
+created a new channel on the Discord
+14:32
+called video requests, where folks can
+14:35
+ask for literally any kind of video."
+14:37
+Okay, not any kind. If you're feeling
+14:38
+especially generous, you might like the
+14:40
+video, comment, share, or subscribe and
+14:41
+hit the bell to be notified when we
+14:42
+release new videos. And until next time,
+14:44
+keep studying the mystic arts.
+
