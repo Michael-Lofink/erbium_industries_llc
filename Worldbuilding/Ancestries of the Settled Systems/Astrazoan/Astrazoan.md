@@ -97,7 +97,24 @@ Some astrazoans accept formal assignments and build stable careers around one or
 
 Remembrance service occupies an uneasy position within astrazoan society. Some regard it as essential work that keeps settlements alive and prevents obsolete systems from failing. Others consider it an abusive practice that requires astrazoans to carry the faces and mannerisms of the dead for the convenience of institutions unwilling to replace their infrastructure.
 
-Astrazoans rarely form large ancestry-specific settlements. Their shared practices instead spread through professional networks, private gatherings, family groups, transformation instructors, and informal communities. These networks exchange adaptive clothing patterns, medical knowledge, warnings about exploitative employers, and techniques for maintaining difficult skins.
+Astrazoans rarely form large ancestry-specific settlements. Their shared practices instead spread through professional networks, private gatherings, family groups, transformation instructors, and informal communities. These networks exchange adaptive clothing patterns, medical knowledge, warnings about ex"The wielding of radiance to elevate the essential aspects of the world"
+
+ 
+
+Domain's suns are actually magical shards that produce light, heat, and Radiance.
+The primary radiance's are: yellow radiance (Body/Material), blue radiance (Mind/Cerebral), and red radiance (Spirit/Ethereal).
+An elevancer can use their Prismacs to refract their radiance reserves to the respective Tertiary or Secondary radiance.
+When an elevancer depletes their radiance reserves, they become dimmed (drained of color), and must rest to restore their reserves.
+
+
+Elevancy schools: Evoker, Psion, Mystic
+Elevancy practioner: Elevancer
+Elevancy Prismacs: Spirit, Body, and Mind
+
+
+Prime Essences: Ethereal, Material, Cerebral
+Prime Essential Aspects: Will (Spirit/Ethereal), Inspiration (Spirit/Ethereal), Forces (Body/Material), Elements (Body/Material), Emotion (Mind/Cerebral), and Thought (Mind/Cerebral)
+Twin Essential Aspects: Time (Spirit & Body/Ethereal & Material), Fate (Spirit & Mind), and Perception (Body & Mind)ploitative employers, and techniques for maintaining difficult skins.
 
 Many astrazoans form families with members of the communities they join. Others reproduce through budding, producing young who can alter their skin color and texture almost immediately but require years to master complete transformation. Most consider the continuation of their ancestry a personal decision rather than a universal duty, though isolated astrazoans may feel pressure to ensure that their people do not disappear into the cultures around them.
 

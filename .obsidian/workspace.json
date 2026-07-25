@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Human"
+              "title": "Lashunta"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Human"
+              "title": "Outline of Lashunta"
             }
           },
           {
@@ -220,18 +220,21 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
+    "Resources/ancestryPortrait_Human2.png",
+    "Resources/ancestryPortrait_Human.png",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
     "Resources/ancestryPortrait_Fonqugon.png",
     "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
     "Worldbuilding/Erbium Campaign Art Style.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
     "Resources/ancestryPortrait_Dwarf.png",
@@ -248,7 +251,6 @@
     "Templates/Corporate Frontier Grit — Image Prompt Templates.md",
     "Templates/Ancestry Outline.md",
     "Templates/Advance Stamp.md",
-    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
     "Resources/ancestryPortrait_Astrazoan1.png",
     "Worldbuilding/Settled Systems Code/A2/1/4/13",
     "Worldbuilding/Settled Systems Code/A2/1/4",
@@ -263,8 +265,6 @@
     "Resources/ancestryPortrait_Android.png",
     "Resources/ancestryPortrait_Astrazoan4.png",
     "Resources/ancestryPortrait_Astrazoan3.png",
-    "Resources/ancestryPortrait_Astrazoan2.png",
-    "ChatGPT Image Jul 20, 2026, 11_22_05 AM_birefnet.png",
-    "ChatGPT Image Jul 20, 2026, 11_19_45 AM_inspyrenet.png"
+    "Resources/ancestryPortrait_Astrazoan2.png"
   ]
 }

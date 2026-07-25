@@ -85,7 +85,24 @@ Asha, Celita, Daniv, Flick, Garro, Iseph, Melody, Naga, Olas, Omen, Prime, Strin
 # Other Information
 ## Erbium Proprietary Property
 Most android bodies in the Settled Systems contain components leased from Erbium Industries. These contracts permit Erbium to collect recurring payments, restrict authorized repairs, audit installed components, and pursue repossession of leased parts.
+"The wielding of radiance to elevate the essential aspects of the world"
 
+ 
+
+Domain's suns are actually magical shards that produce light, heat, and Radiance.
+The primary radiance's are: yellow radiance (Body/Material), blue radiance (Mind/Cerebral), and red radiance (Spirit/Ethereal).
+An elevancer can use their Prismacs to refract their radiance reserves to the respective Tertiary or Secondary radiance.
+When an elevancer depletes their radiance reserves, they become dimmed (drained of color), and must rest to restore their reserves.
+
+
+Elevancy schools: Evoker, Psion, Mystic
+Elevancy practioner: Elevancer
+Elevancy Prismacs: Spirit, Body, and Mind
+
+
+Prime Essences: Ethereal, Material, Cerebral
+Prime Essential Aspects: Will (Spirit/Ethereal), Inspiration (Spirit/Ethereal), Forces (Body/Material), Elements (Body/Material), Emotion (Mind/Cerebral), and Thought (Mind/Cerebral)
+Twin Essential Aspects: Time (Spirit & Body/Ethereal & Material), Fate (Spirit & Mind), and Perception (Body & Mind)
 This legal status has no automatic effect on your available credits unless the campaign uses part-lease rules. Your GM may use unpaid leases, unauthorized modifications, repossession orders, severance from Erbium relays, or disputes over component ownership as story complications.
 
 #### Lease-Bound

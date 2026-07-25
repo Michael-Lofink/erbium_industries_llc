@@ -126,7 +126,24 @@ Large-scale heavy industry is restricted on Vuddar. Most advanced manufacturing 
 ## The Ring and Moons
 
 Vuddar possesses a stable ice ring and two unstable satellites. The ring is visible across much of the planet and has influenced dwarven calendars, navigation, architecture, and visual art. It also provides water and other volatile resources to orbital settlements without requiring extraction from Vuddar’s oceans.
+"The wielding of radiance to elevate the essential aspects of the world"
 
+ 
+
+Domain's suns are actually magical shards that produce light, heat, and Radiance.
+The primary radiance's are: yellow radiance (Body/Material), blue radiance (Mind/Cerebral), and red radiance (Spirit/Ethereal).
+An elevancer can use their Prismacs to refract their radiance reserves to the respective Tertiary or Secondary radiance.
+When an elevancer depletes their radiance reserves, they become dimmed (drained of color), and must rest to restore their reserves.
+
+
+Elevancy schools: Evoker, Psion, Mystic
+Elevancy practioner: Elevancer
+Elevancy Prismacs: Spirit, Body, and Mind
+
+
+Prime Essences: Ethereal, Material, Cerebral
+Prime Essential Aspects: Will (Spirit/Ethereal), Inspiration (Spirit/Ethereal), Forces (Body/Material), Elements (Body/Material), Emotion (Mind/Cerebral), and Thought (Mind/Cerebral)
+Twin Essential Aspects: Time (Spirit & Body/Ethereal & Material), Fate (Spirit & Mind), and Perception (Body & Mind)
 Zeta Hydrae II-II is a large cratered moon with low gravity, tidal heating, mineral deposits, water ice, and a suspected subsurface ocean. It supports mines, laboratories, buried habitats, and old clan installations. Its unstable orbit requires constant monitoring and periodic relocation of surface infrastructure.
 
 Zeta Hydrae II-III is a much smaller asteroid-like body with almost negligible gravity. Early dwarven missions used it as a navigation marker and orbital waypoint. Modern installations include communications equipment, observatories, fuel storage, and automated tidal-monitoring systems.
