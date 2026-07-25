@@ -50,6 +50,7 @@ Damayas are tall, slender, and deliberately graceful. Their bodies emphasize bil
 
 Damayas retain enough alien traits to be recognizably lashunta. Their antennae remain prominent, and many possess small chitinous ridges around the brow, temples, shoulders, or spine. Fine scales, sensory nodules, unusual pigmentation, and geometric facial markings are common. These features are usually arranged around an otherwise humanoid face rather than replacing it.
 
+![[ancestryPortrait_Lashunta2.png#wrapright|300]]
 Korashas possess shorter, broader, and more muscular bodies. Their skeletons, connective tissues, and nervous systems are reinforced for physical labor, rapid movement, and violent impact. Their faces remain recognizably humanoid and are frequently considered attractive, though heavier jaws, stronger brows, thicker skin, visible chitin, and prominent cranial ridges are more common than among Damayas.
 
 The Korasha body is built to appear powerful without appearing uncontrolled. Settled Systems media favors Korashas whose strength is balanced by symmetry, composure, clean posture, and disciplined movement. An attractive Korasha is expected to look capable of violence while reassuring observers that the violence will be directed only where authorized.
@@ -167,7 +168,7 @@ Their strength is often treated as public property. Employers assume Korashas sh
 Korasha anger is accepted when directed at approved threats. It is treated as instability when directed at supervisors, institutions, or the conditions under which Korashas are expected to sacrifice themselves.
 
 ## Katalash
-
+![[ancestryPortrait_Lashunta3.png#wrapright|300]]
 Katalash preserve and enhance ancestral lashunta morphology. Their bodies are generally less attractive to humanoid observers, more difficult to accommodate, and more likely to provoke instinctive fear.
 
 Katalash communities do not consider those reactions morally neutral. They argue that Damayas and Korashas reshaped themselves around the preferences of foreign peoples and then renamed the resulting benefits self-improvement.
