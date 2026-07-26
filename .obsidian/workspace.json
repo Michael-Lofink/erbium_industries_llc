@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Madrosarai"
+              "title": "Vesk"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Madrosarai"
+              "title": "Backlinks for Vesk"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Madrosarai"
+              "title": "Outgoing links from Vesk"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Madrosarai"
+              "title": "Outline of Vesk"
             }
           },
           {
@@ -222,11 +222,16 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+    "ancestryPortrait_Vesk2.png",
+    "ancestryPortrait_Vesk.png",
+    "Resources/ancestryPortrait_Madrosarai.png",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Resources/ancestryPortrait_Madrosarai2.png",
+    "Worldbuilding/Notable Locations/Zakaron.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
-    "Worldbuilding/Notable Locations/Zakaron.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Resources/Zakaron-System_v01.json",
     "Resources/planet_Zakaron.png",
@@ -248,8 +253,6 @@
     "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
     "Worldbuilding/Erbium Campaign Art Style.md",
     "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
-    "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
-    "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
     "Resources/The_Settled_Systems_and_Beyond-Starmap_01.json",
     "Resources/My_Starmap-Starmap.json",
     "Resources/Ossuun-Fonqugon-Home-System_v01.json",
@@ -264,9 +267,6 @@
     "Resources/Get Players to Roleplay by RENDERING Scenes.txt",
     "Resources/ancestryPortrait_Human2.png",
     "Resources/ancestryPortrait_Human.png",
-    "Resources/ancestryPortrait_Fonqugon.png",
-    "Resources/ancestryPortrait_Dwarf.png",
-    "Resources/ancestryPortrait_Astrazoan1.png",
-    "Resources/ancestryPortrait_Brenneri.png"
+    "Resources/ancestryPortrait_Fonqugon.png"
   ]
 }

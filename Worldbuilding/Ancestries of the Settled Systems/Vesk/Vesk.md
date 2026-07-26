@@ -212,7 +212,7 @@ Leaving service can mean surrendering equipment integrated into the body. Some h
 Erbium contracts use similar structures for offworld vesk security personnel. Corporate equipment agreements may treat armor interfaces, reinforced organs, combat prosthetics, and targeting implants as leased service assets.
 
 ## Vesk Beyond Zakaron
-
+![[ancestryPortrait_Vesk2.png#wrapright|300]]
 Vesk migration began during and after the War of the Open Stars. Some communities originated as occupation forces that remained after the peace. Others formed around prisoners, diplomats, merchants, technicians, military exchanges, political exiles, and workers recruited into Settled Systems industries.
 
 Nine centuries of migration have produced communities with their own traditions. A vesk family on Agrio Dysis IV may define honor through ranch protection and water agreements. A Theosis-born vesk may inherit a corporate security career, reject it, or organize pressure workers against the same institution that employed their parents.
