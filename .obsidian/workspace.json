@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+                "file": "Worldbuilding/Notable Locations/Zakaron.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lashunta"
+              "title": "Zakaron"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+                "file": "Worldbuilding/Notable Locations/Zakaron.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lashunta"
+              "title": "Outline of Zakaron"
             }
           },
           {
@@ -220,14 +220,33 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+    "Resources/planet_Zakaron.png",
+    "Worldbuilding/Notable Locations/Zakaron.md",
+    "Worldbuilding/Time in the Settled Systems.md",
+    "Worldbuilding/Settled Systems Code/Generating a New Law.md",
+    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
+    "Campaign/System/Campaign Clock.md",
+    "Campaign/Plot Hook.md",
+    "Campaign/Campaign Timeline.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+    "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
+    "Worldbuilding/Erbium Campaign Art Style.md",
+    "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
+    "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
+    "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
+    "Resources/The_Settled_Systems_and_Beyond-Starmap_01.json",
     "Resources/My_Starmap-Starmap.json",
     "Resources/Ossuun-Fonqugon-Home-System_v01.json",
     "Resources/Agrio-Dysis-System_v01.json",
@@ -235,36 +254,16 @@
     "Resources/ancestryPortrait_Lashunta.png",
     "Resources/ancestryPortrait_Lashunta3.png",
     "Resources/ancestryPortrait_Lashunta2.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Resources/Stop undercooking your Boss Fights.txt",
     "Resources/8 Types of Combat, Actually.txt",
     "Resources/The 5 Room Dungeon is a Story Structure.txt",
     "Resources/Get Players to Roleplay by RENDERING Scenes.txt",
     "Resources/8 Types of Ambushes to Start Your Adventure!.txt",
-    "Resources/You can just steal things and put them in your game .txt",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
-    "Templates/Ancestry Outline.md",
-    "Templates/Advance Stamp.md",
-    "Templates/Corporate Frontier Grit — Image Prompt Templates.md",
     "Resources/ancestryPortrait_Human2.png",
     "Resources/ancestryPortrait_Human.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
     "Resources/ancestryPortrait_Fonqugon.png",
-    "Worldbuilding/Erbium Campaign Art Style.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
     "Resources/ancestryPortrait_Dwarf.png",
-    "Campaign/System/Campaign Clock.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
-    "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
-    "Starfinder 2e Rules/Actions/Pardon Me.md",
-    "Starfinder 2e Rules/Actions/Empathic Assistance.md",
     "Resources/ancestryPortrait_Astrazoan1.png",
-    "Resources/ancestryPortrait_Brenneri.png",
-    "Resources/ancestryPortrait_Android.png"
+    "Resources/ancestryPortrait_Brenneri.png"
   ]
 }
