@@ -11,14 +11,12 @@
             "id": "bd412512e6cfaaef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
-                "mode": "preview",
-                "source": true
+                "file": "Resources/ancestryPortrait_Vesk.png"
               },
-              "icon": "lucide-file",
-              "title": "Vesk"
+              "icon": "lucide-image",
+              "title": "ancestryPortrait_Vesk"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+                "file": "Resources/ancestryPortrait_Vesk.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vesk"
+              "title": "Backlinks for ancestryPortrait_Vesk"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+                "file": "Resources/ancestryPortrait_Vesk.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vesk"
+              "title": "Outgoing links from ancestryPortrait_Vesk"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+                "file": "Resources/ancestryPortrait_Vesk.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vesk"
+              "title": "Outline of ancestryPortrait_Vesk"
             }
           },
           {
@@ -220,16 +218,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bd412512e6cfaaef",
+  "active": "b25d00fc11f20878",
   "lastOpenFiles": [
-    "ancestryPortrait_Vesk2.png",
-    "ancestryPortrait_Vesk.png",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+    "Resources/ancestryPortrait_Vesk2.png",
+    "Resources/ancestryPortrait_Vesk.png",
     "Resources/ancestryPortrait_Madrosarai.png",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Resources/ancestryPortrait_Madrosarai2.png",
     "Worldbuilding/Notable Locations/Zakaron.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
@@ -266,7 +264,6 @@
     "Resources/The 5 Room Dungeon is a Story Structure.txt",
     "Resources/Get Players to Roleplay by RENDERING Scenes.txt",
     "Resources/ancestryPortrait_Human2.png",
-    "Resources/ancestryPortrait_Human.png",
-    "Resources/ancestryPortrait_Fonqugon.png"
+    "Resources/ancestryPortrait_Human.png"
   ]
 }
