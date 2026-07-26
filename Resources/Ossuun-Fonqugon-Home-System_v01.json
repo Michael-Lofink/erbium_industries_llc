@@ -1,0 +1,969 @@
+{
+  "id": "settled-systems-ossuun-v01",
+  "name": "Ossuun System",
+  "seed": "settled-systems-ossuun-fonqugon-v01",
+  "epochT0": 1784846400000,
+  "age_Gyr": 7.1,
+  "nodes": [
+    {
+      "id": "ossuun-star-a",
+      "parentId": null,
+      "name": "Ossuun Primary",
+      "kind": "body",
+      "roleHint": "star",
+      "classes": [
+        "star/K",
+        "star/K2V"
+      ],
+      "massKg": 1.590776e+30,
+      "radiusKm": 542646.0,
+      "temperatureK": 5050,
+      "radiationOutput": 0.36,
+      "magneticField": {
+        "strengthGauss": 1.1
+      },
+      "image": {
+        "url": "/images/star_types/K.webp"
+      },
+      "tags": [],
+      "areas": [],
+      "description": "A quiet orange K-type main-sequence star. Its long-lived, comparatively steady output allowed complex life to develop on Ossuun over billions of years.",
+      "isNameUserDefined": true,
+      "flareActivity": 0.018
+    },
+    {
+      "id": "ossuun-vekk",
+      "parentId": "ossuun-star-a",
+      "name": "Vekk",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-star-a",
+        "hostMu": 1.061733538972214e+20,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.17,
+          "e": 0.025,
+          "i_deg": 2.1,
+          "omega_deg": 141.0,
+          "Omega_deg": 21.0,
+          "M0_rad": 0.6
+        },
+        "resonance": null
+      },
+      "massKg": 2.866656e+24,
+      "radiusKm": 4969.38,
+      "makeup": {
+        "metal": 0.42,
+        "rock": 0.58
+      },
+      "atmosphere": {
+        "name": "None",
+        "composition": {},
+        "pressure_bar": 0
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 1.2,
+      "rotation_period_hours": 686.9594457609663,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.02
+      },
+      "tags": [
+        {
+          "key": "purpose/automated-extraction",
+          "manual": true
+        },
+        {
+          "key": "lore/erbium-thermal-mines",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "vekk-area-thermal-lease-01",
+          "name": "Thermal Lease 01",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/extraction",
+              "manual": true
+            }
+          ],
+          "description": "A dispersed field of shielded automated mines and short-duration service shelters operated under an Erbium mineral lease.",
+          "gmNotes": "The facility is mostly unmanned. Fonqugon contractors remotely model heat expansion and equipment failure from Ossuun orbit."
+        }
+      ],
+      "description": "A tidally locked, metal-rich inner world. Its exposed dayside is mined by automated equipment while service crews operate only during carefully timed maintenance windows.",
+      "image": {
+        "url": "/images/planet_types/web20iron20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-talu",
+      "parentId": "ossuun-star-a",
+      "name": "Talu",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-star-a",
+        "hostMu": 1.0617348942208657e+20,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.34,
+          "e": 0.031,
+          "i_deg": 1.4,
+          "omega_deg": 37.0,
+          "Omega_deg": 214.0,
+          "M0_rad": 2.2
+        },
+        "resonance": null
+      },
+      "massKg": 4.897204e+24,
+      "radiusKm": 5925.030000000001,
+      "makeup": {
+        "metal": 0.31,
+        "rock": 0.69
+      },
+      "atmosphere": {
+        "name": "Thin Carbon Dioxide–Nitrogen Atmosphere",
+        "main": "CO2",
+        "composition": {
+          "CO2": 0.82,
+          "N2": 0.15,
+          "SO2": 0.03
+        },
+        "pressure_bar": 0.18
+      },
+      "hydrosphere": {
+        "coverage": 0.01,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 8.5,
+      "rotation_period_hours": 39.2,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.11
+      },
+      "tags": [
+        {
+          "key": "owner/corporation",
+          "manual": true
+        },
+        {
+          "key": "purpose/extraction",
+          "manual": true
+        },
+        {
+          "key": "lore/ossuun-industrial-buffer",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "talu-area-kett-shield",
+          "name": "Kett Shield Refinery",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/refining",
+              "manual": true
+            }
+          ],
+          "description": "A sealed refinery complex processing metals from Talu and the inner system before shipment to Ossuun.",
+          "gmNotes": "Erbium promotes Talu as proof that heavy industry can remain off Ossuun. Fonqugon confluences dispute how much refinery waste is entering the system's transport economy."
+        }
+      ],
+      "description": "A hot, dry terrestrial world used as the system's principal heavy-industry buffer. Most permanent habitation is sealed and clustered around extraction and refining sites.",
+      "image": {
+        "url": "/images/planet_types/web20desert20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-homeworld",
+      "parentId": "ossuun-star-a",
+      "name": "Ossuun",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-star-a",
+        "hostMu": 1.0617354124041737e+20,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.61,
+          "e": 0.018,
+          "i_deg": 0.7,
+          "omega_deg": 116.0,
+          "Omega_deg": 73.0,
+          "M0_rad": 4.0
+        },
+        "resonance": null
+      },
+      "massKg": 5.67359e+24,
+      "radiusKm": 6434.71,
+      "makeup": {
+        "metal": 0.3,
+        "rock": 0.67,
+        "ice": 0.03
+      },
+      "atmosphere": {
+        "name": "Humid Nitrogen–Oxygen Atmosphere",
+        "main": "N2",
+        "composition": {
+          "N2": 0.758,
+          "O2": 0.225,
+          "Ar": 0.012,
+          "CO2": 0.0015,
+          "H2O": 0.0035
+        },
+        "pressure_bar": 1.18
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 0.74,
+        "depth_m": 1400
+      },
+      "biosphere": {
+        "complexity": "complex",
+        "coverage": 0.86,
+        "biochemistry": "water-carbon",
+        "energy_source": "photosynthesis",
+        "morphologies": [
+          "microbial",
+          "fungal",
+          "flora",
+          "fauna"
+        ]
+      },
+      "axial_tilt_deg": 17.8,
+      "rotation_period_hours": 29.4,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.47
+      },
+      "tags": [
+        {
+          "key": "lore/fonqugon-homeworld",
+          "manual": true
+        },
+        {
+          "key": "lore/cradle-colonies",
+          "manual": true
+        },
+        {
+          "key": "lore/living-archives",
+          "manual": true
+        },
+        {
+          "key": "politics/contested-information",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "ossuun-area-siltglass",
+          "name": "Siltglass Cradle Basin",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "lore/cradle-colony",
+              "manual": true
+            },
+            {
+              "key": "lore/living-archive",
+              "manual": true
+            }
+          ],
+          "description": "A broad freshwater shelf containing several ancient cradle colonies and layered communal archives preserved in mineral-rich membranes."
+        },
+        {
+          "id": "ossuun-area-hollow-reed",
+          "name": "Hollow Reed Confluence",
+          "type": "city",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "government/confluence",
+              "manual": true
+            },
+            {
+              "key": "lore/fonqugon",
+              "manual": true
+            }
+          ],
+          "description": "A modular wetland city whose floating districts host one of Ossuun's largest recurring planetary confluences."
+        },
+        {
+          "id": "ossuun-area-site-44c",
+          "name": "Biological Continuity Site 44-C",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/biological-continuity",
+              "manual": true
+            }
+          ],
+          "description": "An Erbium-operated nursery and research facility licensed to maintain offworld-compatible cradle-colony cultures.",
+          "gmNotes": "Site 44-C is a major source of filtration patents, developmental debt, and restricted ambering research."
+        }
+      ],
+      "description": "The Fonqugon homeworld is a warm planet of shallow oceans, freshwater basins, mineral marshes, low continents, and vast floodplains. Two resonant moons create powerful but predictable tides whose interactions with rainfall, groundwater, and biological blooms shaped Fonqugon systems thinking.",
+      "gmNotes": "Ossuun's public environmental data is politically contested. Erbium controls much of the orbital sensor infrastructure but does not possess uncontested authority over the planet's confluences or cradle colonies.",
+      "image": {
+        "url": "/images/planet_types/web20jungle20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-nebb",
+      "parentId": "ossuun-homeworld",
+      "name": "Nebb",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-homeworld",
+        "hostMu": 382209796369999.94,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.0017379926517897958,
+          "e": 0.008,
+          "i_deg": 1.1,
+          "omega_deg": 221.0,
+          "Omega_deg": 44.0,
+          "M0_rad": 1.3
+        },
+        "resonance": null
+      },
+      "massKg": 5.3e+22,
+      "radiusKm": 1500.0,
+      "makeup": {
+        "metal": 0.24,
+        "rock": 0.76
+      },
+      "atmosphere": {
+        "name": "Tenuous Argon Exosphere",
+        "main": "Ar",
+        "composition": {
+          "Ar": 1.0
+        },
+        "pressure_bar": 1e-09
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.4,
+      "rotation_period_hours": 376.01533189064224,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0
+      },
+      "tags": [
+        {
+          "key": "lore/tidal-calendar",
+          "manual": true
+        },
+        {
+          "key": "purpose/observation",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "The larger and inner of Ossuun's two moons. Its regular motion anchors many tidal forecasts, civic calendars, and historical environmental models.",
+      "image": {
+        "url": "/images/planet_types/web20mesoplanet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-yaru",
+      "parentId": "ossuun-homeworld",
+      "name": "Yaru",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-homeworld",
+        "hostMu": 379940534370000.0,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.002758891363764122,
+          "e": 0.012,
+          "i_deg": 2.4,
+          "omega_deg": 81.0,
+          "Omega_deg": 199.0,
+          "M0_rad": 4.4
+        },
+        "resonance": {
+          "numerator": 2,
+          "denominator": 1
+        }
+      },
+      "massKg": 1.9e+22,
+      "radiusKm": 1250.0,
+      "makeup": {
+        "rock": 0.45,
+        "ice": 0.55
+      },
+      "atmosphere": {
+        "name": "Tenuous Water–Oxygen Exosphere",
+        "main": "O2",
+        "composition": {
+          "O2": 0.65,
+          "H2O": 0.35
+        },
+        "pressure_bar": 1e-10
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 1.0
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.7,
+      "rotation_period_hours": 752.0306637812845,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.003
+      },
+      "tags": [
+        {
+          "key": "lore/tidal-calendar",
+          "manual": true
+        },
+        {
+          "key": "lore/resonant-moon",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "An ice-rich outer moon locked in an approximately 2:1 orbital resonance with Nebb. The pair's overlapping tidal cycles are central to Ossuun's ecological forecasting traditions.",
+      "image": {
+        "url": "/images/planet_types/web20ice20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-forecast-array",
+      "parentId": "ossuun-homeworld",
+      "ui_parentId": null,
+      "name": "Ossuun Integrated Forecast Array",
+      "kind": "construct",
+      "roleHint": "station",
+      "class": "Settled Systems/Station/Research",
+      "description": "A large orbital observatory integrating weather, tidal, groundwater, biosphere, and relay data for planetary forecasting.",
+      "gmNotes": "Erbium routes the array's highest-resolution data through proprietary servers before public release. Several Fonqugon confluences maintain independent instruments to audit its models.",
+      "IsTemplate": false,
+      "icon_type": "hexagon",
+      "icon_color": "#c45a9b",
+      "crew": {
+        "current": 420,
+        "max": 600
+      },
+      "physical_parameters": {
+        "dimensionsM": [
+          480,
+          180,
+          180
+        ],
+        "massKg": 750000000,
+        "cargoCapacity_tonnes": 40000,
+        "rotation_period_hours": 8,
+        "spinRadiusM": 90,
+        "can_aerobrake": false,
+        "has_landing_gear": false
+      },
+      "engines": [
+        {
+          "engine_id": "engine-grav-station-keeping",
+          "quantity": 4
+        },
+        {
+          "engine_id": "engine-rcs-hydrazine",
+          "quantity": 24
+        }
+      ],
+      "fuel_tanks": [
+        {
+          "fuel_type_id": "fuel-hydrazine",
+          "capacity_units": 80000,
+          "current_units": 64000
+        }
+      ],
+      "systems": {
+        "power_plants": [
+          {
+            "type": "Fusion Reactor",
+            "output_MW": 350
+          }
+        ],
+        "modules": [
+          "Planetary Sensor Spine",
+          "Relay Authentication Core",
+          "Confluence Review Chamber",
+          "Cradle Ecology Laboratory"
+        ],
+        "life_support": {
+          "consumables_max_person_days": 600000,
+          "consumables_current_person_days": 520000
+        }
+      },
+      "current_cargo_tonnes": 8000,
+      "cargoDescription": "Sensor components, water-treatment cultures, replacement relay hardware",
+      "orbit": {
+        "hostId": "ossuun-homeworld",
+        "hostMu": 378672417370000.06,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.00020053761366805337,
+          "e": 0.001,
+          "i_deg": 0.3,
+          "omega_deg": 0,
+          "Omega_deg": 0,
+          "M0_rad": 5.2
+        },
+        "resonance": null
+      },
+      "placement": "High Orbit",
+      "tags": [
+        {
+          "key": "owner/corporation",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "purpose/survey-science",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "purpose/comms-relay",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "purpose/research",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "class/station",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "tech/standard",
+          "coi": true,
+          "manual": true
+        }
+      ],
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-pebb",
+      "parentId": "ossuun-star-a",
+      "name": "Pebb",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-star-a",
+        "hostMu": 1.0617399963334364e+20,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 1.12,
+          "e": 0.041,
+          "i_deg": 2.8,
+          "omega_deg": 189.0,
+          "Omega_deg": 331.0,
+          "M0_rad": 1.1
+        },
+        "resonance": null
+      },
+      "massKg": 1.254162e+25,
+      "radiusKm": 8154.88,
+      "makeup": {
+        "metal": 0.22,
+        "rock": 0.43,
+        "ice": 0.35
+      },
+      "atmosphere": {
+        "name": "Cold Nitrogen–Carbon Dioxide Atmosphere",
+        "main": "N2",
+        "composition": {
+          "N2": 0.84,
+          "CO2": 0.12,
+          "Ar": 0.04
+        },
+        "pressure_bar": 0.65
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 0.82,
+        "depth_m": 6000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 24.1,
+      "rotation_period_hours": 31.0,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.21
+      },
+      "tags": [
+        {
+          "key": "purpose/cryosphere-research",
+          "manual": true
+        },
+        {
+          "key": "lore/ossuun-outer-survey",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "pebb-area-deep-bloom",
+          "name": "Deep Bloom Survey Vault",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/research",
+              "manual": true
+            },
+            {
+              "key": "owner/consortium",
+              "manual": true
+            }
+          ],
+          "description": "A buried survey station monitoring Pebb's ice shell, volatile inventory, and possible transient subsurface liquid layers."
+        }
+      ],
+      "description": "A cold super-Earth beyond the primary temperate zone. Most of its water is frozen, making it a major source of volatiles and a long-term target for subsurface research.",
+      "image": {
+        "url": "/images/planet_types/web20ice20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-main-belt",
+      "parentId": "ossuun-star-a",
+      "name": "Ossuun Main Belt",
+      "kind": "body",
+      "roleHint": "belt",
+      "classes": [],
+      "radiusInnerKm": 257308337.604,
+      "radiusOuterKm": 350059017.438,
+      "orbit": {
+        "hostId": "ossuun-star-a",
+        "hostMu": 1.061731627415318e+20,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 2.03,
+          "e": 0.06,
+          "i_deg": 5.4,
+          "omega_deg": 51.0,
+          "Omega_deg": 87.0,
+          "M0_rad": 2.7
+        },
+        "resonance": null
+      },
+      "massKg": 2.6e+21,
+      "tags": [
+        {
+          "key": "purpose/extraction",
+          "manual": true
+        },
+        {
+          "key": "lore/contested-claims",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A broad belt of rocky and carbonaceous bodies. Erbium holds many of the largest extraction claims, while Ossuun-based cooperatives operate smaller surveyed clusters.",
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-dorrun",
+      "parentId": "ossuun-star-a",
+      "name": "Dorrun",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-star-a",
+        "hostMu": 1.0622637106204778e+20,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 3.7,
+          "e": 0.035,
+          "i_deg": 1.9,
+          "omega_deg": 263.0,
+          "Omega_deg": 124.0,
+          "M0_rad": 5.5
+        },
+        "resonance": null
+      },
+      "massKg": 7.972146e+26,
+      "radiusKm": 61521.68,
+      "makeup": {
+        "gas": 0.92,
+        "ice": 0.08
+      },
+      "atmosphere": {
+        "name": "Hydrogen–Helium Envelope",
+        "main": "H2",
+        "composition": {
+          "H2": 0.86,
+          "He": 0.135,
+          "CH4": 0.005
+        },
+        "pressure_bar": 140000
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 11.6,
+      "rotation_period_hours": 11.2,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 2.2
+      },
+      "tags": [
+        {
+          "key": "purpose/gas-skimming",
+          "manual": true
+        },
+        {
+          "key": "lore/outer-system-anchor",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A ringed gas giant that dominates the outer system. Its atmosphere, moons, and stable gravitational environment support fuel harvesting, research, and long-duration waystations.",
+      "image": {
+        "url": "/images/planet_types/web20ammonia20clouds20gas20giant.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-dorrun-rings",
+      "parentId": "ossuun-dorrun",
+      "name": "Dorrun Rings",
+      "kind": "body",
+      "roleHint": "ring",
+      "classes": [],
+      "radiusInnerKm": 86000,
+      "radiusOuterKm": 145000,
+      "orbit": {
+        "hostId": "ossuun-dorrun",
+        "hostMu": 5.320849538265999e+16,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.0007720698126220055,
+          "e": 0,
+          "i_deg": 0.2,
+          "omega_deg": 0,
+          "Omega_deg": 0,
+          "M0_rad": 0.9
+        },
+        "resonance": null
+      },
+      "massKg": 2e+19,
+      "tags": [],
+      "areas": [],
+      "description": "A bright ring system composed primarily of water ice mixed with darker rocky material.",
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-dorrun-i",
+      "parentId": "ossuun-dorrun",
+      "name": "Dorrun I",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-dorrun",
+        "hostMu": 5.321410045979999e+16,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.002339605492793956,
+          "e": 0.011,
+          "i_deg": 0.6,
+          "omega_deg": 145.0,
+          "Omega_deg": 213.0,
+          "M0_rad": 0.4
+        },
+        "resonance": null
+      },
+      "massKg": 8.4e+22,
+      "radiusKm": 1720.0,
+      "makeup": {
+        "metal": 0.27,
+        "rock": 0.73
+      },
+      "atmosphere": {
+        "name": "Sulfur Dioxide Exosphere",
+        "main": "SO2",
+        "composition": {
+          "SO2": 0.92,
+          "S": 0.08
+        },
+        "pressure_bar": 2e-08
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.2,
+      "rotation_period_hours": 49.54375854631307,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0
+      },
+      "tags": [
+        {
+          "key": "purpose/tidal-research",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A dense inner moon kept geologically active by Dorrun's tides and its resonance with the outer moon.",
+      "image": {
+        "url": "/images/planet_types/web20sulfur20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "ossuun-dorrun-ii",
+      "parentId": "ossuun-dorrun",
+      "name": "Dorrun II",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "ossuun-dorrun",
+        "hostMu": 5.321169771179999e+16,
+        "t0": 1784846400000,
+        "elements": {
+          "a_AU": 0.0037138922204517037,
+          "e": 0.015,
+          "i_deg": 1.3,
+          "omega_deg": 23.0,
+          "Omega_deg": 310.0,
+          "M0_rad": 3.5
+        },
+        "resonance": {
+          "numerator": 2,
+          "denominator": 1
+        }
+      },
+      "massKg": 4.8e+22,
+      "radiusKm": 1470.0,
+      "makeup": {
+        "rock": 0.38,
+        "ice": 0.62
+      },
+      "atmosphere": {
+        "name": "Tenuous Oxygen Exosphere",
+        "main": "O2",
+        "composition": {
+          "O2": 1.0
+        },
+        "pressure_bar": 1e-10
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 1.0,
+        "depth_m": 80000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.4,
+      "rotation_period_hours": 99.08751709262616,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.006
+      },
+      "tags": [
+        {
+          "key": "purpose/subsurface-ocean-research",
+          "manual": true
+        },
+        {
+          "key": "lore/resonant-moon",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "An ice-covered moon in an approximately 2:1 resonance with Dorrun I. Tidal heating may preserve deep liquid layers beneath its surface.",
+      "image": {
+        "url": "/images/planet_types/web20subsurface20ocean20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    }
+  ],
+  "rulePackId": "starter-sf-pack",
+  "rulePackVersion": "1.0",
+  "tags": [
+    {
+      "key": "setting/settled-systems",
+      "manual": true
+    },
+    {
+      "key": "ancestry/fonqugon",
+      "manual": true
+    },
+    {
+      "key": "lore/cradle-colonies",
+      "manual": true
+    }
+  ],
+  "notes": "Proof-of-concept standalone system for the Fonqugon homeworld. Names beyond Ossuun are provisional.",
+  "gmNotes": "Designed as a stable K-dwarf system with a warm wet homeworld, two resonant moons, Erbium forecasting infrastructure, an inner extraction world, and a distant gas giant.",
+  "visualScalingMultiplier": 0.65,
+  "toytownFactor": 0.25,
+  "isManuallyEdited": true,
+  "credits": {
+    "author": "Michael / Erbium Industries LLC campaign",
+    "created": "2026-07-23",
+    "version": "0.1"
+  }
+}

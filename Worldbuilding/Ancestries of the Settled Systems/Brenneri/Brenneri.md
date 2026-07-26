@@ -190,7 +190,7 @@ Additional languages equal to your Intelligence modifier, if it is positive. Cho
 You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
 
 #### Empathetic Whiskers
-Your whiskers continuously sense the emotions of those around you, which makes you susceptible to mirroring their feelings. You take a –1 circumstance penalty to Will saves against [emotion](https://2e.aonsrd.com/traits/72-emotion) effects. When you end your turn adjacent to an ally with the [frightened](https://2e.aonsrd.com/conditions/18-frightened) condition, you must attempt a DC 5 flat check. On a failure, you become frightened 1.
+Your whiskers continuously sense the emotions of those around you, which makes you susceptible to mirroring their feelings. You have a +2 circumstance bonus to Sense Motive checks regarding the emotional state of an adjacent creature. You take a –1 circumstance penalty to Will saves against [emotion](https://2e.aonsrd.com/traits/72-emotion) effects. When you end your turn adjacent to an ally with the [frightened](https://2e.aonsrd.com/conditions/18-frightened) condition, you must attempt a DC 5 flat check. On a failure, you become frightened 1.
 
 #### Breath Control
 You gain the [Breath Control](https://2e.aonsrd.com/feats/773-breath-control) general feat.

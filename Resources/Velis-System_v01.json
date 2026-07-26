@@ -1,0 +1,978 @@
+{
+  "id": "settled-systems-velis-v01",
+  "name": "Velis System",
+  "seed": "settled-systems-velis-v01",
+  "epochT0": 1785015000000,
+  "age_Gyr": 6.2,
+  "nodes": [
+    {
+      "id": "velis-star-a",
+      "parentId": null,
+      "name": "Velis Primary",
+      "kind": "body",
+      "roleHint": "star",
+      "classes": [
+        "star/K",
+        "star/K0V"
+      ],
+      "massKg": 1.7498536e+30,
+      "radiusKm": 598302.0,
+      "temperatureK": 5200,
+      "radiationOutput": 0.49,
+      "magneticField": {
+        "strengthGauss": 0.93
+      },
+      "image": {
+        "url": "/images/star_types/K.webp"
+      },
+      "tags": [],
+      "areas": [],
+      "description": "A mature orange K-type main-sequence star with comparatively steady output. Its long lifespan and moderate luminosity allowed Velis to develop an exceptionally old and interconnected biosphere.",
+      "isNameUserDefined": true,
+      "flareActivity": 0.017
+    },
+    {
+      "id": "velis-i",
+      "parentId": "velis-star-a",
+      "name": "Velis I",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "velis-star-a",
+        "hostMu": 1.1679060239158881e+20,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 0.1,
+          "e": 0.021,
+          "i_deg": 1.8,
+          "omega_deg": 118.0,
+          "Omega_deg": 42.0,
+          "M0_rad": 0.7
+        },
+        "resonance": null
+      },
+      "massKg": 1.8513820000000002e+24,
+      "radiusKm": 4587.12,
+      "makeup": {
+        "metal": 0.52,
+        "rock": 0.48
+      },
+      "atmosphere": {
+        "name": "None",
+        "composition": {},
+        "pressure_bar": 0
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.7,
+      "rotation_period_hours": 295.5027565066224,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.022
+      },
+      "tags": [
+        {
+          "key": "purpose/automated-extraction",
+          "manual": true
+        },
+        {
+          "key": "owner/corporation",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "velis-i-glassjaw-leases",
+          "name": "Glassjaw Leases",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/extraction",
+              "manual": true
+            },
+            {
+              "key": "owner/corporation",
+              "manual": true
+            }
+          ],
+          "description": "Shielded automated mines extract dense metals from the dayside crust. Human and Korasha maintenance teams enter during short scheduled shutdowns.",
+          "gmNotes": "Erbium reports the leases as essential to Velish medical infrastructure, allowing any labor disruption to be described as a threat to Second Emergence care."
+        }
+      ],
+      "description": "A small, tidally locked metal-rich world with a molten dayside and airless night hemisphere. Nearly all activity is automated.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-ii",
+      "parentId": "velis-star-a",
+      "name": "Velis II",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "velis-star-a",
+        "hostMu": 1.1679075386055575e+20,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 0.29,
+          "e": 0.031,
+          "i_deg": 2.6,
+          "omega_deg": 56.0,
+          "Omega_deg": 205.0,
+          "M0_rad": 2.2
+        },
+        "resonance": null
+      },
+      "massKg": 4.120818e+24,
+      "radiusKm": 5797.610000000001,
+      "makeup": {
+        "metal": 0.29,
+        "rock": 0.71
+      },
+      "atmosphere": {
+        "name": "Dense Carbon Dioxide–Nitrogen Atmosphere",
+        "main": "CO2",
+        "composition": {
+          "CO2": 0.91,
+          "N2": 0.075,
+          "SO2": 0.015
+        },
+        "pressure_bar": 5.8
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 4.6,
+      "rotation_period_hours": 1459.3459313640165,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.1
+      },
+      "tags": [
+        {
+          "key": "purpose/atmospheric-chemistry",
+          "manual": true
+        },
+        {
+          "key": "purpose/industrial-feedstock",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "velis-ii-mirror-vaults",
+          "name": "Mirror Vault Platforms",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/atmospheric-harvesting",
+              "manual": true
+            }
+          ],
+          "description": "High-altitude robotic platforms harvest carbon and sulfur compounds while testing high-temperature metamorphic materials."
+        }
+      ],
+      "description": "A hot greenhouse world beneath dense clouds. It supports remote industrial platforms and short-duration research missions.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-homeworld",
+      "parentId": "velis-star-a",
+      "name": "Velis",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "velis-star-a",
+        "hostMu": 1.167909053295227e+20,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 0.7,
+          "e": 0.024,
+          "i_deg": 1.1,
+          "omega_deg": 143.0,
+          "Omega_deg": 271.0,
+          "M0_rad": 4.8
+        },
+        "resonance": null
+      },
+      "massKg": 6.390254000000001e+24,
+      "radiusKm": 6562.13,
+      "makeup": {
+        "metal": 0.31,
+        "rock": 0.66,
+        "ice": 0.03
+      },
+      "atmosphere": {
+        "name": "Warm Nitrogen–Oxygen Atmosphere",
+        "main": "N2",
+        "composition": {
+          "N2": 0.782,
+          "O2": 0.202,
+          "Ar": 0.011,
+          "CO2": 0.0035,
+          "H2O": 0.0015
+        },
+        "pressure_bar": 1.12
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 0.64,
+        "depth_m": 1800
+      },
+      "biosphere": {
+        "complexity": "complex",
+        "coverage": 0.93,
+        "biochemistry": "water-carbon",
+        "energy_source": "photosynthesis",
+        "morphologies": [
+          "microbial",
+          "fungal",
+          "flora",
+          "fauna"
+        ]
+      },
+      "axial_tilt_deg": 26.3,
+      "rotation_period_hours": 31.6,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.62
+      },
+      "tags": [
+        {
+          "key": "lore/lashunta-homeworld",
+          "manual": true
+        },
+        {
+          "key": "lore/psionic-biosphere",
+          "manual": true
+        },
+        {
+          "key": "lore/second-emergence",
+          "manual": true
+        },
+        {
+          "key": "politics/expression-conflict",
+          "manual": true
+        },
+        {
+          "key": "hazard/orbital-ring",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "velis-nareth-spires",
+          "name": "Nareth Spires",
+          "type": "city",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "government/accommodationist",
+              "manual": true
+            },
+            {
+              "key": "purpose/medical-education",
+              "manual": true
+            }
+          ],
+          "description": "A network of defended canopy cities linked by sealed transit lines. Nareth hosts major Damaya and Korasha schools, diplomatic offices, and Second Emergence clinics."
+        },
+        {
+          "id": "velis-kethra-continuity",
+          "name": "Kethra Continuity Territory",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "government/preservationist",
+              "manual": true
+            },
+            {
+              "key": "culture/katalash",
+              "manual": true
+            },
+            {
+              "key": "purpose/ecological-stewardship",
+              "manual": true
+            }
+          ],
+          "description": "A Katalash-majority ecological territory whose settlements, tools, and public spaces were designed around ancestral Lashunta morphology rather than human-standard infrastructure.",
+          "gmNotes": "The territorial government is divided between preservationists and restorationists. Settled Systems security reports routinely blur the distinction."
+        },
+        {
+          "id": "velis-still-choir",
+          "name": "The Still Choir",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "lore/psionic-ecology",
+              "manual": true
+            },
+            {
+              "key": "hazard/sensory-interference",
+              "manual": true
+            }
+          ],
+          "description": "A vast wetland and seasonal forest where magnetite-bearing fungi, electrically active root networks, and migrating fauna produce powerful natural psionic interference.",
+          "gmNotes": "Erbium's restricted surveys suggest the region can disrupt ordinary surveillance and telepathic monitoring. Public reports describe the same effect as a neurological hazard."
+        },
+        {
+          "id": "velis-applied-expression-campus",
+          "name": "Applied Expression Campus Seven",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/second-emergence",
+              "manual": true
+            },
+            {
+              "key": "purpose/employment-pipeline",
+              "manual": true
+            }
+          ],
+          "description": "An Erbium-sponsored developmental hospital, school, and placement center providing subsidized Second Emergence treatment through long-term service agreements.",
+          "gmNotes": "The campus maintains extensive behavioral, genetic, telepathic, and family-network records. Damaya and Korasha programs receive far more funding than Katalash development."
+        }
+      ],
+      "description": "The Lashunta homeworld is a warm, biologically dense planet of towering vegetation, deep wetlands, seasonal forests, and heavily interconnected ecosystems. Natural psionic phenomena arise from the interaction of biological electrical fields, mineral deposits, atmospheric conditions, and mechanisms that remain poorly understood. A young planetary ring complicates orbital traffic and casts moving shadow bands across the biosphere.",
+      "gmNotes": "Velis is formally self-governing. Settled Systems authorities and Erbium shape policy through transit certification, medical sponsorship, security cooperation, and ownership of the navigation systems needed to cross the ring safely.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-crown-ring",
+      "parentId": "velis-homeworld",
+      "name": "The Crown of Velis",
+      "kind": "body",
+      "roleHint": "ring",
+      "classes": [],
+      "radiusInnerKm": 8900,
+      "radiusOuterKm": 15200,
+      "orbit": {
+        "hostId": "velis-homeworld",
+        "hostMu": 426504882905200.0,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 7.887812804276766e-05,
+          "e": 0.0,
+          "i_deg": 0.2,
+          "omega_deg": 0.0,
+          "Omega_deg": 0.0,
+          "M0_rad": 1.1
+        },
+        "resonance": null
+      },
+      "massKg": 2.4e+18,
+      "tags": [
+        {
+          "key": "hazard/orbital-debris",
+          "manual": true
+        },
+        {
+          "key": "lore/shattered-moon",
+          "manual": true
+        },
+        {
+          "key": "lore/ecological-shadow-cycle",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A narrow ring of dark silicate fragments, reflective ice, and charged dust formed from a shattered inner moon. Its shifting shadow bands affect migration and plant behavior across Velis.",
+      "gmNotes": "The ring is geologically young. Independent Velish astronomers dispute Erbium's claim that its breakup was entirely natural.",
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-moon-soryn",
+      "parentId": "velis-homeworld",
+      "name": "Soryn",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "velis-homeworld",
+        "hostMu": 429773263587720.0,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 0.0021390678791259024,
+          "e": 0.011,
+          "i_deg": 1.6,
+          "omega_deg": 218.0,
+          "Omega_deg": 64.0,
+          "M0_rad": 2.4
+        },
+        "resonance": null
+      },
+      "massKg": 4.8972040000000005e+22,
+      "radiusKm": 1480.0,
+      "makeup": {
+        "rock": 0.7,
+        "ice": 0.3
+      },
+      "atmosphere": {
+        "name": "Tenuous Argon Exosphere",
+        "main": "Ar",
+        "composition": {
+          "Ar": 1.0
+        },
+        "pressure_bar": 1e-10
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 0.38,
+        "depth_m": 24000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.5,
+      "rotation_period_hours": 481.9285308536439,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0
+      },
+      "tags": [
+        {
+          "key": "purpose/orbital-observation",
+          "manual": true
+        },
+        {
+          "key": "lore/ancestral-archives",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "soryn-first-contact-vault",
+          "name": "First Contact Vault",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/government",
+              "manual": true
+            },
+            {
+              "key": "purpose/archive",
+              "manual": true
+            }
+          ],
+          "description": "A buried Velish archive preserving pre-contact models, Star Dream interpretations, and early records of the Damaya and Korasha development programs.",
+          "gmNotes": "Several sealed collections contradict Erbium's preferred history of Lashunta convergence."
+        }
+      ],
+      "description": "Velis's surviving major moon. Its regular cycle stabilizes the planet's axial tilt and shapes many seasonal ecological and ceremonial calendars.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-crown-gate",
+      "parentId": "velis-homeworld",
+      "ui_parentId": null,
+      "name": "Crown Gate Transit Authority",
+      "kind": "construct",
+      "roleHint": "station",
+      "class": "Settled Systems/Station/Transit-Control",
+      "description": "A rotating orbital station coordinating traffic through the Crown of Velis, including debris forecasting, quarantine, customs, and emergency rescue.",
+      "gmNotes": "The station is publicly administered, but its navigation models, biometric systems, and security software are licensed from Erbium. Travel permits provide a convenient basis for monitoring Katalash communities and independent medical traffic.",
+      "IsTemplate": false,
+      "icon_type": "hexagon",
+      "icon_color": "#a36682",
+      "crew": {
+        "current": 336,
+        "max": 440
+      },
+      "physical_parameters": {
+        "dimensionsM": [
+          520,
+          170,
+          170
+        ],
+        "massKg": 480000000,
+        "cargoCapacity_tonnes": 18000,
+        "rotation_period_hours": 2.5,
+        "spinRadiusM": 78,
+        "can_aerobrake": false,
+        "has_landing_gear": false
+      },
+      "systems": {
+        "power_plants": [
+          {
+            "type": "Fusion Reactor",
+            "output_MW": 290
+          }
+        ],
+        "modules": [
+          "Debris Forecasting Array",
+          "Transit Certification Office",
+          "Medical Quarantine Ring",
+          "Search-and-Rescue Hangar",
+          "Telepathic Security Interview Suites"
+        ],
+        "life_support": {
+          "consumables_max_person_days": 260000,
+          "consumables_current_person_days": 208000
+        }
+      },
+      "current_cargo_tonnes": 5700,
+      "cargoDescription": "Medical supplies, metamorphic chamber components, survey equipment, and ring-clearance drones",
+      "orbit": {
+        "hostId": "velis-homeworld",
+        "hostMu": 426504722722000.0,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 0.00032086018186888536,
+          "e": 0.001,
+          "i_deg": 0.6,
+          "omega_deg": 0.0,
+          "Omega_deg": 0.0,
+          "M0_rad": 5.1
+        },
+        "resonance": null
+      },
+      "placement": "High Orbit",
+      "tags": [
+        {
+          "key": "owner/government",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "influence/corporation",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "purpose/transit-control",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "purpose/surveillance",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "class/station",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "tech/standard",
+          "coi": true,
+          "manual": true
+        }
+      ],
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-iv",
+      "parentId": "velis-star-a",
+      "name": "Velis IV",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "velis-star-a",
+        "hostMu": 1.1679106078451509e+20,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 1.52,
+          "e": 0.037,
+          "i_deg": 1.9,
+          "omega_deg": 307.0,
+          "Omega_deg": 116.0,
+          "M0_rad": 0.9
+        },
+        "resonance": null
+      },
+      "massKg": 8.719412e+24,
+      "radiusKm": 7135.52,
+      "makeup": {
+        "metal": 0.28,
+        "rock": 0.61,
+        "ice": 0.11
+      },
+      "atmosphere": {
+        "name": "Thin Nitrogen–Carbon Dioxide Atmosphere",
+        "main": "N2",
+        "composition": {
+          "N2": 0.7,
+          "CO2": 0.27,
+          "Ar": 0.03
+        },
+        "pressure_bar": 0.18
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 0.21,
+        "depth_m": 4000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 18.1,
+      "rotation_period_hours": 34.2,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.24
+      },
+      "tags": [
+        {
+          "key": "purpose/cryogenic-research",
+          "manual": true
+        },
+        {
+          "key": "purpose/deep-survey",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "velis-iv-beneath-line",
+          "name": "Beneath Line Survey",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/cooperative",
+              "manual": true
+            },
+            {
+              "key": "purpose/subsurface-survey",
+              "manual": true
+            }
+          ],
+          "description": "A mixed Katalash and independent research settlement studying deep ice, mineral formations, and weak psionic effects beneath the crust."
+        }
+      ],
+      "description": "A cold super-Earth with thin air, extensive subsurface ice, and a sparse network of research and extraction settlements.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-main-belt",
+      "parentId": "velis-star-a",
+      "name": "Velis Main Belt",
+      "kind": "body",
+      "roleHint": "belt",
+      "classes": [],
+      "radiusInnerKm": 321635422.005,
+      "radiusOuterKm": 471233292.705,
+      "orbit": {
+        "hostId": "velis-star-a",
+        "hostMu": 1.1679047906507478e+20,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 2.62,
+          "e": 0.061,
+          "i_deg": 5.2,
+          "omega_deg": 82.0,
+          "Omega_deg": 139.0,
+          "M0_rad": 3.3
+        },
+        "resonance": null
+      },
+      "massKg": 3.6e+21,
+      "tags": [
+        {
+          "key": "purpose/extraction",
+          "manual": true
+        },
+        {
+          "key": "hazard/charged-dust",
+          "manual": true
+        },
+        {
+          "key": "politics/contested-claims",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A broad belt of rocky, metallic, and carbonaceous bodies. Charged dust and dense prospecting traffic made early approaches to Velis difficult before reliable Drift navigation.",
+      "gmNotes": "Erbium uses the belt's real navigation hazards to justify exclusive routing, transponder, and inspection requirements throughout the inner system.",
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-v",
+      "parentId": "velis-star-a",
+      "name": "Velis V",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "velis-star-a",
+        "hostMu": 1.1688422712383658e+20,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 4.85,
+          "e": 0.052,
+          "i_deg": 2.1,
+          "omega_deg": 261.0,
+          "Omega_deg": 318.0,
+          "M0_rad": 1.6
+        },
+        "resonance": null
+      },
+      "massKg": 1.4046162e+27,
+      "radiusKm": 66415.45,
+      "makeup": {
+        "gas": 0.91,
+        "ice": 0.09
+      },
+      "atmosphere": {
+        "name": "Hydrogen–Helium Envelope",
+        "main": "H2",
+        "composition": {
+          "H2": 0.865,
+          "He": 0.13,
+          "CH4": 0.005
+        },
+        "pressure_bar": 150000
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 12.7,
+      "rotation_period_hours": 10.4,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 3.8
+      },
+      "tags": [
+        {
+          "key": "purpose/gas-skimming",
+          "manual": true
+        },
+        {
+          "key": "purpose/outer-supply",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A large gas giant supporting fuel harvesting, deep-system survey traffic, and a chain of remote research facilities.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-v-moon-tarev",
+      "parentId": "velis-v",
+      "name": "Tarev",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "velis-v",
+        "hostMu": 9.37538794722244e+16,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 0.004077598144583752,
+          "e": 0.013,
+          "i_deg": 0.9,
+          "omega_deg": 167.0,
+          "Omega_deg": 232.0,
+          "M0_rad": 3.9
+        },
+        "resonance": null
+      },
+      "massKg": 8.361080000000001e+22,
+      "radiusKm": 1820.0,
+      "makeup": {
+        "rock": 0.39,
+        "ice": 0.61
+      },
+      "atmosphere": {
+        "name": "Tenuous Oxygen Exosphere",
+        "main": "O2",
+        "composition": {
+          "O2": 1.0
+        },
+        "pressure_bar": 1e-10
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 1.0,
+        "depth_m": 74000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.4,
+      "rotation_period_hours": 85.87712493008766,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.006
+      },
+      "tags": [
+        {
+          "key": "purpose/water-ice",
+          "manual": true
+        },
+        {
+          "key": "purpose/refueling",
+          "manual": true
+        },
+        {
+          "key": "lore/subsurface-ocean",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "tarev-quiet-depths",
+          "name": "Quiet Depths Laboratory",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/psionic-isolation",
+              "manual": true
+            }
+          ],
+          "description": "A buried Erbium laboratory studying Lashunta neural development in an environment isolated from Velis's natural psionic background.",
+          "gmNotes": "The laboratory's developmental experiments are absent from public Second Emergence records."
+        }
+      ],
+      "description": "An ice-covered moon with a deep subsurface ocean. It supplies water and propellant while hosting restricted biological and psionic research.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "velis-vi",
+      "parentId": "velis-star-a",
+      "name": "Velis VI",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "velis-star-a",
+        "hostMu": 1.1679677674500466e+20,
+        "t0": 1785015000000,
+        "elements": {
+          "a_AU": 9.8,
+          "e": 0.067,
+          "i_deg": 3.8,
+          "omega_deg": 27.0,
+          "Omega_deg": 153.0,
+          "M0_rad": 5.4
+        },
+        "resonance": null
+      },
+      "massKg": 9.436076e+25,
+      "radiusKm": 27713.85,
+      "makeup": {
+        "gas": 0.46,
+        "ice": 0.49,
+        "rock": 0.05
+      },
+      "atmosphere": {
+        "name": "Hydrogen–Helium–Methane Envelope",
+        "main": "H2",
+        "composition": {
+          "H2": 0.77,
+          "He": 0.19,
+          "CH4": 0.04
+        },
+        "pressure_bar": 52000
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 38.0,
+      "rotation_period_hours": 17.1,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 1.7
+      },
+      "tags": [
+        {
+          "key": "purpose/remote-survey",
+          "manual": true
+        },
+        {
+          "key": "lore/frontier-beacon",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "velis-vi-last-voice",
+          "name": "Last Voice Relay",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/drift-relay",
+              "manual": true
+            },
+            {
+              "key": "owner/corporation",
+              "manual": true
+            }
+          ],
+          "description": "The outermost reliable navigation and communications relay in the system, positioned above the ice giant's magnetic poles."
+        }
+      ],
+      "description": "A distant ice giant marking the practical edge of routine Velis-system traffic.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    }
+  ],
+  "rulePackId": "starter-sf-pack",
+  "rulePackVersion": "1.0",
+  "tags": [
+    {
+      "key": "setting/settled-systems",
+      "manual": true
+    },
+    {
+      "key": "lore/lashunta-home-system",
+      "manual": true
+    },
+    {
+      "key": "region/frontier-edge",
+      "manual": true
+    },
+    {
+      "key": "lore/psionic-ecology",
+      "manual": true
+    },
+    {
+      "key": "politics/corporate-dependency",
+      "manual": true
+    }
+  ],
+  "notes": "Standalone system for Velis, the Lashunta homeworld and origin of the Damaya, Korasha, and Katalash expressions.",
+  "gmNotes": "Velis retains formal political autonomy, but its governments depend on Erbium-owned navigation, medical, developmental, and security infrastructure. The Crown's genuine transit hazards allow surveillance and movement controls to be presented as neutral public safety policy.",
+  "visualScalingMultiplier": 1,
+  "toytownFactor": 1,
+  "isManuallyEdited": true,
+  "credits": {
+    "author": "Michael / Erbium Industries LLC campaign",
+    "created": "2026-07-25",
+    "version": "0.1"
+  }
+}

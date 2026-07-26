@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Lashunta"
+              "title": "Katalash Benefits"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lashunta"
+              "title": "Outline of Katalash Benefits"
             }
           },
           {
@@ -220,16 +220,24 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
+    "Resources/My_Starmap-Starmap.json",
+    "Resources/Ossuun-Fonqugon-Home-System_v01.json",
+    "Resources/Agrio-Dysis-System_v01.json",
+    "Resources/Velis-System_v01.json",
     "Resources/ancestryPortrait_Lashunta.png",
     "Resources/ancestryPortrait_Lashunta3.png",
     "Resources/ancestryPortrait_Lashunta2.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Resources/Stop undercooking your Boss Fights.txt",
@@ -238,22 +246,16 @@
     "Resources/Get Players to Roleplay by RENDERING Scenes.txt",
     "Resources/8 Types of Ambushes to Start Your Adventure!.txt",
     "Resources/You can just steal things and put them in your game .txt",
-    "Resources/No, Quality is not better than Quantity!.txt",
-    "Resources/Nest your worlds like Fractals.txt",
-    "Resources/Why your NPCs don't feel real.txt",
-    "Resources/The Secret to Mysteries.txt",
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
     "Templates/Ancestry Outline.md",
     "Templates/Advance Stamp.md",
     "Templates/Corporate Frontier Grit — Image Prompt Templates.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
     "Resources/ancestryPortrait_Human2.png",
     "Resources/ancestryPortrait_Human.png",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
     "Resources/ancestryPortrait_Fonqugon.png",
     "Worldbuilding/Erbium Campaign Art Style.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
     "Resources/ancestryPortrait_Dwarf.png",
     "Campaign/System/Campaign Clock.md",
@@ -261,7 +263,6 @@
     "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
     "Starfinder 2e Rules/Actions/Pardon Me.md",
     "Starfinder 2e Rules/Actions/Empathic Assistance.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Versatile Heritages.md",
     "Resources/ancestryPortrait_Astrazoan1.png",
     "Resources/ancestryPortrait_Brenneri.png",
     "Resources/ancestryPortrait_Android.png"

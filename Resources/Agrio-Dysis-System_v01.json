@@ -1,0 +1,938 @@
+{
+  "id": "settled-systems-agrio-dysis-v01",
+  "name": "Agrio Dysis System",
+  "seed": "settled-systems-agrio-dysis-v01",
+  "epochT0": 1784998800000,
+  "age_Gyr": 5.8,
+  "nodes": [
+    {
+      "id": "agrio-dysis-star-a",
+      "parentId": null,
+      "name": "Agrio Dysis Primary",
+      "kind": "body",
+      "roleHint": "star",
+      "classes": [
+        "star/G",
+        "star/G8V"
+      ],
+      "massKg": 1.8492771e+30,
+      "radiusKm": 626130.0,
+      "temperatureK": 5480,
+      "radiationOutput": 0.72,
+      "magneticField": {
+        "strengthGauss": 0.82
+      },
+      "image": {
+        "url": "/images/star_types/G.webp"
+      },
+      "tags": [],
+      "areas": [],
+      "description": "A mature yellow-orange G-type main-sequence star. Its comparatively steady output supports the partially terraformed settlement world Agrio Dysis IV while leaving the inner system hot and dry.",
+      "isNameUserDefined": true,
+      "flareActivity": 0.014
+    },
+    {
+      "id": "agrio-dysis-i",
+      "parentId": "agrio-dysis-star-a",
+      "name": "Agrio Dysis I",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "agrio-dysis-star-a",
+        "hostMu": 1.234263971499107e+20,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 0.11,
+          "e": 0.019,
+          "i_deg": 1.1,
+          "omega_deg": 114.0,
+          "Omega_deg": 31.0,
+          "M0_rad": 0.7
+        },
+        "resonance": null
+      },
+      "massKg": 1.433328e+24,
+      "radiusKm": 4268.570000000001,
+      "makeup": {
+        "metal": 0.48,
+        "rock": 0.52
+      },
+      "atmosphere": {
+        "name": "None",
+        "composition": {},
+        "pressure_bar": 0
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.8,
+      "rotation_period_hours": 331.6274621477895,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.015
+      },
+      "tags": [
+        {
+          "key": "purpose/automated-extraction",
+          "manual": true
+        },
+        {
+          "key": "owner/corporation",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "agrio-i-cauter-leases",
+          "name": "Cauter Leases",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/extraction",
+              "manual": true
+            },
+            {
+              "key": "owner/corporation",
+              "manual": true
+            }
+          ],
+          "description": "Shielded automated mines extract dense metals from the permanent dayside. Human maintenance crews enter only during tightly scheduled shutdown windows.",
+          "gmNotes": "Erbium uses Agrio Dysis I as collateral when negotiating infrastructure loans with the settled government on Agrio Dysis IV."
+        }
+      ],
+      "description": "A small, tidally locked metal-rich world scorched by the primary. Nearly all activity is automated.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-ii",
+      "parentId": "agrio-dysis-star-a",
+      "name": "Agrio Dysis II",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "agrio-dysis-star-a",
+        "hostMu": 1.2342662833938656e+20,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 0.27,
+          "e": 0.028,
+          "i_deg": 2.3,
+          "omega_deg": 41.0,
+          "Omega_deg": 204.0,
+          "M0_rad": 2.0
+        },
+        "resonance": null
+      },
+      "massKg": 4.897204e+24,
+      "radiusKm": 5925.030000000001,
+      "makeup": {
+        "metal": 0.3,
+        "rock": 0.7
+      },
+      "atmosphere": {
+        "name": "Dense Carbon Dioxide–Sulfur Atmosphere",
+        "main": "CO2",
+        "composition": {
+          "CO2": 0.94,
+          "N2": 0.04,
+          "SO2": 0.02
+        },
+        "pressure_bar": 7.5
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 2.4,
+      "rotation_period_hours": 1275.2833780435808,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.08
+      },
+      "tags": [
+        {
+          "key": "purpose/industrial-chemistry",
+          "manual": true
+        },
+        {
+          "key": "lore/pressure-harvesting",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "agrio-ii-brass-weather",
+          "name": "Brass Weather Platforms",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/atmospheric-harvesting",
+              "manual": true
+            },
+            {
+              "key": "owner/corporation",
+              "manual": true
+            }
+          ],
+          "description": "High-altitude robotic platforms collect sulfur compounds and atmospheric feedstock for sealed industrial use elsewhere in the system."
+        }
+      ],
+      "description": "A hot greenhouse world beneath dense carbon dioxide and sulfurous clouds. It supports only remote industrial platforms and short-duration service missions.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-iii",
+      "parentId": "agrio-dysis-star-a",
+      "name": "Agrio Dysis III",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "agrio-dysis-star-a",
+        "hostMu": 1.2342653267477586e+20,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 0.47,
+          "e": 0.034,
+          "i_deg": 1.7,
+          "omega_deg": 197.0,
+          "Omega_deg": 86.0,
+          "M0_rad": 4.4
+        },
+        "resonance": null
+      },
+      "massKg": 3.4638759999999997e+24,
+      "radiusKm": 5224.219999999999,
+      "makeup": {
+        "metal": 0.33,
+        "rock": 0.67
+      },
+      "atmosphere": {
+        "name": "Thin Nitrogen–Carbon Dioxide Atmosphere",
+        "main": "N2",
+        "composition": {
+          "N2": 0.55,
+          "CO2": 0.42,
+          "Ar": 0.03
+        },
+        "pressure_bar": 0.06
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 11.5,
+      "rotation_period_hours": 39.7,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.06
+      },
+      "tags": [
+        {
+          "key": "purpose/solar-collection",
+          "manual": true
+        },
+        {
+          "key": "purpose/extraction",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "agrio-iii-dryline-yard",
+          "name": "Dryline Yard",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/logistics",
+              "manual": true
+            }
+          ],
+          "description": "A sealed freight and solar-power complex that stages equipment bound for Agrio Dysis IV and the main belt.",
+          "gmNotes": "The yard's published emergency reserve is routinely pledged against unrelated corporate debts."
+        }
+      ],
+      "description": "A hot, thin-aired desert world used for solar collection, mineral extraction, and freight staging.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-iv",
+      "parentId": "agrio-dysis-star-a",
+      "name": "Agrio Dysis IV",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "agrio-dysis-star-a",
+        "hostMu": 1.234266841437428e+20,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 0.82,
+          "e": 0.038,
+          "i_deg": 0.9,
+          "omega_deg": 132.0,
+          "Omega_deg": 248.0,
+          "M0_rad": 5.2
+        },
+        "resonance": null
+      },
+      "massKg": 5.733312e+24,
+      "radiusKm": 6434.71,
+      "makeup": {
+        "metal": 0.31,
+        "rock": 0.66,
+        "ice": 0.03
+      },
+      "atmosphere": {
+        "name": "Dry Nitrogen–Oxygen Atmosphere",
+        "main": "N2",
+        "composition": {
+          "N2": 0.772,
+          "O2": 0.213,
+          "Ar": 0.011,
+          "CO2": 0.003,
+          "H2O": 0.001
+        },
+        "pressure_bar": 1.03
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 0.29,
+        "depth_m": 850
+      },
+      "biosphere": {
+        "complexity": "complex",
+        "coverage": 0.48,
+        "biochemistry": "water-carbon",
+        "energy_source": "photosynthesis",
+        "morphologies": [
+          "microbial",
+          "fungal",
+          "flora",
+          "fauna"
+        ]
+      },
+      "axial_tilt_deg": 23.7,
+      "rotation_period_hours": 28.7,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.44
+      },
+      "tags": [
+        {
+          "key": "lore/low-plane",
+          "manual": true
+        },
+        {
+          "key": "settlement/refuge-world",
+          "manual": true
+        },
+        {
+          "key": "economy/ranching",
+          "manual": true
+        },
+        {
+          "key": "politics/charter-debt",
+          "manual": true
+        },
+        {
+          "key": "culture/cattle-towns",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "agrio-iv-low-plane",
+          "name": "The Low Plane",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "lore/sunken-basin",
+              "manual": true
+            },
+            {
+              "key": "economy/ranching",
+              "manual": true
+            }
+          ],
+          "description": "An immense sunken continental basin bordered by broken mountains and dry uplands. Intense heat, long dry seasons, violent storm fronts, and sudden river flooding define most settled life."
+        },
+        {
+          "id": "agrio-iv-crosswind",
+          "name": "Crosswind Junction",
+          "type": "city",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "culture/cattle-town",
+              "manual": true
+            },
+            {
+              "key": "purpose/rail-depot",
+              "manual": true
+            },
+            {
+              "key": "purpose/water-trade",
+              "manual": true
+            }
+          ],
+          "description": "A major cattle town built around a rail spur, deep well, livestock yard, and seasonal river crossing. Most residents work in freight, repair, water administration, or animal care."
+        },
+        {
+          "id": "agrio-iv-longwater",
+          "name": "Longwater Cooperative",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/cooperative",
+              "manual": true
+            },
+            {
+              "key": "purpose/water-infrastructure",
+              "manual": true
+            },
+            {
+              "key": "culture/mutual-aid",
+              "manual": true
+            }
+          ],
+          "description": "A locally maintained network of wells, levees, floodgates, and emergency cisterns serving several settlements outside dependable government support.",
+          "gmNotes": "The cooperative has evidence that upstream corporate pumping worsens both the dry season and the basin's sudden floods."
+        },
+        {
+          "id": "agrio-iv-charter-house-six",
+          "name": "Erbium Charter House Six",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/land-registry",
+              "manual": true
+            },
+            {
+              "key": "purpose/debt-enforcement",
+              "manual": true
+            }
+          ],
+          "description": "A fortified administrative office controlling settlement titles, equipment liens, transport certification, and most recognized water-right records in the central basin.",
+          "gmNotes": "After major floods, Charter House Six redraws parcel boundaries from corporate survey data. The settled government recognizes the revised registry even when communities have occupied the land for generations."
+        }
+      ],
+      "description": "The primary inhabited world of the Agrio Dysis system. Its largest settled region, the Low Plane, is a vast hot basin of cattle towns, engineered grazing land, river corridors, rail depots, and scattered refuge communities. The planet is breathable and broadly habitable, but terraforming remains uneven and reliable water is controlled through overlapping local, governmental, and corporate claims.",
+      "gmNotes": "Agrio Dysis IV is advertised as a frontier opportunity world. Many residents arrived through relocation programs and inherited transport, equipment, land, or water debt. Erbium rarely governs openly; aligned public authorities enforce the registries and contracts that keep settlements dependent.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-iv-rimlight",
+      "parentId": "agrio-dysis-iv",
+      "name": "Rimlight",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "agrio-dysis-iv",
+        "hostMu": 383854250449799.94,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 0.002205913750348587,
+          "e": 0.009,
+          "i_deg": 1.4,
+          "omega_deg": 223.0,
+          "Omega_deg": 63.0,
+          "M0_rad": 1.8
+        },
+        "resonance": null
+      },
+      "massKg": 1.7916600000000001e+22,
+      "radiusKm": 1100.0,
+      "makeup": {
+        "rock": 0.58,
+        "ice": 0.42
+      },
+      "atmosphere": {
+        "name": "Tenuous Oxygen Exosphere",
+        "main": "O2",
+        "composition": {
+          "O2": 1.0
+        },
+        "pressure_bar": 1e-10
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 0.72,
+        "depth_m": 35000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.5,
+      "rotation_period_hours": 534.0293181892424,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0
+      },
+      "tags": [
+        {
+          "key": "lore/local-calendar",
+          "manual": true
+        },
+        {
+          "key": "purpose/weather-observation",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "rimlight-storm-eye",
+          "name": "Storm-Eye Observatory",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/weather-observation",
+              "manual": true
+            },
+            {
+              "key": "owner/government",
+              "manual": true
+            }
+          ],
+          "description": "A small observatory used to track basin storm fronts, flood seasons, and long-range atmospheric circulation.",
+          "gmNotes": "Its public forecasts are delayed whenever they conflict with corporate water-allocation models."
+        }
+      ],
+      "description": "Agrio Dysis IV's single moon. Its regular cycle anchors local calendars, flood predictions, and night travel across the Low Plane.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-transfer-spindle",
+      "parentId": "agrio-dysis-iv",
+      "ui_parentId": null,
+      "name": "Low Plane Transfer Spindle",
+      "kind": "construct",
+      "roleHint": "station",
+      "class": "Settled Systems/Station/Transfer",
+      "description": "A rotating orbital transfer station handling passengers, livestock, freight, and surface-bound settlement equipment.",
+      "gmNotes": "Departing residents pass through debt, warrant, and equipment-lien screening before receiving onward transport authorization. The station is publicly administered but its registry systems are supplied and audited by Erbium.",
+      "IsTemplate": false,
+      "icon_type": "hexagon",
+      "icon_color": "#b47a65",
+      "crew": {
+        "current": 188,
+        "max": 260
+      },
+      "physical_parameters": {
+        "dimensionsM": [
+          360,
+          120,
+          120
+        ],
+        "massKg": 310000000,
+        "cargoCapacity_tonnes": 22000,
+        "rotation_period_hours": 2.8,
+        "spinRadiusM": 58,
+        "can_aerobrake": false,
+        "has_landing_gear": false
+      },
+      "systems": {
+        "power_plants": [
+          {
+            "type": "Fusion Reactor",
+            "output_MW": 180
+          }
+        ],
+        "modules": [
+          "Livestock Transfer Ring",
+          "Surface Freight Sling",
+          "Charter Registry Uplink",
+          "Passenger Quarantine Deck",
+          "Water-Ice Reserve"
+        ],
+        "life_support": {
+          "consumables_max_person_days": 210000,
+          "consumables_current_person_days": 164000
+        }
+      },
+      "current_cargo_tonnes": 6400,
+      "cargoDescription": "Agricultural equipment, livestock feed, pump components, sealed medicine, and outbound hides",
+      "orbit": {
+        "hostId": "agrio-dysis-iv",
+        "hostMu": 382658442815999.94,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 0.00034759853035795917,
+          "e": 0.001,
+          "i_deg": 0.4,
+          "omega_deg": 0.0,
+          "Omega_deg": 0.0,
+          "M0_rad": 4.7
+        },
+        "resonance": null
+      },
+      "placement": "High Orbit",
+      "tags": [
+        {
+          "key": "owner/government",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "influence/corporation",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "purpose/freight-transfer",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "purpose/passenger-transfer",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "class/station",
+          "coi": true,
+          "manual": true
+        },
+        {
+          "key": "tech/standard",
+          "coi": true,
+          "manual": true
+        }
+      ],
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-main-belt",
+      "parentId": "agrio-dysis-star-a",
+      "name": "Agrio Dysis Main Belt",
+      "kind": "body",
+      "roleHint": "belt",
+      "classes": [],
+      "radiusInnerKm": 216916912.515,
+      "radiusOuterKm": 321635422.005,
+      "orbit": {
+        "hostId": "agrio-dysis-star-a",
+        "hostMu": 1.2342630169220329e+20,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 1.78,
+          "e": 0.055,
+          "i_deg": 4.6,
+          "omega_deg": 77.0,
+          "Omega_deg": 118.0,
+          "M0_rad": 2.6
+        },
+        "resonance": null
+      },
+      "massKg": 3.1e+21,
+      "tags": [
+        {
+          "key": "purpose/extraction",
+          "manual": true
+        },
+        {
+          "key": "politics/contested-claims",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A broad rocky and carbonaceous belt. Corporate claims dominate the largest bodies, while independent prospectors and settlement cooperatives work smaller surveyed clusters.",
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-v",
+      "parentId": "agrio-dysis-star-a",
+      "name": "Agrio Dysis V",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "agrio-dysis-star-a",
+        "hostMu": 1.2350484735746579e+20,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 3.5,
+          "e": 0.043,
+          "i_deg": 1.8,
+          "omega_deg": 254.0,
+          "Omega_deg": 305.0,
+          "M0_rad": 0.9
+        },
+        "resonance": null
+      },
+      "massKg": 1.1768406e+27,
+      "radiusKm": 65716.34,
+      "makeup": {
+        "gas": 0.9,
+        "ice": 0.1
+      },
+      "atmosphere": {
+        "name": "Hydrogen–Helium Envelope",
+        "main": "H2",
+        "composition": {
+          "H2": 0.87,
+          "He": 0.125,
+          "CH4": 0.005
+        },
+        "pressure_bar": 150000
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 15.4,
+      "rotation_period_hours": 10.9,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 3.1
+      },
+      "tags": [
+        {
+          "key": "purpose/gas-skimming",
+          "manual": true
+        },
+        {
+          "key": "purpose/outer-supply",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A ringed gas giant supporting fuel harvesting, outer-system traffic, and long-duration survey work.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-v-rings",
+      "parentId": "agrio-dysis-v",
+      "name": "Agrio Dysis V Rings",
+      "kind": "body",
+      "roleHint": "ring",
+      "classes": [],
+      "radiusInnerKm": 86000,
+      "radiusOuterKm": 142000,
+      "orbit": {
+        "hostId": "agrio-dysis-v",
+        "hostMu": 7.854587323368798e+16,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 0.0007486737576940658,
+          "e": 0.0,
+          "i_deg": 0.3,
+          "omega_deg": 0.0,
+          "Omega_deg": 0.0,
+          "M0_rad": 1.1
+        },
+        "resonance": null
+      },
+      "massKg": 1.6e+19,
+      "tags": [],
+      "areas": [],
+      "description": "A pale ring system composed mostly of water ice mixed with darker carbonaceous material.",
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-v-longwatch",
+      "parentId": "agrio-dysis-v",
+      "name": "Longwatch",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "agrio-dysis-v",
+        "hostMu": 7.855065539633518e+16,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 0.0036096770460249607,
+          "e": 0.012,
+          "i_deg": 0.8,
+          "omega_deg": 148.0,
+          "Omega_deg": 221.0,
+          "M0_rad": 3.2
+        },
+        "resonance": null
+      },
+      "massKg": 7.1666400000000005e+22,
+      "radiusKm": 1750.0,
+      "makeup": {
+        "rock": 0.38,
+        "ice": 0.62
+      },
+      "atmosphere": {
+        "name": "Tenuous Oxygen Exosphere",
+        "main": "O2",
+        "composition": {
+          "O2": 1.0
+        },
+        "pressure_bar": 1e-10
+      },
+      "hydrosphere": {
+        "composition": "water",
+        "coverage": 1.0,
+        "depth_m": 70000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.4,
+      "rotation_period_hours": 78.14354349426885,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.004
+      },
+      "tags": [
+        {
+          "key": "purpose/water-ice",
+          "manual": true
+        },
+        {
+          "key": "purpose/refueling",
+          "manual": true
+        },
+        {
+          "key": "lore/subsurface-ocean",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "longwatch-cold-pump",
+          "name": "Cold Pump Depot",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "owner/corporation",
+              "manual": true
+            },
+            {
+              "key": "purpose/refueling",
+              "manual": true
+            }
+          ],
+          "description": "A buried extraction depot producing water, oxygen, and propellant feedstock for outer-system traffic."
+        }
+      ],
+      "description": "An ice-covered moon whose water reserves make it the outer system's principal refueling site.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "agrio-dysis-vi",
+      "parentId": "agrio-dysis-star-a",
+      "name": "Agrio Dysis VI",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "agrio-dysis-star-a",
+        "hostMu": 1.234312840171075e+20,
+        "t0": 1784998800000,
+        "elements": {
+          "a_AU": 7.8,
+          "e": 0.061,
+          "i_deg": 3.7,
+          "omega_deg": 19.0,
+          "Omega_deg": 152.0,
+          "M0_rad": 4.9
+        },
+        "resonance": null
+      },
+      "massKg": 7.465250000000001e+25,
+      "radiusKm": 26121.1,
+      "makeup": {
+        "gas": 0.45,
+        "ice": 0.5,
+        "rock": 0.05
+      },
+      "atmosphere": {
+        "name": "Hydrogen–Helium–Methane Envelope",
+        "main": "H2",
+        "composition": {
+          "H2": 0.78,
+          "He": 0.18,
+          "CH4": 0.04
+        },
+        "pressure_bar": 50000
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 34.0,
+      "rotation_period_hours": 16.4,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 1.4
+      },
+      "tags": [
+        {
+          "key": "purpose/remote-survey",
+          "manual": true
+        },
+        {
+          "key": "lore/outer-anchor",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A distant ice giant marking the practical edge of routine system traffic. Most activity is automated survey work.",
+      "autoClassify": true,
+      "isNameUserDefined": true
+    }
+  ],
+  "rulePackId": "starter-sf-pack",
+  "rulePackVersion": "1.0",
+  "tags": [
+    {
+      "key": "setting/settled-systems",
+      "manual": true
+    },
+    {
+      "key": "settlement/refuge-system",
+      "manual": true
+    },
+    {
+      "key": "region/frontier-near",
+      "manual": true
+    },
+    {
+      "key": "politics/corporate-dependency",
+      "manual": true
+    }
+  ],
+  "notes": "Standalone system for Agrio Dysis IV, the human refuge and settlement world commonly called the Low Plane.",
+  "gmNotes": "The system is publicly governed, but Erbium-supplied registries, transportation infrastructure, equipment loans, and water-right systems allow the corporation to shape policy without formally administering the world.",
+  "visualScalingMultiplier": 1,
+  "toytownFactor": 1,
+  "isManuallyEdited": true,
+  "credits": {
+    "author": "Michael / Erbium Industries LLC campaign",
+    "created": "2026-07-25",
+    "version": "0.1"
+  }
+}
