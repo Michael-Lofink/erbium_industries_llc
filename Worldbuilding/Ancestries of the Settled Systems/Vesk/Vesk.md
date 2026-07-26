@@ -10,7 +10,6 @@ tags:
   - settled-systems
   - zakaron
 ---
-
 ```sf2e-stats
 | ==Common== ==Vesk== ==Humanoid==
 ```
@@ -257,7 +256,6 @@ Wisdom
 #### Languages
 Common  
 Vesk
-
 Additional languages equal to your Intelligence modifier, if it is positive. Choose from the list of common languages and any other languages to which you have access, such as languages prevalent on your home world.
 
 #### Low-Light Vision
