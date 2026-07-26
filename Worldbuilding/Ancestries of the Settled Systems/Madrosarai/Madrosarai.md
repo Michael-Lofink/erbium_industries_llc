@@ -13,10 +13,7 @@ tags:
 ```sf2e-stats
 | ==Common== ==Madrosarai== ==Humanoid==
 ```
-
-![[ancestryPortrait_Madrosarai.png#wrapright|300]]
-
-Madrosarai are magically blooded humanoids native to [[Zakaron]]. Their semitranslucent skin takes its color from the arcane blood moving beneath it, producing metallic gold, vivid lime, crimson, stone-gray, teal, umber, and other less common hues. Each bloodline carries a distinct magical resonance that can influence physical endurance, emotional regulation, psychic aptitude, or affinity with particular technologies.
+![[ancestryPortrait_Madrosarai.png#wrapright|300]]Madrosarai are magically blooded humanoids native to [[Zakaron]]. Their semitranslucent skin takes its color from the arcane blood moving beneath it, producing metallic gold, vivid lime, crimson, stone-gray, teal, umber, and other less common hues. Each bloodline carries a distinct magical resonance that can influence physical endurance, emotional regulation, psychic aptitude, or affinity with particular technologies.
 
 Bloodline manifests independently of ordinary parentage. A child can develop a color absent from either parent and from every known member of their immediate family. Zakaron’s blood-clans consequently grew into institutions larger than biological lineages. They identify emerging bloodlines, train their associated abilities, preserve arcane techniques, arrange professional placements, and claim obligations from the people whose gifts they cultivate.
 
@@ -47,7 +44,6 @@ If you want to roleplay a disciplined character whose inheritance grants real ma
 - Believe your clan affiliation reveals your loyalties more accurately than your stated choices.
 
 # Physical Description
-
 Madrosarai are slender humanoids who usually stand between 5 and 6 feet tall. Their proportions resemble those of humans, though they commonly possess long limbs, narrow shoulders, elongated ears, and relatively light builds. Adult weight varies considerably but averages around 140 pounds. Their natural lifespan is similar to that of a human.
 
 Their most immediately visible feature is their semitranslucent skin. Madrosarai tissues scatter light while allowing the color of their blood to show through, giving the entire body a luminous or saturated appearance. Veins, capillary structures, and areas of high circulation remain faintly visible beneath the surface, particularly around the face, throat, hands, and inner arms.
@@ -67,7 +63,6 @@ Madrosarai blood is biologically necessary and magically active. It transports o
 Many Madrosarai use cybernetics designed to connect directly with their circulation. Blood-reactive interfaces can verify identity, regulate augmentations, change operating modes in response to physiological state, or permit control through minor alterations in pulse and arcane pressure. Zakaron-made implants often leave visible channels of metal or ceramic beneath the skin, illuminated by the blood flowing around them.
 
 # Society
-
 Madrosarai society developed through the blood-clans of Zakaron. A blood-clan combines elements of an extended family, school, professional association, intelligence network, archive, political constituency, and mutual-defense organization. Some clans control entire districts or industrial systems. Others consist of several dispersed households preserving one specialized technique.
 
 A blood-clan rarely consists of one bloodline color. Most cultivate several related aptitudes and maintain arrangements with other clans when a child manifests an uncommon resonance. A lime-blooded child born into a clan known for red-blooded combat specialists might remain with their birth family while receiving technical education from an allied clan. A rare umber-blooded child might attract competing sponsorship offers before reaching adolescence.
@@ -97,7 +92,6 @@ Madrosarai who reject blood-clan authority are often called **Unveiled**. The wo
 Some Unveiled Madrosarai establish cooperative schools, independent clinics, and offworld professional networks. Others lose access to clan archives, specialized medicine, blood-keyed equipment, housing, and relatives who remain subject to clan authority. Erbium frequently recruits Unveiled specialists by offering resources once supplied by their clans, then replaces inherited obligation with corporate dependence.
 
 # Beliefs
-
 Madrosarai beliefs vary between blood-clans, districts, and diaspora communities, but several ideas recur throughout their traditions.
 
 A **veil** marks the boundary between what belongs to the self and what has been entrusted to others. Madrosarai ethics place considerable importance on choosing what to disclose, identifying who possesses authority to receive it, and protecting information given in confidence. Privacy, secrecy, discretion, and deception remain distinct practices judged according to purpose and consequence.
@@ -119,7 +113,6 @@ Many Madrosarai interpret the Star Dream through the history of Zakaron. Traditi
 **Popular Anathema** expose a protected confidence for personal status, claim ownership over another person’s blood or body, force someone into a profession solely because of their bloodline, endanger shared infrastructure through private rivalry, use emotional discipline to conceal abuse from those placed at risk
 
 # Sample Names
-
 Common Madrosarai names include Andrest, Aveline, Bakile, Cerast, Ilyren, Kesara, Lucerne, Nevel, Odelria, Palerne, Saivel, Sankille, Tarev, Velesh, and Yssara.
 
 A Madrosarai may use a personal name, a family name, and a blood-clan affiliation. Clan affiliation can be stated formally, withheld in ordinary conversation, or replaced with an occupational veil.
@@ -131,47 +124,39 @@ Zakaron-born Madrosarai may possess different names for family, clan service, an
 # Other Information
 
 ## The Six Major Bloodlines
-
 Madrosarai recognize many minor shades and mixed resonances, though six bloodlines possess the largest populations and most established institutions.
 
 ### Gold Blood
-
 Gold blood produces a metallic sheen visible beneath the skin and a resonance associated with authority, coordination, and social pressure. Gold-blooded Madrosarai are heavily represented in command, diplomacy, political administration, and clan leadership.
 
 Their education often emphasizes speech, posture, threat assessment, and the management of group behavior. A gold-blooded child may receive leadership training long before expressing any personal interest in authority.
 
 ### Lime Blood
-
 Lime blood appears bright green or yellow-green and reacts strongly to crafted systems, surgery, and arcane machinery. Lime-blooded Madrosarai dominate Zakaron’s cybernetic laboratories, surgical theaters, precision factories, and implant-maintenance professions.
 
 Clans frequently treat lime blood as an industrial asset. Apprenticeship contracts can begin in childhood, and rare technical aptitudes may become subjects of competition between manufacturers and blood-clans.
 
 ### Red Blood
-
 Red blood carries a strong relationship with aggression, pain response, and sudden physical exertion. Red-blooded Madrosarai learn to release emotional pressure in controlled bursts, making them valued as soldiers, duelists, emergency responders, and enforcement personnel.
 
 Their anger is simultaneously cultivated and restricted. Institutions expect them to access aggression immediately during approved violence and contain it completely when confronting the people who direct them.
 
 ### Stone Blood
-
 Stone blood appears gray, beige, silver, or muted brown. Its resonance supports analysis, bodily assessment, and the precise observation of weaknesses. Stone-blooded Madrosarai are common among physicians, combat diagnosticians, strategists, investigators, and philosophers.
 
 Their apparent calm often attracts expectations of permanent neutrality. A stone-blooded person who takes a passionate political position may be accused of abandoning the objectivity their blood was supposed to provide.
 
 ### Teal Blood
-
 Teal blood ranges from blue-green to deep cyan and supports endurance, pain tolerance, and resistance to physical collapse. Teal-blooded Madrosarai are heavily recruited into hazardous maintenance, military support, emergency medicine, exterior work, and long-duration assignments.
 
 Service traditions frequently celebrate their reliability while assigning them a disproportionate share of work expected to cause injury.
 
 ### Umber Blood
-
 Umber blood appears dark brown, violet, black-purple, or nearly opaque beneath the skin. It carries an affinity for psychic phenomena, occult spellwork, hidden memory, and effects that resist ordinary arcane classification.
 
 Umber-blooded Madrosarai are associated with intelligence analysis, counterintelligence, psychic research, anomaly containment, and restricted clan archives. Their abilities attract both reverence and intrusive monitoring.
 
 ## Veilwork
-
 **Veilwork** is the broad Madrosarai term for disciplines involving controlled information, covert access, protected identity, and action performed without public attribution.
 
 Veilwork can include surveillance, counterintelligence, encryption, social infiltration, assassination, sabotage, witness protection, covert medicine, extraction of endangered personnel, and the movement of information through hostile territory.
@@ -183,7 +168,6 @@ Settled Systems media frequently treats every Madrosarai as a potential assassin
 Erbium Industries employs Madrosarai veil specialists in Internal Continuity, executive protection, industrial counterespionage, debt enforcement, relay security, and investigations involving proprietary technology. Corporate contracts frequently require disclosure of clan training while withholding information about the operation the employee has been assigned to support.
 
 ## Blood-Reactive Technology
-
 Zakaron’s most distinctive technologies combine arcane circulation with cybernetic engineering. A **blood-keyed interface** reads the user’s biological identity, magical resonance, pulse, emotional condition, and deliberate changes in blood pressure.
 
 Simple blood keys function as secure authentication. More advanced systems allow a Madrosarai to operate machinery through controlled physiological signals, alter implant behavior by shifting emotional state, or channel innate magic through a cybernetic device.
@@ -197,7 +181,6 @@ Erbium has spent centuries attempting to reproduce blood-reactive technology usi
 Offworld Madrosarai employment agreements often authorize medical sampling and retention of arcane-profile data. Erbium describes these records as necessary for safe equipment compatibility. Blood-clans describe the same programs as a long-term effort to separate Zakaron technology from the people who created it.
 
 ## Place in the Settled Systems
-
 Madrosarai are widely employed in cybernetics, surgery, intelligence, diplomacy, weapons research, secure communications, investigation, corporate security, arcane engineering, and combat medicine.
 
 Their reputation for composure can improve access to sensitive work. It also encourages employers to place them in situations involving secrecy, distress, violence, or morally compromising decisions while assuming they will remain functional without support.

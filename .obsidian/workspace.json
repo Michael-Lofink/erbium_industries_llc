@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
-                "mode": "preview",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vesk"
+              "title": "Heritages"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vesk"
+              "title": "Backlinks for Heritages"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vesk"
+              "title": "Outgoing links from Heritages"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vesk"
+              "title": "Outline of Heritages"
             }
           },
           {
@@ -222,38 +222,38 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
+    "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
+    "Starfinder 2e Rules/Actions/Controlled Rage.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Starfinder 2e Rules/Actions/Pardon Me.md",
     "Starfinder 2e Rules/Actions/Empathic Assistance.md",
-    "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
     "Resources/ancestryPortrait_Vesk.png",
     "Resources/ancestryPortrait_Vesk2.png",
     "Resources/ancestryPortrait_Madrosarai.png",
     "Resources/ancestryPortrait_Madrosarai2.png",
     "Worldbuilding/Notable Locations/Zakaron.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Resources/Zakaron-System_v01.json",
     "Resources/planet_Zakaron.png",
-    "Worldbuilding/Time in the Settled Systems.md",
-    "Worldbuilding/Settled Systems Code/Generating a New Law.md",
-    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
-    "Campaign/System/Campaign Clock.md",
-    "Campaign/Plot Hook.md",
-    "Campaign/Campaign Timeline.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Resources/The_Settled_Systems_and_Beyond-Starmap_01.json",
     "Resources/My_Starmap-Starmap.json",
     "Resources/Ossuun-Fonqugon-Home-System_v01.json",

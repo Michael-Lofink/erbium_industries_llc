@@ -13,10 +13,7 @@ tags:
 ```sf2e-stats
 | ==Common== ==Vesk== ==Humanoid==
 ```
-
-![[ancestryPortrait_Vesk.png#wrapright|300]]
-
-Vesk are heavily built reptilian humanoids native to [[Zakaron]], where physical strength has served as weapon, civic obligation, political credential, and family inheritance. Their holds fought throughout the ancient [[Zakaron#The Inversion|Rupture Wars]], contributing to the destruction of the planetary atmosphere and the collapse that forced Zakaron’s surviving peoples to rebuild civilization along the inside of the crust.
+![[ancestryPortrait_Vesk.png#wrapright|300]]Vesk are heavily built reptilian humanoids native to [[Zakaron]], where physical strength has served as weapon, civic obligation, political credential, and family inheritance. Their holds fought throughout the ancient [[Zakaron#The Inversion|Rupture Wars]], contributing to the destruction of the planetary atmosphere and the collapse that forced Zakaron’s surviving peoples to rebuild civilization along the inside of the crust.
 
 The same institutions that helped destroy the planet became essential to its survival. Vesk holds supplied soldiers, emergency labor, structural engineers, heavy equipment, and disciplined workforces during the construction of [[Zakaron#Kharosai|Kharosai]]. They defended pressure systems, stabilized damaged districts, transported entire populations, and held critical infrastructure while artificial gravity, atmosphere, and the [[Zakaron#The Sunlock|Sunlock]] remained unreliable.
 
@@ -51,7 +48,6 @@ If you want to roleplay a physically formidable character deciding which duties 
 - Hold you personally responsible for Zakaron’s military history or view you as a natural ally against Erbium.
 
 # Physical Description
-
 Vesk are tall, dense, muscular humanoids covered in thick scales. Most adults stand between 6 and 7 feet tall and possess broad shoulders, powerful limbs, heavy torsos, and long muscular tails. Their weight often exceeds that of similarly sized humanoids because of dense bone, layered musculature, and protective scales.
 
 Their scales usually appear in shades of green, gray, blue, brown, black, ocher, or muted red. Mottled patterns, contrasting throats, bright facial patches, and bands of color along the limbs or tail are common. Some families cultivate vivid scale patterns through selective inheritance, medical treatment, or cosmetic alteration.
@@ -73,7 +69,6 @@ Cybernetics are common among Zakaron vesk. Industrial workers use reinforced joi
 Visible augmentation carries little inherent stigma. Vesk usually judge an implant by its function, reliability, cost, and the authority controlling it. An advanced military system may represent prestige, permanent service obligation, or a remote safeguard capable of restricting its user.
 
 # Society
-
 Vesk society on Zakaron is organized through **holds**. A hold can function as an extended family, territorial government, military command, industrial consortium, school, mutual-defense network, or combination of these institutions.
 
 Membership may come through birth, adoption, marriage, oath, military service, employment, political alliance, or the formal acceptance of responsibility for another person. Some holds contain millions of members and control large districts of Kharosai. Others consist of a few families maintaining a workshop, vessel, neighborhood, or inherited obligation.
@@ -113,7 +108,6 @@ Offworld vesk society varies widely. Some diaspora communities maintain formal h
 Many vesk raised away from Zakaron understand honor through their local community rather than through ancestral institutions. A vesk may serve a mining cooperative, hospital, frontier settlement, religious group, ship crew, or family with the same seriousness that a Zakaron traditionalist gives to a hold.
 
 # Beliefs
-
 Vesk beliefs emphasize the relationship between capability, commitment, and consequence. Strength carries meaning when someone uses it deliberately and accepts responsibility for what follows.
 
 An oath is valuable because other people reorganize their choices around it. A vesk who promises to guard a district, support a family, complete a repair, or defend a subordinate creates expectations that may determine whether others survive. Breaking the oath transfers the resulting danger to people who relied upon it.
@@ -155,7 +149,6 @@ Vesk often shorten formal names outside Zakaron. Diaspora communities may combin
 # Other Information
 
 ## Vesk Holds
-
 A hold begins with a declared responsibility. Ancient holds formed around fortified settlements, military forces, water systems, food stores, industrial districts, transportation routes, or the protection of particular families.
 
 During the Inversion, holds that controlled shelters, machinery, troops, and surviving supply routes became the foundations of reconstruction government. Their agreements determined which populations received pressure space, gravity coverage, heat, food, and protection.
@@ -169,7 +162,6 @@ A member can challenge a hold leader through procedures established in the chart
 Powerful holds shape the challenge rules to protect established leadership. A worker may possess a theoretical right to challenge an industrial commander while lacking the money, witnesses, legal access, medical clearance, or free time required to complete the process.
 
 ## The Rupture Wars
-
 The Rupture Wars lasted across generations and involved shifting coalitions of vesk holds and Madrosarai blood-clans. Most factions claimed that control of planetary infrastructure was necessary to prevent rivals from using it against them.
 
 Vesk forces conducted territorial invasions, siege operations, mass mobilizations, and assaults against atmosphere processors, orbital defenses, mantle facilities, and population shelters. Every escalation created a new justification for further militarization.
@@ -181,7 +173,6 @@ The Inversion transformed military defeat into planetary collapse. Vesk traditio
 Modern reformers argue that survival service cannot erase responsibility for the catastrophe. Traditionalists answer that present generations inherit obligations to preserve Zakaron rather than guilt for decisions made before their birth.
 
 ## The War of the Open Stars
-
 The Star Dream gave Zakaron access to intersystem travel while its military institutions remained organized around expansion, readiness, and competition between holds.
 
 Many vesk leaders interpreted the Dream as proof that Zakaron had survived its trials to bring disciplined order to weaker worlds. The War of the Open Stars began with demands for submission, access, tribute, relay rights, and military passage.
@@ -197,7 +188,6 @@ Erbium and its allied governments used supply access as leverage. The Still-Driv
 Modern vesk disagree over the war’s meaning. Revanchists regard the Accords as a humiliation imposed through resource monopoly. Reformers regard the war as a second warning against equating superior force with legitimate rule. Many diaspora vesk see both positions as arguments belonging to a homeland they have never visited.
 
 ## Armor and the Vesk Body
-
 Vesk military and industrial design treats the body as a structural platform. Armor attaches across the shoulders, spine, hips, and tail rather than hanging primarily from the torso. Weight is distributed through reinforced joints and dense musculature.
 
 Zakaron armor commonly includes removable plates, mechanical supports, integrated medical systems, environmental sealing, tool mounts, and direct connections to cybernetic interfaces. Military suits can become extensions of the wearer’s nervous system.
@@ -221,7 +211,6 @@ Zakaron’s government recognizes many diaspora holds and encourages ceremonial 
 Diaspora movements increasingly reject the idea that ancestry or inherited hold records create automatic political obligations. Some petition Zakaron to release their affiliations. Others preserve hold membership while demanding equal authority over its policies.
 
 ## Place in the Settled Systems
-
 Vesk work throughout military service, corporate security, emergency response, heavy construction, industrial repair, freight handling, hazardous extraction, law enforcement, athletics, and command.
 
 Their physical durability and reputation for duty make them attractive to employers assigning dangerous work. A vesk may be expected to remain during an evacuation, restrain an unstable worker, carry injured personnel, or absorb violence before other employees enter danger.
