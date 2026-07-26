@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Zakaron.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zakaron"
+              "title": "Madrosarai"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Madrosarai"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Madrosarai"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Zakaron.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zakaron"
+              "title": "Outline of Madrosarai"
             }
           },
           {
@@ -220,16 +222,20 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Resources/planet_Zakaron.png",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+    "Resources/Zakaron-System_v01.json",
+    "Resources/planet_Zakaron.png",
     "Worldbuilding/Time in the Settled Systems.md",
     "Worldbuilding/Settled Systems Code/Generating a New Law.md",
     "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
     "Campaign/System/Campaign Clock.md",
     "Campaign/Plot Hook.md",
     "Campaign/Campaign Timeline.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
@@ -239,13 +245,11 @@
     "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
     "Worldbuilding/Erbium Campaign Art Style.md",
     "Worldbuilding/Erbium Industries -- Settled Systems -- Setting Guide.md",
     "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
     "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
     "Resources/The_Settled_Systems_and_Beyond-Starmap_01.json",
     "Resources/My_Starmap-Starmap.json",
     "Resources/Ossuun-Fonqugon-Home-System_v01.json",
@@ -258,7 +262,6 @@
     "Resources/8 Types of Combat, Actually.txt",
     "Resources/The 5 Room Dungeon is a Story Structure.txt",
     "Resources/Get Players to Roleplay by RENDERING Scenes.txt",
-    "Resources/8 Types of Ambushes to Start Your Adventure!.txt",
     "Resources/ancestryPortrait_Human2.png",
     "Resources/ancestryPortrait_Human.png",
     "Resources/ancestryPortrait_Fonqugon.png",

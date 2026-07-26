@@ -1,0 +1,1479 @@
+{
+  "id": "settled-systems-zakaron-v01",
+  "name": "Zakaron System",
+  "seed": "settled-systems-zakaron-v01",
+  "epochT0": 1785051360000,
+  "age_Gyr": 6.1,
+  "nodes": [
+    {
+      "id": "zakaron-star-a",
+      "parentId": null,
+      "name": "Zakaron Primary",
+      "kind": "body",
+      "roleHint": "star",
+      "classes": [
+        "star/G",
+        "star/G8V"
+      ],
+      "massKg": 1.8691618e+30,
+      "radiusKm": 633000.0,
+      "temperatureK": 5520,
+      "radiationOutput": 0.76,
+      "magneticField": {
+        "strengthGauss": 0.81
+      },
+      "image": {
+        "url": "/images/star_types/G.webp"
+      },
+      "tags": [],
+      "areas": [],
+      "description": "A mature yellow-orange G-type main-sequence star with steady output. Its long stable period allowed life to develop on Zakaron before the Rupture Wars and now supplies the exterior radiator fields, orbital foundries, and solar-collection infrastructure of the rebuilt system.",
+      "isNameUserDefined": true,
+      "flareActivity": 0.016
+    },
+    {
+      "id": "zakaron-kezhar",
+      "parentId": "zakaron-star-a",
+      "name": "Kezhar",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "zakaron-star-a",
+        "hostMu": 1.2475359357021425e+20,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 0.16,
+          "e": 0.026,
+          "i_deg": 2.1,
+          "omega_deg": 121.0,
+          "Omega_deg": 36.0,
+          "M0_rad": 0.6
+        },
+        "resonance": null
+      },
+      "massKg": 1.911104e+24,
+      "radiusKm": 4587.0,
+      "makeup": {
+        "metal": 0.54,
+        "rock": 0.46
+      },
+      "atmosphere": {
+        "name": "None",
+        "composition": {},
+        "pressure_bar": 0
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.8,
+      "rotation_period_hours": 573.0,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.018
+      },
+      "tags": [
+        {
+          "key": "purpose/solar-forging",
+          "manual": true
+        },
+        {
+          "key": "purpose/automated-extraction",
+          "manual": true
+        },
+        {
+          "key": "lore/erbium-depleted",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "kezhar-dayknife-forges",
+          "name": "Dayknife Forges",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/solar-forging",
+              "manual": true
+            },
+            {
+              "key": "owner/zakaron-concord",
+              "manual": true
+            },
+            {
+              "key": "purpose/armor-production",
+              "manual": true
+            }
+          ],
+          "description": "A chain of shielded solar foundries on the permanent dayside that refine refractory metals and manufacture armor ceramics, weapon housings, and radiation-resistant cybernetic components.",
+          "gmNotes": "Several forge complexes contain sealed pre-Accord production lines whose output never enters public procurement records."
+        },
+        {
+          "id": "kezhar-hollow-cuts",
+          "name": "The Hollow Cuts",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/extraction",
+              "manual": true
+            },
+            {
+              "key": "lore/depleted-mines",
+              "manual": true
+            },
+            {
+              "key": "hazard/crust-collapse",
+              "manual": true
+            }
+          ],
+          "description": "A continent-scale field of abandoned shafts and collapsed strip mines left after Zakaron exhausted Kezhar's accessible rare-earth and erbium-bearing formations during the War of the Open Stars."
+        }
+      ],
+      "description": "A tidally locked metal-rich inner world. Its dayside supports automated solar foundries while deep scars across both hemispheres record centuries of extraction that removed nearly every commercially useful erbium-bearing deposit.",
+      "image": {
+        "url": "/images/planet_types/web20iron20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-oltara",
+      "parentId": "zakaron-star-a",
+      "name": "Oltara",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "zakaron-star-a",
+        "hostMu": 1.2475379287148657e+20,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 0.43,
+          "e": 0.041,
+          "i_deg": 1.6,
+          "omega_deg": 48.0,
+          "Omega_deg": 211.0,
+          "M0_rad": 2.1
+        },
+        "resonance": null
+      },
+      "massKg": 4.897204e+24,
+      "radiusKm": 5925.0,
+      "makeup": {
+        "metal": 0.34,
+        "rock": 0.66
+      },
+      "atmosphere": {
+        "name": "Dense Carbon Dioxide–Sulfur Atmosphere",
+        "main": "CO2",
+        "composition": {
+          "CO2": 0.92,
+          "N2": 0.06,
+          "SO2": 0.02
+        },
+        "pressure_bar": 18.0
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 5.4,
+      "rotation_period_hours": 814.0,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.07
+      },
+      "tags": [
+        {
+          "key": "purpose/industrial-chemistry",
+          "manual": true
+        },
+        {
+          "key": "purpose/weapons-testing",
+          "manual": true
+        },
+        {
+          "key": "lore/erbium-depleted",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "oltara-vapor-works",
+          "name": "Vapor Works Nine",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/atmospheric-harvesting",
+              "manual": true
+            },
+            {
+              "key": "purpose/chemical-production",
+              "manual": true
+            },
+            {
+              "key": "owner/zakaron-concord",
+              "manual": true
+            }
+          ],
+          "description": "Floating industrial platforms harvest sulfur, carbon, and nitrogen compounds for explosives, propellants, armor polymers, and sealed habitat chemistry."
+        },
+        {
+          "id": "oltara-white-flash-range",
+          "name": "White Flash Range",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/weapons-testing",
+              "manual": true
+            },
+            {
+              "key": "hazard/thermal-bloom",
+              "manual": true
+            },
+            {
+              "key": "security/restricted",
+              "manual": true
+            }
+          ],
+          "description": "A restricted hemisphere used to test orbital penetrators, plasma weapons, thermal shielding, and autonomous combat systems under crushing pressure and corrosive cloud cover.",
+          "gmNotes": "The range also tests weapons intended for use against hardened planetary infrastructure similar to Kharosai's gravity and pressure systems."
+        }
+      ],
+      "description": "A hot greenhouse world beneath dense carbon dioxide and sulfurous clouds. Oltara serves as the system's principal atmospheric-chemistry site and a remote weapons-testing environment where failures can be contained far from inhabited Zakaron.",
+      "image": {
+        "url": "/images/planet_types/web20silicate20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-homeworld",
+      "parentId": "zakaron-star-a",
+      "name": "Zakaron",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "zakaron-star-a",
+        "hostMu": 1.247538048295629e+20,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 0.9080848793264557,
+          "e": 0.018,
+          "i_deg": 0.9,
+          "omega_deg": 144.0,
+          "Omega_deg": 274.0,
+          "M0_rad": 4.7
+        },
+        "resonance": null
+      },
+      "massKg": 5.07637e+24,
+      "radiusKm": 6200.0,
+      "makeup": {
+        "metal": 0.31,
+        "rock": 0.68,
+        "ice": 0.01
+      },
+      "atmosphere": {
+        "name": "None (Exterior)",
+        "composition": {},
+        "pressure_bar": 0
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 12.8,
+      "rotation_period_hours": 27.8,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.04
+      },
+      "tags": [
+        {
+          "key": "lore/vesk-homeworld",
+          "manual": true
+        },
+        {
+          "key": "lore/madrosarai-homeworld",
+          "manual": true
+        },
+        {
+          "key": "settlement/major-hub",
+          "manual": true
+        },
+        {
+          "key": "economy/cybernetics",
+          "manual": true
+        },
+        {
+          "key": "economy/military-industry",
+          "manual": true
+        },
+        {
+          "key": "politics/sovereign-power",
+          "manual": true
+        },
+        {
+          "key": "lore/inverted-world",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "zakaron-kharosai",
+          "name": "Kharosai",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "settlement/megacity",
+              "manual": true
+            },
+            {
+              "key": "lore/inner-shell",
+              "manual": true
+            },
+            {
+              "key": "infrastructure/artificial-gravity",
+              "manual": true
+            }
+          ],
+          "description": "The continuous inhabited megacity built across the inside of Zakaron's reinforced crust. Artificial gravity pulls residents toward the shell while the opposing districts of the Overcity remain visible across the central cavity."
+        },
+        {
+          "id": "zakaron-sairak-axis",
+          "name": "Sairak Axis",
+          "type": "city",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/capital",
+              "manual": true
+            },
+            {
+              "key": "government/zakaron-concord",
+              "manual": true
+            },
+            {
+              "key": "politics/paired-mandate",
+              "manual": true
+            }
+          ],
+          "description": "The fortified capital district containing the Assembly of Holds, Conclave of Veils, Hall of the Paired Mandate, treaty ministries, and the most stable gravity-control region in Kharosai."
+        },
+        {
+          "id": "zakaron-kheled-foundry-belt",
+          "name": "Kheled Foundry Belt",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/shipbuilding",
+              "manual": true
+            },
+            {
+              "key": "economy/cybernetics",
+              "manual": true
+            },
+            {
+              "key": "economy/military-industry",
+              "manual": true
+            }
+          ],
+          "description": "A broad industrial band of shipyards, armor works, implant manufacturers, military laboratories, furnace districts, and freight lines visible across much of the Overcity.",
+          "gmNotes": "A concealed power draw beneath the district supports an experimental Drift-core program operated by revanchist holds and Madrosarai weapons researchers."
+        },
+        {
+          "id": "zakaron-black-meridian",
+          "name": "The Black Meridian",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "settlement/clanless",
+              "manual": true
+            },
+            {
+              "key": "economy/illegal-clinics",
+              "manual": true
+            },
+            {
+              "key": "hazard/gravity-faults",
+              "manual": true
+            }
+          ],
+          "description": "Dense housing, repair markets, illegal clinics, weapons dealers, and clanless communities built across one of the deepest reinforced planetary fractures. Permanent restraints remain standard in homes and workshops because local gravity failures are common."
+        },
+        {
+          "id": "zakaron-veilmarket",
+          "name": "Veilmarket",
+          "type": "city",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "culture/madrosarai",
+              "manual": true
+            },
+            {
+              "key": "economy/information",
+              "manual": true
+            },
+            {
+              "key": "economy/bloodline-clinics",
+              "manual": true
+            }
+          ],
+          "description": "A Madrosarai-dominated commercial and intelligence district known for bloodline clinics, specialized cybernetics, surgical theaters, information brokers, discreet clan compounds, and private security firms."
+        },
+        {
+          "id": "zakaron-ashskin",
+          "name": "The Ashskin",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/exterior-maintenance",
+              "manual": true
+            },
+            {
+              "key": "purpose/starport",
+              "manual": true
+            },
+            {
+              "key": "hazard/vacuum",
+              "manual": true
+            }
+          ],
+          "description": "The inhabited boundary between Kharosai and Zakaron's dead exterior. Pressure-sealed settlements support starports, radiator maintenance, orbital defense, salvage crews, and expeditions into pre-Inversion ruins."
+        },
+        {
+          "id": "zakaron-sunlock",
+          "name": "The Sunlock",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "infrastructure/core-containment",
+              "manual": true
+            },
+            {
+              "key": "infrastructure/power-generation",
+              "manual": true
+            },
+            {
+              "key": "security/survival-critical",
+              "manual": true
+            }
+          ],
+          "description": "The technologically stabilized remnant of Zakaron's core, held inside magnetic containment rings and surrounded by thermal exchangers, power-conversion structures, and regulated luminous plasma layers that light Kharosai.",
+          "gmNotes": "A persistent thermal imbalance in the southern containment ring is real, though covert construction beneath Kheled Foundry Belt is worsening it."
+        }
+      ],
+      "description": "The ancestral world of the Vesk and Madrosarai is externally airless and plated with radiator fields, armored access structures, transit conduits, and orbital defenses. Its population lives across the inner surface of the reinforced crust inside Kharosai, where a maintained atmosphere, overlapping gravity projectors, and the Sunlock preserve a civilization built inside the consequences of the Rupture Wars.",
+      "gmNotes": "Zakaron remains the strongest sovereign planetary rival to Erbium Industries. Its government opposes corporate control while preserving authoritarian clan structures, classified weapons programs, and factions that still regard the War of the Open Stars as an interrupted expansion rather than a settled defeat.",
+      "image": {
+        "url": "/images/planet_types/web20mesoplanet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-concord-anchorage",
+      "parentId": "zakaron-homeworld",
+      "ui_parentId": null,
+      "name": "Concord High Anchorage",
+      "kind": "construct",
+      "roleHint": "station",
+      "class": "Settled Systems/Station/Trade",
+      "description": "Zakaron's principal civilian orbital port, customs station, diplomatic arrival point, and treaty inspection facility. Most foreign visitors transfer here before entering the armored descent corridors to Kharosai.",
+      "gmNotes": "Erbium maintains accredited inspectors and relay technicians aboard the station but possesses no chartered civil authority. Concord security records every corporate movement separately from the PES stamp.",
+      "IsTemplate": false,
+      "icon_type": "hexagon",
+      "icon_color": "#8c6f8e",
+      "crew": {
+        "current": 24000,
+        "max": 40000
+      },
+      "physical_parameters": {
+        "dimensionsM": [
+          6200,
+          2400,
+          2400
+        ],
+        "massKg": 1400000000000.0,
+        "cargoCapacity_tonnes": 2200000,
+        "rotation_period_hours": 6.0,
+        "spinRadiusM": 920,
+        "can_aerobrake": false,
+        "has_landing_gear": false
+      },
+      "engines": [
+        {
+          "engine_id": "engine-grav-station-keeping",
+          "quantity": 12
+        },
+        {
+          "engine_id": "engine-rcs-hydrazine",
+          "quantity": 96
+        }
+      ],
+      "fuel_tanks": [
+        {
+          "fuel_type_id": "fuel-hydrazine",
+          "capacity_units": 560000,
+          "current_units": 431000
+        }
+      ],
+      "systems": {
+        "power_plants": [
+          {
+            "type": "Fusion Reactor",
+            "output_MW": 12000
+          }
+        ],
+        "modules": [
+          "Civilian Docking Spine",
+          "Foreign Customs Ring",
+          "Treaty Inspection Vaults",
+          "Armored Descent Terminals",
+          "PES Relay Authentication Annex",
+          "Concord Diplomatic Quarter"
+        ],
+        "life_support": {
+          "consumables_max_person_days": 2400000,
+          "consumables_current_person_days": 1980000
+        }
+      },
+      "current_cargo_tonnes": 610000,
+      "cargoDescription": "Cybernetics, armor components, medical systems, imported food concentrates, relay parts, and sealed erbium consignments",
+      "orbit": {
+        "hostId": "zakaron-homeworld",
+        "hostMu": 338812162910093.44,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 0.00012,
+          "e": 0.001,
+          "i_deg": 0.6,
+          "omega_deg": 0.0,
+          "Omega_deg": 0.0,
+          "M0_rad": 3.8
+        },
+        "resonance": null
+      },
+      "placement": "High Orbit",
+      "tags": [
+        {
+          "key": "owner/zakaron-concord",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "influence/corporation",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "purpose/passenger-transfer",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "purpose/treaty-inspection",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "class/station",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "tech/advanced",
+          "manual": true,
+          "coi": true
+        }
+      ],
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-kheled-orbital-yard",
+      "parentId": "zakaron-homeworld",
+      "ui_parentId": null,
+      "name": "Kheled High Yard",
+      "kind": "construct",
+      "roleHint": "station",
+      "class": "Settled Systems/Station/Industrial",
+      "description": "A heavily defended orbital construction complex producing warship hulls, station modules, heavy armor, and commercial vessels. Finished hulls can outnumber the refined Drift cores legally available to power them.",
+      "gmNotes": "Several sealed construction cradles contain treaty-limited hulls registered as civil-defense platforms. Their weapon hardpoints and command architecture indicate rapid military conversion.",
+      "IsTemplate": false,
+      "icon_type": "square",
+      "icon_color": "#6e5a72",
+      "crew": {
+        "current": 61000,
+        "max": 95000
+      },
+      "physical_parameters": {
+        "dimensionsM": [
+          18000,
+          6200,
+          4200
+        ],
+        "massKg": 5800000000000.0,
+        "cargoCapacity_tonnes": 12000000,
+        "rotation_period_hours": 8.0,
+        "spinRadiusM": 1600,
+        "can_aerobrake": false,
+        "has_landing_gear": false
+      },
+      "engines": [
+        {
+          "engine_id": "engine-grav-station-keeping",
+          "quantity": 24
+        },
+        {
+          "engine_id": "engine-rcs-hydrazine",
+          "quantity": 180
+        }
+      ],
+      "fuel_tanks": [
+        {
+          "fuel_type_id": "fuel-hydrazine",
+          "capacity_units": 1200000,
+          "current_units": 950000
+        }
+      ],
+      "systems": {
+        "power_plants": [
+          {
+            "type": "Fusion Reactor",
+            "output_MW": 48000
+          }
+        ],
+        "modules": [
+          "Capital Hull Cradles",
+          "Armor Lamination Works",
+          "Cybernetic Control Foundry",
+          "Military Quarantine Deck",
+          "Civil Export Berths",
+          "Concord Fleet Command Annex"
+        ],
+        "life_support": {
+          "consumables_max_person_days": 6300000,
+          "consumables_current_person_days": 5140000
+        }
+      },
+      "current_cargo_tonnes": 4200000,
+      "cargoDescription": "Unfinished hull sections, armor ceramics, reactor components, cybernetic control systems, weapons mounts, and classified military cargo",
+      "orbit": {
+        "hostId": "zakaron-homeworld",
+        "hostMu": 338812162910387.1,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 6.5e-05,
+          "e": 0.0015,
+          "i_deg": 1.2,
+          "omega_deg": 0.0,
+          "Omega_deg": 0.0,
+          "M0_rad": 1.4
+        },
+        "resonance": null
+      },
+      "placement": "Medium Orbit",
+      "tags": [
+        {
+          "key": "owner/zakaron-concord",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "purpose/shipbuilding",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "purpose/military-industry",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "class/station",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "tech/advanced",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "security/restricted",
+          "manual": true,
+          "coi": true
+        }
+      ],
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-marnak",
+      "parentId": "zakaron-star-a",
+      "name": "Marnak",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "zakaron-star-a",
+        "hostMu": 1.2475371713700307e+20,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 1.52,
+          "e": 0.052,
+          "i_deg": 2.7,
+          "omega_deg": 203.0,
+          "Omega_deg": 89.0,
+          "M0_rad": 5.5
+        },
+        "resonance": null
+      },
+      "massKg": 3.762486e+24,
+      "radiusKm": 5350.0,
+      "makeup": {
+        "metal": 0.28,
+        "rock": 0.67,
+        "ice": 0.05
+      },
+      "atmosphere": {
+        "name": "Thin Carbon Dioxide–Nitrogen Atmosphere",
+        "main": "CO2",
+        "composition": {
+          "CO2": 0.62,
+          "N2": 0.34,
+          "Ar": 0.04
+        },
+        "pressure_bar": 0.04
+      },
+      "hydrosphere": {
+        "coverage": 0.08,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 19.6,
+      "rotation_period_hours": 30.4,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.05
+      },
+      "tags": [
+        {
+          "key": "purpose/military-testing",
+          "manual": true
+        },
+        {
+          "key": "purpose/extraction",
+          "manual": true
+        },
+        {
+          "key": "lore/erbium-depleted",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "marnak-red-archive-range",
+          "name": "Red Archive Range",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/military-testing",
+              "manual": true
+            },
+            {
+              "key": "purpose/ruin-preservation",
+              "manual": true
+            },
+            {
+              "key": "security/restricted",
+              "manual": true
+            }
+          ],
+          "description": "A cold desert weapons range where modern test sites overlap preserved fortifications, wrecked invasion craft, and training grounds from the War of the Open Stars."
+        },
+        {
+          "id": "marnak-seventh-pit",
+          "name": "Seventh Pit",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "lore/depleted-mines",
+              "manual": true
+            },
+            {
+              "key": "purpose/deep-survey",
+              "manual": true
+            },
+            {
+              "key": "owner/zakaron-concord",
+              "manual": true
+            }
+          ],
+          "description": "The deepest surviving erbium mine in the inner system. It now functions as a geological laboratory and memorial to the extraction surge that supplied Zakaron's first interstellar fleets.",
+          "gmNotes": "The mine is publicly exhausted. Restricted surveys continue below the declared floor, searching for microdeposits and evidence of deliberately falsified pre-Accord records."
+        }
+      ],
+      "description": "A cold dry world with a thin atmosphere, scattered subsurface ice, extensive military ranges, and exhausted mines. Marnak supplied much of the refined erbium consumed during Zakaron's first expansion and remains a central site of martial memory.",
+      "image": {
+        "url": "/images/planet_types/web20sub-earth.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-spent-crown",
+      "parentId": "zakaron-star-a",
+      "name": "The Spent Crown",
+      "kind": "body",
+      "roleHint": "belt",
+      "classes": [],
+      "radiusInnerKm": 326123358.126,
+      "radiusOuterKm": 475721228.826,
+      "orbit": {
+        "hostId": "zakaron-star-a",
+        "hostMu": 1.2475346643120659e+20,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 2.66,
+          "e": 0.074,
+          "i_deg": 6.1,
+          "omega_deg": 76.0,
+          "Omega_deg": 132.0,
+          "M0_rad": 2.9
+        },
+        "resonance": null
+      },
+      "massKg": 6.2e+21,
+      "tags": [
+        {
+          "key": "purpose/extraction",
+          "manual": true
+        },
+        {
+          "key": "lore/erbium-depleted",
+          "manual": true
+        },
+        {
+          "key": "purpose/hidden-shipyards",
+          "manual": true
+        },
+        {
+          "key": "hazard/military-debris",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "spent-crown-still-fleet-necropolis",
+          "name": "Still Fleet Necropolis",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "lore/war-of-open-stars",
+              "manual": true
+            },
+            {
+              "key": "purpose/salvage",
+              "manual": true
+            },
+            {
+              "key": "hazard/armed-wrecks",
+              "manual": true
+            }
+          ],
+          "description": "A dispersed field of obsolete warships, stripped Drift hulls, weapons platforms, and captured vessels stored among mined-out asteroids after the Still-Drive Accords.",
+          "gmNotes": "Some wrecks retain sealed arsenals, dormant autonomous defenses, or navigation records omitted from the accepted war history."
+        },
+        {
+          "id": "spent-crown-quiet-foundries",
+          "name": "The Quiet Foundries",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/shipbuilding",
+              "manual": true
+            },
+            {
+              "key": "security/off-stamp",
+              "manual": true
+            },
+            {
+              "key": "politics/revanchist",
+              "manual": true
+            }
+          ],
+          "description": "A network of low-signature industrial caverns officially registered as reserve civil-defense depots.",
+          "gmNotes": "Several revanchist holds use the foundries to assemble unregistered fleet components and train crews beyond treaty inspection."
+        }
+      ],
+      "description": "A broad belt of rocky and metallic bodies stripped during Zakaron's interstellar expansion. Abandoned mines, armored habitats, old fleet depots, and military debris make the belt economically depleted and strategically valuable.",
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-drauk",
+      "parentId": "zakaron-star-a",
+      "name": "Drauk",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "zakaron-star-a",
+        "hostMu": 1.2484594744753068e+20,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 5.4,
+          "e": 0.046,
+          "i_deg": 1.9,
+          "omega_deg": 259.0,
+          "Omega_deg": 309.0,
+          "M0_rad": 0.9
+        },
+        "resonance": null
+      },
+      "massKg": 1.3856349e+27,
+      "radiusKm": 64000.0,
+      "makeup": {
+        "gas": 0.9,
+        "ice": 0.1
+      },
+      "atmosphere": {
+        "name": "Hydrogen–Helium Envelope",
+        "main": "H2",
+        "composition": {
+          "H2": 0.86,
+          "He": 0.13,
+          "CH4": 0.01
+        },
+        "pressure_bar": 160000
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 16.8,
+      "rotation_period_hours": 10.7,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 3.4
+      },
+      "tags": [
+        {
+          "key": "purpose/gas-skimming",
+          "manual": true
+        },
+        {
+          "key": "purpose/fleet-support",
+          "manual": true
+        },
+        {
+          "key": "hazard/radiation-belts",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "drauk-spearhead-skimmers",
+          "name": "Spearhead Skimmers",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/gas-skimming",
+              "manual": true
+            },
+            {
+              "key": "owner/zakaron-concord",
+              "manual": true
+            },
+            {
+              "key": "purpose/fleet-fuel",
+              "manual": true
+            }
+          ],
+          "description": "Armored atmospheric platforms harvest hydrogen isotopes and volatile feedstock for fusion plants, military reserves, and outer-system shipping."
+        }
+      ],
+      "description": "A massive gas giant supporting fuel harvesting, outer-system logistics, and military patrol routes. Its radiation belts and dense moon system conceal ship movements from ordinary civilian tracking.",
+      "image": {
+        "url": "/images/planet_types/web20ammonia20clouds20gas20giant.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-drauk-kharad",
+      "parentId": "zakaron-drauk",
+      "name": "Kharad",
+      "kind": "body",
+      "roleHint": "moon",
+      "classes": [],
+      "orbit": {
+        "hostId": "zakaron-drauk",
+        "hostMu": 9.24870365427e+16,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 0.0035,
+          "e": 0.013,
+          "i_deg": 1.1,
+          "omega_deg": 151.0,
+          "Omega_deg": 228.0,
+          "M0_rad": 3.2
+        },
+        "resonance": null
+      },
+      "massKg": 8.4e+22,
+      "radiusKm": 1810.0,
+      "makeup": {
+        "rock": 0.55,
+        "ice": 0.43,
+        "metal": 0.02
+      },
+      "atmosphere": {
+        "name": "Tenuous Oxygen–Water Exosphere",
+        "main": "O2",
+        "composition": {
+          "O2": 0.6,
+          "H2O": 0.4
+        },
+        "pressure_bar": 1e-10
+      },
+      "hydrosphere": {
+        "coverage": 0.74,
+        "composition": "water",
+        "depth_m": 45000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 0.6,
+      "rotation_period_hours": 114.0,
+      "tidallyLocked": true,
+      "magneticField": {
+        "strengthGauss": 0.004
+      },
+      "tags": [
+        {
+          "key": "purpose/outer-shipyard",
+          "manual": true
+        },
+        {
+          "key": "purpose/ice-extraction",
+          "manual": true
+        },
+        {
+          "key": "lore/erbium-depleted",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "kharad-deep-keel-yard",
+          "name": "Deep Keel Yard",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/shipbuilding",
+              "manual": true
+            },
+            {
+              "key": "owner/zakaron-concord",
+              "manual": true
+            },
+            {
+              "key": "security/restricted",
+              "manual": true
+            }
+          ],
+          "description": "A buried military shipyard using Kharad's ice and rock as shielding. It services long-range patrol vessels outside the heavy traffic around Zakaron."
+        }
+      ],
+      "description": "A large ice-rock moon excavated for water, metals, and trace erbium during the expansion era. Modern military yards occupy the strongest surviving caverns beneath its cratered surface.",
+      "image": {
+        "url": "/images/planet_types/web20ice20planet.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-nhalet",
+      "parentId": "zakaron-star-a",
+      "name": "Nhalet",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "zakaron-star-a",
+        "hostMu": 1.2475927265839999e+20,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 10.8,
+          "e": 0.063,
+          "i_deg": 3.2,
+          "omega_deg": 24.0,
+          "Omega_deg": 161.0,
+          "M0_rad": 4.4
+        },
+        "resonance": null
+      },
+      "massKg": 8.7e+25,
+      "radiusKm": 26600.0,
+      "makeup": {
+        "gas": 0.45,
+        "ice": 0.5,
+        "rock": 0.05
+      },
+      "atmosphere": {
+        "name": "Hydrogen–Helium–Methane Envelope",
+        "main": "H2",
+        "composition": {
+          "H2": 0.77,
+          "He": 0.19,
+          "CH4": 0.04
+        },
+        "pressure_bar": 52000
+      },
+      "hydrosphere": {
+        "coverage": 0,
+        "composition": "water"
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 31.0,
+      "rotation_period_hours": 16.8,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 1.5
+      },
+      "tags": [
+        {
+          "key": "purpose/outer-supply",
+          "manual": true
+        },
+        {
+          "key": "purpose/relay-anchor",
+          "manual": true
+        },
+        {
+          "key": "politics/treaty-inspection",
+          "manual": true
+        }
+      ],
+      "areas": [],
+      "description": "A distant ice giant marking the outer boundary of routine commercial traffic. Its magnetic poles support communications infrastructure, treaty inspection traffic, and long-duration patrol operations.",
+      "image": {
+        "url": "/images/planet_types/web20ice20giant.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-accord-relay",
+      "parentId": "zakaron-nhalet",
+      "ui_parentId": null,
+      "name": "Still-Drive Accord Relay",
+      "kind": "construct",
+      "roleHint": "station",
+      "class": "Settled Systems/Station/Relay",
+      "description": "The recognized intersystem communications and navigation relay for Zakaron. The station is jointly administered under the Still-Drive Accords and remains the largest permanent Erbium presence anywhere in the system.",
+      "gmNotes": "Erbium controls the authentication hardware and external PES uplink. Concord technicians maintain parallel clocks, traffic records, and navigation archives because either party may dispute the other's stamp during a crisis.",
+      "IsTemplate": false,
+      "icon_type": "hexagon",
+      "icon_color": "#c45a9b",
+      "crew": {
+        "current": 760,
+        "max": 1200
+      },
+      "physical_parameters": {
+        "dimensionsM": [
+          900,
+          340,
+          340
+        ],
+        "massKg": 2200000000.0,
+        "cargoCapacity_tonnes": 90000,
+        "rotation_period_hours": 10.0,
+        "spinRadiusM": 145,
+        "can_aerobrake": false,
+        "has_landing_gear": false
+      },
+      "engines": [
+        {
+          "engine_id": "engine-grav-station-keeping",
+          "quantity": 6
+        },
+        {
+          "engine_id": "engine-rcs-hydrazine",
+          "quantity": 32
+        }
+      ],
+      "fuel_tanks": [
+        {
+          "fuel_type_id": "fuel-hydrazine",
+          "capacity_units": 120000,
+          "current_units": 97000
+        }
+      ],
+      "systems": {
+        "power_plants": [
+          {
+            "type": "Fusion Reactor",
+            "output_MW": 900
+          }
+        ],
+        "modules": [
+          "Drift Relay Core",
+          "PES Stamp Authority Cluster",
+          "Concord Audit Vault",
+          "Erbium Authentication Annex",
+          "Treaty Inspection Berths",
+          "Long-Range Sensor Array"
+        ],
+        "life_support": {
+          "consumables_max_person_days": 780000,
+          "consumables_current_person_days": 641000
+        }
+      },
+      "current_cargo_tonnes": 19000,
+      "cargoDescription": "Relay components, sealed erbium assemblies, sensor replacements, patrol supplies, and treaty inspection equipment",
+      "orbit": {
+        "hostId": "zakaron-nhalet",
+        "hostMu": 5806640999999999.0,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 0.00025,
+          "e": 0.001,
+          "i_deg": 0.5,
+          "omega_deg": 0.0,
+          "Omega_deg": 0.0,
+          "M0_rad": 5.0
+        },
+        "resonance": null
+      },
+      "placement": "High Orbit",
+      "tags": [
+        {
+          "key": "owner/joint-administration",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "influence/corporation",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "purpose/drift-relay",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "purpose/pes-authority",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "purpose/treaty-inspection",
+          "manual": true,
+          "coi": true
+        },
+        {
+          "key": "class/station",
+          "manual": true,
+          "coi": true
+        }
+      ],
+      "isNameUserDefined": true
+    },
+    {
+      "id": "zakaron-varkesh",
+      "parentId": "zakaron-star-a",
+      "name": "Varkesh",
+      "kind": "body",
+      "roleHint": "planet",
+      "classes": [],
+      "orbit": {
+        "hostId": "zakaron-star-a",
+        "hostMu": 1.2475346656469257e+20,
+        "t0": 1785051360000,
+        "elements": {
+          "a_AU": 18.2,
+          "e": 0.21,
+          "i_deg": 11.4,
+          "omega_deg": 312.0,
+          "Omega_deg": 47.0,
+          "M0_rad": 1.8
+        },
+        "resonance": null
+      },
+      "massKg": 8.2e+21,
+      "radiusKm": 950.0,
+      "makeup": {
+        "rock": 0.57,
+        "ice": 0.38,
+        "metal": 0.05
+      },
+      "atmosphere": {
+        "name": "Tenuous Nitrogen–Methane Exosphere",
+        "main": "N2",
+        "composition": {
+          "N2": 0.7,
+          "CH4": 0.2,
+          "CO": 0.1
+        },
+        "pressure_bar": 2e-09
+      },
+      "hydrosphere": {
+        "coverage": 0.86,
+        "composition": "water",
+        "depth_m": 28000
+      },
+      "biosphere": null,
+      "axial_tilt_deg": 43.0,
+      "rotation_period_hours": 38.5,
+      "tidallyLocked": false,
+      "magneticField": {
+        "strengthGauss": 0.001
+      },
+      "tags": [
+        {
+          "key": "purpose/deep-survey",
+          "manual": true
+        },
+        {
+          "key": "resource/erbium-trace",
+          "manual": true
+        },
+        {
+          "key": "lore/recent-discovery",
+          "manual": true
+        },
+        {
+          "key": "security/quarantine",
+          "manual": true
+        }
+      ],
+      "areas": [
+        {
+          "id": "varkesh-survey-scar",
+          "name": "Survey Scar Seven",
+          "type": "facility",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "purpose/mineral-survey",
+              "manual": true
+            },
+            {
+              "key": "owner/zakaron-concord",
+              "manual": true
+            },
+            {
+              "key": "security/quarantine",
+              "manual": true
+            }
+          ],
+          "description": "A temporary excavation and sample-processing camp established after remote instruments detected a previously inaccessible erbium-bearing formation beneath the fractured crust.",
+          "gmNotes": "The public samples understate the concentration. Navigation logs show that the survey ship entered a region excluded from the released mission track."
+        },
+        {
+          "id": "varkesh-buried-lattice",
+          "name": "The Buried Lattice",
+          "type": "region",
+          "metrics": {},
+          "tags": [
+            {
+              "key": "lore/artificial-structure",
+              "manual": true
+            },
+            {
+              "key": "science/unknown-technology",
+              "manual": true
+            },
+            {
+              "key": "security/classified",
+              "manual": true
+            }
+          ],
+          "description": "A geometrically regular subsurface formation recorded in classified gravimetric scans and described publicly as a mineral fault network.",
+          "gmNotes": "The formation is an inhabited artificial complex. Its occupants do not satisfy current Concord recognition standards, and the first-contact team classified the structure as an automated extraction installation."
+        }
+      ],
+      "description": "A fractured outer dwarf planet on a steep eccentric orbit. Long considered geologically exhausted, Varkesh recently became the focus of a sealed Concord survey after instruments detected erbium-bearing material beneath its ice and shattered rock.",
+      "gmNotes": "Erbium knows that the discovery may invalidate parts of the Still-Drive Accords. The company has delayed intervention because a public treaty crisis would support wider inspection powers and tighter control over independent military fleets.",
+      "image": {
+        "url": "/images/planet_types/web20planetesimal.jpg"
+      },
+      "autoClassify": true,
+      "isNameUserDefined": true
+    }
+  ],
+  "rulePackId": "starter-sf-pack",
+  "rulePackVersion": "1.0",
+  "tags": [
+    {
+      "key": "setting/settled-systems",
+      "manual": true
+    },
+    {
+      "key": "ancestry/vesk",
+      "manual": true
+    },
+    {
+      "key": "ancestry/madrosarai",
+      "manual": true
+    },
+    {
+      "key": "settlement/major-hub",
+      "manual": true
+    },
+    {
+      "key": "economy/cybernetics",
+      "manual": true
+    },
+    {
+      "key": "economy/military-industry",
+      "manual": true
+    },
+    {
+      "key": "politics/sovereign-power",
+      "manual": true
+    },
+    {
+      "key": "politics/erbium-rival",
+      "manual": true
+    },
+    {
+      "key": "lore/war-of-open-stars",
+      "manual": true
+    }
+  ],
+  "notes": "Standalone system for Zakaron, the inverted Vesk and Madrosarai homeworld and the principal military-industrial and cybernetic power independent of direct Erbium administration.",
+  "gmNotes": "Zakaron's system was heavily stripped of erbium during the War of the Open Stars. The Concord remains dependent on controlled imports while maintaining covert fleet programs, parallel time records, and active searches for deposits that could end Erbium's strategic leverage.",
+  "visualScalingMultiplier": 0.72,
+  "toytownFactor": 0.3,
+  "isManuallyEdited": true,
+  "credits": {
+    "author": "Michael / Erbium Industries LLC campaign",
+    "created": "2026-07-26",
+    "version": "0.1"
+  }
+}
