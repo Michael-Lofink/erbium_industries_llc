@@ -18,5 +18,6 @@
   "dataview",
   "templater-obsidian",
   "pf2e-statblocks",
-  "better-export-pdf"
+  "better-export-pdf",
+  "advanced-pdf-export"
 ]

@@ -157,3 +157,6 @@ See [[#Erbium Proprietary Property|Erbium Proprietary Property]].
 [^3]:43,800 standard minutes is approximately 6 standard hours.
 
 [^4]: See [[Fatigued]] for the effects of the condition.
+
+
+![[Worldbuilding/Ancestries of the Settled Systems/Android/Heritages|Heritages]]

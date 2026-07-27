@@ -196,3 +196,5 @@ You can see in dim light as though it were bright light, and you ignore the conc
 You’re an ooze! You can [Climb](https://2e.aonsrd.com/actions/62-climb) surfaces without needing to attempt an [Athletics](https://2e.aonsrd.com/skills/3-athletics) check even if they’re perfectly smooth or horizontal, such as a metal ceiling, though the GM might still require you to attempt a check to Climb while in hazardous conditions.
 
 Additionally, as long as your primary and subordinate brains can fit through a gap, your whole body can ooze through it. You can move through a gap at least 2 feet wide without [Squeezing](https://2e.aonsrd.com/actions/60-squeeze) and can Squeeze through a gap at least 1 foot wide.
+
+![[Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages|Heritages]]

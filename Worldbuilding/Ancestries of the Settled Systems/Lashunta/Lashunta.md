@@ -245,3 +245,6 @@ You can communicate mentally with creatures within 30 feet. You can communicate 
 When you communicate using your Limited Telepathy, you can intentionally include a broad impression of your present emotional state. This can communicate feelings such as reassurance, urgency, anger, grief, attraction, or uncertainty, but it cannot transmit thoughts, memories, or information beyond what ordinary speech could express. It cannot force the recipient to experience the emotion.
 
 Once per 10 minutes, when you communicate telepathically with a creature that shares a language with you, you can make your emotional context explicit. Before the end of your next turn, you gain a +1 circumstance bonus to your next Diplomacy or Intimidation check against that creature. Until then, that creature gains a +1 circumstance bonus to Sense Motive against you.
+
+![[Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages|Heritages]]
+![[Katalash Benefits]]

@@ -249,3 +249,5 @@ Additional languages equal to your Intelligence modifier, if it is positive. Cho
 
 #### Low-Light Vision
 You can see in dim light as though it were bright light, and you ignore the concealed condition due to dim light.
+
+![[Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages|Heritages]]
