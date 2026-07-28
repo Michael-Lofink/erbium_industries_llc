@@ -2,7 +2,7 @@
 aliases:
   - The Gilded Suspension
   - The Buoyant Cities
-  - The Suspended World
+  - Alpha Leonis Captured Moon Four
 type: planet
 status: draft
 tags:
@@ -12,6 +12,9 @@ tags:
   - theosis
   - alpha-leonis
   - erbium-industries
+  - corporate-homeworld
+  - corporate-headquarters
+  - corporatocracy
   - sulfur-world
   - aerostat-settlements
   - buoyant-cities
@@ -24,489 +27,716 @@ tags:
 # Theosis
 
 > [!summary]
-> **Theosis**, called **the Gilded Suspension**, is a captured sulfur world inhabited through immense sealed cities suspended within its toxic atmosphere. Breathable gas inside the cities’ displacement envelopes supplies part of their lift, while heated chambers, gravitic stabilizers, altitude engines, and enormous structural frameworks carry the weight of habitation, industry, and transit. Every district remains aloft through continuous work.
+> **Theosis**, called **the Gilded Suspension**, is a captured sulfur world whose immense sealed cities remain suspended within a lethal sulfur-dioxide atmosphere. Breathable air provides much of their lift, while heated chambers, gravitic stabilizers, structural frames, pressure membranes, altitude engines, and continuous labor keep nearly two billion residents from descending into the clouds below.
 >
-> Theosis is one of the largest administrative, legal, financial, and engineering centers in the [[Settled Systems]]. Its upper cities contain prestigious schools, corporate courts, controlled gardens, private clinics, and the homes of influential human ladder families. Beneath them, maintenance crews, cargo workers, sanitation personnel, pressure technicians, and dwarven structural engineers keep the same cities from falling into sulfur clouds that would kill their residents within minutes.
+> Theosis is the corporate homeworld and intersystem headquarters of [[Erbium Industries LLC]]. The company selected the planet as its permanent seat after the destruction of [[Wander]], then constructed a civilization in which employment, housing, life support, finance, law, and government became functions of the same institution.
 >
-> The world possesses an elected civil government distinct from [[Erbium Industries LLC]]. That government regulates altitude, emergency response, and relations among the buoyant cities. Erbium owns or certifies many of the pressure membranes, stabilizers, docking systems, medical networks, housing portfolios, insurance contracts, and records upon which those public powers depend.
+> Erbium governs Theosis openly through the **Theosis Directorate**. Local councils possess meaningful municipal authority, but the corporation appoints the planetary executive, owns or certifies most essential infrastructure, controls the government’s principal budgets and records, and maintains a permanent seat on the council responsible for drafting the [[Settled Systems Administrative Code]].
 
 ![[planet_Theosis.png#center]]
 
 > [!info] THEOSIS
 > *The Gilded Suspension*
 >
-> **Registry Classification** Captured moon under an obsolete Settled Systems survey designation; physically and locally treated as a planet  
-> **Gravity** Approximately 0.59 standard gravity; selected medical, industrial, and athletic facilities provide increased artificial gravity  
-> **Atmosphere** Sulfur dioxide dominated and lethal without sealed protection; normal breathable atmosphere within inhabited structures  
-> **Day** 11,760 stamp-offset minutes, divided into eight 1,470-minute civic turns  
+> **Gravity** Approximately 0.59 standard gravity; inhabited districts generally maintain between 0.6 and 0.9 standard gravity through local stabilization  
+> **Atmosphere** Approximately 1 bar of sulfur dioxide outside the cities; breathable and mechanically regulated within inhabited envelopes  
+> **Day** 11,760 stamp-offset minutes, divided locally into eight 1,470-minute civic bands  
 > **Year** 1,322,496 stamp-offset minutes, approximately 918.4 standard days  
-> **Government** The [[Theosis Aerostat Commonwealth]], governed through the Assembly of Cities, Civic Directorate, and Atmospheric Coordination Board  
+> **Government** Erbium Industries corporatocracy administered through the Theosis Directorate, Assembly of Envelopes, Common Altitude Board, and local Envelope Councils  
 > **Capital** Crown Meridian  
-> **Population** Approximately 1.3 billion; primarily human and dwarf, with communities representing every major Settled Systems ancestry  
-> **Languages** Common, Dwarven, and numerous intersystem and household languages  
-> **Religions** Star Dream traditions, Wander memorial practices, Vuddarian clan observances, corporate continuity rites, civic air stewardship, and imported Settled Systems faiths  
+> **Corporate Headquarters** Erbium Central  
+> **Population** Approximately 1.86 billion; primarily human and dwarf, with substantial communities from throughout the Settled Systems  
+> **Languages** Common, Dwarven, and most major Settled Systems languages  
+> **Religions** Star Dream civic traditions, Wander memorial observances, corporate continuity doctrine, Vuddarian stewardship practices, industrial oath traditions, and imported Settled Systems faiths  
 
-Approaching Theosis from interplanetary space, a traveler first sees a ochre-yellow world moving against three distant stellar lights. Pale atmospheric bands wrap the planet from pole to pole. Storm fronts form broad curved scars across the clouds, illuminated from several directions by the Alpha Leonis system.
+Theosis fills an arriving vessel’s forward windows long before any city becomes visible. Its atmosphere forms a dense globe of sulfurous white, ochre, and yellow-gray cloud wrapped in the changing light of the Alpha Leonis system. The world’s steeply inclined retrograde orbit produces unfamiliar stellar movement, while its extreme axial orientation causes illuminated cloud bands to cross the planet at angles that make ordinary planetary navigation feel subtly wrong.
 
-The inhabited cities are difficult to distinguish from orbit without navigational overlays. Most are embedded within atmosphere thick enough to conceal them beneath sulfur haze. Their positions appear through the lights of altitude engines, heat exchangers, docking beacons, and long maintenance structures protruding above the cloud decks.
+The buoyant cities appear only after a vessel descends into the upper atmosphere. They emerge as dark industrial silhouettes between layers of cloud: enormous lifting envelopes, trussed habitation blocks, pressure cylinders, stabilizer vanes, docking spines, thermal exchangers, cargo frames, and altitude engines connected through kilometers of reinforced structure.
 
-The largest settlements are several hundred kilometers across. Their silhouettes resemble connected industrial plates suspended beneath bulbous pressure envelopes, lift chambers, radiator vanes, stabilizer frames, and transport structures. Heavy city sections hang below the main buoyancy bodies on reinforced trusses. Cargo platforms and ballast tanks form darker layers beneath residential districts. Smaller aerostats move around the largest cities like service craft around a station.
+From a distance, the largest aerostats resemble artificial islands. At close range, their scale becomes difficult to understand. Whole districts occupy separate pressure compartments. Freight trains cross enclosed bridges. Docking towers extend into calmer atmospheric bands. External maintenance crews travel across the hull through tether systems, sealed crawlways, and temporary work cages while sulfur clouds move beneath them fast enough to strip unsecured equipment from its mountings.
 
-Ships do not ordinarily descend directly to a city. Most passengers arrive through **Theosis Way Station**, a repair, refueling, communications, and transfer facility in high orbit. There they board atmospheric tenders designed to survive sulfur exposure, complex winds, and repeated pressure cycling.
+Visitors normally arrive through [[Theosis Way Station]], where vessels undergo inspection, cargo balancing, customs review, and atmospheric-entry certification. Descent craft then dock at hardened transfer towers projecting above the inhabited envelopes.
 
-During descent, the tender passes through yellow-white clouds that obscure every external view. Sulfur residue accumulates against the hull. The vessel follows a regulated altitude corridor until the city’s docking frame emerges from the haze as a wall of braces, lights, receiving arms, and sealed transit tubes.
+Passengers pass through sulfur decontamination, pressure equalization, identity verification, and gravitic acclimation before entering city transit.
 
-Passengers pass through hull inspection, sulfur wash, equipment decontamination, pressure equalization, and atmospheric verification before entering the city. The first breathable air frequently smells of hot filtration media, disinfectant, machine lubricant, and whatever food is being sold beyond the arrival concourse.
-
-Residents consider that smell ordinary.
+The first air they breathe on Theosis has usually been filtered, reclaimed, monitored, allocated, and billed several times before reaching them.
 
 ## A Captured World
 
-Theosis follows a steeply inclined, retrograde, and highly eccentric path through the Alpha Leonis system. Modern orbital models place it around the system’s outer shared center of mass, though its changing exposure to the close Alpha Leonis B and C pair dominates local atmospheric planning.
+Theosis follows a steeply inclined, retrograde, and eccentric orbit associated with the shared gravitational structure of Alpha Leonis B and Alpha Leonis C. Its atmospheric planners track the changing positions of all three major stars, though most local orbital forecasts focus on the smaller pair and the barycentric path through which Theosis moves.
 
-The planet did not form in its present orbit. Its chemical composition, orbital inclination, and direction of travel indicate that it was captured after developing elsewhere. The event occurred long before recorded settlement and may have involved the disruption of an older planetary system.
+The planet has a radius of approximately 6,950 kilometers and a mass of approximately 4.22 × 10^24 kilograms. Surface gravity is approximately 0.59 standard gravity. The weak magnetic field offers limited protection against stellar radiation, requiring the cities to incorporate radiation shielding, storm forecasting, and hardened electrical systems.
 
-Settled Systems survey archives classify Theosis as a moon. The designation originated in an early automated catalog that interpreted its captured orbit as satellite motion around an unresolved stellar companion. Later surveys corrected the astronomical model without altering the registry class.
+The atmosphere consists almost entirely of sulfur dioxide at approximately one bar of pressure. No established natural biosphere or open hydrosphere exists. Beneath the clouds lie sulfur plains, volcanic shelves, impact basins, chemically altered mineral fields, and exposed rock subjected to continuous corrosive weather.
 
-Erbium administrators argued that revising the designation would force audits of early extraction, settlement, insurance, and orbital-use contracts. The correction was therefore classified as scientifically valid and administratively nonessential.
+Automated surface installations extract minerals, collect atmospheric samples, operate navigation beacons, and support research. Even specialized machines experience rapid material degradation. External seals harden, joints accumulate sulfur compounds, sensor apertures cloud, and exposed wiring requires frequent replacement.
 
-Theosis remains a moon in title registries, customs records, equipment certifications, and some sections of the Settled Systems Code. Residents call it a planet. Courts apply whichever classification preserves the validity of the document under review.
+The surface remains useful as a resource site and dangerously unsuitable as a place to live.
 
-The atmosphere consists primarily of sulfur dioxide at pressures sufficient to support buoyant habitation. The surface contains volcanic plains, sulfur deposits, impact basins, fractured ridges, and mineral fields repeatedly reshaped by heat and corrosive weather. No natural biosphere or open hydrosphere has been confirmed.
+Theosis continues to be legally classified as a moon.
 
-Remote industrial systems operate on the surface. They extract sulfur compounds, maintain atmospheric sensors, anchor deep structural tethers, and recover equipment lost from the cities. Crewed expeditions require sealed vehicles, redundant cooling, corrosion protection, and immediate ascent capacity. Surface assignments are brief, expensive, and commonly performed by personnel whose contracts classify them as atmospheric infrastructure workers rather than planetary explorers.
+The designation originated with an early survey database that placed captured barycentric bodies within a satellite registry regardless of whether they orbited a planet. Correcting it would require amendments to centuries of property records, insurance agreements, environmental licenses, transportation certificates, loan instruments, and corporate charters.
 
-## Settlement Across the Lapses
+Erbium standards authorities acknowledge that the designation is astronomically obsolete. They maintain it in the name of technical interoperability.
 
-The first reliable surveys of Theosis were completed during Lapse 1. The world initially attracted little settlement interest. Its atmosphere was lethal, its captured orbit complicated long-term prediction, and its surface offered no accessible biosphere capable of supporting ordinary habitation.
+Formal documents therefore identify Theosis as **Alpha Leonis Captured Moon Four**. Residents call it a planet unless speaking to an insurer, customs officer, registry clerk, or court.
 
-Its atmospheric density made large aerostats practical. Breathable oxygen-nitrogen mixtures are substantially less dense than the surrounding sulfur dioxide, allowing a sealed inhabited envelope to provide part of its own lift. Early engineers proposed combining that buoyancy with heated chambers, gravitic support, and active altitude control.
+## Time on Theosis
 
-Erbium approved the first permanent industrial platform during Lapse 3. The installation processed atmospheric compounds, serviced relay traffic, and tested long-duration pressure systems. Its crew lived inside a cluster of connected lift cells surrounding a rigid central frame.
+Theosis completes one local rotation every 11,760 stamp-offset minutes, equivalent to 196 standard hours. The natural day is far longer than the ordinary waking cycle of any major resident ancestry.
 
-The first true city, **Aureole One**, entered service during Lapse 4. Its central envelope had been assembled from industrial gas cells, relay-habitat components, and structural systems produced by dwarven orbital foundries. Contemporary recruitment material described it as a city needing no ground and a demonstration that the Elect could inhabit any world revealed by the [[Star Dream]].
+Local civil systems divide each rotation into eight **civic bands** of 1,470 minutes. Atmospheric forecasts, altitude adjustments, public transportation, schools, municipal services, and local observances are organized by band.
 
-Aureole One also demonstrated how rapidly a city could become dependent upon its operator. Erbium owned its stabilizers, pressure membranes, water stores, docking systems, and medical facilities. Residents paid housing charges through payroll deductions and could not legally remain after their employment ended.
+The eight bands are traditionally grouped into four broad civic periods:
 
-Additional cities followed. Some were founded by Erbium divisions. Others belonged to transport consortiums, governments, universities, religious communities, dwarven clans, or civic cooperatives. By the beginning of Lapse 6, enough aerostats shared the same atmospheric layers that their movements affected one another.
+- **Rising Operations**, when offices, schools, markets, and freight systems begin their principal activity;
+- **Full Operations**, when most administrative and commercial work occurs;
+- **Dimming Operations**, when services rotate, public lighting softens, and one portion of the population enters its principal rest cycle;
+- **Quiet Operations**, when maintenance, sanitation, cargo transfer, and emergency testing dominate the city.
 
-The first major coordinated disaster occurred during the Lapse 6 **Three-City Shear**. Two cities altered altitude to avoid an approaching compression front without fully sharing their models. Their movements redirected unstable air into the path of a third settlement. The resulting structural failures killed tens of thousands and forced the emergency separation of four inhabited districts.
+These periods describe administrative load rather than planetary sunrise. Different districts and professions remain active throughout all eight bands.
 
-The disaster led to the creation of a shared altitude registry and the institution that became the Atmospheric Coordination Board. It also established the precedent that every city’s independence ended where its movement threatened another city’s survival.
+Erbium’s intersystem legal, financial, and administrative systems continue to use the 1,440-minute standard day. A civic band is thirty minutes longer. Residents employed in corporate administration frequently maintain separate local, corporate, and raw-stamp schedules.
 
-The **Theosis Aerostat Commonwealth** received formal recognition during Lapse 9. Its charter united the principal cities under a shared civil government responsible for atmospheric corridors, disaster response, intercity transit, and common infrastructure standards. Erbium supported the charter after insurers and shipping firms demanded a single authority capable of issuing binding movement orders.
+The discrepancy affects more than convenience. A shift can begin within one local band and end during another corporate payroll day. A maintenance operation can satisfy an atmospheric deadline while missing an Erbium filing window. A worker can complete an extended forge watch and discover that a portion of it crossed a service-credit boundary without the correct authorization.
 
-Theosis expanded into a major administrative center during Lapses 11 through 17. Erbium transferred legal archives, engineering boards, actuarial offices, credentialing institutions, financial divisions, and executive residences into the most stable cities. Theosis offered physical security, controlled access, extensive communications, and a population accustomed to treating infrastructure continuity as a civic virtue.
+During relay interruptions, disagreements between local records and the recognized stamp authority can turn completed labor into ghost minutes.
 
-The world’s public image changed. Early Theosis had represented dangerous industrial ingenuity. Later Theosis represented professional success. Corporate recruitment broadcasts showed clean upper-city promenades, quiet schools, suspended gardens, and officials looking across golden cloud banks through reinforced glass.
+Dwarven clanholdings maintain overlapping **forge watches** that provide uninterrupted structural coverage. Each watch includes inspectors, pressure engineers, stabilizer crews, emergency riggers, atmospheric pilots, and reserve personnel. Traditional forge-watch records are signed by the workers present and preserved in independent clan archives in addition to being stamped through corporate systems.
 
-The maintenance decks rarely appeared.
+Theosis completes one orbit every 1,322,496 stamp-offset minutes, approximately 918.4 standard days. The world completes about twelve and two-thirds local orbits during one standard lapse.
 
-By Lapse 21, craft warrants had become a common condition of structural and pressure-system contracts. Dwarven engineers and clanholdings received substantial authority to inspect major works, while accepting personal or collective liability for the records they signed.
+Residents use local years for atmospheric planning, family anniversaries, school terms, and Shredder forecasting. Intersystem law, corporate history, contracts, and government records use [[Post-Erbium Standard]].
 
-The Lapse 26 **Meridian Separation** changed emergency law again. A pressure cascade in Crown Meridian forced authorities to detach a residential and industrial section containing more than 80,000 people. Most survived in the separated structure until recovery vessels reached them. Several thousand died after rescue routing prioritized the capital’s central systems.
+The campaign begins at `29:08472119 PES`.
 
-Public investigations resulted in stronger compartmentalization requirements and little change to rescue priority.
+## Before the Stamp
 
-During late Lapse 28, labor organizers, dwarven inspectors, and civic reformers began a coordinated campaign for independent inspection records and habitation rights. Their strongest reforms entered the code. Their broader proposal—that access to breathable housing should survive the loss of employment—remains unresolved.
+Theosis was surveyed during the first centuries of the interstellar era, after the [[Star Dream]] connected the early Elect civilizations and long before the establishment of PES.
 
-At the campaign’s opening stamp of `29:08472119 PES`, Theosis is wealthy, crowded, technically accomplished, politically divided, and entering another sequence of Shredder preparations.
+Early probes classified it as a chemically hostile captured world with limited settlement potential. Its sulfur atmosphere, low surface gravity, weak magnetic field, extreme axial orientation, and unusual orbit made ordinary surface colonization commercially unattractive.
+
+Erbium engineers identified a different use.
+
+Breathable atmosphere is significantly lighter than sulfur dioxide. A sufficiently large sealed habitat could use the air inside it as a lifting medium. Heated chambers, variable ballast, altitude engines, and gravitic stabilization would still be necessary, but the atmosphere required to keep residents alive could also help hold their city above the surface.
+
+The first Erbium installations were described as atmospheric laboratories, fuel stations, and relay-support platforms. Their actual design included redundant archives, secure communications, emergency power, refined-material storage, and executive habitation.
+
+The company had begun evaluating Theosis as a corporate continuity site before Wander’s destruction.
+
+Erbium’s official histories describe this as ordinary disaster preparedness. Independent historians point to the timing and content of early shipments. Legal archives, private communications systems, financial records, refined erbium reserves, construction machinery, and specialized personnel arrived before the general public understood the severity of Wander’s instability.
+
+Theosis was never large enough to evacuate Wander.
+
+It was already prepared to preserve Erbium.
+
+## The Second Home
+
+Construction convoys departed for Theosis within months of Wander’s collapse.
+
+The first arrivals included Erbium continuity personnel, engineers, corporate officials, relay technicians, financial administrators, legal archivists, dwarven structural crews, displaced workers, and refugees selected for technical or political usefulness.
+
+Temporary atmospheric platforms expanded into permanent pressure habitats. Permanent habitats were connected around shared structural frames. Within the first generation after the collapse, the largest installation had become **Crown Meridian**.
+
+Its oldest compartments contained relay archives, emergency reserves, executive offices, legal records, atmosphere laboratories, and the command systems coordinating Erbium’s surviving operations.
+
+Erbium presented Theosis as a second home for the displaced peoples of Wander.
+
+Refugees were offered transport, employment, pressure-rated housing, medical care, and participation in the construction of a shared interstellar future. Most arrived under emergency employment agreements. Their housing depended on service. Their equipment was leased. Transportation became debt. The atmosphere outside made withdrawal from corporate infrastructure functionally impossible.
+
+The first permanent municipal offices developed from worksite administration. Housing officers became residency authorities. Atmospheric engineers became regulators. Security supervisors became civil enforcement officials. Corporate mediators became judges.
+
+The distinction between employer and government never developed because the same institution built both.
+
+Erbium transferred its formal headquarters to Crown Meridian within the early reconstruction period. Its governing board, strategic-reserve authority, relay administration, legal divisions, financial offices, and senior engineering institutions followed.
+
+Theosis became the first world where Erbium did not need to influence an existing government.
+
+It constructed a government around its own operational structure.
+
+## The War of the Open Stars
+
+By the time Zakaron began its expansion, Theosis had already served as Erbium’s headquarters for generations.
+
+Crown Meridian coordinated coalition supply agreements, military financing, relay access, refugee movement, erbium allocations, ship repair, and diplomatic communication during the [[Zakaron#The Star Dream and the Open Stars|War of the Open Stars]].
+
+Theosis was geographically and politically suited to serve as the coalition’s administrative center. Its hostile atmosphere limited unauthorized access. Its cities were owned or controlled by Erbium. Its relay systems were among the most secure outside Wander’s former system. Its legal offices already managed agreements among governments dependent on corporate infrastructure.
+
+The war accelerated the growth of the buoyant cities. New aerostats housed military logistics, refugee populations, clerical divisions, weapons insurers, shipyard personnel, and the expanding bureaucracies needed to coordinate intersystem conflict.
+
+The Still-Drive negotiations were conducted through Theosis legal, financial, and communications infrastructure.
+
+When the [[Zakaron#The Still-Drive Accords|Still-Drive Accords]] became effective at `0:00000000 PES`, Erbium activated the new universal time standard through its relay network and presented Theosis as the administrative center of the peace.
+
+For Zakaron, the first stamp recorded the moment its expansion stopped.
+
+For Erbium, it recorded the moment a corporate emergency authority became the timekeeper and legal convenor of interstellar civilization.
+
+## The PES Era
+
+The first lapses after the Accords were devoted to standardization.
+
+Wander technical records, Erbium operating rules, military logistics agreements, Theosis municipal regulations, intersystem treaties, and emergency protocols were reorganized into the earliest versions of the [[Settled Systems Administrative Code]].
+
+Theosis expanded with that legal system. Every new intersystem obligation created new offices, archives, courts, credentialing boards, and professional institutions. Crown Meridian became the center of corporate law and finance, while other aerostats specialized in engineering, education, logistics, medicine, atmosphere research, and administration.
+
+Several major disasters shaped modern Theosis.
+
+During Lapse 7, three linked habitation compartments lost structural synchronization during periastron atmospheric compression. Emergency crews preserved the central city by detaching two failing districts. More than eighty thousand residents died during the descent.
+
+The disaster led to the formal adoption of Settled Systems Code `A1%8&14-7`, the **Pressure-Envelope Inspection Record Standard**. The provision requires compatible stamped maintenance histories for certified pressure membranes, structural couplings, lift chambers, stabilizer systems, and emergency separation assemblies.
+
+The law allows inspectors to compare parts and repair histories across manufacturers and has prevented repeated failures. It also makes independent work dependent on Erbium-compatible documentation. Repairs recorded only through local logs, clan archives, or off-stamp systems may be treated as unverified.
+
+During Lapse 18, a failed stabilization network placed several cities on converging altitude paths. Emergency authorities redirected one populated industrial district into a lower atmospheric band to protect three larger settlements. The district survived for nearly four standard days before its envelopes failed.
+
+The resulting Settled Systems Code `A9%6&12-2`, the **Aerostat Compartment Separation Authority**, permits designated infrastructure officers to sever a district, pressure compartment, docking assembly, or structural frame when its continued connection presents a credible danger to a larger inhabited system.
+
+The provision has saved millions of residents. Lower industrial districts carry most of the equipment, ballast, cargo, and structural connections that emergency planners are willing to sacrifice.
+
+By Lapse 29, Theosis has become one of the wealthiest and most politically influential worlds in the Settled Systems.
+
+Its wealth rests inside cities whose survival margins are continuously calculated, certified, financed, and revised.
 
 ## The Buoyant Cities
 
-The term **buoyant city** refers to any permanent inhabited aerostat recognized by the Commonwealth. The largest contain populations greater than many planetary nations. Smaller cities may hold only a few thousand residents and remain attached to larger neighbors for water, power, transit, or emergency support.
+The buoyant cities use breathable air as their principal lifting medium. Their inhabited volumes displace heavier sulfur dioxide and generate natural buoyancy. Heated lift chambers, variable ballast, gravitic stabilizers, atmospheric control surfaces, altitude engines, and structural frames provide maneuverability and compensate for changes in weight.
 
-A city’s primary pressure envelope contains breathable atmosphere and contributes buoyancy. Large settlements use multiple separated cells rather than one continuous volume. If one cell ruptures, internal barriers and load-transfer systems prevent the entire city from dropping immediately.
+Every resident, room, cargo container, water tank, vehicle, and machine affects a city’s balance.
 
-Buoyancy alone cannot support dense urban construction. Gravitic stabilizers reduce the effective load carried by the envelope. Heated lift chambers adjust local buoyancy. Altitude engines provide controlled ascent and descent. Ballast tanks, cargo distribution systems, and structural frames maintain balance as people, freight, water, and equipment move through the city.
+Theosis planners discuss inhabited space in terms of:
 
-Every significant change in mass must be recorded. A delayed freight train, drained reservoir, arriving passenger vessel, or failed waste processor can alter trim. Large cities employ entire departments to track where weight is located and how quickly it is moving.
+- breathable volume;
+- lift contribution;
+- structural burden;
+- pressure redundancy;
+- evacuation capacity;
+- stabilizer demand;
+- atmosphere-processing load;
+- certified resident allocation.
 
-The atmosphere contains stable layers called **buoyancy bands**. Temperature, pressure, wind direction, and chemical density differ between bands. Cities compete for access to layers that require less power and experience fewer severe storms.
+A spacious public hall contributes lift while increasing the amount of envelope surface requiring inspection. A dense industrial compartment adds weight and power demand while supporting the engines and ballast systems that maintain altitude.
 
-Band allocation is administered through the Atmospheric Coordination Board. Officially, assignments depend on structural capability, population, route safety, and infrastructure need. In practice, wealthy cities can afford stabilizers and forecasting systems that qualify them for safer bands, while poorer cities are classified as unsuitable for those same bands because they lack those systems.
+The largest cities consist of several linked envelopes. Each envelope contains semi-independent pressure compartments capable of being isolated during a failure. Transfer locks, atmosphere gates, blast doors, emergency masks, and separation collars appear throughout ordinary public architecture.
 
-Cities connect through atmospheric tenders, sealed transit craft, temporary docking bridges, and scheduled coupling operations. Permanent bridges are rare because independent motion places enormous stress on fixed structures. Neighboring districts may appear close enough to walk between while remaining separated by kilometers of lethal gas.
+Upper districts occupy the most stable and desirable buoyancy bands. They contain administrative campuses, prestigious schools, controlled gardens, private medical facilities, financial institutions, legal offices, diplomatic residences, and housing insulated from industrial noise. Their pressure systems use newer components and contain extensive redundancy.
 
-### Upper Districts
+Middle districts contain most ordinary housing, shops, schools, clinics, public offices, transit stations, workshops, food production, and service employment. A family may live in the same compartment for generations while possessing only a renewable occupancy credential.
 
-Upper districts occupy the most stable portions of a city’s internal frame, usually near protected transit spines and redundant pressure cells. Their environmental systems receive priority maintenance. Vibration is dampened. Sulfur contamination is monitored aggressively. Artificial-gravity facilities provide medical exercise and skeletal conditioning.
+Lower decks contain ballast systems, freight yards, waste processing, water recovery, cargo infrastructure, pressure-envelope access, stabilizer assemblies, external locks, altitude engines, heat exchangers, and emergency separation mechanisms. Housing there is cheaper and more vulnerable to chemical contamination, vibration, power interruption, and evacuation.
 
-Crown Meridian and the other prestigious cities place executive residences, government chambers, universities, private clinics, arbitration courts, gardens, museums, and financial offices in these districts.
+Settled Systems Code `A4%7&14-3`, the **Pressure-Rated Habitation Eligibility and Transitional Continuity Provision**, requires every occupant of a certified residential compartment to possess an employment, dependent, educational, medical, civic, or private sponsorship category linked to evacuation and life-support planning.
 
-Upper-city architecture conceals machinery behind finished wall panels and acoustic insulation. Windows look across cloud layers rather than maintenance gantries. Public corridors are broad enough that residents rarely encounter cargo equipment or pressure-suited workers.
+The law gives emergency personnel accurate records of who lives in each compartment and what assistance they require.
 
-The most affluent ladder families hold long-term habitation rights detached from a specific job. These rights are maintained through trusts, property companies, government appointments, or dependent status connected to an executive account.
+It also allows Erbium and affiliated landlords to treat loss of employment as loss of residential eligibility.
 
-They describe their homes as private residences.
+A separated employee is formally entitled to a transitional review. Safety, identity, capacity, and sponsor-verification exceptions can shorten the review period. Workers can retain planetary residency while losing access to the pressure-rated compartment in which that residency is supposed to exist.
 
-Most residents of Theosis describe them as permanent berths.
-
-### Middle Districts
-
-Most residents live in middle districts built around transit, education, commerce, ordinary administration, and technical employment.
-
-Housing ranges from comfortable multiroom apartments to prefabricated modules installed during expansion periods and retained long after their planned service lives. Workshops, clinics, markets, schools, mess halls, worship spaces, recreation compartments, and neighborhood pressure shelters occupy the spaces between major structural frames.
-
-Middle districts possess redundancy, but rarely enough to remain isolated for long. A neighborhood may have emergency air for several thousand minutes while depending on another district for water purification, waste treatment, medical care, or power balancing.
-
-Residents know the location of the nearest pressure door. Children practice compartment drills before they can read the full warning text. Families maintain sealed bags containing masks, medication, identity records, tether lines, and whatever objects they intend to carry if their district is detached.
-
-### Lower Decks
-
-Lower decks contain ballast systems, cargo handling, sanitation, waste processing, atmospheric intakes, filtration plants, pressure-envelope access, structural joints, gravitic machinery, emergency separation charges, and the external locks used by maintenance crews.
-
-The housing is cheaper because it is exposed to vibration, equipment noise, chemical odors, and greater consequences when a pressure cell fails. Residences may share walls with pumping stations or freight conduits. Sulfur contamination is more common near maintenance locks and damaged seals.
-
-Theosis-born workers frequently develop bone, joint, muscular, or circulatory problems associated with reduced gravity. Upper-city residents receive preventative treatment, customized exercise, and regular high-gravity therapy. Lower-deck workers often rely on compression garments, employer-issued supplements, scheduled resistance shifts, and clinics whose services end when their employment does.
-
-Settled Systems Code `A4%7&14-2`, the **Pressure-Rated Habitation and Transitional Eligibility Standard**, requires every registered dwelling to identify a responsible operator capable of maintaining its air, pressure, and structural support. It also provides a limited transitional period after a resident loses the employment, dependent status, or service classification supporting their housing.
-
-The standard prevents operators from ejecting residents directly into an unsafe environment. It also allows housing providers to classify a person as ineligible once the transition expires. On Theosis, losing a job begins a countdown toward relocation, dependent sponsorship, emergency placement, or removal from the city.
-
-## Time in Suspension
-
-Theosis rotates once every 11,760 stamp-offset minutes, equivalent to 196 standard hours. Few residents organize their sleep around the full rotation.
-
-The Commonwealth divides each local day into eight **civic turns** of 1,470 standard minutes. Cities assign artificial dawns, work periods, school schedules, quiet intervals, and civic lighting to these turns. Adjacent cities often stagger their cycles so that trade, emergency service, and communications remain continuously staffed.
-
-A person may describe an appointment as occurring during Fourth Turn while the underlying contract records the exact [[Post-Erbium Standard|PES]] stamp. When local scheduling and the stamp disagree, the stamp controls payroll, transit, filing deadlines, and legal notice.
-
-Dwarven clanholdings divide each civic turn into three **forge watches** of 490 minutes. A new watch receives reports from the previous crew, inspects active work, and assumes responsibility for the systems marked under its name. The arrangement provides continuous coverage without expecting any one crew to remain awake through an entire local turn.
-
-Corporate offices use standardized work cycles closer to Wander-derived human schedules. Their lighting and staffing often bear little relationship to the actual sky. Executives can spend years on Theosis without seeing a natural atmospheric transition except through scheduled observation windows.
-
-Theosis completes one orbit every 1,322,496 stamp-offset minutes. Locals call one completed orbit a **circuit**. A lapse contains approximately twelve and two-thirds circuits.
-
-Shredder planning follows both circuit count and raw stamp. A resident might say that a repair must be completed before the seventh Passage of Lapse 29. The official order specifies the exact minute at which docking closes, altitude movement begins, and emergency labor designation takes effect.
+Air, altitude, and housing are related forms of property on Theosis.
 
 ## The Shredder Passage
 
-At the nearest portion of Theosis’s eccentric orbit, changing stellar exposure alters the atmosphere faster than ordinary circulation can redistribute heat.
+Theosis’s eccentric orbit repeatedly carries it through a period of rapid change in stellar heating and atmospheric circulation.
 
-The formal term is **periastron atmospheric compression**. Most residents call it the **Shredder Passage**.
+The formal term is **periastron atmospheric compression**. Residents call it the **Shredder Passage**.
 
-The planet does not approach a Roche limit, and its structure is not nearly torn apart. The danger comes from the atmosphere.
+The planet remains gravitationally intact. The danger comes from the atmosphere.
 
-Heating changes the altitude and density of stable buoyancy layers. Wind speed increases. Shear develops between adjacent bands moving in different directions. Storm systems combine, divide, and change altitude. Cities must adjust orientation, redistribute ballast, alter lift temperature, and sometimes migrate hundreds of kilometers from their ordinary routes.
+Cloud layers expand, contract, and change altitude. Wind velocity increases. Shear develops between atmospheric bands moving in different directions. Reliable buoyancy zones migrate. Cities must alter altitude, orientation, ballast distribution, stabilizer output, and external configuration while carrying entire populations through the disturbance.
 
-Atmospheric models provide advance warning, but each city’s movement changes the conditions encountered by its neighbors. A safe maneuver for one aerostat may redirect dangerous shear into another city’s corridor.
+Preparation begins thousands of minutes before the calculated approach.
 
-Settled Systems Code `A5%11&9-5`, the **Periastron Port Suspension Protocol**, authorizes the Commonwealth to close atmospheric ports, suspend ordinary arrivals, reserve docking capacity, and restrict descent through designated corridors. The restriction prevents passenger ships and freight vessels from becoming uncontrolled debris during severe wind shifts.
+Cities:
 
-Continuity personnel, emergency cargo, military vessels, and Erbium-certified infrastructure shipments can receive exemptions. A delayed medicine tender may wait in orbit while a corporate data courier receives a protected descent corridor because its records classify it as continuity traffic.
+- retract exposed structures;
+- redistribute freight and ballast;
+- inspect docking collars;
+- seal external maintenance sections;
+- fill emergency pressure reservoirs;
+- reinforce intercity connections;
+- test compartment doors;
+- reconfigure solar infrastructure;
+- verify separation systems;
+- position rescue vessels;
+- restrict unnecessary movement.
 
-Cities begin preparation thousands of minutes before compression reaches its forecast peak. Exposed structures retract. Docking arms fold into reinforced frames. Cargo is moved inward. Water and ballast are redistributed. Pressure cells receive additional monitoring. Transit bridges disconnect. Exterior crews inspect membranes, joints, stabilizers, and emergency charges.
+Settled Systems Code `A5%11&9-4`, the **Periastron Port Suspension and Atmospheric Docking Restriction**, suspends ordinary atmospheric arrivals, departures, and external intercity docking during declared Shredder conditions.
 
-Settled Systems Code `A4%5&18-3`, the **Periastron Continuity Labor Classification**, allows designated infrastructure workers to be assigned mandatory Shredder coverage when their absence would create a material threat to habitation. The law provides hazard compensation, rest requirements, and priority medical treatment.
+The restriction prevents vessels from colliding with moving cities or transferring dangerous forces through docking structures. It can also strand passengers in orbit, interrupt medicine deliveries, delay reorientation journeys, generate storage charges, and leave employees unable to reach the city where their housing remains registered.
 
-Employers frequently satisfy the compensation requirement through service credits, future leave, or housing extensions rather than direct wages. Disputes over unsynchronized work can produce ghost minutes at the exact time employees are least able to leave their posts to verify the stamp.
+Upper districts experience the Shredder Passage through reinforced observation galleries, carefully staged public broadcasts, remote work periods, and educational programs explaining atmospheric engineering. Private viewings allow residents to watch distant aerostats shift between bands of illuminated cloud.
 
-Dwarven forge watches form the backbone of structural preparation in many cities. Clan crews inspect pressure envelopes, docking frames, gravitic supports, load-bearing joints, and separation systems. They also review one another’s work. A dwarf asked to sign a deficient system may refuse even when the city’s departure window has nearly closed.
+Lower-deck residents hear stabilizers change load through the walls. Cargo strains against restraints. Pressure doors remain sealed for extended periods. Maintenance workers sleep beside their stations, and families keep evacuation masks within reach.
 
-Upper-city residents experience the Passage through sealed observation halls, remote work schedules, school closures, and official broadcasts. Hotels advertise views of electrical storms moving through sulfur clouds. Corporate ceremonies praise the infrastructure personnel maintaining civilization.
+Dwarven forge watches form a large part of the Shredder workforce. Their crews inspect frames, reinforce structural nodes, monitor fatigue, coordinate altitude adjustments, repair stabilizers, and prepare to separate a failing compartment before its motion endangers the city.
 
-Lower-deck residents hear stabilizers changing load, cargo restraints tightening, pressure doors cycling, and wind passing across the outer structure. They sleep in clothing suitable for evacuation and keep masks within reach.
+Settled Systems Code `A4%5&18-6`, the **Periastron Continuity Labor Designation**, allows the planetary government and certified infrastructure operators to reassign qualified personnel, extend coverage periods, alter rest scheduling, and restrict departure during a declared recurring environmental hazard.
 
-When a district can no longer be supported, Settled Systems Code `A9%6&12-7`, the **Aerostat Compartment Separation Authority**, permits designated officials to detach it from the parent city. The law exists because a failing section can drag an entire aerostat into an unstable band or rupture connected pressure cells.
+The law requires medical monitoring, replacement crews, and hazard compensation.
 
-A separated district retains local air, power, and emergency propulsion when those systems function correctly. Recovery craft attempt to stabilize or tow it after the atmospheric front passes.
+Erbium employment classifications define many Shredder duties as ordinary functions of pressure, structural, freight, atmospheric, and continuity personnel. Workers already assigned to those categories receive standard compensation for conditions that would generate hazard premiums for other employees.
 
-Every resident understands the purpose of separation charges.
+## The Erbium Corporatocracy
 
-Every resident also knows which districts are considered expendable first.
+Theosis is governed by Erbium Industries LLC.
 
-## The Theosis Aerostat Commonwealth
+Corporate and planetary authority remain legally distinguishable for accounting, treaty, and jurisdictional purposes. Both answer to the same executive structure.
 
-The **Theosis Aerostat Commonwealth** is the recognized sovereign government of Theosis. Its authority developed from the intercity agreements established after the Three-City Shear.
+Erbium:
 
-The Commonwealth regulates atmospheric movement, civic registration, emergency response, intercity transit, environmental standards, and the allocation of shared buoyancy bands. It operates public courts, schools, rescue services, and portions of the communications network.
+- appoints the planetary executive;
+- operates the principal courts and archives;
+- controls the government’s major budgets;
+- owns most strategic infrastructure;
+- licenses essential professions;
+- administers much of the public medical system;
+- maintains planetary security;
+- determines recognized pressure and engineering standards;
+- controls Crown Meridian’s principal housing portfolios;
+- operates the relay and PES infrastructure;
+- owns or certifies the equipment upon which the cities depend.
 
-Its principal legislative body is the **Assembly of Cities**. Each recognized aerostat receives representation based on population, shared-infrastructure contribution, and its classification as an independent civic body.
+Erbium officials describe Theosis as a **stewarded corporatocracy**. Public materials emphasize that the institution responsible for keeping the cities alive must possess the authority to coordinate them.
 
-The formula favors large cities and infrastructure operators. A small free aerostat may receive one delegate, while a major city controlled through several legally distinct operating companies can influence multiple delegations.
+Critics generally omit the adjective.
 
-The **Civic Directorate** administers Commonwealth policy. Its directors oversee habitation, transport, public health, finance, education, and emergency readiness. The Directorate is elected by the Assembly from qualified candidates.
+### The Theosis Directorate
 
-Qualification requires extensive professional credentials. Many candidates have worked for Erbium, insurers, engineering boards, or major city operators. Commonwealth officials describe this experience as necessary preparation for governing a world where administrative mistakes can kill millions.
+The **Theosis Directorate** is the planetary executive government.
 
-The **Atmospheric Coordination Board** controls altitude corridors, band assignments, large-scale movements, and Shredder planning. Its members include civic engineers, city representatives, pilots, weather specialists, dwarven structural delegates, and certified corporate infrastructure operators.
+The First Director is appointed by Erbium’s governing board and normally holds a senior corporate operations position simultaneously. Most directorate officials are selected from corporate departments, professional boards, city administrations, and recognized technical institutions.
 
-The Board can issue binding movement orders without Assembly approval when delay would create an immediate atmospheric hazard. It cannot directly operate a city’s proprietary systems. Public authorities may order an aerostat to move while lacking access to the software, parts, or personnel required to carry out the order.
+Directorate offices govern:
 
-City governments retain substantial local authority. They regulate housing, policing, zoning, education, labor inspection, and neighborhood services. Their powers vary according to city charter, ownership structure, and infrastructure contracts.
+- altitude and atmospheric coordination;
+- pressure-habitat certification;
+- housing eligibility;
+- public health and environmental medicine;
+- civil security;
+- transportation and docking;
+- professional accreditation;
+- education standards;
+- taxation and corporate assessments;
+- planetary courts;
+- emergency planning;
+- intersystem relations.
 
-Some cities are ordinary municipalities. Others are public-private operating zones, university cities, clan-administered holdings, religious settlements, or corporate habitats whose elected councils control only the services their founding contracts did not reserve to the operator.
+Directorate authority is strongest in subjects classified as infrastructure continuity. On Theosis, nearly every important political subject can acquire that classification.
 
-### Erbium and the Commonwealth
+### The Assembly of Envelopes
 
-Erbium Industries is not the government of Theosis.
+The **Assembly of Envelopes** is the principal planetary legislature.
 
-It owns or controls substantial portions of the systems the government must regulate.
+Every recognized aerostat sends delegates according to population, certified habitation volume, infrastructure contribution, and corporate charter status. Local Envelope Councils select most delegates. Erbium directly appoints additional continuity, finance, standards, and strategic-infrastructure representatives.
 
-Erbium divisions and affiliated firms maintain:
+The appointed bloc cannot ordinarily govern alone. It is large enough that no planetary law can pass without some corporate support.
 
-- pressure-envelope manufacturing;
-- gravitic-stabilizer patents;
-- atmospheric forecasting systems;
-- docking certifications;
-- emergency propulsion components;
-- pressure-rated housing portfolios;
-- private medical networks;
-- insurance underwriting;
-- legal archives;
-- professional credentialing;
-- communications relays;
-- orbital fuel and repair services;
-- portions of the hardened solar array.
+The Assembly debates housing rules, public services, school funding, medical access, city expansion, local taxation, worker protections, and municipal budgets. It can reject Directorate proposals, investigate failures, and impose conditions on public spending.
 
-The Commonwealth can fine an Erbium operator, suspend a local license, or order emergency compliance. Erbium can appeal through courts staffed by graduates of corporate legal institutions, delay replacement parts pending certification, alter insurance terms, reclassify a service as proprietary, or determine that a disputed record lacks an authoritative stamp.
+The Directorate can suspend an Assembly measure if it finds that the law conflicts with essential infrastructure, corporate charter obligations, recognized Settled Systems standards, or the safety of another aerostat.
 
-This relationship produces real negotiation. The Commonwealth is neither powerless nor materially independent.
+### The Common Altitude Board
 
-Theosis administrators have forced Erbium to fund repairs, release emergency stores, recognize labor standards, and alter dangerous systems. Erbium has also outlasted reform governments by waiting for the next budget crisis, Shredder emergency, insurance failure, or component shortage.
+The **Common Altitude Board** coordinates buoyancy bands, city movement, navigation corridors, stabilizer standards, atmospheric forecasting, and Shredder preparations.
+
+Its members include engineers, meteorologists, pressure specialists, pilots, emergency planners, and civil administrators appointed through the Directorate, Assembly, professional boards, and major cities.
+
+The Board possesses broad operational authority because two cities can endanger one another through poor coordination without either intending harm.
+
+Its technical decisions also distribute political cost. Assigning one aerostat to a less stable band can protect several others. Ordering a city to descend can damage its envelopes, interrupt employment, lower property values, and expose its residents to greater risk.
+
+The Board presents its models as objective. Every model depends on which populations and structures the government recognizes.
+
+### Envelope Councils
+
+Each aerostat maintains an **Envelope Council** responsible for local housing, education, sanitation, public transit, markets, neighborhood development, municipal clinics, and ordinary emergency planning.
+
+Some councils are directly elected. Others divide seats among residents, property holders, clanholdings, worker associations, and corporate charter institutions.
+
+The councils possess meaningful authority. They can protect striking workers, subsidize clinics, preserve housing, expand schools, maintain independent records, and resist unpopular development.
+
+Their decisions still require money, equipment, records, and enforcement systems controlled by Erbium.
+
+## Erbium Central
+
+**Erbium Central** occupies the upper structural core of Crown Meridian.
+
+The complex contains:
+
+- Erbium’s governing board chambers;
+- executive offices;
+- the Theosis Directorate;
+- the central legal archive;
+- the strategic erbium reserve authority;
+- PES oversight systems;
+- intersystem financial administration;
+- relay coordination;
+- senior engineering authorities;
+- Frontier Extraction Division command;
+- the principal departments governing Drift infrastructure.
+
+The visible campus is spacious, quiet, and meticulously maintained. Pale stone composites, controlled gardens, stable artificial gravity, clean geometric branding, and concealed service access present the institutional ideal of Erbium civilization.
+
+Thousands of technicians work beneath the public campus. They maintain the pressure systems, data centers, power distribution, emergency reservoirs, cooling machinery, freight lifts, and structural frames that preserve its silence.
+
+Erbium Central is both a corporate headquarters and a seat of government. Corporate policy can become planetary regulation without passing through an external sovereign authority.
+
+Planetary practices developed on Theosis frequently become models for intersystem standards.
+
+## The Council of Settled Systems Administration
+
+The **Council of Settled Systems Administration** drafts, negotiates, and amends the [[Settled Systems Administrative Code]].
+
+Recognized governments send delegations to the Council. Its provisions become binding through treaties, interoperability agreements, infrastructure licenses, local adoption, and the material requirements of participating in Settled Systems trade.
+
+The Council meets in **Concordance Hall** within Erbium Central.
+
+Erbium Industries holds a permanent voting position called the **Infrastructure Stewardship Seat**.
+
+Settled Systems Code `A8%10&5-2`, the **Essential Infrastructure Stewardship Representation Provision**, guarantees representation to the recognized operator of intersystem relay synchronization, strategic erbium reserves, PES administration, and shared transportation standards.
+
+The provision’s public purpose is to ensure that laws affecting essential infrastructure include technical participation from the institution expected to implement them.
+
+Its practical effect is that Erbium votes directly on laws governing Erbium infrastructure, Erbium contracts, corporate employees, PES records, Drift access, and corporate authority.
+
+Theosis also sends a planetary delegation selected through the Directorate and Assembly of Envelopes.
+
+Erbium therefore influences the Council through its direct Stewardship Seat, its control of Theosis, its technical staff, and the dependency of other delegations on corporate infrastructure.
+
+The company describes these as separate legal interests.
+
+Other governments describe them as several chairs occupied by the same institution.
 
 ## Political Tendencies
 
-The **Continuity Coalition** consists of senior administrators, major city operators, insurers, engineering boards, and many ladder families. Its members argue that Theosis survives because authority is centralized, standards are enforceable, and experienced institutions control dangerous systems.
+The **Board Continuity Caucus** includes Erbium executives, appointed Directorate officials, ladder families, senior legal authorities, insurance firms, and major financial institutions. It supports centralized administration, extensive continuity powers, and the continued integration of corporation and government.
 
-Some Coalition officials are personally committed to public safety. They point to every avoided disaster as evidence that infrastructure cannot be governed through improvisation or popular anger. Their critics respond that the Coalition defines safety as continuity of the institutions already in control.
+Its members argue that Theosis is alive because Erbium can make rapid decisions across infrastructure, finance, labor, and law without waiting for jurisdictional disputes.
 
-The **Forge Compact** represents major dwarven clanholdings, independent structural guilds, and engineering associations. It supports rigorous inspection, professional authority, long-term maintenance, and public disclosure of defects.
+The **Municipal Envelope Bloc** represents elected councils from the major cities. It accepts Erbium’s planetary sovereignty while seeking greater local control over housing, schools, clinics, policing, taxation, and maintenance budgets.
 
-The Compact is internally divided. Some clans work closely with Erbium and consider large contracts necessary to sustain their diaspora holdings. Others maintain independent parts networks and mutual-aid funds intended to reduce corporate leverage. Almost all oppose administrative attempts to override an engineer’s signed refusal.
+The **Holding Compact** represents dwarven clanholdings, independent engineering firms, professional inspectors, and skilled-worker associations. It seeks guaranteed repair funding, public access to maintenance records, stronger inspector authority, and limits on craft-warrant liability.
 
-The **Lower Deck Federation** coordinates labor organizations across cargo, sanitation, maintenance, transit, filtration, housing, and emergency service. It campaigns for direct hazard wages, recognition of ghost minutes, independent medical access, and limits on mandatory Shredder assignments.
+The **Breath Commons** argues that breathable habitation is a civic right. Its platform calls for permanent residency independent of corporate employment, public sponsorship of life-support allocations, transparent pressure-capacity data, and limits on housing removal during labor disputes.
 
-Federation chapters have saved cities through disciplined emergency work. They have also authorized strikes affecting systems other residents cannot safely lose. Their leaders regularly confront the question of how workers can withhold labor from infrastructure that keeps their own families alive.
+The **Free Altitude League** represents semi-independent aerostats and small cities. It supports local control over housing, commerce, municipal law, and internal services while accepting central coordination of atmospheric safety.
 
-The **Common Breath Initiative** seeks to classify minimum breathable housing, emergency medical care, and pressure protection as civic rights independent of employment. Its supporters include lower-deck residents, clergy, physicians, civil libertarians, and some city councils.
+The **Code Reform Delegation** opposes Erbium’s permanent Stewardship Seat and Theosis’s effective double representation on the Council of Settled Systems Administration. Its supporters include local reformers, foreign delegates, independent legal scholars, and Erbium officials who believe the current arrangement damages the legitimacy of the Code.
 
-Opponents ask who will maintain the housing if operators cannot remove nonpaying residents. Initiative engineers have developed public-financing proposals. Erbium insurers describe those models as technically optimistic and refuse to underwrite them.
+The **Public Systems Front** advocates transferring stabilizers, pressure networks, water systems, emergency equipment, and public housing into a worker- and municipality-controlled authority.
 
-The **Free Envelope League** represents small independent cities, cooperatives, religious aerostats, and settlements seeking greater control over their own routes and infrastructure. It opposes concentration of band assignments and wants Commonwealth systems capable of operating without Erbium certification.
-
-League cities often provide refuge to workers who have lost corporate housing. They also possess thinner reserves, older equipment, and less emergency capacity. Their independence sometimes depends on maintenance crews taking risks larger operators would prohibit.
-
-## Work and Liability
-
-Theosis employs enormous numbers of administrators, attorneys, engineers, financial analysts, insurers, credentialing officers, data specialists, educators, medical personnel, atmospheric pilots, mechanics, cargo workers, sanitation crews, and pressure technicians.
-
-The world exports institutional services as much as manufactured goods. Contracts written on Theosis govern distant mining claims. Engineering boards certify habitats on worlds their inspectors have never visited. Insurance models produced in Crown Meridian determine whether a settlement qualifies for reconstruction after a disaster.
-
-Theosis also manufactures pressure systems, corrosion-resistant materials, atmospheric processors, buoyancy cells, stabilizer components, emergency shelters, and specialized equipment for hostile environments. Its sulfur chemistry industry supplies fertilizers, industrial reagents, propellants, and manufacturing feedstocks.
-
-The **Hardened Solar Array** in high orbit supplies power to orbital facilities and transfers energy to several major cities through regulated beam corridors. The array was designed to endure complex stellar exposure, though its maintenance crews work under significant radiation and thermal loads.
-
-Structural responsibility is recorded through craft warrants.
-
-Settled Systems Code `A3%8&15-4`, the **Certified Craft Warrant Allocation Provision**, allows a named professional, licensed firm, or recognized clan institution to guarantee the accuracy and declared condition of inspected work. The warrant creates a traceable party against whom losses can be assessed if the certified system fails.
-
-The rule gives skilled workers authority to refuse unsafe work. It also permits employers and insurers to redirect liability onto whoever signed the final record.
-
-A dwarf may disclose that a stabilizer required replacement, receive only enough materials for a temporary repair, and later be sued because the stamped warrant confirms that the unit was returned to service. Employers argue that the signer possessed a professional duty to withhold approval. Workers argue that refusing approval often means termination, loss of housing, and replacement by someone less qualified.
-
-Settled Systems Code `A1%1&17-6`, the **Pressure-Envelope Inspection Record Integrity Standard**, requires certified inspection records to include identified defects, deferred repairs, denied materials, altered procedures, and the responsible authority for each decision.
-
-The standard was enacted after several major failures were blamed on inspectors whose original reports had been overwritten by abbreviated compliance records. It has protected workers and exposed dangerous management decisions.
-
-Its limitation lies in record authority. A local copy can show every warning and still be rejected if the certified server records a different version or the report entered the network during stamp drift.
+Its technical members possess detailed transition plans. Its radical wing believes Erbium will surrender control only after a planet-wide refusal of labor.
 
 ## Humans of Theosis
 
 Theosis contains one of the largest human populations in the Settled Systems.
 
-Human ladder families dominate portions of corporate law, finance, administration, credentialing, and executive education. Their children grow up near professional networks that treat internships, references, approved schools, and private tutoring as ordinary preparation.
+Human ladder families dominate many upper-district schools, legal offices, financial institutions, professional boards, government departments, and corporate administrative divisions. Their children grow up with stable gravity, preventative medicine, private education, supervised internships, and an inherited familiarity with the social rules governing senior employment.
 
-These families rarely describe themselves as hereditary elites. Each generation obtains its positions through recognized qualifications. The advantages used to obtain those qualifications are treated as family support rather than political power.
+They also inherit networks established before PES. Some families trace their Theosis status to the corporate personnel selected for continuity transfer before Wander’s collapse.
 
-Corporate culture on Theosis prizes controlled presentation, measured speech, reliable scheduling, professional restraint, and familiarity with administrative procedure. Upper-city residents learn how to request exceptions without appearing to request special treatment.
+Corporate culture presents these households as proof that disciplined families produce qualified leadership.
 
-Most humans on Theosis work outside those circles. They maintain pressure envelopes, cargo systems, transit lines, water recycling, sanitation, communications, filtration, stabilizers, clinics, kitchens, schools, and housing systems.
+Their ancestors helped determine which qualifications would matter.
 
-Generations born in reduced gravity tend to be taller and more lightly built than many humans from standard-gravity worlds. Compression garments are common. Children undergo skeletal monitoring, resistance training, and regular examinations.
+Most humans on Theosis maintain the cities rather than administer them. They work as pressure technicians, cargo handlers, sanitation crews, transit operators, legal clerks, medical staff, stabilizer mechanics, housing administrators, construction workers, teachers, service personnel, and emergency responders.
 
-Preventative care differs dramatically by district. Wealthy families use private high-gravity clinics and receive tailored bone-density treatments. Workers rely on scheduled exercise facilities, standardized medication, and employer clinics that may classify chronic conditions as preexisting adaptation rather than occupational harm.
+Generations raised under reduced gravity are often taller and more lightly built. Compression garments, resistance training, skeletal scans, circulatory treatments, and joint medication are common.
 
-Theosis produces two persistent images of humanity.
+Upper-district residents receive extensive preventative care.
 
-One is the polished official presented by Erbium as proof that stable institutions reward discipline.
+Lower-deck workers frequently obtain treatment through employer clinics whose services depend on continued employment eligibility.
 
-The other is the tired pressure technician whose family’s home depends on arriving for the next shift.
+Theosis creates two widely recognized images of humanity.
+
+Corporate media presents the polished official whose success demonstrates the fairness of Erbium advancement.
+
+Workers throughout the Settled Systems recognize the exhausted technician whose family remains one missed shift away from losing pressure-rated housing.
 
 ## Dwarves of Theosis
 
-Theosis contains one of the largest dwarven populations outside [[Vuddar]].
+Dwarves form the second-largest ancestry population and maintain some of the oldest technical institutions on the planet.
 
-Dwarven clanholdings function as residences, workshops, archives, mutual-aid centers, professional schools, legal offices, and emergency shelters. Some occupy entire structural sections. Others consist of several connected workshops and housing modules distributed through a larger city.
+The earliest dwarven crews arrived during the rapid construction following Wander’s destruction. Their clans built pressure frames, docking collars, lift chambers, maintenance routes, stabilizer supports, and emergency separation systems that remain inside the oldest aerostats.
 
-Dwarves are heavily represented in pressure engineering, structural design, gravitic stabilization, docking support, materials testing, load management, and emergency separation planning. Their compact, dense bodies and Vuddarian climbing traditions suit work in maintenance frames, tether networks, and confined service spaces.
+Many clans operate **clanholdings** combining residences, workshops, archives, legal representation, mutual-aid funds, shrines, social halls, and emergency shelter.
 
-Clan engineers mark inspected structures and preserve detailed records of repairs, failures, and deferred work. A city may display an Erbium compliance plaque near its public entrance while maintenance workers look for the dwarven marks on the load-bearing frame.
+Forge watches allow dwarven crews to maintain continuous coverage across the 11,760-minute local rotation. Clan archives preserve maintenance records beyond the service lives of individual companies and computer systems.
 
-Dwarven reputation provides leverage. A coordinated refusal by several respected clans can halt a city expansion or prevent an unsafe aerostat from receiving clearance.
+Dwarven work marks appear throughout Theosis. Structures commonly bear the names and clan marks of the engineers who designed, inspected, repaired, or refused them.
 
-It also creates pressure. City operators frequently assume dwarven crews can rescue systems already permitted to degrade. Managers describe impossible deadlines as opportunities for expert judgment. Insurers treat clan assets as guarantees behind individual signatures.
+Settled Systems Code `A3%8&16-5`, the **Certified Craft-Warrant Liability Allocation**, recognizes these marks as evidence that a qualified professional accepted responsibility for the condition disclosed during an inspection.
 
-Many Theosis dwarves maintain plans for reorientation pilgrimages to Vuddar. Operational necessity, Shredder schedules, and employment disputes regularly delay them. Clanholdings have developed pooled transport funds and replacement-watch agreements to prevent employers from treating every experienced engineer as too essential to leave.
+The provision was intended to prevent temporary contractors from disappearing after approving unsafe work.
 
-## Other Communities
+Erbium and Directorate courts can assign liability to the signing engineer or clan when a system later fails, even when management rejected recommended repairs, substituted materials, altered stamped records, or continued operation past the disclosed service limit.
 
-Every major Settled Systems ancestry maintains a presence on Theosis.
+Dwarven inspectors increasingly attach independent counters, witnessed annotations, physical seals, and clan-held records to their work. Erbium compliance offices accept them as supplemental evidence while treating the corporate stamp as authoritative.
 
-Androids work throughout administration, maintenance, forecasting, medicine, and data infrastructure while depending on corporate repair networks and body-component licensing.
+Some clanholdings cooperate closely with Erbium and regard the relationship as essential to the survival and prosperity of their members. Others maintain independent workshops, supply agreements, mutual-aid funds, and off-stamp archives intended to limit corporate control.
 
-Astrazoans are common in legal, diplomatic, investigative, and public-facing occupations. Continuity-node requirements make anonymity difficult in cities where every pressure door logs identity.
+Most large clans contain both tendencies.
 
-Brenneri communities often organize around water systems, medical work, counseling, transport, and neighborhood mutual aid. Water carries strong symbolic weight on a world where every usable liter has passed through machinery.
+## Other Residents
 
-Fonqugons work in systems analysis, atmospheric modeling, logistics, and distributed infrastructure monitoring. Their predictions frequently identify risks administrators delay addressing because the model cannot designate a single responsible department.
+Every recognized Settled Systems ancestry maintains established communities on Theosis.
 
-Lashuntas participate in government, education, corporate negotiation, medicine, and security. Their somatic traditions interact with Theosis’s extensive culture of bodily adaptation and professional presentation.
+Android technicians work throughout control systems, data administration, external maintenance, medicine, and high-risk infrastructure. Their bodies are often well suited to reduced-gravity environments, though compatible components remain governed through Erbium leases and foundries.
 
-Madrosarai blood-clans maintain clinics, intelligence offices, cybernetic facilities, and secure commercial compounds. Their blood-reactive technology is used in several high-security control systems.
+Astrazoans are prominent in administration, secure service positions, performance, diplomacy, corporate representation, and older infrastructure requiring obsolete identities or biometric clearances.
 
-Moyishuu visit through the Way Station and constellation ships. Some find the cities’ lack of ground comforting. Others dislike living inside a world’s atmosphere after generations spent among stars.
+Brenneri communities maintain enclosed aquatic districts, water cooperatives, medical practices, and social-support networks. The amount of water required by these communities makes their habitation politically visible.
 
-Vesk serve in emergency response, cargo, structural security, government, medicine, and heavy maintenance. Corporate risk assessments continue assigning them to physically dangerous roles at disproportionate rates.
+Fonqugon analysts contribute to atmospheric forecasting, systems modeling, logistics, engineering review, and financial projections. Erbium frequently treats their ability to process several problems at once as justification for assigning several roles under one employment classification.
 
-## Life and Belief
+Lashuntas work throughout government, design, education, medicine, corporate service, communications, and public presentation. The upper districts strongly reward expressions regarded as professionally desirable.
 
-Theosis culture is shaped by the knowledge that breathable space exists because someone maintained it.
+Madrosarai firms provide surgical services, cybernetics, security, intelligence work, blood-reactive systems, and specialist medicine.
 
-Residents treat pressure drills seriously. Blocking a sealed door, damaging a compartment sensor, or ignoring a sulfur alarm can provoke immediate public anger. Even people who disregard minor regulations usually know which rules keep a district alive.
+Moyishuu pilots support Drift traffic, orbital transfer, emergency passage, and stellar observation. Constellations frequently visit Theosis while avoiding permanent settlement inside its enclosed pressure environments.
 
-Hospitality often begins with environmental assurance. A host tells a visitor where the nearest mask is stored, which pressure shelter serves the room, and whether the district is scheduled for movement. These statements carry the same ordinary warmth that another culture might express by offering food.
+Vesk crews work in heavy construction, freight, rescue, external security, stabilizer replacement, and emergency compartment entry.
 
-Controlled gardens are prized. Upper cities contain broad parks, trees, water features, and soil imported at extraordinary expense. Middle districts maintain hydroponic courtyards, wall gardens, community fungi beds, and small fruiting plants. Lower decks grow herbs and vegetables beneath work lights or around waste-heat systems.
+Class, occupation, city, and sponsorship status shape daily life more strongly than ancestry alone. An upper-district nonhuman legal officer possesses more institutional security than a human pressure worker living beside an industrial envelope.
 
-Water is recycled continuously. Public fountains in upper districts are displays of wealth and confidence in the filtration system. In working districts, people disapprove of allowing water to run without a clear use.
+The Human Default still shapes most equipment, medicine, architecture, and procedure.
 
-Natural sky remains inaccessible. Windows reveal clouds, lightning, maintenance structures, other cities, and occasional breaks through which several stellar lights become visible. Families gather to watch predicted clearings. Children learn the apparent motion of Alpha Leonis before they learn the color of an open planetary horizon.
+## Life in Suspension
 
-The Shredder Passage has developed civic and religious meanings. Star Dream congregations describe it as a reminder that revelation provides knowledge rather than safety. Dwarven observances honor completed repairs and record failures openly. Wander memorialists compare the cities’ dependence on continuous maintenance with the consequences of ignoring planetary limits.
+Theosis residents develop an intimate awareness of the machinery around them.
 
-Erbium ceremonies emphasize continuity, sacrifice, and professional duty. During each Passage, corporate broadcasts display names of certified crews beside the slogan:
+They recognize changes in ventilation pitch, stabilizer vibration, lift-chamber heat, pressure-door timing, and the movement of freight through the structure. Children learn atmosphere drills alongside reading and arithmetic. Households keep emergency masks accessible even in wealthy districts.
 
-> **Every system held. Every future preserved.**
+Silence has different meanings across the planet.
 
-Workers have amended the phrase in maintenance corridors:
+In Erbium Central, silence demonstrates successful engineering.
 
-> **Every system held by someone.**
+In a lower deck, silence can mean that a pump has stopped.
+
+The distinction between public and industrial space is often thin. A market may occupy a former cargo junction. A school can share a pressure compartment with a water-processing system. Apartments are built around structural braces that cannot be moved. Maintenance crews pass through residential corridors to reach machinery installed before the housing existed.
+
+Personal decoration accumulates around corporate standardization. Residents paint pressure doors, hang fabric over exposed frames, build gardens under service lamps, convert obsolete inspection plates into furniture, and preserve objects brought from Wander or later homeworlds.
+
+Older districts contain generations of repair. A single wall can include Wander-manufactured supports, pre-PES Erbium plates, early Commonwealth seals, dwarven reinforcements, and recently printed polymer covers.
+
+The Erbium emblem remains cleanest.
+
+## Breath, Water, and Status
+
+Breathable air is abundant enough to lift cities and expensive enough to control their residents.
+
+Atmospheric systems constantly reclaim oxygen, remove carbon dioxide, control humidity, monitor contaminants, and maintain pressure. Housing assessments include expected air demand, medical need, occupancy category, and evacuation priority.
+
+Residents do not ordinarily pay for each breath. They pay for the infrastructure that makes breathing possible through rent, employment deductions, municipal assessments, medical classifications, and service eligibility.
+
+Water is more visibly scarce.
+
+Theosis possesses no open hydrosphere. Its cities rely on imported ice, chemical recovery, aggressive recycling, industrial synthesis, and carefully managed reserves.
+
+Upper districts contain controlled gardens, reflecting pools, humid public spaces, and ornamental water. These features contribute to the image that Erbium created a prosperous home from a hostile world.
+
+Lower districts use pressure-controlled allotments, communal reclamation systems, and strict recycling requirements.
+
+Brenneri pools, hydroponic agriculture, medical facilities, and industrial processes compete for the same reserves. Water allocation debates often become ancestry, labor, housing, and class disputes simultaneously.
+
+## Corporate and Industrial Economy
+
+Theosis specializes in administration supported by heavy infrastructure.
+
+Its major industries include:
+
+- intersystem finance;
+- insurance;
+- corporate law;
+- arbitration;
+- professional credentialing;
+- pressure-habitat engineering;
+- gravitic stabilization;
+- atmospheric modeling;
+- sulfur chemistry;
+- high-output solar power;
+- relay administration;
+- PES synchronization;
+- ship repair and refueling;
+- cargo coordination;
+- medical services for sealed environments;
+- reduced-gravity medicine;
+- corporate and technical education.
+
+The world’s wealthiest institutions occupy spacious upper compartments whose clean public surfaces conceal immense machinery below.
+
+Corporate interiors use quiet ventilation, controlled lighting, pale materials, clean geometry, and concealed maintenance access. Every surface is intended to communicate stability.
+
+Lower decks smell of machine oil, hot insulation, disinfectant, sulfur residue, reclaimed water, pressure fabric, electrical housings, and food stalls operating beside transit and maintenance routes.
+
+The planet also exports expertise.
+
+Engineers trained on Theosis work wherever people live inside hostile atmospheres, orbital habitats, pressure vessels, artificial-gravity structures, and industrial stations.
+
+Erbium recruitment campaigns use images of Theosis technicians to represent competence, sacrifice, and the shared labor required to keep civilization alive.
+
+The campaigns rarely identify who owns the air system behind the worker.
+
+## Public Ritual and Corporate Memory
+
+Theosis presents itself as the civilization that rose after Wander.
+
+The largest corporate observance is **Second Home Day**, which commemorates the arrival of the early construction fleets and the declaration that Erbium would rebuild a permanent home among the clouds.
+
+Official ceremonies emphasize refugees, engineers, continuity personnel, and the company’s preservation of interstellar civilization. Executive speeches are followed by worker commendations, archive displays, school performances, and the activation of enormous Erbium emblems across the upper cities.
+
+Worker communities observe several less formal remembrances.
+
+**The Empty Berths** honors those who were never evacuated from Wander. Families leave unused seats at communal meals or place unclaimed work tags beside memorial walls.
+
+**Separation Vigils** commemorate districts detached during atmospheric emergencies. Cities dim external lights while surviving relatives read names over maintenance and emergency channels.
+
+**First Stamp** marks the activation of PES and the end of the Zakaron war. Corporate ceremonies describe it as the beginning of shared intersystem civilization. Zakaron communities and political dissidents view the event differently.
 
 ## Major Locations
 
 ### Crown Meridian
 
-**Crown Meridian** is the capital of the Commonwealth and the largest single aerostat on Theosis. Its primary frame supports government chambers, courts, universities, financial exchanges, Erbium administrative offices, residential districts, and extensive maintenance infrastructure.
+**Crown Meridian** is the oldest buoyant city, capital of Theosis, and formal seat of Erbium Industries.
 
-The city occupies one of the most stable regulated buoyancy bands. Its movement receives priority in atmospheric planning because failure would disrupt government, finance, communications, and numerous dependent cities.
+The city grew around a pre-PES continuity frame established before Wander’s destruction. Its oldest structural core contains sealed archives, strategic reserves, relay systems, and machinery from the first settlement period.
 
-Critics argue that this priority makes Crown Meridian stable by transferring difficult conditions elsewhere.
+Modern Crown Meridian contains the Theosis Directorate, Assembly of Envelopes, Common Altitude Board, major courts, diplomatic districts, corporate academies, financial institutions, and the principal offices of Erbium Industries.
 
-The Assembly of Cities meets in a chamber suspended inside the central structural spine. Transparent sections of reinforced flooring reveal freight lifts and pressure conduits moving beneath the delegates.
+Successive generations of expansion have produced an enormous vertical and structural hierarchy. New upper districts rest upon frames and machinery maintained by communities living several compartments below them.
 
-### The Ascendant Quarter
+### Erbium Central
 
-The **Ascendant Quarter** occupies Crown Meridian’s upper frame. It contains the Commonwealth’s most prestigious schools, private medical complexes, controlled gardens, professional societies, arbitration chambers, and executive residences.
+**Erbium Central** is the intersystem headquarters of Erbium Industries and the administrative center of Theosis.
 
-Many ladder families maintain homes here through interlocking property trusts and service corporations. The district’s pressure systems possess multiple independent backups. Its artificial-gravity clinics offer treatment unavailable in most lower cities.
+Its upper campus contains executive offices, the governing board, strategic-reserve authorities, PES oversight, the Theosis Directorate, Frontier Extraction command, and Concordance Hall.
 
-The Quarter’s public promenades provide a carefully maintained view across the sulfur clouds. Maintenance structures are concealed behind architectural screens except during Shredder preparation, when the district’s appearance gives way to pressure barriers, reinforcement braces, and emergency equipment.
+The visible headquarters is quiet, spacious, and precisely maintained. Its lower structural core contains pressure equipment, data centers, emergency bunkers, cooling systems, freight lifts, worker transit, and several generations of machinery.
 
-### Brass Underdeck
+The headquarters emblem remains illuminated during Shredder conditions unless power preservation reaches the highest emergency classification.
 
-**Brass Underdeck** is the collective name for Crown Meridian’s lower industrial and habitation layers.
+### Concordance Hall
 
-The district contains cargo sorting, sanitation, ballast control, repair shops, water reclamation, atmospheric intakes, filtration systems, emergency shelters, and housing for several million workers.
+**Concordance Hall** contains the Council of Settled Systems Administration.
 
-Its name comes from early sulfur-resistant fittings rather than decorative metalwork. Most of the original brass components have been replaced, though the name remains.
+Its central chamber is surrounded by delegation suites, legal archives, translation systems, technical review offices, and secure relay facilities. Erbium’s Infrastructure Stewardship Seat occupies a permanent position facing the rotating chair.
 
-Brass Underdeck is a center of Lower Deck Federation activity. It is also essential to the capital’s survival. Every serious labor action becomes a dispute over whether residents have the right to withdraw work from systems that support the entire city.
+Public galleries allow visitors to observe formal sessions. Most significant agreements are negotiated in private technical committees before they reach the chamber.
 
-### Tavran Span
+### Palladium Reach
 
-**Tavran Span** is a dwarven clanholding, structural works, and training district attached to the city of Morrowlift.
+**Palladium Reach** occupies Crown Meridian’s highest stable habitation tier.
 
-The holding surrounds one of the oldest surviving load-distribution frames on Theosis. Generations of dwarven engineers have repaired, expanded, and documented the structure. Its exposed beams carry thousands of maker’s marks, inspection signs, memorial plates, and records of components replaced during past Passages.
+Prestigious academies, private clinics, executive residences, controlled gardens, legal institutes, and financial towers fill its interconnected pressure galleries.
 
-Tavran Span trains engineers from many ancestries while retaining Vuddarian professional customs. Erbium frequently uses the holding in recruitment material. The Tavran clans frequently sue Erbium over the use of that material.
+Its expansive interior spaces contribute lift. Enormous ballast systems beneath the district compensate for the dense construction, private water reserves, and gravitic stabilization required to maintain its preferred environment.
 
-### Skinline Twelve
+### The Keelworks
 
-**Skinline Twelve** is a dangerous envelope-maintenance zone extending across the outer surface of Halberd City.
+**The Keelworks** are Crown Meridian’s lower industrial districts.
 
-Workers travel through narrow pressure tunnels before entering sealed exterior rigs attached directly to the city’s displacement cells. They inspect membrane layers, repair sensor webs, remove sulfur accretion, and replace damaged restraints while the atmosphere moves around them.
+Cargo sorting, ballast control, sanitation, water recovery, stabilizer maintenance, heat exchange, waste processing, and emergency separation systems operate continuously.
 
-During severe weather, the work rigs sway independently of the internal frame. Visibility can fall to less than a meter. Workers navigate through tether tension, instrument displays, and the vibration of the structure beneath their gloves.
+Workers describe the Keelworks as the portion of the capital that knows its actual weight.
 
-Skinline crews possess a strong internal culture and little patience for officials who refer to the pressure envelope as a passive system.
+The district contains large human worker populations, multiple dwarven clanholdings, independent repair markets, union offices, communal kitchens, employer clinics, and housing attached to infrastructure service.
 
-### Halcyon Free Aerostat
+### Tavran Brace
 
-**Halcyon** is a semi-independent aerostat governed by a cooperative charter. It houses workers who left corporate cities, small religious communities, independent clinics, and several dwarven and android repair collectives.
+**Tavran Brace** is a major dwarven clanholding and structural works spanning several of Crown Meridian’s oldest load-bearing frames.
 
-Halcyon maintains older equipment and fewer reserves than the major cities. Its residents compensate through aggressive maintenance, shared training, and redundant manual controls.
+Clan Tavran preserves inspection and repair records reaching into the pre-PES settlement period. Its engineers are known for refusing to approve work they cannot inspect fully.
 
-The Free Envelope League presents Halcyon as proof that independent habitation is viable. The Continuity Coalition describes it as a city surviving through exemptions, donated components, and emergency support supplied by the system it condemns.
+The holding provides housing, legal support, training, emergency shelter, and medical assistance to clan members and affiliated workers.
 
-Both claims are accurate.
+Its current refusal to sign a major craft warrant has become a planetary political dispute.
 
-### The Cast-Offs
+### Skinline Fourteen
 
-**The Cast-Offs** are a loose region of detached city sections, failed industrial structures, abandoned envelopes, salvage platforms, and memorial beacons occupying a regulated recovery band.
+**Skinline Fourteen** is a broad pressure-envelope maintenance zone on the underside of the city Gannet.
 
-Some structures are empty shells. Others contain sealed rooms, preserved records, equipment, and human remains. Salvage crews search them for pressure components, historic machinery, and proof relating to old liability disputes.
+Crews work between the breathable inner membrane and corrosion-resistant external skin. Access requires sealed equipment, chemical protection, tether lines, and continuous atmospheric monitoring.
 
-Commonwealth maps identify safe approach corridors. The actual debris field changes during every Passage.
+Much of the associated housing is classified as employment-adjacent because it lies inside the industrial pressure compartment.
 
-Several detached sections have been converted into workshops or informal housing. Their inhabitants argue that a structure capable of supporting life should not remain classified as wreckage merely because an insurer wrote it off.
+Residents can lose both employment and immediate habitation eligibility through the same administrative action.
 
-### The Hardened Solar Array
+### Osprey
 
-The **Hardened Solar Array** occupies high orbit and supplies power to the Way Station, beam-transfer networks, and several major cities.
+**Osprey** is a semi-independent aerostat governed through an elected Envelope Council, resident cooperative, and worker-owned maintenance authority.
 
-Its collectors reorient continuously in response to the Alpha Leonis system’s complex stellar geometry. Surge breakers isolate portions of the array during sudden exposure changes. Repair drones handle routine work, while suited crews inspect damaged hinges, power buses, thermal systems, and beam-control assemblies.
+It purchases relay service, medical supplies, and specialized parts from Erbium while retaining local control of housing and life support.
 
-The array is officially owned by a consortium. Erbium controls the largest voting interest, the beam-certification software, and the contracts governing replacement components.
+Its survival is regularly cited by the Free Altitude League as evidence that municipal control is technically viable.
+
+Osprey’s stabilizers were produced by a manufacturer that no longer sells directly to cooperatives.
+
+### The Castoff Field
+
+**The Castoff Field** is a drifting region of separated compartments, failed lift cells, abandoned freight assemblies, rescue platforms, and salvage yards occupying a relatively predictable lower-atmosphere current.
+
+Some structures were evacuated before detachment. Others remain memorial sites.
+
+Salvagers operate from pressure vessels, tethered platforms, and mobile lift cells while city governments, insurers, former residents, and Erbium creditors dispute ownership of surviving property.
+
+### Heliostat Bastion
+
+**Heliostat Bastion** is the hardened orbital solar array supporting Theosis.
+
+Its photovoltaic fields, storage systems, and transmission equipment are designed to survive changing stellar conditions. The installation provides emergency power, charges orbital reserves, supports the Way Station, and supplements city generation during Shredder preparations.
+
+Radiation crews work among replacement panels from dozens of production generations.
 
 ### Theosis Way Station
 
-**Theosis Way Station** is the planet’s principal orbital arrival, repair, refueling, relay, and transfer facility.
+**Theosis Way Station** is the principal orbital repair, refueling, communications, and atmospheric-transfer facility.
 
-The station handles rapid passenger turnover, atmospheric tender scheduling, communications traffic, refined fuel storage, and equipment inspection. Its crew maintains the specialized craft that connect orbital traffic to the buoyant cities.
+Rotating habitation sections support approximately five hundred permanent personnel and several times that number during traffic surges. Descent craft, cargo modules, fuel reservoirs, repair gantries, and relay equipment surround its central structure.
 
-During the Shredder Passage, the station fills with delayed passengers, suspended freight, emergency crews, and vessels denied descent clearance. Prices increase. Public concourses become temporary sleeping areas. Corporate lounges remain restricted to eligible accounts.
-
-The station’s official slogan is:
-
-> **The last stop before the sky begins.**
+During the Shredder Passage, stranded travelers can remain aboard long enough for temporary lodging and cargo-storage fees to exceed the price of their original passage.
 
 # Recent Events
 
-A pressure-envelope manufacturer called **Helix Atmospheric Materials** has admitted that several certified membrane batches were tested using abbreviated fatigue cycles. The company states that the discrepancy does not demonstrate immediate danger. Three major cities and dozens of smaller aerostats contain the affected material.
+At `29:07844206 PES`, an independent laboratory reported that several pressure membranes manufactured by Asterline Envelope Systems were aging faster than their certified fatigue models predicted.
 
-Crown Meridian altered altitude earlier than scheduled during the most recent Shredder preparation. The Atmospheric Coordination Board states that the maneuver prevented a dangerous interaction between two storm layers. Halberd City claims the movement redirected severe shear toward its lower districts and damaged Skinline Twelve.
+Asterline disputes the testing methodology. The Directorate has ordered targeted inspections while resisting demands for a general evacuation that would displace more than forty million residents.
 
-Engineers at Tavran Span have refused to sign the final craft warrant for the **Sixth Buttress Renewal**, a major structural replacement supporting Morrowlift. The operating company says the remaining defects fall within legal tolerance. The clan engineers insist that the tolerance model assumes replacement materials management already removed from the project.
+Tavran Brace has refused to sign a new craft warrant covering emergency repairs in Crown Meridian. Its engineers state that the proposed work can temporarily stabilize the frame but cannot support the service duration listed in the contract.
 
-A strike involving sanitation, cargo, and filtration workers in Brass Underdeck triggered a review of their pressure-rated housing eligibility. The city government suspended removals during mediation. Crown Meridian’s housing operator argues that the suspension forces it to maintain occupied units without receiving contractually assigned labor or payment.
+Erbium procurement authorities argue that refusing the warrant delays work essential to the capital’s safety.
 
-The Common Breath Initiative has introduced a Commonwealth amendment recognizing minimum breathable habitation as a civic entitlement. The proposal would create a public fund financed through docking, insurance, and high-band allocation fees. Erbium-affiliated insurers warn that the plan could make Theosis uninsurable.
+A work stoppage in the Keelworks has triggered habitation-eligibility reviews for thousands of employees and dependents. The Directorate has suspended immediate removals while maintaining that it cannot permanently allocate certified pressure volume to residents whose sponsor no longer contributes to city services.
 
-The Hardened Solar Array has reported persistent discrepancies between generated power, transferred power, and billed consumption. The difference is small relative to total output and large enough to sustain a minor aerostat. Consortium auditors blame beam loss and instrument drift.
+The Breath Commons has introduced a measure declaring breathable residential volume an essential civic utility. The Board Continuity Caucus supports a narrower emergency guarantee and argues that universal access without expansion controls could exceed evacuation capacity.
 
-A detached district designated **Cast-Off Structure 26-Black** has restored propulsion, stabilized its pressure cells, and rejected Commonwealth recovery authority. Its residents call the settlement **Severance**. They claim their former city abandoned them during the last Passage and forfeited all ownership rights.
+Heliostat Bastion is transmitting less power than its generation systems record. Array operators blame transmission loss and aging storage equipment. Erbium auditors believe that power is being diverted before reaching the planetary grid.
+
+A separated habitation block called **Cinder Six** has transmitted evidence that several hundred residents survived its detachment during a late-Lapse-28 Shredder event.
+
+Cinder Six refuses reconnection until the Directorate recognizes its local government, cancels inherited service debt, and guarantees that its residents will not be detained for unauthorized use of emergency systems.
+
+Crown Meridian describes the transmission as encouraging and insufficiently verified.
+
+The Code Reform Delegation has introduced an intersystem proposal to convert Erbium’s Infrastructure Stewardship Seat into a nonvoting technical office.
+
+Several governments support the proposal privately. None has agreed to sponsor it publicly without a guaranteed alternative source of relay maintenance and refined erbium.
 
 > [!danger] GM Information
-> Helix Atmospheric Materials did falsify portions of its fatigue model, though the immediate cause was a supply crisis rather than an order to conceal a universally defective product. The certified membrane remains safe under its original operating conditions. Several cities later increased internal mass and reduced stabilizer maintenance without updating their load profiles. Replacing every affected section at once would require grounding or evacuating cities that have nowhere else to place their residents.
+> Asterline’s fatigue projections were falsified. The deception began within Asterline rather than Erbium, but Erbium procurement analysts identified impossible confidence levels several local years ago. They recommended gradual replacement instead of disclosure because the Settled Systems lacks enough certified membrane production to replace every affected envelope.
 >
-> Crown Meridian’s early altitude change protected an Erbium archive complex and the Commonwealth’s primary stamp authority from a storm interaction the public model did not include. The maneuver also prevented a pressure cascade that could have killed millions. Officials concealed the full model because revealing the protected infrastructure would show that lower cities were knowingly assigned the remaining risk.
+> Crown Meridian’s last pre-Shredder altitude change protected Palladium Reach and displaced a hazardous shear boundary toward the Keelworks, Gannet, and several small aerostats. The Common Altitude Board approved the move using a model that excluded Osprey, undocumented salvage habitats, and Cinder Six. The model complied with current law because those structures lacked full atmospheric recognition.
 >
-> Tavran inspectors discovered that the Sixth Buttress project’s original material-denial records differ from the certified copies held by the operator. The missing materials were diverted to reinforce a private Ascendant Quarter expansion before the last Passage. The engineer who authorized the transfer now serves on the Commonwealth committee investigating craft-warrant reform.
+> The missing Heliostat power is keeping Cinder Six alive. Osprey technicians established the diversion after detecting the district’s distress signal. Restoring the power to the public grid would end current rationing in several cities and cause Cinder Six’s pressure and stabilization systems to fail within a few thousand minutes.
 >
-> The power missing from the Hardened Solar Array is being routed to Severance through a concealed relay established by sympathetic array technicians. Severance contains several thousand people, an independent stamp archive, and original records from the Meridian Separation. Those records show that rescue priority was altered to protect insured corporate property after the district was detached.
+> Cinder Six possesses independent records showing that a Crown Meridian administrator altered the stamped service duration attached to Tavran Brace’s previous craft warrant. The change allowed an obsolete structural coupling to remain operational and contributed to the district’s separation.
 >
-> Severance cannot remain stable indefinitely. Its propulsion is degrading, and its residents have stripped nearby wrecks of components needed by Commonwealth recovery teams. Recognizing it as an independent city could establish a legal path for other detached districts to claim autonomy. Recovering it by force may destroy the records and kill people whom the Commonwealth already abandoned once.
+> The responsible administrator did not alter the record for personal profit. They believed closing the structure for full repair would have delayed a strategic relay expansion during a treaty crisis and expected the temporary coupling to survive until replacement.
 >
-> The Common Breath Initiative can finance its housing proposal only if the Commonwealth obtains public access to privately controlled pressure systems and maintenance data. Erbium will negotiate. Its price will be a permanent contractual role in the public authority created to reduce dependence upon it.
+> The relevant Erbium insurance division has insured Crown Meridian’s surviving central frame for less than the debt secured against the complete city. A large separation event would allow creditors to preserve the most valuable upper districts while writing off several lower compartments as operational losses.
+>
+> The first Theosis continuity platform was prepared before Wander’s public evacuation began. Its classified manifest includes Erbium executives, technical specialists, legal archives, strategic reserves, and family members who were never listed among ordinary continuity personnel.
+>
+> The manifest does not prove that Erbium knew the exact timing of Wander’s collapse. It proves that the company prepared a replacement home for itself before warning the public that one might be necessary.
+>
+> The next Shredder Passage will begin before sufficient replacement membrane can arrive. Releasing every defect could trigger unauthorized evacuation attempts, overwhelm orbital transport, and cause cities to move without coordinated planning. Concealing the defects preserves order while leaving millions inside structures that may not survive the passage.

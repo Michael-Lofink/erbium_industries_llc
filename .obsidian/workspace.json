@@ -15,7 +15,7 @@
               "state": {
                 "file": "Worldbuilding/Notable Locations/Theosis.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Theosis"
@@ -222,12 +222,14 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
-    "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/Notable Locations/Wander.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
     "Resources/The_Settled_Systems_and_Beyond-Starmap_v02.json",
     "PDFExports/Ancestries/Moyishuu_errata1.pdf",
@@ -252,7 +254,6 @@
     "PDFExports/Ancestries/Vesk.pdf",
     "PDFExports/Ancestries/Moyishuu.pdf",
     "PDFExports/Ancestries/Madrosarai.pdf",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
     "PDFExports/Ancestries/Lashunta.pdf",
     "PDFExports/Ancestries/Human.pdf",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
@@ -266,7 +267,6 @@
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md"
   ]
 }
