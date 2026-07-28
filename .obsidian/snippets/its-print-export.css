@@ -1,0 +1,401 @@
+/*
+  ITS Theme — screen-faithful PDF export
+  Save as: .obsidian/snippets/its-print-export.css
+
+  Recommended Obsidian PDF settings:
+  - Page size: Letter
+  - Orientation: Portrait
+  - Margins: None
+  - Scale: 100%
+*/
+
+@page {
+  size: Letter portrait;
+  margin: 0;
+}
+
+@media print {
+  /* Preserve backgrounds, borders, gradients, and theme colors. */
+  :root,
+  html,
+  body,
+  .print,
+  .print .markdown-preview-view,
+  .print .markdown-rendered {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /*
+    Obsidian currently builds PDF exports on a light print root.
+    This remaps that root onto ITS Theme's dark variable system.
+    Style Settings values applied directly to these variables can
+    still override these defaults.
+  */
+  body,
+  body.theme-light {
+    color-scheme: dark;
+
+    /* ITS dark palette */
+    --deep-dark-accent: #3f1010;
+    --dark-accent: #652121;
+    --lite-accent: #c94d4d;
+    --accent: #863737;
+    --accent2: #42536e;
+    --accent2-lite: #61afef;
+    --accent-color: 134, 55, 55;
+
+    --outer-bar: #0b0f13;
+    --dark-sidebar: #0d1014;
+    --side-bar: var(--note);
+    --side-bar-bg: var(--outer-bar);
+
+    --note: #1a1e24;
+    --note-rgb: 26, 30, 36;
+    --text: #bccad8;
+    --headers: #c14343;
+    --soft-text: #97a1b9;
+    --faint-text: #4e5b6f;
+
+    --bg: #252c36;
+    --fg: #cfd7dd;
+    --inactive: #586477;
+    --outline: var(--outer-bar);
+    --lines: var(--hr);
+
+    --code-text: #fa4545;
+    --code-bg: #232831;
+    --embed-bg: var(--dark-sidebar);
+    --aside-bg: #11151d;
+
+    --th: var(--dark-accent);
+    --th-text: #e5ebee;
+    --td: #06080c60;
+    --table: #283345;
+    --hr: #2f3b4d;
+
+    --tag: var(--dark-accent);
+    --tag-text: #d04e4e;
+    --footnote: #63778f;
+    --drop-shadow: #06080c60;
+
+    --hvr: rgba(168, 60, 60, 0.4);
+    --hvr-active: rgba(212, 47, 47, 0.4);
+    --highlight: #7a141466;
+    --success-bg: #32603e;
+    --failure-bg: #772d2d;
+
+    /* Obsidian aliases driven by the ITS variables above */
+    --background-primary: var(--note);
+    --background-primary-alt: var(--outer-bar);
+    --background-secondary: var(--side-bar);
+    --background-secondary-alt: var(--outer-bar);
+    --background-modifier-form-field: rgba(0, 0, 0, 0.3);
+    --background-modifier-message: var(--dark-accent);
+    --background-modifier-border: var(--lines);
+    --background-modifier-border-hover: var(--bg);
+    --background-modifier-border-focus: var(--accent);
+    --background-modifier-hover: var(--hvr-active);
+    --background-modifier-success: var(--success-bg);
+    --background-modifier-error: var(--failure-bg);
+
+    --text-normal: var(--text);
+    --text-muted: var(--soft-text);
+    --text-faint: var(--faint-text);
+    --text-accent: var(--accent2-lite);
+    --text-accent-hover: var(--lite-accent);
+    --text-highlight-bg: var(--hvr);
+    --text-highlight-bg-active: var(--hvr-active);
+    --text-selection: var(--highlight);
+
+    --interactive-normal: var(--code-bg);
+    --interactive-hover: var(--embed-bg);
+    --interactive-accent: var(--dark-accent);
+    --interactive-accent-hover: var(--bg);
+
+    --h1-color: var(--headers);
+    --h2-color: var(--headers);
+    --h3-color: var(--headers);
+    --h4-color: var(--headers);
+    --h5-color: var(--headers);
+    --h6-color: var(--headers);
+    --inline-title-color: var(--headers);
+
+    --link-color: var(--accent2-lite);
+    --link-color-hover: var(--lite-accent);
+    --link-external-color: var(--accent2-lite);
+    --link-external-color-hover: var(--lite-accent);
+    --link-unresolved-color: var(--soft-text);
+
+    --code-background: var(--code-bg);
+    --code-normal: var(--code-text);
+    --hr-color: var(--hr);
+    --blockquote-border-color: var(--accent);
+    --blockquote-background-color: var(--aside-bg);
+
+    --table-border-color: var(--table);
+    --table-header-border-color: var(--table);
+    --table-header-background: var(--th);
+    --table-header-color: var(--th-text);
+    --table-row-alt-background: var(--td);
+
+    --tag-background: var(--tag);
+    --tag-color: var(--tag-text);
+
+    --file-line-width: 100%;
+    --line-width: 100%;
+    --content-width: 100%;
+  }
+
+  /* Full-page dark background. */
+  html,
+  body,
+  .print {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: var(--note) !important;
+    color: var(--text) !important;
+  }
+
+  body {
+    box-shadow: 0 0 0 100vmax var(--note) !important;
+  }
+
+  /*
+    @page uses zero margin so the dark background reaches every edge.
+    box-decoration-break repeats this internal padding on each PDF page.
+  */
+  .print .markdown-preview-view,
+  .print .markdown-rendered {
+    box-sizing: border-box !important;
+    width: 100% !important;
+    max-width: none !important;
+    min-height: 100vh !important;
+    margin: 0 !important;
+    padding: 0.48in 0.54in 0.56in !important;
+    overflow: visible !important;
+    background: var(--note) !important;
+    color: var(--text) !important;
+    font-family: var(
+      --default-font,
+      var(--font-text-theme, var(--font-text, sans-serif))
+    ) !important;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+
+  .print .markdown-preview-sizer,
+  .print .markdown-preview-section {
+    box-sizing: border-box !important;
+    width: 100% !important;
+    max-width: none !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Remove editor and interaction controls from the PDF. */
+  .print .markdown-preview-pusher,
+  .print .view-header,
+  .print .mod-header,
+  .print .workspace-leaf-resize-handle,
+  .print .edit-block-button,
+  .print .copy-code-button,
+  .print .heading-collapse-indicator,
+  .print .collapse-indicator,
+  .print .callout-fold,
+  .print .markdown-embed-link,
+  .print .metadata-add-button,
+  .print button.clickable-icon {
+    display: none !important;
+  }
+
+  /* Typography and pagination. */
+  .print :is(h1, h2, h3, h4, h5, h6),
+  .print .inline-title {
+    break-after: avoid-page;
+    page-break-after: avoid;
+    break-inside: avoid-page;
+    page-break-inside: avoid;
+  }
+
+  .print p,
+  .print li,
+  .print blockquote {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .print hr {
+    break-after: avoid-page;
+    page-break-after: avoid;
+  }
+
+  /* Preserve ITS callouts, columns, cards, quotes, and infoboxes. */
+  .print .callout {
+    overflow: visible !important;
+    break-inside: avoid-page;
+    page-break-inside: avoid;
+  }
+
+  .print .callout-content {
+    overflow: visible !important;
+    max-height: none !important;
+  }
+
+  .print .callout:is([data-callout*="cards"], [data-callout*="column"])
+    > .callout-content {
+    display: grid !important;
+  }
+
+  .print
+    .callout:is([data-callout*="column"][data-callout-metadata*="flex"])
+    > .callout-content {
+    display: flex !important;
+  }
+
+  .print .callout[data-callout~="infobox"] {
+    max-width: min(42%, 3.6in) !important;
+  }
+
+  /* Tables and Dataview tables. */
+  .print table,
+  .print .dataview.table-view-table {
+    width: 100% !important;
+    max-width: 100% !important;
+    border-collapse: collapse !important;
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .print thead {
+    display: table-header-group;
+  }
+
+  .print tfoot {
+    display: table-footer-group;
+  }
+
+  .print tr,
+  .print th,
+  .print td {
+    break-inside: avoid-page;
+    page-break-inside: avoid;
+    overflow-wrap: anywhere;
+  }
+
+  /* Code blocks remain readable and can split across pages when needed. */
+  .print pre {
+    max-width: 100% !important;
+    overflow: visible !important;
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere !important;
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .print pre code {
+    white-space: inherit !important;
+  }
+
+  /* Images, SVGs, canvases, and captions. */
+  .print img,
+  .print svg,
+  .print canvas,
+  .print figure,
+  .print .image-embed {
+    max-width: 100% !important;
+    height: auto !important;
+    break-inside: avoid-page;
+    page-break-inside: avoid;
+  }
+
+  /* Preserve common ITS image-position flags. */
+  .print img[src$="#center"],
+  .print .image-embed[src$="#center"] {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .print img[src$="#left"],
+  .print .image-embed[src$="#left"] {
+    display: block !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+  }
+
+  .print img[src$="#right"],
+  .print .image-embed[src$="#right"] {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: 0 !important;
+  }
+
+  .print img[src$="#wrapright"],
+  .print .image-embed[src$="#wrapright"],
+  .print .image-embed[alt*="wrapright"] {
+    float: right !important;
+    clear: right !important;
+    width: auto !important;
+    max-width: min(42%, 3.25in) !important;
+    margin: 0.08in 0 0.18in 0.25in !important;
+  }
+
+  .print img[src$="#wrapleft"],
+  .print .image-embed[src$="#wrapleft"],
+  .print .image-embed[alt*="wrapleft"] {
+    float: left !important;
+    clear: left !important;
+    width: auto !important;
+    max-width: min(42%, 3.25in) !important;
+    margin: 0.08in 0.25in 0.18in 0 !important;
+  }
+
+  /* Embedded notes should expand fully. */
+  .print .markdown-embed,
+  .print .markdown-embed-content,
+  .print .internal-embed {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  /* Keep link colors without appending raw URLs or external-link icons. */
+  .print a,
+  .print .internal-link,
+  .print .external-link {
+    color: var(--text-accent) !important;
+  }
+
+  .print a[href]::after {
+    content: none !important;
+  }
+
+  .print .external-link {
+    padding-right: 0 !important;
+    background-image: none !important;
+  }
+
+  /* Properties remain visible and stay together where possible. */
+  .print .metadata-container {
+    break-inside: avoid-page;
+    page-break-inside: avoid;
+  }
+
+  /* Optional manual page break: <div class="print-page-break"></div> */
+  .print .print-page-break {
+    display: block !important;
+    height: 0 !important;
+    break-before: page;
+    page-break-before: always;
+  }
+
+  /*
+    Optional: hide Properties in exported PDFs.
+    Uncomment the next rule when desired.
+
+    .print .metadata-container {
+      display: none !important;
+    }
+  */
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+                "file": "Worldbuilding/Notable Locations/Theosis.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Android"
+              "title": "Theosis"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+                "file": "Worldbuilding/Notable Locations/Theosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Android"
+              "title": "Backlinks for Theosis"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+                "file": "Worldbuilding/Notable Locations/Theosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Android"
+              "title": "Outgoing links from Theosis"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+                "file": "Worldbuilding/Notable Locations/Theosis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Android"
+              "title": "Outline of Theosis"
             }
           },
           {
@@ -222,51 +222,51 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "PDFExports/Ancestries/Android.pdf",
-    "PDFExports/Ancestries",
-    "PDFExports",
-    "PdfExports/Ancestries",
-    "PdfExports",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
-    "Resources/plane_Drift.png",
-    "Resources/planet_Zakaron.png",
-    "Resources/ancestryPortrait_Moyishuu.png",
-    "Resources/ancestryPortrait_Vesk.png",
-    "Resources/ancestryPortrait_Madrosarai2.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
-    "Resources/ancestryPortrait_Madrosarai.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
-    "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
-    "Starfinder 2e Rules/Actions/Controlled Rage.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Heritages.md",
-    "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
-    "Resources/ancestryPortrait_Vesk2.png",
-    "Resources/Zakaron-System_v01.json",
-    "Resources/The_Settled_Systems_and_Beyond-Starmap_01.json",
-    "Resources/My_Starmap-Starmap.json",
-    "Resources/Ossuun-Fonqugon-Home-System_v01.json",
-    "Resources/Agrio-Dysis-System_v01.json",
-    "Resources/Velis-System_v01.json",
-    "Resources/ancestryPortrait_Lashunta.png",
+    "Worldbuilding/Notable Locations/Wander.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
+    "Resources/The_Settled_Systems_and_Beyond-Starmap_v02.json",
+    "PDFExports/Ancestries/Moyishuu_errata1.pdf",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
+    "Resources/Ancestry Lineup Erbium Industries.png",
+    "Resources/ancestryPortrait_Madrosarai.png",
+    "Resources/ancestryPortrait_Vesk.png",
+    "Resources/ancestryPortrait_Moyishuu.png",
+    "Resources/ancestryPortrait_Madrosarai2.png",
     "Resources/ancestryPortrait_Lashunta3.png",
-    "Resources/ancestryPortrait_Lashunta2.png"
+    "Resources/ancestryPortrait_Human2.png",
+    "Resources/ancestryPortrait_Fonqugon.png",
+    "Resources/ancestryPortrait_Human.png",
+    "Resources/ancestryPortrait_Lashunta.png",
+    "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
+    "Starfinder 2e Rules/Actions/Pardon Me.md",
+    "Starfinder 2e Rules/Actions/Empathic Assistance.md",
+    "Starfinder 2e Rules/Actions/Controlled Rage.md",
+    "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
+    "Starfinder 2e Rules/Conditions/Unconscious.md",
+    "Starfinder 2e Rules/Conditions/Fatigued.md",
+    "PDFExports/Ancestries/Vesk.pdf",
+    "PDFExports/Ancestries/Moyishuu.pdf",
+    "PDFExports/Ancestries/Madrosarai.pdf",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
+    "PDFExports/Ancestries/Lashunta.pdf",
+    "PDFExports/Ancestries/Human.pdf",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+    "PDFExports/Ancestries/Fonqugon.pdf",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
+    "PDFExports/Ancestries/Dwarf.pdf",
+    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+    "PDFExports/Ancestries/Brenneri.pdf",
+    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md"
   ]
 }
