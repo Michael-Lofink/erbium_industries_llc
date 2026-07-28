@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Theosis.md",
+                "file": "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theosis"
+              "title": "Agrio Dysis IV"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Theosis.md",
+                "file": "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Theosis"
+              "title": "Backlinks for Agrio Dysis IV"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Theosis.md",
+                "file": "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Theosis"
+              "title": "Outgoing links from Agrio Dysis IV"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Theosis.md",
+                "file": "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Theosis"
+              "title": "Outline of Agrio Dysis IV"
             }
           },
           {
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,13 +222,16 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
+    "Resources/planet_AgrioDysisIV.png",
+    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
+    "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
+    "Resources/planet_Theosis.png",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Worldbuilding/Notable Locations/Theosis.md",
-    "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
     "Resources/The_Settled_Systems_and_Beyond-Starmap_v02.json",
@@ -242,8 +245,6 @@
     "Resources/ancestryPortrait_Lashunta3.png",
     "Resources/ancestryPortrait_Human2.png",
     "Resources/ancestryPortrait_Fonqugon.png",
-    "Resources/ancestryPortrait_Human.png",
-    "Resources/ancestryPortrait_Lashunta.png",
     "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
     "Starfinder 2e Rules/Actions/Pardon Me.md",
     "Starfinder 2e Rules/Actions/Empathic Assistance.md",
@@ -265,8 +266,6 @@
     "PDFExports/Ancestries/Brenneri.pdf",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages.md"
+    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md"
   ]
 }
