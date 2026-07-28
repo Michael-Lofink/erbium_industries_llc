@@ -16,9 +16,6 @@ tags:
   - military-industry
   - major-hub
 ---
-
-# Zakaron
-
 > [!summary]
 > **Zakaron**, called **the Inverted Arsenal**, is the ancestral world of the [[Madrosarai]] and [[Vesk]]. Ancient internal wars stripped its atmosphere, fractured its mantle, and forced its surviving peoples to rebuild civilization along the inside of the planetary crust. Today, the inner-shell megacity of **Kharosai** surrounds a technologically stabilized core called the **Sunlock**. Artificial gravity holds residents against the inner surface while the illuminated districts on the opposite side of the world hang visibly overhead.
 >
@@ -101,6 +98,8 @@ Together, these offices form the **Paired Mandate**. Both must authorize declara
 
 During stable periods, the two assemblies dominate policy. During war or infrastructure crisis, the Kharduun and Saivara can acquire broad practical authority. A coordinated Paired Mandate can control nearly every major institution on Zakaron. An openly hostile pair can paralyze the government while each side claims the other has endangered the planet.
 
+Zakaron also holds a permanent voting seat on the [[Settled Systems Code Council]], the intersystem body responsible for drafting, adopting, and amending the [[Settled Systems Administrative Code]]. The Concord’s delegation is jointly appointed by the Assembly of Holds and the Conclave of Veils. A formal vote from the Zakaron seat requires authorization from both chambers, making its delegation influential when the Concord is united and conspicuously silent when the two assemblies cannot agree.
+
 ## Holds and Blood-Clans
 
 Vesk holds and Madrosarai blood-clans remain distinct institutions, though daily life throughout Kharosai is thoroughly integrated. Military units, factories, neighborhoods, universities, criminal organizations, medical systems, and commercial firms commonly include both ancestries.
@@ -138,6 +137,10 @@ The Accords preserved Zakaron’s internal government, domestic military, indust
 The effective stamp of the Accords became `0:00000000 PES`. Erbium Industries presented the new universal time standard as the first shared administrative structure capable of ending intersystem war and maintaining a stable peace.
 
 For Zakaron, the beginning of PES also records the stamp at which its expansion stopped.
+
+The Accords also guaranteed Zakaron its permanent seat on the Settled Systems Code Council. The other signatories wanted the Concord bound by shared intersystem law but could not credibly demand compliance while excluding one of the largest sovereign powers from writing that law. Erbium Industries administers much of the technical infrastructure through which the Code is recorded, distributed, and enforced, but it does not formally possess unilateral authority to enact new provisions.
+
+Zakaron has used its seat to resist restrictions on cybernetics, military production, classified research, and sovereign infrastructure. Its delegates have also supported severe identity, security, and emergency provisions when those rules serve Concord interests. Zakaron’s opposition to Erbium therefore does not consistently translate into opposition to coercive law.
 
 Erbium Industries possesses no chartered authority over Kharosai’s public utilities, mines, factories, gravity systems, or Sunlock infrastructure. Corporate representatives conduct most official business through orbital treaty facilities, licensed trade missions, and Zakaron-controlled intermediaries.
 

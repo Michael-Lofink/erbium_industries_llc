@@ -22,9 +22,6 @@ tags:
   - human
   - corporate-dependency
 ---
-
-# Agrio Dysis IV
-
 > [!summary]
 > **Agrio Dysis IV**, called **the Borrowed Horizon**, is a broadly habitable refuge world near the established frontier. Its largest settled region, **the Low Plane**, is an immense sunken basin of dry grasslands, seasonal rivers, engineered pasture, cattle towns, rail depots, flood works, and scattered communities built around dependable wells.
 >
@@ -67,31 +64,19 @@ The Erbium emblem appears on the cleanest objects: title terminals, leased pumps
 
 Agrio Dysis IV orbits the mature yellow-orange star called the **Agrio Dysis Primary** at approximately 0.82 astronomical units. The system is around 5.8 billion standard years old, and the primary’s comparatively steady output helped native life develop across much of the planet before interstellar settlement began.
 
-The planet has a radius of approximately 6,435 kilometers and a mass of approximately 5.733 × 10^24 kilograms. Surface gravity is close enough to the human standard that most settlers require little physical adaptation. A magnetic field of approximately 0.44 gauss provides substantial protection from stellar radiation.
+The planet has a radius of approximately 6,435 kilometers and a mass of approximately 5.733 × 10^24 kilograms. Surface gravity is close enough to the human standard that most settlers require little physical adaptation. A magnetic field of approximately 0.44 gauss provides substantial protection from stellar radiation. Its atmosphere is breathable, with approximately 77.2 percent nitrogen, 21.3 percent oxygen, 1.1 percent argon, and elevated but manageable carbon dioxide. Atmospheric pressure averages approximately 1.03 bar.
 
-Its atmosphere is breathable, with approximately 77.2 percent nitrogen, 21.3 percent oxygen, 1.1 percent argon, and elevated but manageable carbon dioxide. Atmospheric pressure averages approximately 1.03 bar.
+Water vapor makes up only a small fraction of the air. The result is a world where breathing is easy and remaining hydrated is not. Liquid water covers approximately 29 percent of the surface. Most of it occupies shallow seas, deep regional lakes, coastal shelves, mountain reservoirs, and several enclosed ocean basins. The average mapped depth is modest by planetary standards, though individual trenches and rift lakes extend much farther.
 
-Water vapor makes up only a small fraction of the air. The result is a world where breathing is easy and remaining hydrated is not.
-
-Liquid water covers approximately 29 percent of the surface. Most of it occupies shallow seas, deep regional lakes, coastal shelves, mountain reservoirs, and several enclosed ocean basins. The average mapped depth is modest by planetary standards, though individual trenches and rift lakes extend much farther.
-
-Agrio Dysis IV possessed a complex water-carbon biosphere before settlement. Native microbial communities, fungi, plants, and animals occupy nearly half the habitable surface. Terraforming altered atmospheric circulation, soil chemistry, regional moisture, and the distribution of life. It did not make an empty world habitable.
-
-The world was already alive.
-
-Settlement authorities instead made particular regions easier for imported people, livestock, and crops to use.
+Agrio Dysis IV possessed a complex water-carbon biosphere before settlement. Native microbial communities, fungi, plants, and animals occupy nearly half the habitable surface. Terraforming altered atmospheric circulation, soil chemistry, regional moisture, and the distribution of life. It did not make an empty world habitable because the world was already alive. Settlement authorities instead made particular regions easier for imported people, livestock, and crops to use.
 
 ## The Low Plane
 
 The Low Plane occupies the interior of an ancient continental rift system.
 
-Hundreds of millions of years of extension thinned the crust and caused a broad section of the continent to sink between broken mountain blocks. Later volcanic activity, sediment accumulation, and fluctuating inland seas filled portions of the depression without eliminating its low elevation.
+Hundreds of millions of years of extension thinned the crust and caused a broad section of the continent to sink between broken mountain blocks. Later volcanic activity, sediment accumulation, and fluctuating inland seas filled portions of the depression without eliminating its low elevation. The basin floor now lies between several hundred meters and nearly two kilometers below the surrounding uplands. Mountain ranges restrict drainage and intercept much of the moisture arriving from the coasts. Water that reaches the basin often follows a small number of deeply incised rivers or disappears into porous sediment and fractured bedrock.
 
-The basin floor now lies between several hundred meters and nearly two kilometers below the surrounding uplands. Mountain ranges restrict drainage and intercept much of the moisture arriving from the coasts. Water that reaches the basin often follows a small number of deeply incised rivers or disappears into porous sediment and fractured bedrock.
-
-The same geology created the basin’s valuable aquifers.
-
-Ancient river deposits, porous volcanic layers, buried shorelines, and fractured stone hold immense quantities of groundwater. Some aquifers recharge quickly through mountain runoff. Others contain water deposited long before settlement and replenish only across many local generations.
+The same geology created the basin’s valuable aquifers. Ancient river deposits, porous volcanic layers, buried shorelines, and fractured stone hold immense quantities of groundwater. Some aquifers recharge quickly through mountain runoff. Others contain water deposited long before settlement and replenish only across many local generations.
 
 The Low Plane contains several distinct landscapes.
 
@@ -105,9 +90,7 @@ The **Southwash** consists of wide alluvial fans and shifting seasonal rivers de
 
 The **Eastern Scrub** contains large areas of native vegetation, deep-rooted plant communities, and protected recharge zones. Ranching associations have repeatedly petitioned to open portions of it for grazing.
 
-The Low Plane is hot during much of the local year. Dry-season winds lift dust from exposed channels and grazing lands. Moist air from the western seas can cross the Bluebreak Range during particular stellar and seasonal alignments, producing violent storm fronts and heavy rain over narrow sections of the basin.
-
-A town can receive little precipitation for several local years and then experience a season’s expected rainfall within a few hundred minutes.
+The Low Plane is hot during much of the local year. Dry-season winds lift dust from exposed channels and grazing lands. Moist air from the western seas can cross the Bluebreak Range during particular stellar and seasonal alignments, producing violent storm fronts and heavy rain over narrow sections of the basin. A town can receive little precipitation for several local years and then experience a season’s expected rainfall within a few hundred minutes.
 
 ## Regions Beyond the Low Plane
 

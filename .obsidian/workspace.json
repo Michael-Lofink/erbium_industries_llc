@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
-                "mode": "source",
+                "file": "Worldbuilding/Notable Locations/Zakaron.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agrio Dysis IV"
+              "title": "Zakaron"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+                "file": "Worldbuilding/Notable Locations/Zakaron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Agrio Dysis IV"
+              "title": "Backlinks for Zakaron"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+                "file": "Worldbuilding/Notable Locations/Zakaron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Agrio Dysis IV"
+              "title": "Outgoing links from Zakaron"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+                "file": "Worldbuilding/Notable Locations/Zakaron.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Agrio Dysis IV"
+              "title": "Outline of Zakaron"
             }
           },
           {
@@ -222,11 +222,16 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Resources/planet_AgrioDysisIV.png",
-    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+    "PDFExports/Locations/Zakaron.pdf",
     "Worldbuilding/Notable Locations/Theosis.md",
-    "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
+    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+    "PDFExports/Locations/Theosis.pdf",
+    "PDFExports/Locations/output.pdf",
+    "PDFExports/Locations/Agrio Dysis IV.pdf",
+    "PDFExports/Locations",
+    "Resources/planet_AgrioDysisIV.png",
+    "Worldbuilding/Notable Locations/Wander.md",
     "Resources/planet_Theosis.png",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
@@ -256,14 +261,10 @@
     "PDFExports/Ancestries/Moyishuu.pdf",
     "PDFExports/Ancestries/Madrosarai.pdf",
     "PDFExports/Ancestries/Lashunta.pdf",
-    "PDFExports/Ancestries/Human.pdf",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "PDFExports/Ancestries/Fonqugon.pdf",
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
-    "PDFExports/Ancestries/Dwarf.pdf",
     "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "PDFExports/Ancestries/Brenneri.pdf",
     "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
     "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md"

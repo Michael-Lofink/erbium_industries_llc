@@ -23,9 +23,6 @@ tags:
   - corporate-administration
   - major-hub
 ---
-
-# Theosis
-
 > [!summary]
 > **Theosis**, called **the Gilded Suspension**, is a captured sulfur world whose immense sealed cities remain suspended within a lethal sulfur-dioxide atmosphere. Breathable air provides much of their lift, while heated chambers, gravitic stabilizers, structural frames, pressure membranes, altitude engines, and continuous labor keep nearly two billion residents from descending into the clouds below.
 >
