@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Zakaron.md",
+                "file": "Worldbuilding/Notable Things/Void Calling.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Zakaron"
+              "title": "Void Calling"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Zakaron.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zakaron"
+              "title": "Backlinks for Fonqugon"
             }
           },
           {
@@ -113,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Zakaron.md",
+                "file": "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Zakaron"
+              "title": "Outgoing links from Fonqugon"
             }
           },
           {
@@ -156,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Zakaron.md",
+                "file": "Worldbuilding/Notable Things/Void Calling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zakaron"
+              "title": "Outline"
             }
           },
           {
@@ -222,51 +224,51 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "PDFExports/Locations/Zakaron.pdf",
+    "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
+    "Worldbuilding/Notable Things/Void Calling.md",
+    "Starfinder 2e Rules/Conditions/Stupefied.md",
+    "Starfinder 2e Rules/Traits/Virulent.md",
+    "Starfinder 2e Rules/Traits",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Resources/ancestryPortrait_Dwarf.png",
+    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
+    "PDFExports/Ancestries/Moyishuu Ancestry Feats.pdf",
+    "Starfinder 2e Rules/Actions/Controlled Rage.md",
+    "PDFExports/Notable Things/The Fall of Wander and the Rise of Erbium Industries.pdf",
+    "PDFExports/Notable Things",
+    "Worldbuilding/Untitled.md",
+    "Worldbuilding/Notable Things",
+    "Worldbuilding/Notable People",
+    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+    "Resources/Mystic Art's GM Advice Collection.txt",
     "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
-    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+    "Worldbuilding/Notable Locations/Wander.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
+    "Resources/Hub-World_Lineup.png",
+    "PDFExports/Locations/Zakaron.pdf",
     "PDFExports/Locations/Theosis.pdf",
     "PDFExports/Locations/output.pdf",
-    "PDFExports/Locations/Agrio Dysis IV.pdf",
-    "PDFExports/Locations",
     "Resources/planet_AgrioDysisIV.png",
-    "Worldbuilding/Notable Locations/Wander.md",
     "Resources/planet_Theosis.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
-    "Resources/The_Settled_Systems_and_Beyond-Starmap_v02.json",
-    "PDFExports/Ancestries/Moyishuu_errata1.pdf",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
     "Resources/Ancestry Lineup Erbium Industries.png",
     "Resources/ancestryPortrait_Madrosarai.png",
     "Resources/ancestryPortrait_Vesk.png",
     "Resources/ancestryPortrait_Moyishuu.png",
     "Resources/ancestryPortrait_Madrosarai2.png",
     "Resources/ancestryPortrait_Lashunta3.png",
-    "Resources/ancestryPortrait_Human2.png",
-    "Resources/ancestryPortrait_Fonqugon.png",
     "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
     "Starfinder 2e Rules/Actions/Pardon Me.md",
     "Starfinder 2e Rules/Actions/Empathic Assistance.md",
-    "Starfinder 2e Rules/Actions/Controlled Rage.md",
     "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
     "Starfinder 2e Rules/Conditions/Unconscious.md",
-    "Starfinder 2e Rules/Conditions/Fatigued.md",
-    "PDFExports/Ancestries/Vesk.pdf",
-    "PDFExports/Ancestries/Moyishuu.pdf",
-    "PDFExports/Ancestries/Madrosarai.pdf",
-    "PDFExports/Ancestries/Lashunta.pdf",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Android/Android.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages.md"
+    "Starfinder 2e Rules/Conditions/Fatigued.md"
   ]
 }

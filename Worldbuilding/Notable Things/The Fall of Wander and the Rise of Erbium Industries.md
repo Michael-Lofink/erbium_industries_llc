@@ -15,10 +15,8 @@ tags:
 status: draft
 ---
 
-# The Fall of Wander and the Rise of Erbium Industries
-
 > [!summary]
-> **The Star Dream** revealed the means of intersystem travel to the peoples who became known as **the Elect**. Wander possessed the erbium required to turn that revelation into functioning technology. The extraction of that resource destroyed Wander and allowed [[The Fall of Wander and the Rise of Erbium Industries]] to become the dominant corporate, political, and technological power of the [[Settled Systems]].
+> **The Star Dream** revealed the means of intersystem travel to the peoples who became known as **the Elect**. Wander possessed the erbium required to turn that revelation into functioning technology. The extraction of that resource destroyed Wander and allowed [[Erbium Industries LLC]] to become the dominant corporate, political, and technological power of the [[Settled Systems]].
 
 # Public Record
 

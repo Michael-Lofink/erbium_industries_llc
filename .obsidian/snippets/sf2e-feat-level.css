@@ -1,0 +1,93 @@
+/*
+SF2e feat-level labels
+
+Markdown:
+#### Ancestral Cantrip <small class=sf2e-level>Feat 1</small>
+*/
+
+/*
+Make the complete sf2e-stats block available as a width reference.
+*/
+.block-language-sf2e-stats {
+  container-type: inline-size;
+}
+
+/*
+Each qualifying heading receives the full width of its sf2e-stats block.
+*/
+.block-language-sf2e-stats h4:has(.sf2e-level) {
+  position: relative !important;
+  display: block !important;
+
+  width: 100cqi !important;
+  max-width: 100cqi !important;
+  inline-size: 100cqi !important;
+  max-inline-size: 100cqi !important;
+  box-sizing: border-box !important;
+
+  margin-inline: 0 !important;
+  padding-inline-end: 6rem !important;
+  text-align: left !important;
+
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+/*
+Position each level relative to its own heading.
+*/
+.block-language-sf2e-stats h4 .sf2e-level {
+  position: absolute !important;
+  inset-inline-end: 0 !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+
+  display: inline-block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+
+  color: inherit !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  line-height: inherit !important;
+
+  text-align: right !important;
+  text-transform: uppercase !important;
+  white-space: nowrap !important;
+}
+
+/* PDF export */
+@media print {
+  .block-language-sf2e-stats {
+    container-type: inline-size;
+
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .block-language-sf2e-stats h4:has(.sf2e-level) {
+    position: relative !important;
+    display: block !important;
+
+    width: 100cqi !important;
+    max-width: 100cqi !important;
+    inline-size: 100cqi !important;
+    max-inline-size: 100cqi !important;
+
+    box-sizing: border-box !important;
+    padding-inline-end: 6rem !important;
+
+    break-after: avoid-page !important;
+    page-break-after: avoid !important;
+  }
+
+  .block-language-sf2e-stats h4 .sf2e-level {
+    position: absolute !important;
+    inset-inline-end: 0 !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    white-space: nowrap !important;
+  }
+}
