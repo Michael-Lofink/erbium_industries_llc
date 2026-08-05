@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable Things/Void Calling.md",
+                "file": "Worldbuilding/Notable People/Hondue Last-Tether.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Void Calling"
+              "title": "Hondue Last-Tether"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Notable Things/Void Calling.md",
+                "file": "Worldbuilding/Notable People/Hondue Last-Tether.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,17 +224,28 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
+    "Resources/characterPortrait_Hondue.png",
+    "Worldbuilding/Notable People/Hondue Last-Tether.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
     "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
+    "PDFExports/Notable People/Hondue Last-Tether.pdf",
+    "PDFExports/Notable People",
+    "Worldbuilding/Notable Things/Sulfur-Rot.md",
     "Worldbuilding/Notable Things/Void Calling.md",
+    "Resources/planet_Theosis.png",
+    "Resources/planet_Zakaron.png",
+    "Resources/planet_AgrioDysisIV.png",
+    "Resources/Ancestry Lineup Erbium Industries.png",
+    "PDFExports/Notable Things/Sulfur-Rot.pdf",
+    "PDFExports/Notable Things/Void Calling.pdf",
     "Starfinder 2e Rules/Conditions/Stupefied.md",
     "Starfinder 2e Rules/Traits/Virulent.md",
     "Starfinder 2e Rules/Traits",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Resources/ancestryPortrait_Dwarf.png",
     "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
     "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
     "PDFExports/Ancestries/Moyishuu Ancestry Feats.pdf",
     "Starfinder 2e Rules/Actions/Controlled Rage.md",
@@ -244,31 +255,19 @@
     "Worldbuilding/Notable Things",
     "Worldbuilding/Notable People",
     "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
-    "Resources/Mystic Art's GM Advice Collection.txt",
     "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
     "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Resources/Hub-World_Lineup.png",
-    "PDFExports/Locations/Zakaron.pdf",
-    "PDFExports/Locations/Theosis.pdf",
-    "PDFExports/Locations/output.pdf",
-    "Resources/planet_AgrioDysisIV.png",
-    "Resources/planet_Theosis.png",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
     "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
     "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Resources/Ancestry Lineup Erbium Industries.png",
     "Resources/ancestryPortrait_Madrosarai.png",
     "Resources/ancestryPortrait_Vesk.png",
     "Resources/ancestryPortrait_Moyishuu.png",
-    "Resources/ancestryPortrait_Madrosarai2.png",
-    "Resources/ancestryPortrait_Lashunta3.png",
     "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
     "Starfinder 2e Rules/Actions/Pardon Me.md",
-    "Starfinder 2e Rules/Actions/Empathic Assistance.md",
-    "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
-    "Starfinder 2e Rules/Conditions/Unconscious.md",
-    "Starfinder 2e Rules/Conditions/Fatigued.md"
+    "Starfinder 2e Rules/Actions/Empathic Assistance.md"
   ]
 }
