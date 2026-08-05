@@ -18,15 +18,39 @@ status: draft
 ---
 
 # Hondue Last-Tether
-![[characterPortrait_Hondue.png#wrapright|500]]
+![[characterPortrait_Hondue.png#wrapright|300]]
 > [!summary]
-> **Hondue Last-Tether** is a dwarven singer, instrumentalist, free captain, and former exterior maintenance rigger from [[Theosis]]. His music combines forge-watch work songs, layered dwarven vocals, strings, heavy percussion, electric instruments, and modern popular production. He first became famous after surviving a catastrophic separation during the [[Theosis#The Shredder Passage|Shredder Passage]], after which Erbium Industries used his recovery and music as evidence that technical skill, sacrifice, and corporate support could carry a worker into the highest levels of Settled Systems culture.
+> **Hondue Last-Tether** is a dwarven singer, instrumentalist, free captain, and former exterior maintenance rigger from [[Theosis]]. His music combines forge-watch work songs, layered dwarven vocals, strings, hand percussion, electric instruments, and modern popular production.
 >
-> Hondue later escaped aboard his own concert vessel after corporate security discovered that his crew had been transporting medicine, repair components, and passengers outside authorized channels. The vessel now travels as the **Last Warrant**, carrying Hondue and his crew between concerts, salvage operations, relief deliveries, and raids against Erbium repossession and detention vessels.
+> Hondue was already a successful performer when Erbium Industries compelled him into service through the Great Volunteering. His prior forge-watch qualifications led to an exterior maintenance assignment on Theosis, where he survived a catastrophic separation during the [[Theosis#The Shredder Passage|Shredder Passage]]. The accident left him with sulfur-scarred hands and face, a reconstructed throat, a cybernetic eye, and a bladed prosthetic arm.
+>
+> After returning to music, Hondue used his touring vessel to transport medicine, repair components, and passengers outside authorized channels. The vessel now travels as the **Last Warrant**, carrying Hondue and his crew between concerts, salvage operations, relief deliveries, and raids against Erbium repossession and detention vessels.
 
-Hondue was born **Hondue of Clan Tavran** and raised within one of the lower industrial districts of Crown Meridian. He entered his clan’s forge watches as an atmospheric rigger and pressure-envelope inspector, working outside the inhabited envelopes during docking repairs, stabilizer inspections, sulfur decontamination, and preparations for the Shredder Passage.
+## Early Life
 
-Hondue was already known among the watch for singing over the shared channel during long exterior assignments. Some songs kept a common work rhythm while crews shifted ballast, secured guide rails, or crossed maintenance frames. Others helped workers remain awake, confirm who was still responding, and fill the time while one team waited for another to complete a repair.
+Hondue was born **Hondue of Clan Tavran** and raised within one of the lower industrial districts of Crown Meridian. He trained within his clan’s forge watches as an atmospheric rigger and pressure-envelope inspector, learning to work docking structures, stabilizer assemblies, guide rails, work cages, and the exterior frames used during preparations for the Shredder Passage.
+
+Hondue was known for singing over the shared channel during long assignments. Some songs kept a common rhythm while crews shifted ballast, secured guide rails, or hauled equipment between maintenance frames. Others helped workers remain awake, confirm who was still responding, and fill the time while one team waited for another to complete a repair.
+
+He eventually left regular exterior work to pursue music full-time, though he retained his technical qualifications and remained involved with clan gatherings, forge-watch memorials, and worker relief funds.
+
+## First Career
+
+Hondue’s first recordings grew from the songs he had learned and written during his years among the forge watches. His performances combined a lead baritone voice with layered dwarven harmonies, strings, hand percussion, electric instruments, and rhythms adapted from coordinated industrial work.
+
+His career began in lower-deck halls and clan gatherings before reaching major venues throughout the Settled Systems. His early touring band included dwarven string musicians, work-song singers, percussionists, and several former riggers. The verses often carried names, measurements, warnings, routes, and places, while the choruses used simple responses that could be sung by a work crew or a concert audience.
+
+During this period, Hondue maintained a cleaner and more controlled stage appearance. He wore bright shirts, polished work boots, fitted vests, forge-watch jewelry, and carefully arranged hair ornaments.
+
+Licensed promotional holoskins based on this appearance were sold alongside concert recordings and other merchandise. Most reproduced the same younger tour-era likeness: natural eyes, intact limbs, clear skin, a trimmed beard, and the clothing associated with his early performances.
+
+## The Great Volunteering
+
+Hondue’s performance career ended when Erbium Industries selected him for service through the Great Volunteering. His old forge-watch qualifications remained active within the corporate labor registry, and Erbium assigned him to exterior maintenance work on Theosis during a shortage of experienced atmospheric personnel.
+
+Erbium publicized his service as an example of a successful cultural figure accepting the same civic obligations as any other worker. Recruitment material showed Hondue exchanging stage clothing for a pressure suit and described his assignment as a return to the work that had shaped his music.
+
+Hondue submitted several requests for a touring deferment and offered to fund the placement of other qualified workers. Every request was denied. His supporters later argued that the assignment followed several public statements he had made concerning worker compensation and equipment standards. The surviving service record gives labor need and prior qualification as the official reasons for his selection.
 
 ## The Last Tether
 
@@ -34,35 +58,33 @@ Hondue received his title during a Shredder Passage accident involving **Frame T
 
 The rescue damaged his suit and exposed his left side to the surrounding atmosphere. His hands and face suffered severe chemical burns, while debris destroyed his left eye, crushed part of his neck, and damaged his forearm beyond ordinary reconstruction.
 
-The last recording recovered from the work channel contained Hondue singing between rescue instructions. His voice continued beneath warning alarms, suit telemetry, and the names of workers moving along the tether. Erbium’s official report described the accident as a successful personnel-recovery procedure, though a member of Hondue’s forge watch later released part of the channel recording through a clan archive along with earlier repair requests concerning Frame Twelve. Lower-deck workers began calling him **Last-Tether** before he left medical care.
+The last recording recovered from the work channel contained Hondue singing between rescue instructions. His voice continued beneath warning alarms, suit telemetry, and the names of workers moving along the tether. Erbium’s official report described the accident as a successful personnel-recovery procedure, though a member of Hondue’s forge watch later released part of the channel recording through a clan archive along with earlier repair requests concerning Frame Twelve.
+
+Lower-deck workers began calling him **Last-Tether** before he left medical care.
 
 ## Reconstruction
 
 Erbium Industries financed much of Hondue’s reconstruction after the work-channel recording began circulating outside Theosis. His left eye was replaced with a pressure-rated industrial optic descended from the inspection equipment he had used during exterior work. It identifies surface stress, heat variation, chemical residue, and pressure leakage, and its red aperture became one of his most recognizable features.
 
-The augmentation around his neck reinforces damaged vertebrae and replaces portions of his larynx and upper airway. Its resonant chambers restored his ability to speak and gave his singing voice a deeper mechanical undertone. Early producers attempted to smooth the sound during recording, though Hondue required that the resonance remain audible.
+The augmentation around his neck reinforces damaged vertebrae and replaces portions of his larynx and upper airway. Its resonant chambers restored his ability to speak and gave his singing voice a deeper mechanical undertone. Early producers attempted to smooth the resonance during recording. Hondue required that it remain audible.
 
-His left forearm contains a retractable seam blade used for cutting pressure fabric, restraint cable, damaged suit material, and emergency access panels. The blade incorporates his clan crystal and represents the current form of the weapon given to him at birth. The sulfur damage across his hands and the left fringe of his face could be treated, softened, or covered, though Hondue leaves it visible.
+His left forearm contains a retractable seam blade used for cutting pressure fabric, restraint cable, damaged suit material, and emergency access panels. The blade incorporates his clan crystal and represents the current form of the weapon given to him at birth.
 
-## First Recordings
+The sulfur damage across his hands and the left fringe of his face could be softened or covered through continued treatment. Hondue leaves it visible.
 
-Hondue recorded his earliest commercial songs while still completing physical rehabilitation. His first major release, **Keep Her Level**, was adapted from an altitude-adjustment song used during Shredder preparations. The recording begins with a single voice and the rhythm of tools striking a maintenance rail before strings, drums, electric guitar, and a full forge-watch chorus enter as the song progresses.
+## Return to the Stage
 
-The release spread first through clan archives, maintenance channels, freight crews, and lower-deck settlements. Commercial distribution followed after workers had already copied it across several systems. Erbium licensed the recording for safety broadcasts and public memorial programming, and Hondue began appearing in corporate campaigns discussing equipment compliance, emergency readiness, and the importance of trained personnel.
+Hondue returned to public performance while still completing physical rehabilitation. His first major release following the accident, **Keep Her Level**, was adapted from an altitude-adjustment song used during Shredder preparations. The recording begins with a single voice and the rhythm of tools striking a maintenance rail before strings, drums, electric guitar, and a full forge-watch chorus enter.
 
-His sulfur-scarred hands, industrial augmentations, and forge-watch title made him easy to recognize. Erbium presented him as a worker whose discipline and recovery demonstrated the strength of the systems surrounding him. Hondue used the attention to discuss the workers who had been on Frame Twelve, the repair requests filed before the accident, and the crew members whose names appeared in the channel recording.
+The song spread through clan archives, maintenance channels, freight crews, and lower-deck settlements before receiving an official commercial release. Erbium licensed it for safety broadcasts and memorial programming and placed Hondue in campaigns concerning equipment compliance, emergency readiness, and the importance of trained personnel.
 
-## The Sponsored Years
-
-Hondue remained under Erbium sponsorship for several years. His performances grew from lower-deck halls and clan gatherings into major concert venues throughout the Settled Systems. His touring band included dwarven string musicians, forge-watch singers, industrial percussionists, former riggers, and several members of the crew who had worked with him on Theosis.
-
-His music retained the structure of work songs. Verses carried instructions, names, measurements, warnings, and places, while choruses used short responses that could be sung by a full maintenance crew or a stadium audience. Hondue’s public statements remained careful during this period, though he regularly discussed missing maintenance records, denied repair requests, craft-warrant liability, and workers blamed for systems they had requested permission to shut down.
+His altered appearance made the difference between his two careers immediately recognizable. The younger performer preserved in old concert merchandise had become a scarred industrial survivor with visible augmentations and a roughened voice. Hondue used his renewed attention to discuss the workers on Frame Twelve, the repair requests filed before the accident, and the names preserved in the channel recording.
 
 When asked whether Erbium knew Frame Twelve was unsafe, Hondue usually gave the same answer:
 
 > The inspection was signed. The repair request was stamped. The frame was kept in service.
 
-A portion of his income funded pressure-equipment replacement, sulfur-rot treatment, clan mutual-aid accounts, and transportation for dwarves returning to Vuddar for reorientation.
+His performances again grew into major Settled Systems tours. A portion of his income funded pressure-equipment replacement, sulfur-rot treatment, clan mutual-aid accounts, and transportation for dwarves returning to Vuddar for reorientation. Erbium assigned Hondue and his touring company the converted personnel transport that would eventually become the **Last Warrant**.
 
 ## The Warranted Return
 
@@ -130,14 +152,5 @@ Among lower-deck workers and dwarven forge watches, Hondue remains closely assoc
 
 Corporate media claims that Hondue uses worker grievances to build a profitable outlaw brand. Hondue earns considerable money from recordings, concerts, merchandise, salvage, and captured cargo, with a substantial portion leaving the ship through medical funds, equipment purchases, legal assistance, transport costs, and payments to the families of detained crew members. His supporters call him a free captain, Erbium calls him a pirate, and Hondue answers to both.
 
-> [!danger] GM Only
-> ## Impersonating Hondue
->
->A person wearing Hondue’s face attracts immediate attention. Most civilians assume they are seeing Hondue, a licensed tribute performer, a promotional hardlight projection, or someone using an unauthorized celebrity holoskin. The possibility that the actual Hondue Last-Tether has entered a settlement can attract fans, local authorities, corporate security, journalists, workers seeking help, and people attempting to join the Last Warrant.
->
->Dwarven workers may recognize details that a visual disguise fails to reproduce, including his hair markers, the construction of his clan weapon, the movement of his neck augmentation, and the specific pattern of sulfur damage across his hands. His left optic periodically adjusts focus and displays a visible red aperture response. His reconstructed throat produces a mechanical resonance during certain consonants and low notes, while his forearm blade contains a registered clan crystal and leaves a slight raised seam along the wrist when retracted.
->
->Theosis identity systems possess Hondue’s full biometric and augmentation profile. A surface-level projection can reproduce his appearance while failing retinal, skeletal, gait, voice-resonance, implant, and clan-crystal verification. Several ports maintain specific detection protocols for Hondue holoskins. Some treat possession as unlicensed celebrity reproduction, while Erbium-controlled ports may treat it as preparation for fraud, sabotage, or material support for the Last Warrant.
->
->Fans frequently ask him to sing **Keep Her Level**, forge-watch workers usually ask which tether he was on, and security personnel usually ask where the ship is. Hondue claims to dislike the holoskins, though he has also been photographed giving posing advice to someone wearing one.
+
 
