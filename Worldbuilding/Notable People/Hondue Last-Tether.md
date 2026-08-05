@@ -40,9 +40,7 @@ Hondue’s first recordings grew from the songs he had learned and written durin
 
 His career began in lower-deck halls and clan gatherings before reaching major venues throughout the Settled Systems. His early touring band included dwarven string musicians, work-song singers, percussionists, and several former riggers. The verses often carried names, measurements, warnings, routes, and places, while the choruses used simple responses that could be sung by a work crew or a concert audience.
 
-During this period, Hondue maintained a cleaner and more controlled stage appearance. He wore bright shirts, polished work boots, fitted vests, forge-watch jewelry, and carefully arranged hair ornaments.
-
-Licensed promotional holoskins based on this appearance were sold alongside concert recordings and other merchandise. Most reproduced the same younger tour-era likeness: natural eyes, intact limbs, clear skin, a trimmed beard, and the clothing associated with his early performances.
+Hondue’s early career established a carefully controlled stage persona that became recognizable throughout the Settled Systems. He performed in bright shirts, polished work boots, fitted vests, forge-watch jewelry, carefully arranged hair ornaments, and pink eye makeup that became closely associated with his public image. Licensed merchandise reproduced the look across posters, concert recordings, clothing, collectible figures, promotional hardlight displays, and commercial holoskins.
 
 ## The Great Volunteering
 
@@ -152,5 +150,20 @@ Among lower-deck workers and dwarven forge watches, Hondue remains closely assoc
 
 Corporate media claims that Hondue uses worker grievances to build a profitable outlaw brand. Hondue earns considerable money from recordings, concerts, merchandise, salvage, and captured cargo, with a substantial portion leaving the ship through medical funds, equipment purchases, legal assistance, transport costs, and payments to the families of detained crew members. His supporters call him a free captain, Erbium calls him a pirate, and Hondue answers to both.
 
-
+> [!danger] GM Only
+>## Impersonating Hondue
+>
+>A person wearing Hondue’s current face would attract immediate attention from corporate security. Most unauthorized Hondue holoskins reproduce an earlier appearance.
+>
+>The licensed promotional scan used by Reen dates from Hondue’s first career, before the Great Volunteering, the Frame Twelve accident, and his reconstruction. It presents a younger Hondue with two natural eyes, clear skin, an intact left arm, no neck augmentation, cleaner hair and clothing, and the polished stage presentation associated with his early tours.
+>
+>Most civilians who notice the resemblance assume they are seeing a fan, tribute performer, promotional projection, or someone using old concert merchandise. Hondue’s present appearance is older, scarred, augmented, and widely associated with the Last Warrant. The difference is large enough that a person matching the early holoskin does not immediately appear to be the wanted free captain.
+>
+>Older fans and dwarven workers may recognize the exact tour-era image. They can identify the hair arrangement, clothing, jewelry, and facial scan used in official merchandise. Some may ask for songs from Hondue’s early career or comment that the wearer looks like an unusually convincing recreation.
+>
+>A biometric checkpoint remains dangerous. The holoskin reproduces surface appearance while failing skeletal, gait, voiceprint, genetic, implant, and age verification. Erbium systems may flag it as an unauthorized celebrity likeness, false identity tool, or modified commercial holoskin. The result prompts closer inspection without directly identifying the wearer as Hondue Last-Tether.
+>
+>Fans associate the old likeness with the performer Hondue used to be.
+>
+>Security personnel associate the scars and augmentations with the captain he became.
 
