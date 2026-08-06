@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable People/Hondue Last-Tether.md",
+                "file": "Worldbuilding/Notable Things/Void Calling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hondue Last-Tether"
+              "title": "Void Calling"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Notable People/Hondue Last-Tether.md",
+                "file": "Worldbuilding/Notable Things/Void Calling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,15 +224,19 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
-    "Resources/characterPortrait_Hondue.png",
+    "Worldbuilding/Notable Things/Sulfur-Rot.md",
+    "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
+    "Worldbuilding/Notable Things/Void Calling.md",
+    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+    "Worldbuilding/Notable Locations/Zakaron.md",
+    "Worldbuilding/Notable Locations/Wander.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/Notable People/Hondue Last-Tether.md",
+    "Resources/characterPortrait_Hondue.png",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
-    "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
     "PDFExports/Notable People/Hondue Last-Tether.pdf",
     "PDFExports/Notable People",
-    "Worldbuilding/Notable Things/Sulfur-Rot.md",
-    "Worldbuilding/Notable Things/Void Calling.md",
     "Resources/planet_Theosis.png",
     "Resources/planet_Zakaron.png",
     "Resources/planet_AgrioDysisIV.png",
@@ -254,10 +258,6 @@
     "Worldbuilding/Untitled.md",
     "Worldbuilding/Notable Things",
     "Worldbuilding/Notable People",
-    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
-    "Worldbuilding/Notable Locations/Theosis.md",
-    "Worldbuilding/Notable Locations/Zakaron.md",
-    "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Resources/Hub-World_Lineup.png",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
