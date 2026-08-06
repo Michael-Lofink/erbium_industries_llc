@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable Things/Void Calling.md",
+                "file": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Void Calling"
+              "title": "A2%1&4-13"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Notable Things/Void Calling.md",
+                "file": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,14 +224,17 @@
   },
   "active": "bd412512e6cfaaef",
   "lastOpenFiles": [
+    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
+    "Worldbuilding/Settled Systems Code/Creating a Settled Systems Code Players.md",
+    "PDFExports/Notable Things/Creating a Settled Systems Code Players.pdf",
+    "Worldbuilding/Notable People/Hondue Last-Tether.md",
+    "Worldbuilding/Notable Things/Void Calling.md",
     "Worldbuilding/Notable Things/Sulfur-Rot.md",
     "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
-    "Worldbuilding/Notable Things/Void Calling.md",
     "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
     "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Notable Locations/Theosis.md",
-    "Worldbuilding/Notable People/Hondue Last-Tether.md",
     "Resources/characterPortrait_Hondue.png",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
@@ -257,7 +260,6 @@
     "PDFExports/Notable Things",
     "Worldbuilding/Untitled.md",
     "Worldbuilding/Notable Things",
-    "Worldbuilding/Notable People",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Resources/Hub-World_Lineup.png",
     "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
@@ -267,7 +269,6 @@
     "Resources/ancestryPortrait_Vesk.png",
     "Resources/ancestryPortrait_Moyishuu.png",
     "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
-    "Starfinder 2e Rules/Actions/Pardon Me.md",
-    "Starfinder 2e Rules/Actions/Empathic Assistance.md"
+    "Starfinder 2e Rules/Actions/Pardon Me.md"
   ]
 }
