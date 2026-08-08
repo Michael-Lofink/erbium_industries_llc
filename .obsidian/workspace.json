@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
-                "mode": "source",
+                "file": "Worldbuilding/Creatures/Construct/Level 4/Enforcer Robot.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A2%1&4-13"
+              "title": "Enforcer Robot"
+            }
+          },
+          {
+            "id": "c07ba312ff37ef2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starfinder 2e Rules/Archetypes/239-0317-splinter-of-finality.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "239-0317-splinter-of-finality"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
+                "file": "Starfinder 2e Rules/Archetypes/239-0317-splinter-of-finality.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,13 +207,12 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -222,53 +236,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bd412512e6cfaaef",
+  "active": "b25d00fc11f20878",
   "lastOpenFiles": [
-    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
-    "Worldbuilding/Settled Systems Code/Creating a Settled Systems Code Players.md",
-    "PDFExports/Notable Things/Creating a Settled Systems Code Players.pdf",
-    "Worldbuilding/Notable People/Hondue Last-Tether.md",
     "Worldbuilding/Notable Things/Void Calling.md",
-    "Worldbuilding/Notable Things/Sulfur-Rot.md",
-    "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
-    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
-    "Worldbuilding/Notable Locations/Zakaron.md",
-    "Worldbuilding/Notable Locations/Wander.md",
-    "Worldbuilding/Notable Locations/Theosis.md",
+    "Starfinder 2e Rules/Archetypes/239-0317-splinter-of-finality.md",
+    "Starfinder 2e Rules/Archetypes/238-0201-gelid-shard.md",
+    "Starfinder 2e Rules/Archetypes/237-0200-ursine-avenger-hood.md",
+    "Starfinder 2e Rules/Archetypes/236-0182-zombie.md",
+    "Starfinder 2e Rules/Archetypes/235-0035-zephyr-guard.md",
+    "Starfinder 2e Rules/Archetypes/234-0318-wylderheart.md",
+    "Starfinder 2e Rules/Archetypes/233-0270-wrestler.md",
+    "Starfinder 2e Rules/Archetypes/232-0208-worm-caller.md",
+    "Starfinder 2e Rules/Archetypes/231-0396-world-rouser.md",
+    "Starfinder 2e Rules/Archetypes/230-0227-winged-warrior.md",
+    "Starfinder 2e Rules/Archetypes/229-0226-wild-mimic.md",
+    "Starfinder 2e Rules/Archetypes/228-0225-werecreature.md",
+    "Starfinder 2e Rules/Archetypes/227-0104-wellspring-mage.md",
+    "Starfinder 2e Rules/Archetypes/226-0269-weapon-improviser.md",
+    "Starfinder 2e Rules/Archetypes/225-0286-warrior-of-legend.md",
+    "Starfinder 2e Rules/Archetypes/224-0331-war-mage.md",
+    "Starfinder 2e Rules/Archetypes/223-0277-wandering-chef.md",
+    "Starfinder 2e Rules/Archetypes/222-0268-viking.md",
+    "Starfinder 2e Rules/Archetypes/221-0267-vigilante.md",
+    "Starfinder 2e Rules/Archetypes/220-0312-verduran-shadow.md",
+    "Starfinder 2e Rules/Archetypes/219-0395-veil-dancer.md",
+    "Starfinder 2e Rules/Archetypes/218-0113-vehicle-mechanic.md",
+    "Starfinder 2e Rules/Archetypes/217-0181-vampire.md",
+    "Starfinder 2e Rules/Archetypes/216-0123-unexpected-sharpshooter.md",
+    "Starfinder 2e Rules/Archetypes/215-0379-undersea-privateer.md",
+    "Starfinder 2e Rules/Archetypes",
+    "PDFExports/Creatures/Construct/Level 4/Enforcer Robot.pdf",
+    "PDFExports/Creatures/Construct/Level 4",
+    "PDFExports/Creatures/Construct",
+    "PDFExports/Creatures",
+    "creaturePortrait_EnforcerRobot.png",
+    "Resources/creaturePortrait_EnforcerRobot.png",
+    "Resources/erbium_industries_fed_voxel.png",
+    "Worldbuilding/Creatures/Construct/Level 4",
+    "Worldbuilding/Creatures/Construct",
+    "Starfinder 2e Rules/Spells/Level 1",
+    "Starfinder 2e Rules/Spells",
+    "Worldbuilding/Creatures",
     "Resources/characterPortrait_Hondue.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
-    "PDFExports/Notable People/Hondue Last-Tether.pdf",
-    "PDFExports/Notable People",
     "Resources/planet_Theosis.png",
     "Resources/planet_Zakaron.png",
     "Resources/planet_AgrioDysisIV.png",
     "Resources/Ancestry Lineup Erbium Industries.png",
-    "PDFExports/Notable Things/Sulfur-Rot.pdf",
-    "PDFExports/Notable Things/Void Calling.pdf",
-    "Starfinder 2e Rules/Conditions/Stupefied.md",
-    "Starfinder 2e Rules/Traits/Virulent.md",
-    "Starfinder 2e Rules/Traits",
     "Resources/ancestryPortrait_Dwarf.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Human/Human.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Katalash Benefits.md",
-    "PDFExports/Ancestries/Moyishuu Ancestry Feats.pdf",
-    "Starfinder 2e Rules/Actions/Controlled Rage.md",
-    "PDFExports/Notable Things/The Fall of Wander and the Rise of Erbium Industries.pdf",
-    "PDFExports/Notable Things",
-    "Worldbuilding/Untitled.md",
-    "Worldbuilding/Notable Things",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Vesk.md",
-    "Resources/Hub-World_Lineup.png",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Madrosarai.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Lashunta/Lashunta.md",
-    "Resources/ancestryPortrait_Madrosarai.png",
-    "Resources/ancestryPortrait_Vesk.png",
-    "Resources/ancestryPortrait_Moyishuu.png",
-    "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
-    "Starfinder 2e Rules/Actions/Pardon Me.md"
+    "Resources/Hub-World_Lineup.png"
   ]
 }

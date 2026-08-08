@@ -1,0 +1,3 @@
+**Source** [Player Core pg. 255](https://2e.aonsrd.com/sources/2-player-core)
+
+This indicates how much ammunition is consumed with each ranged [Strike](https://2e.aonsrd.com/actions/15-strike) you make with the weapon. Anytime the weapon is fired, the ammunition in its magazine is lowered by the number indicated. Other abilities might cite the use of expend as the amount of ammo required to complete the action.
