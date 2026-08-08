@@ -219,4 +219,4 @@ Additional languages equal to your Intelligence modifier, if it is positive. Cho
 #### Contained Emotions
 You keep your emotions contained. Creatures take a –2 circumstance penalty to [Sense Motive](https://2e.aonsrd.com/actions/11-sense-motive) checks against you. You gain a +1 circumstance bonus to saving throws against [emotion](https://2e.aonsrd.com/traits/72-emotion) effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.
 
-![[Worldbuilding/Ancestries of the Settled Systems/Madrosarai/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Madrosarai/Heritages|Heritages]]

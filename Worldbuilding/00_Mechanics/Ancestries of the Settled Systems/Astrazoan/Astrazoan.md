@@ -244,4 +244,4 @@ Because an established profile can change Armor Class, saving throws, attack mod
 > [!warning] Complex Character Option  
 > An astrazoan with established skin profiles requires more bookkeeping than a typical ancestry. The player and GM should agree on the character’s established skins and record their adjusted statistics before those forms are used during play.
 
-![[Worldbuilding/Ancestries of the Settled Systems/Astrazoan/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Astrazoan/Heritages|Heritages]]

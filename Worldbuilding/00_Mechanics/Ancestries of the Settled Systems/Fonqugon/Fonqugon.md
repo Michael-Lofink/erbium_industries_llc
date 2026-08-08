@@ -197,4 +197,4 @@ You’re an ooze! You can [Climb](https://2e.aonsrd.com/actions/62-climb) surfac
 
 Additionally, as long as your primary and subordinate brains can fit through a gap, your whole body can ooze through it. You can move through a gap at least 2 feet wide without [Squeezing](https://2e.aonsrd.com/actions/60-squeeze) and can Squeeze through a gap at least 1 foot wide.
 
-![[Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Heritages|Heritages]]

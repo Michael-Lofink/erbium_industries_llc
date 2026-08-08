@@ -140,4 +140,4 @@ See [[#Erbium Proprietary Property|Erbium Proprietary Property]].
 [^4]: See [[Fatigued]] for the effects of the condition.
 
 
-![[Worldbuilding/Ancestries of the Settled Systems/Android/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Android/Heritages|Heritages]]

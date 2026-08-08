@@ -229,4 +229,4 @@ You become trained in [Athletics](https://2e.aonsrd.com/skills/3-athletics). If 
 #### Darkvision
 You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
 
-![[Worldbuilding/Ancestries of the Settled Systems/Dwarf/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Dwarf/Heritages|Heritages]]

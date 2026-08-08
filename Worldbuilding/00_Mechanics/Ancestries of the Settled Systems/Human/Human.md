@@ -163,4 +163,4 @@ Two free attribute boosts
 Common
 Additional languages equal to 1 + your Intelligence modifier, if it is positive. Choose from the list of common languages and any other languages to which you have access, such as languages prevalent on your home world.
 
-![[Worldbuilding/Ancestries of the Settled Systems/Human/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Human/Heritages|Heritages]]

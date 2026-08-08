@@ -195,4 +195,4 @@ Your whiskers continuously sense the emotions of those around you, which makes y
 #### Breath Control
 You gain the [Breath Control](https://2e.aonsrd.com/feats/773-breath-control) general feat.
 
-![[Worldbuilding/Ancestries of the Settled Systems/Brenneri/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Brenneri/Heritages|Heritages]]

@@ -309,4 +309,4 @@ Shaped by the Drift, you can automatically pinpoint the location of Drift beacon
 #### Star-Touched
 You gain cosmicsense as an [imprecise](https://2e.aonsrd.com/rules/456-imprecise-senses) sense with a range of 20 feet. You can sense the cosmic dust clinging to creatures with the cosmic or drift trait.
 
-![[Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Heritages|Heritages]]

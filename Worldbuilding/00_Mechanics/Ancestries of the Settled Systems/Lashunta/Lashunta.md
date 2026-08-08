@@ -246,5 +246,5 @@ When you communicate using your Limited Telepathy, you can intentionally include
 
 Once per 10 minutes, when you communicate telepathically with a creature that shares a language with you, you can make your emotional context explicit. Before the end of your next turn, you gain a +1 circumstance bonus to your next Diplomacy or Intimidation check against that creature. Until then, that creature gains a +1 circumstance bonus to Sense Motive against you.
 
-![[Worldbuilding/Ancestries of the Settled Systems/Lashunta/Heritages|Heritages]]
+![[Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Lashunta/Heritages|Heritages]]
 ![[Katalash Benefits]]

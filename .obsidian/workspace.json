@@ -11,14 +11,12 @@
             "id": "bd412512e6cfaaef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Theosis.md",
-                "mode": "preview",
-                "source": true
+                "file": "Resources/creaturePortrait_EnforcerRobot.png"
               },
-              "icon": "lucide-file",
-              "title": "Theosis"
+              "icon": "lucide-image",
+              "title": "creaturePortrait_EnforcerRobot"
             }
           }
         ]
@@ -158,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Notable Locations/Theosis.md",
+                "file": "Resources/creaturePortrait_EnforcerRobot.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,18 +184,9 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "25b202f8e76c7de4",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,11 +210,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bd412512e6cfaaef",
+  "active": "b25d00fc11f20878",
   "lastOpenFiles": [
-    "Worldbuilding/Archetypes/Void-Returned Archetype.md",
+    "Worldbuilding/Notable Things/Time in the Settled Systems.md",
+    "Worldbuilding/Untitled.md",
+    "Resources/creaturePortrait_EnforcerRobot.png",
+    "Templates/Erbium Industries -- Settled Systems -- Setting Guide.md",
+    "Templates/Advance Stamp.md",
+    "Worldbuilding/00_Mechanics",
+    "Templates/Ancestry Outline.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
+    "Worldbuilding/00_Mechanics/Archetypes/Void-Returned Archetype.md",
     "PDFExports/Archetypes/Void-Returned Archetype.pdf",
-    "Worldbuilding/Archetypes/Nostalgic.md",
+    "Worldbuilding/00_Mechanics/Archetypes/Nostalgic.md",
     "PDFExports/Archetypes/Nostalgic.pdf",
     "PDFExports/Archetypes",
     "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
@@ -234,33 +231,26 @@
     "Starfinder 2e Rules/Actions/Empathic Assistance.md",
     "Starfinder 2e Rules/Actions/Controlled Rage.md",
     "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
-    "Worldbuilding/Creatures/Construct/Level 4/Enforcer Robot.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Versatile Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Vesk/Heritages.md",
-    "Worldbuilding/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
+    "Worldbuilding/00_Mechanics/Creatures/Construct/Level 4/Enforcer Robot.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Versatile Heritages.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Vesk/Heritages.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
     "Starfinder 2e Rules/Traits/Tech.md",
     "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
     "Starfinder 2e Rules/Conditions/Fatigued.md",
     "Starfinder 2e Rules/Actions/Pardon Me.md",
     "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
     "Worldbuilding/Notable Things/Sulfur-Rot.md",
-    "Worldbuilding/Notable Things/Void Calling.md",
-    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
-    "Starfinder 2e Rules/Equipment/Armor/Armor Statistics.md",
-    "Worldbuilding/Untitled.md",
-    "Worldbuilding/Archetypes",
-    "Starfinder 2e Rules/Spells/Level 1/Hydraulic Push.md",
+    "Worldbuilding/00_Mechanics/Archetypes",
     "Starfinder 2e Rules/Archetypes",
     "PDFExports/Creatures/Construct/Level 4/Enforcer Robot.pdf",
     "PDFExports/Creatures/Construct/Level 4",
     "PDFExports/Creatures/Construct",
     "PDFExports/Creatures",
-    "creaturePortrait_EnforcerRobot.png",
     "Resources/creaturePortrait_EnforcerRobot.png",
     "Resources/erbium_industries_fed_voxel.png",
-    "Worldbuilding/Creatures/Construct/Level 4",
     "Resources/characterPortrait_Hondue.png",
     "Resources/planet_Theosis.png",
     "Resources/planet_Zakaron.png",
