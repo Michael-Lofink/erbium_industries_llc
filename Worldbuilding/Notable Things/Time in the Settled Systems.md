@@ -8,6 +8,7 @@ tags:
   - erbium-industries
   - timekeeping
   - setting-lore
+status: draft
 ---
 
 # Post-Erbium Standard

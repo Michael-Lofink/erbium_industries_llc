@@ -11,15 +11,32 @@
             "id": "bd412512e6cfaaef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/creaturePortrait_EnforcerRobot.png"
+                "file": "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "creaturePortrait_EnforcerRobot"
+              "icon": "lucide-file",
+              "title": "Heritages"
+            }
+          },
+          {
+            "id": "fdab3127132fbef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Fonqugon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/creaturePortrait_EnforcerRobot.png",
+                "file": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,46 +227,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b25d00fc11f20878",
+  "active": "fdab3127132fbef6",
   "lastOpenFiles": [
-    "Worldbuilding/Notable Things/Time in the Settled Systems.md",
-    "Worldbuilding/Untitled.md",
-    "Resources/creaturePortrait_EnforcerRobot.png",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Brenneri/Heritages.md",
+    "Campaign/Resources/Player Side/Social contract.md",
+    "PDFExports/Social contract.pdf",
+    "Templates/tpl-social_contract.md",
+    "Campaign/Resources/Gregory/Animated Firearm.md",
+    "Campaign/Resources/Gregory",
+    "Campaign/Resources/Player Side/Untitled",
+    "Worldbuilding/Notable People/KE$HRA.md",
+    "Campaign/Resources/GM Side",
+    "Campaign/Resources/Player Side",
+    "Campaign/Resources",
+    "Jonah Pain Point Transcript.md",
+    "PDFExports/Jonah Pain Point Transcript.pdf",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Heritages.md",
+    "Worldbuilding/Notable People/Hondue Last-Tether.md",
+    "Resources/characterPortrait_KE$HRA.png",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Heritages.md",
+    "PDFExports/Ancestries/Moyishuu.pdf",
+    "PDFExports/Ancestries/Madrosarai.pdf",
+    "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
+    "PDFExports/Ancestries/Android.pdf",
     "Templates/Erbium Industries -- Settled Systems -- Setting Guide.md",
+    "Worldbuilding/Notable Things/Time in the Settled Systems.md",
+    "Worldbuilding/Notable Things/Void Calling.md",
+    "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
+    "Worldbuilding/Notable Things/Sulfur-Rot.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Android/Android.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Android/Heritages.md",
+    "Starfinder 2e Rules/Spells/Level 1/Hydraulic Push.md",
+    "Worldbuilding/00_Mechanics/Archetypes/Nostalgic.md",
+    "Resources/creaturePortrait_EnforcerRobot.png",
+    "Worldbuilding/Untitled.md",
     "Templates/Advance Stamp.md",
-    "Worldbuilding/00_Mechanics",
     "Templates/Ancestry Outline.md",
     "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/00_Mechanics/Archetypes/Void-Returned Archetype.md",
-    "PDFExports/Archetypes/Void-Returned Archetype.pdf",
-    "Worldbuilding/00_Mechanics/Archetypes/Nostalgic.md",
-    "PDFExports/Archetypes/Nostalgic.pdf",
-    "PDFExports/Archetypes",
     "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
-    "Quick Draw.md",
-    "Worldbuilding/Notable People/Hondue Last-Tether.md",
-    "Starfinder 2e Rules/Actions/Empathic Assistance.md",
-    "Starfinder 2e Rules/Actions/Controlled Rage.md",
-    "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
-    "Worldbuilding/Notable Locations/Zakaron.md",
-    "Worldbuilding/00_Mechanics/Creatures/Construct/Level 4/Enforcer Robot.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Versatile Heritages.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Vesk/Heritages.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
-    "Starfinder 2e Rules/Traits/Tech.md",
-    "Starfinder 2e Rules/Actions/Madrosarai Tenacity.md",
-    "Starfinder 2e Rules/Conditions/Fatigued.md",
-    "Starfinder 2e Rules/Actions/Pardon Me.md",
-    "Worldbuilding/Notable Things/The Fall of Wander and the Rise of Erbium Industries.md",
-    "Worldbuilding/Notable Things/Sulfur-Rot.md",
-    "Worldbuilding/00_Mechanics/Archetypes",
-    "Starfinder 2e Rules/Archetypes",
-    "PDFExports/Creatures/Construct/Level 4/Enforcer Robot.pdf",
-    "PDFExports/Creatures/Construct/Level 4",
-    "PDFExports/Creatures/Construct",
-    "PDFExports/Creatures",
-    "Resources/creaturePortrait_EnforcerRobot.png",
     "Resources/erbium_industries_fed_voxel.png",
     "Resources/characterPortrait_Hondue.png",
     "Resources/planet_Theosis.png",
