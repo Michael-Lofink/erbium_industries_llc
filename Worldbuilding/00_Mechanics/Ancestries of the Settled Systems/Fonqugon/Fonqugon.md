@@ -124,7 +124,7 @@ During the Star Dream, every healthy cradle colony on Ossuun began producing mat
 
 Settled Systems authorities recognized Fonqugons among the Elect but ruled that the colonies had transmitted the revelation without comprehending it. Under Settled Systems Code `A2%8&3-11`, cradle colonies are classified as **sapient-supportive reproductive ecologies**. They receive ecological and cultural protections but possess no independent standing, right of refusal, ownership, or representation.
 
-The distinction allows a cradle colony to be quarantined, relocated, licensed, transferred between institutions, or destroyed under emergency authority without the procedures required for action against a person.
+The distinction allows a cradle colony to be quarantined, reloc![[Pasted image 20260907160729.png]]ated, licensed, transferred between institutions, or destroyed under emergency authority without the procedures required for action against a person.
 
 ## Offworld Continuity
 Establishing an offworld cradle colony requires compatible water chemistry, mineral content, microorganisms, pressure, temperature, and long-term ecological stability. A colony can survive in an artificial habitat, but it cannot be reduced to a tank of nutrient gel without eventually deteriorating.
