@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+                "file": "Worldbuilding/Notable People/Hondue Last-Tether.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ponderer (of Oceanus) Scene"
+              "title": "Hondue Last-Tether"
             }
           }
         ]
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+                "file": "Worldbuilding/Notable People/Hondue Last-Tether.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fonqugon"
+              "title": "Outgoing links"
             }
           },
           {
@@ -214,11 +214,14 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
-    "Worldbuilding/Settled Systems Code/Creating a Settled Systems Code Players.md",
-    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
-    "Campaign/Resources/Jonah/Ponder Unity.md",
+    "Pasted image 20260907160729.png",
     "Worldbuilding/Notable People/Hondue Last-Tether.md",
     "Worldbuilding/Notable People/KE$HRA.md",
+    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "PDFExports/Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.pdf",
+    "PDFExports/Campaign/Resources/Jonah",
+    "Worldbuilding/Settled Systems Code/Creating a Settled Systems Code Players.md",
+    "Campaign/Resources/Jonah/Ponder Unity.md",
     "Worldbuilding/Notable People/Corpo 8-Ball.md",
     "Worldbuilding/Notable People/Cowboy 8-Ball.md",
     "Campaign/Resources/Gregory/8-Ball Scene.md",
@@ -230,7 +233,6 @@
     "Worldbuilding/00_Mechanics/Demi-Ancestries",
     "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "Pasted image 20260907160729.png",
     "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
     "Campaign/Resources/Player Side/Social Contract Truncated.md",
     "PDFExports/Social Contract Truncated.pdf",
@@ -248,9 +250,6 @@
     "PDFExports/Campaign/Resources",
     "PDFExports/Campaign",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Android/Android.md",
-    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
-    "PDFExports/Notable Things/Ponder Unity.pdf",
-    "Campaign/Resources/Jonah",
     "Resources/characterPortrait_KE$HRA.png",
     "Resources/creaturePortrait_EnforcerRobot.png",
     "Resources/erbium_industries_fed_voxel.png",

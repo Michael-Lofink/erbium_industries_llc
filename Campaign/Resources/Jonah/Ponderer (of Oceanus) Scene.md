@@ -1,18 +1,3 @@
-# Outline
-Snapshots: Job -> The Last Straw (Ponder Unity'd) -> Punishment
-
-Makes 'doctor' visits to Theosis
-The woman had her memories Rewrite Memory 
-They watch him while he works
-
-
-## Job
-
-## The Last Straw
-
-
-## Punishment
-
 "wheeo". We see darkness, the ticking of a clock can be heard, the second hand clicking forward every moment. The low ticking is interrupted by, "Doctor?" Another moment passes, and with more urgency the older, feminine voice calls again "Doctor?". We pan out, pulling back from the perspective of the oozing doctor to a corner of the room. Seeing the room now it's cozy and warm. A rustic aesthetic uncommon in comparison to the plated, dirty, gray sheen of Theosis and its chambers. Several potted plants dot the corners of the room, and one fern stands next to the end table closest to the seat where the doctor sits. "It's been 4 rotations since they let me see my husband." As the woman speaks, "wheeoo" we hear the sound of playing in the corner once more, a small child plays with a Goblin Junkcycle, his hands up to his face are covered in streaks like lightning of gummy flesh, and the child's eyes are bloodshot. "They keep telling me my husband will be back to service in no time. But when... when our son can't," the tears well up in her eyes, she chokes. 
 =="Mrs. Regreqt, you've nearly completed your optional mental health leave following what happened 52,920 offsets back"== the doctor remains controlled, =="do you feel adequately prepared to re-enter service at the end of this rotation?"== 
 "I have to, this time away from service has drained my credit trust. But it gnaws at me, and with my husband in treatment... Conner faces humiliation everyday. Had my husband just checked the gauge one more time--"
