@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable People/Hondue Last-Tether.md",
+                "file": "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hondue Last-Tether"
+              "title": "Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Notable People/Hondue Last-Tether.md",
+                "file": "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -214,42 +214,44 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
-    "Pasted image 20260907160729.png",
-    "Worldbuilding/Notable People/Hondue Last-Tether.md",
-    "Worldbuilding/Notable People/KE$HRA.md",
     "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
+    "Worldbuilding/Notable Locations/Wander.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
+    "Worldbuilding/Notable Locations/Zakaron.md",
+    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Campaign/Resources/Maggie/Tarn Scene.md",
+    "Pasted image 20260914121730.png",
+    "Campaign/Resources/Jonah/Ponderer's Cards (lvl 1 draft 2).json",
+    "Campaign/Sessions/Session 1.md",
+    "Worldbuilding/00_Mechanics/Demi-Ancestries/Copaxi.md",
+    "Campaign/Resources/Gregory/Animated Firearm.md",
+    "Campaign/Resources/Gregory/8-Ball Scene.md",
+    "Campaign/Resources/Gregory/Secret Backstory.md",
+    "Worldbuilding/Notable People/KE$HRA.md",
+    "PDFExports/Notable People/KE$HRA.pdf",
+    "Worldbuilding/Notable People/Hondue Last-Tether.md",
+    "Pasted image 20260907160729.png",
     "PDFExports/Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.pdf",
     "PDFExports/Campaign/Resources/Jonah",
     "Worldbuilding/Settled Systems Code/Creating a Settled Systems Code Players.md",
     "Campaign/Resources/Jonah/Ponder Unity.md",
     "Worldbuilding/Notable People/Corpo 8-Ball.md",
     "Worldbuilding/Notable People/Cowboy 8-Ball.md",
-    "Campaign/Resources/Gregory/8-Ball Scene.md",
-    "Campaign/Resources/Maggie/Tarn Scene.md",
     "Campaign/Resources/Maggie",
-    "Campaign/Resources/Gregory/Secret Backstory.md",
     "Worldbuilding/00_Mechanics/Demi-Ancestries/Goblin.md",
-    "Worldbuilding/00_Mechanics/Demi-Ancestries/Copaxi.md",
     "Worldbuilding/00_Mechanics/Demi-Ancestries",
-    "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
     "Campaign/Resources/Player Side/Social Contract Truncated.md",
     "PDFExports/Social Contract Truncated.pdf",
     "Campaign/Resources/Player Side/Social contract.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
     "Worldbuilding/Settled Systems Code/Interpreting an Existing Code.md",
     "Worldbuilding/Settled Systems Code/Generating a New Law.md",
-    "Worldbuilding/Settled Systems Code/Title/Chapter/Section/Clause/example.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
     "Campaign/Resources/Mary Beth",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "Campaign/Resources/Gregory/Animated Firearm.md",
     "PDFExports/Campaign/Resources/Gregory/Animated Firearm.pdf",
     "PDFExports/Campaign/Resources/Gregory",
-    "PDFExports/Campaign/Resources",
-    "PDFExports/Campaign",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Android/Android.md",
     "Resources/characterPortrait_KE$HRA.png",
     "Resources/creaturePortrait_EnforcerRobot.png",
     "Resources/erbium_industries_fed_voxel.png",
@@ -257,7 +259,6 @@
     "Resources/planet_Theosis.png",
     "Resources/planet_Zakaron.png",
     "Resources/planet_AgrioDysisIV.png",
-    "Resources/Ancestry Lineup Erbium Industries.png",
-    "Resources/ancestryPortrait_Dwarf.png"
+    "Resources/Ancestry Lineup Erbium Industries.png"
   ]
 }

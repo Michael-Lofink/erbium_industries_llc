@@ -105,14 +105,11 @@ Settled Systems infrastructure appears frequently because it is part of her ever
 
 Other popular releases include:
 
-- **Local Noon**
+- **PREDATOR**
     
-- **Green Light**
+- **YAP YAP YAP**
     
-- **One More Bad Plan**
-    
-- **Still Working**
-    
+- **DRiFT RiDE**
 
 Concert versions frequently differ from the commercial recordings. KE$HRA leaves room for spoken asides, crowd interaction, and changes made in response to whatever is happening in the venue.
 

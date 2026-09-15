@@ -1,0 +1,344 @@
+[
+  {
+    "count": 1,
+    "title": "Get 'Em!",
+    "contents": [
+      "",
+      "subtitle |Directive, Envoy",
+      "html | Source Player Core pg. 104",
+      "text | You single out an enemy for you and your allies to focus your attacks on. Select an enemy within 60 feet that you can see. You and your allies gain a +1 status bonus to attacks against that target until the beginning of your next turn. Lead by Example If you used two actions, Strike the target. You gain a status bonus to the damage roll equal to your Charisma modifier. Regardless of whether the Strike hits, you and your allies gain a +1 status bonus to damage on subsequent Strikes made against the enemy until the start of your next turn. Increase the damage by 1 at 5th, 10th, 15th, and 20th levels.",
+      "",
+      ""
+    ],
+    "tags": [
+      "directive",
+      "envoy"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "Navy",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Navy",
+    "title_display": "Get 'Em! <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 271 72\" height=\"1em\" aria-label=\"1 action to 2 actions\"><g fill=\"currentColor\"><polygon points=\"12,36 25,23 38,36 25,49\"/><polygon points=\"48,0 31,17 49,36 31,54 48,72 84,36\"/></g><path d=\"M103 36h30m-7-7 7 7-7 7\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g fill=\"currentColor\"><polygon points=\"157,36 170,23 183,36 170,49\"/><polygon points=\"193,0 176,17 194,36 176,54 193,72 229,36\"/><polygon points=\"239,4 224,19 240,36 224,53 239,68 271,36\"/></g></svg>",
+    "icon_back": "smartphone-2"
+  },
+  {
+    "count": "1",
+    "title": "Digital Assessment!",
+    "contents": [
+      "",
+      "subtitle |Directive, Envoy",
+      "html | Source Player Core pg. 105",
+      "text | A quick check of your records and local infospheres lets you quickly disseminate information to your allies. Choose a creature within 100 feet and Recall Knowledge about the target. When you succeed at identifying your target with Recall Knowledge, you note a resistance or immunity in the creature's defenses in addition to any other benefits.Lead by Example If you used two actions, you Strike the target. You and your allies gain a +1 circumstance bonus to AC against attacks made by the target until the start of your next turn. If the target has the tech trait, it must attempt a Fortitude save against your class DC. On a failure, the target becomes glitching 1. The target is then immune to Digital Assessment for 1 hour.",
+      "",
+      "",
+      ""
+    ],
+    "tags": [
+      "directive",
+      "envoy"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "Navy",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Navy",
+    "title_display": "Digital Assessment! <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 271 72\" height=\"0.75em\" aria-label=\"1 action to 2 actions\"><g fill=\"currentColor\"><polygon points=\"12,36 25,23 38,36 25,49\"/><polygon points=\"48,0 31,17 49,36 31,54 48,72 84,36\"/></g><path d=\"M103 36h30m-7-7 7 7-7 7\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><g fill=\"currentColor\"><polygon points=\"157,36 170,23 183,36 170,49\"/><polygon points=\"193,0 176,17 194,36 176,54 193,72 229,36\"/><polygon points=\"239,4 224,19 240,36 224,53 239,68 271,36\"/></g></svg>",
+    "card_type": "",
+    "auto_fit_font_size": null,
+    "card_font_size": "10",
+    "icon_front": "",
+    "card_width": "63mm",
+    "card_height": "88mm",
+    "icon_back": "smartphone-2"
+  },
+  {
+    "count": 1,
+    "title": "Digital Diversion",
+    "contents": [
+      "subtitle |General, Skill ",
+      "html | Source Player Core pg. 218",
+      "text | Whether it's a sudden comm unit ping or a warning alarm on an equipment display, you can Create a Diversion by using Computers instead of Deception on an adjacent target carrying, wearing, or wielding a tech item.",
+      ""
+    ],
+    "tags": [
+      "general",
+      "skill"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": ""
+  },
+  {
+    "count": 1,
+    "title": "Size Up",
+    "contents": [
+      "subtitle | Concentrate, Envoy, Exploration.",
+      "html | Source Player Core pg. 108",
+      "text |You spend 1 minute observing a specific individual, 10 minutes researching a specific individual on the infosphere, or 1 hour networking and gathering information. This subject is your asset. If you assess your asset via observation, you don't need to know their identity, but if you assess your asset via research or networking, you must know their identity, which requires at least two relevant pieces of information about them. Examples of relevant information could include their name, their place of origin, their current residence, the name of their parent or significant other, their employer, or their organizational affiliation. The GM determines what constitutes relevant information for this purpose, based on the asset you've selected. You gain a +1 circumstance bonus to Deception, Diplomacy, Intimidation, and Perception checks against or in relation to your asset, and a +1 circumstance bonus to attempts to Recall Knowledge about your asset.You gain the benefits of the 2-action Get 'Em! when using 1-action Get 'Em! on an asset.You can maintain a number of assets equal to your Charisma modifier. If you Size Up other assets after that, your new asset replaces a previous one.",
+      "",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Navy",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Navy",
+    "auto_fit_font_size": false,
+    "vertical_alignment_reference": "",
+    "card_font_size": "8",
+    "icon_back": "smartphone-2"
+  },
+  {
+    "count": 1,
+    "title": "Psychic Blight Fonqugon",
+    "contents": [
+      "subtitle | Fonqugon, Heritage",
+      "html |Source Galactic Ancestries pg. 111",
+      "text | As a psychic blight fonqugon, your mind has adapted to withstand mental intrusion. You gain a +1 circumstance bonus to saving throws against mental effects, and you gain mental resistance equal to half your level (minimum 1).",
+      "",
+      " ",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Purple",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Purple",
+    "icon_front": "",
+    "icon_back": "slime"
+  },
+  {
+    "count": 1,
+    "title": "Feelings Brain ",
+    "contents": [
+      "subtitle |Fonqugon, Feat",
+      "html |Source Galactic Ancestries pg. 111",
+      "text | While you've got just as many emotions as other people, you've got an entire brain dedicated to keeping them under control so they don't interfere with the rest of your brains. You gain a +1 circumstance bonus to saves against emotion effects, and if you roll a success on a save against an emotion effect, you get a critical success instead.",
+      "",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Purple",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Purple",
+    "icon_back": "slime"
+  },
+  {
+    "count": 1,
+    "title": "Scion of the Fonqon Tree",
+    "contents": [
+      "subtitle |Fonqugon, Feat.",
+      "html |Source Galactic Ancestries pg. 112",
+      "text |Choose one cantrip from the primal spell list. You can cast this cantrip as a primal innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.Fonqugons must adapt to meet any challenge or threat that arises, and your magic is equally adaptable. By spending 1 day of downtime in a natural environment with any trees, you can change the cantrip you chose with this feat to a different primal cantrip.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Purple",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Purple",
+    "icon_back": "slime"
+  },
+  {
+    "count": 1,
+    "title": "Multilingual ",
+    "contents": [
+      "subtitle |General, Skill.",
+      "html |Source Player Core pg. 224",
+      "text |You easily pick up new languages. You learn two new languages, chosen from common languages, uncommon languages, and any others you have access to. You learn an additional language if you are or become a master in Society and again if you are or become legendary.",
+      "",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": ""
+  },
+  {
+    "count": 1,
+    "title": "Bargain Hunter",
+    "contents": [
+      "subtitle |General, Skill.",
+      "html |Source Player Core pg. 216",
+      "text |You can Earn Income using Diplomacy, spending your days hunting for bargains and reselling at a profit. You can also spend time specifically seeking a great bargain on an item; this works as if you were using Earn Income with Diplomacy, except instead of gaining money, you purchase the item at a discount equal to the money you would have gained, gaining the item for free if your earned income equals or exceeds its cost. Finally, if you select Bargain Hunter during character creation at 1st level, you start play with an additional 20 credits.",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Green",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Green"
+  },
+  {
+    "count": 1,
+    "title": "Group Impression",
+    "contents": [
+      "subtitle |General, Skill.",
+      "html | Source Player Core pg. 221",
+      "text |When you Make an Impression, you can compare your Diplomacy check result to the Will DCs of up to 10 targets you conversed with, with no penalty. The number of targets increases to 20 if you're an expert, 50 if you're a master, and 100 if you're legendary.",
+      "",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Green",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Green"
+  },
+  {
+    "count": 1,
+    "title": "Hobnobber",
+    "contents": [
+      "subtitle |General, Skill.",
+      "html |Source Player Core pg. 221",
+      "text | When you Make an Impression, you can compare your Diplomacy check result to the Will DCs of up to 10 targets you conversed with, with no penalty. The number of targets increases to 20 if you're an expert, 50 if you're a master, and 100 if you're legendary.",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Green",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Green"
+  },
+  {
+    "count": 1,
+    "title": "No Cause for Alarm",
+    "contents": [
+      "subtitle |Auditory, Concentrate, Emotion, General, Linguistic, Mental, Skill",
+      "html |Source Player Core pg. 224",
+      "text |You attempt to reduce panic. Attempt a Diplomacy check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are frightened. Each of them is temporarily immune for 1 hour. Critical Success Reduce the creature's frightened value by 2. Success Reduce the creature's frightened value by 1.",
+      "",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Green",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Green",
+    "icon_front": "p2e-3-actions"
+  },
+  {
+    "count": 1,
+    "title": "Autograppler",
+    "contents": [
+      "html |Source Player Core pg. 241",
+      "text |You can attach this anchoring device to a cable line with an Interact action. Clamps automatically slide from the base of the autograppler along the attached cable, allowing it to be climbed like a knotted rope. You can throw the autograppler to attach it to a solid surface, attempting a ranged attack roll using your simple weapon proficiency against a DC depending on the target, typically at least DC 20. This attack has the secret trait. On a success, your autograppler has a firm hold, but on a critical failure, the grappler seems like it will hold but detaches when you're partway up.",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "IndianRed",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "IndianRed",
+    "icon_back": "grapple"
+  },
+  {
+    "count": 1,
+    "title": "Neural Lash",
+    "contents": [
+      "subtitle |Analog, Nonlethal, Thought, Unwieldy, Versatile S",
+      "html |Source Player Core pg. 264",
+      "text |Damage 1d8 M. Bulk L Hands 1 Type Melee. Category, Martial. Group, Flail. Upgrades 1. This whiplike tendril of electricity subtly responds to psychic signals. Telepaths who wield a properly calibrated neural lash treat it as an extension of their body.",
+      "",
+      ""
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "IndianRed",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "IndianRed",
+    "icon_back": "whip"
+  },
+  {
+    "count": 1,
+    "title": "Neural Lash Traits",
+    "contents": [
+      "property | Analog | A weapon with the analog trait eschews advanced electronics and electric power sources but was manufactured and calibrated using advanced technology. This weapon is immune to abilities that target technology. Weapon runes don't function on this weapon unless this weapon also has the archaic trait. ",
+      "property | Nonlethal | Attacks with this weapon are nonlethal and are used to knock creatures unconscious instead of kill them. You can use a nonlethal weapon to make a lethal attack with a –2 circumstance penalty. ",
+      "property | Thought | Weapons with this trait are bioengineered with neuroreceptors allowing them to be controlled with telepathy. When you wield this weapon and have limited telepathy or telepathy, you can ignore any of the other traits the weapon normally has; this only applies to the other traits listed in the weapon entry, not to traits the weapon or actions receive from the use of other abilities or effects. ",
+      "property | Unwieldy | You can't use an unwieldy weapon more than once per round to Strike and can't use it to Strike as part of a reaction, such as Reactive Strike. ",
+      "property | Versatile S | A versatile weapon can be used to deal a different type of damage than its listed type. This trait indicates the alternate damage type. For instance, a piercing weapon with versatile S can deal piercing or slashing damage. You choose the damage type each time you attack. "
+    ],
+    "tags": [],
+    "color_front": "IndianRed",
+    "card_font_size": "",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": "",
+    "icon_back": "whip"
+  },
+  {
+    "count": 1,
+    "title": "Ponder Unity",
+    "contents": [
+      "subtitle | Unique, Auditory, Concentrate, Detection, Manipulate, Mental",
+      "property | Frequency | once per day",
+      "property | Requirements | within reach of the target",
+      "p2e_ruler",
+      "",
+      "text | You attempt to reflect a target within reach's surface-level thoughts out-loud, the target must attempt a Will Save, the target then becomes temporarily immune for 1 hour.",
+      "property | Critical Success | The target perceives vague surface thoughts from you when you use this ability",
+      "property | Success | You find out whether the target's Intelligence modifier is higher than, equal to, or lower than yours.",
+      "property | Failure | You repeat out-loud the vague surface thoughts from the target when you use the ability, and you find out whether its Intelligence is higher than, equal to, or lower than yours.",
+      "property | Critical Failure | As failure, but you can have the target make an additional Will Save (this save has the incapacitation trait) to dig deeper into the subconscious and reveal a secret they are keeping but the target becomes permanently immune to this ability. "
+    ],
+    "tags": [],
+    "icon_back_container": "rounded-square",
+    "color_front": "Purple",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Purple",
+    "icon_front": "p2e-free-action",
+    "card_font_size": "8",
+    "icon_back": "slime"
+  },
+  {
+    "count": 1,
+    "title": "Ponder Unity Traits",
+    "contents": [
+      "property | Auditory | Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can't hear it (such as deaf targets) as long as the effect itself makes sound. ",
+      "property | Concentrate | An action with this trait requires a degree of mental concentration and discipline. ",
+      "property | Detection | Effects with this trait attempt to determine the presence or location of a person, object, or aura. ",
+      "property | Manipulate | Actions with this trait require you to physically manipulate an item or make gestures to use. Creatures without a suitable appendage can't perform actions with this trait. Manipulate actions often trigger reactions. ",
+      "property | Mental | A mental effect can alter the target's mind. It has no effect on an object or a mindless creature. ",
+      "property | Incapacitation | An ability with this trait is harder to use on a more powerful character. If a spell has the incapacitation trait, any creature of more than twice the spell's rank treats the result of their check to prevent being incapacitated by the spell as one degree of success better, or the result of any check the spellcaster made to incapacitate them as one degree of success worse. If any other effect has this trait, a creature of higher level than the item, creature, or hazard generating the effect gains the same benefits. "
+    ],
+    "tags": [],
+    "color_front": "Purple",
+    "card_font_size": "",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": "",
+    "title_size": "",
+    "header_show": "",
+    "icon_back": "slime"
+  }
+]

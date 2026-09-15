@@ -1,5 +1,5 @@
 ```sf2e-stats
-# Sven
+# Sven'a
 ==Unique== ==Tiny== ==Construct== ==Mindless== ==Tech== ==Minion==
 **Recall Knowledge** DC 25 • Construct (Arcana), Construct (Crafting)
 **Perception** +7 (darkvision)
@@ -11,10 +11,10 @@
 
 **AC** 16; **Fort** +5, **Ref** +7, **Will** +6
 **HP** 15; **Hardness** 2; **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void
-**Bandolier Reload** Sven in weapon mode can be striked against a magazine to load the chamber. Unlike most Interact actions, you don’t need a free hand to reload Sven in this way.
-**Hype Man** `pf2:1` (auditory) Sven hypes up whatever you're about to say. You gain a +2 circumstance bonus to diplomacy and intimidation checks until the end of your turn.
+**Bandolier Reload** Sven'a in weapon mode can be striked against a magazine to load the chamber. Unlike most Interact actions, you don’t need a free hand to reload Sven'a in this way.
+**Hype Man** `pf2:1` (auditory) Sven'a hypes up whatever you're about to say. You gain a +2 circumstance bonus to diplomacy and intimidation checks until the end of your turn.
 **Unreliable Tech** Once an animated firearm is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, it becomes permanently [glitching](https://2e.aonsrd.com/conditions/19-glitching) 1 until its Hit Points are fully restored (such as by being [Repaired](https://2e.aonsrd.com/actions/75-repair)).
-**Weapon Mode** In the hands of its creator, Sven is a <u>commercial rotating pistol</u>. The creator can [Interact](https://2e.aonsrd.com/actions/6-interact) `pf2:1` to release the firearm into an adjacent space to act on its own, or to retrieve it from an adjacent space and use it as a weapon.
+**Weapon Mode** In the hands of its creator, Sven'a is a <u>commercial rotating pistol</u>. The creator can [Interact](https://2e.aonsrd.com/actions/6-interact) `pf2:1` to release the firearm into an adjacent space to act on its own, or to retrieve it from an adjacent space and use it as a weapon. While in weapon mode, Sven'a loses the Minion trait.
 
 ---
 

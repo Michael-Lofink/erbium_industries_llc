@@ -112,3 +112,17 @@ if (!clock) {
     }
 }
 ```
+
+
+# Outline
+> Scenes
+> 	Mary Beth
+> 	Jonah
+> 	Maggie
+> 	Gregory
+> 	Opening
+> Enter frontier space (personal relays to stay on-stamp)
+> Their ship gets shot down, forcibly enters orbit of astral body, (Crash landing)
+> Everybody but the Player Characters die. probably.
+> They meet the Copaxi 
+> Dun dun DUUUUUUH (Objective find a way back home)
