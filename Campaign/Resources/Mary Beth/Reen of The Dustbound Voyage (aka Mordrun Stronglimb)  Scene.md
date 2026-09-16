@@ -25,8 +25,32 @@ His hand stops.
 
 The coffee sits there for a moment as drips of dark black liquid splat into the cup.
 
-"Mordrun Stronglimb. Report for intake, Concourse 4, service desk 18."
+"Abigail Benford, PPPP, Zed Zaffer, and Mordrun Stronglimb. Report for intake, Concourse 4, service desk 18."
 
-He takes the cup. Turns from the kiosk, attempting to steel himself, he begins. His pace at first casual, then awkwardly quick, then faster. We follow him as he brushes through the flow of the crowd moving in the opposite direction. The coffee clatters to the ground as Mordrun slams into someone breaking into a full on sprint. He pants, as he presses forward it feels as though no progress is made. Then he hears it and a cold chill runs down his spine, "Mordrun?" 
+He takes the cup. He turns from the kiosk, attempting to steel himself, and begins walking. His pace at first casual, then awkwardly quick, then faster. We follow him as he brushes through the flow of the crowd moving in the opposite direction. The coffee and his identification badge clatter to the ground as Mordrun slams into someone before breaking into a full on sprint. He pants and coughs, but as he presses forward it feels as though no progress is made. Then he hears it and a cold chill runs down his spine, "Mordrun?" 
 
-An older dwarven woman catches up from behind him, "There you are, I thought you'd already gotten to the platform." Mordrun shakes his head,  She looks at him, then towards the nearest information screen where the Great Volunteering emblem sits in the corner. "Oh."
+An older dwarven woman catches up from behind him, "There you are, I thought you'd already gotten to the platform." Mordrun shakes his head, trying to muster a word, but having finally stopped running, all he can do is heave from exertion. She looks at him, then towards the nearest information screen where the Great Volunteering emblem sits in the corner. "Oh."
+
+Mordrun's breathing becomes faster. The woman steps closer, lowering her voice, "Hey, look at me. They haven't even told you where you're going yet." Mordrun looks up to make eye contact. "I know. I know. You've spent thirty years telling everyone else that Stronglimbs don't run from what they're given. So don't start running now." Mordrun looks towards the departure gates. "Whatever they've drawn you for, you'll do it, you'll come back, and then you'll complain about it for the next twenty years like you do everything else." She smiles, but Mordrun doesn't. A moment passes. She sighs, "Take a moment to collect yourself. But, then you need to go."
+
+We stay on Mordrun. His shoulders rise, fall, rise again. His eyes close.
+
+"Second notice. Abigail Benford and Mordrun Stronglimb. Report for intake, Concourse 4, service desk 18. Failure to report may result in enforcement measures." rings out as we zoom out and fade to black.
+
+Feet kick idly against the edge of a low divider, around the area, the station continues normally, people passing in either direction, luggage rolling against the floor, the distant sound of a crowd chanting somewhere deeper in Theosis. We see the turn of a page, "You won't fight, as gentlemen o' fortune should; then, by thunder, you'll obey, and you may lay to it!" is printed plainly on the page alongside the rest of the text but it resonates with our reader. He looks up and we see a screen.
+
+A large screen above the concourse shows a ship passing through the Drift, replaced by a survey team stepping onto the surface of an unfamiliar planet. "See what waits beyond the Settled Systems. Volunteering gives ordinary citizens the opportunity to serve beside the explorers, technicians, settlers, and specialists bringing civilization farther than ever before." The screen changes, a pilot sits at the controls of a small vessel, the stars stretching beyond the glass. "Serve where you're needed. Travel where others can't. Bring home the stars."
+
+One last time, we hear over an intercom, "Final notice, Abigail Benford and Mordrun Stronglimb. You have 10 offsets to report for intake, Concourse 4, service desk 18." He takes one more look at his book, then the advertisements on the screen, then the service desk off in the distance. He fiddles with his belongings, and straps on the armlet he finds.
+
+The next thing we see is service desk 18. An unamused, disinterested clerk spots the approaching dwarf, glances at the terminal in front of her, and calls out, "Mordrun Stronglimb?" He looks nervous, but he says =="Yes, Mr. Stronglimb reporting for duty."==
+
+She types his name into the terminal. A red box appears on the edge of her screen. `VISUAL RECORD UNAVAILABLE` She looks up. He cracks a meek smile. Ignoring his dismay, she plainly asks, "Badge?" A pause. He starts patting down his jacket, =="I... lost it?"== The woman stares at him. Back towards the concourse general area, we cut briefly to two men shouting at one another as a luggage cart tips onto its side. Someone begins yelling for security. We cut back. The woman glances towards the disturbance, then back towards Mr. Stronglimb. Another notification appears on her terminal. `IDENTITY ARCHIVE SERVICE INTERRUPTION` "Of course," She turns the screen slightly, "Hand." He places his hand against the scanner, and a quiet "ping" sound can be heard accompanied by a green flash, and the sound of a printer churning begins. "You're eighteen offsets late," she drones. =="I got lost."== Behind the woman is a large sign reading `GREAT VOLUNTEERING — DESK 18`. She looks at the sign. He follows her eyes and looks at it too. The woman looks back towards her terminal. Another red warning appears. Security runs past behind them towards the argument. The printer somewhere behind the desk jams with a grinding "krrk-krrk-krrk". The woman closes her eyes for a moment. 
+
+"Mr. Stronglimb, are you reporting for your assigned Great Volunteering service?"
+
+=="Yes."==
+
+"Voluntarily?"
+
+He nods. She opens her eyes. The meek smile is still there. A moment passes. "Fine." She turns the terminal towards him. "Confirm." He presses his finger to the screen, =="eik"==, and jerks his hand away. A small red dot appears beneath his fingertip. The terminal flashes green. "Intake complete." She slides a temporary service badge across the desk. He takes it, staring at his name printed across the front. "Sign here." She slides a piece of analog paper to him and a ball-pen. We look down at the form as he signs "Mordrun Stronglimb" above the dotted line.
