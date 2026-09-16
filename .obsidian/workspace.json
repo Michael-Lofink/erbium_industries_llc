@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
+                "file": "Campaign/Resources/Player Side/Social Contract Truncated.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene"
+              "title": "Social Contract Truncated"
             }
           }
         ]
@@ -214,8 +214,11 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
-    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "Campaign/Resources/Player Side/Social contract.md",
     "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
+    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "PDFExports/Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.pdf",
+    "PDFExports/Campaign/Resources/Mary Beth",
     "Worldbuilding/Notable Locations/Wander.md",
     "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
@@ -245,13 +248,9 @@
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
     "Campaign/Resources/Player Side/Social Contract Truncated.md",
     "PDFExports/Social Contract Truncated.pdf",
-    "Campaign/Resources/Player Side/Social contract.md",
     "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
     "Worldbuilding/Settled Systems Code/Interpreting an Existing Code.md",
-    "Worldbuilding/Settled Systems Code/Generating a New Law.md",
     "Campaign/Resources/Mary Beth",
-    "PDFExports/Campaign/Resources/Gregory/Animated Firearm.pdf",
-    "PDFExports/Campaign/Resources/Gregory",
     "Resources/characterPortrait_KE$HRA.png",
     "Resources/creaturePortrait_EnforcerRobot.png",
     "Resources/erbium_industries_fed_voxel.png",
