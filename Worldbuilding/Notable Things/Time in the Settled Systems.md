@@ -14,7 +14,7 @@ status: draft
 # Post-Erbium Standard
 
 > [!summary]
-> The **Post-Erbium Standard**, commonly abbreviated **PES**, is the universal timekeeping protocol used throughout the [[Settled Systems]]. Its central measurement is the **stamp**, a synchronized count of standard minutes maintained across the communications infrastructure operated by [[The Fall of Wander and the Rise of Erbium Industries]].
+> The **Post-Erbium Standard**, commonly abbreviated **PES**, is the universal timekeeping protocol used throughout the [[Settled Systems]]. Its central measurement is the **stamp**, a synchronized count of standard minutes maintained across the communications infrastructure operated by [[Erbium Industries LLC]].
 
 ## Origin
 

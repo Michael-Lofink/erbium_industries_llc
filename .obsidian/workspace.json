@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Resources/Player Side/Social Contract Truncated.md",
-                "mode": "source",
+                "file": "Worldbuilding/Notable Things/Time in the Settled Systems.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Social Contract Truncated"
+              "title": "Time in the Settled Systems"
             }
           }
         ]
@@ -212,18 +212,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3ba2665f9323ce20",
+  "active": "b25d00fc11f20878",
   "lastOpenFiles": [
-    "Campaign/Resources/Player Side/Social contract.md",
+    "Worldbuilding/Notable Things/Time in the Settled Systems.md",
+    "Settled Systems.md",
+    "PDFExports/Notable Things/Time in the Settled Systems.pdf",
+    "Worldbuilding/Notable Things/Void Calling.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
+    "Campaign/Resources/Player Side/Social Contract Truncated.md",
+    "Campaign/Resources/Player Side/Social contract.md",
     "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
     "PDFExports/Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.pdf",
     "PDFExports/Campaign/Resources/Mary Beth",
     "Worldbuilding/Notable Locations/Wander.md",
-    "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
     "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Campaign/Resources/Maggie/Tarn Scene.md",
     "Pasted image 20260914121730.png",
     "Campaign/Resources/Jonah/Ponderer's Cards (lvl 1 draft 2).json",
@@ -246,11 +251,7 @@
     "Worldbuilding/00_Mechanics/Demi-Ancestries/Goblin.md",
     "Worldbuilding/00_Mechanics/Demi-Ancestries",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "Campaign/Resources/Player Side/Social Contract Truncated.md",
     "PDFExports/Social Contract Truncated.pdf",
-    "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
-    "Worldbuilding/Settled Systems Code/Interpreting an Existing Code.md",
-    "Campaign/Resources/Mary Beth",
     "Resources/characterPortrait_KE$HRA.png",
     "Resources/creaturePortrait_EnforcerRobot.png",
     "Resources/erbium_industries_fed_voxel.png",
