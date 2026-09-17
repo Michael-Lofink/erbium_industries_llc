@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Resources/Maggie/Tarn Scene.md",
-                "mode": "source",
-                "source": false
+                "file": "Campaign/Resources/Gregory/Animated Firearm.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Tarn Scene"
+              "title": "Animated Firearm"
             }
           }
         ]
@@ -214,16 +214,26 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
-    "Worldbuilding/Notable Locations/Theosis.md",
+    "Campaign/Resources/Gregory/8-Ball Scene.md",
+    "Worldbuilding/00_Mechanics/Demi-Ancestries/Copaxi.md",
+    "Worldbuilding/00_Mechanics/Demi-Ancestries/Goblin.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
+    "Campaign/Resources/Maggie/Tuppie.md",
+    "PDFExports/Campaign/Resources/Maggie/Tuppie.pdf",
+    "PDFExports/Campaign/Resources/Maggie",
+    "Campaign/Resources/Gregory/Animated Firearm.md",
+    "Campaign/Resources/Gregory/Secret Backstory.md",
     "Campaign/Resources/Maggie/Tarn Scene.md",
+    "Campaign/Resources/Player Side/Social contract.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
     "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
     "Worldbuilding/Notable Things/Time in the Settled Systems.md",
     "Settled Systems.md",
     "PDFExports/Notable Things/Time in the Settled Systems.pdf",
     "Worldbuilding/Notable Things/Void Calling.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Campaign/Resources/Player Side/Social Contract Truncated.md",
-    "Campaign/Resources/Player Side/Social contract.md",
     "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
     "PDFExports/Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.pdf",
     "PDFExports/Campaign/Resources/Mary Beth",
@@ -233,10 +243,6 @@
     "Pasted image 20260914121730.png",
     "Campaign/Resources/Jonah/Ponderer's Cards (lvl 1 draft 2).json",
     "Campaign/Sessions/Session 1.md",
-    "Worldbuilding/00_Mechanics/Demi-Ancestries/Copaxi.md",
-    "Campaign/Resources/Gregory/Animated Firearm.md",
-    "Campaign/Resources/Gregory/8-Ball Scene.md",
-    "Campaign/Resources/Gregory/Secret Backstory.md",
     "Worldbuilding/Notable People/KE$HRA.md",
     "PDFExports/Notable People/KE$HRA.pdf",
     "Worldbuilding/Notable People/Hondue Last-Tether.md",
@@ -245,13 +251,7 @@
     "PDFExports/Campaign/Resources/Jonah",
     "Worldbuilding/Settled Systems Code/Creating a Settled Systems Code Players.md",
     "Campaign/Resources/Jonah/Ponder Unity.md",
-    "Worldbuilding/Notable People/Corpo 8-Ball.md",
-    "Worldbuilding/Notable People/Cowboy 8-Ball.md",
     "Campaign/Resources/Maggie",
-    "Worldbuilding/00_Mechanics/Demi-Ancestries/Goblin.md",
-    "Worldbuilding/00_Mechanics/Demi-Ancestries",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
-    "PDFExports/Social Contract Truncated.pdf",
     "Resources/characterPortrait_KE$HRA.png",
     "Resources/creaturePortrait_EnforcerRobot.png",
     "Resources/erbium_industries_fed_voxel.png",
