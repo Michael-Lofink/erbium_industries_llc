@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign/Resources/Maggie/The Crew.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -214,13 +214,14 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
+    "Campaign/Resources/Player Side/Social contract.md",
+    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
+    "Campaign/Resources/Maggie/Tarn Scene.md",
+    "Campaign/Resources/Maggie/The Crew.md",
     "PDFExports/Campaign/Resources/Maggie/The Crew.pdf",
     "Worldbuilding/Notable Locations/Theosis.md",
-    "Campaign/Resources/Maggie/The Crew.md",
-    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
     "Campaign/Sessions/Session 1.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
-    "Campaign/Resources/Maggie/Tarn Scene.md",
     "Resources/Ancestry Lineup Erbium Industries.png",
     "Resources/characterPortrait_Ponderer.png",
     "Resources/characterPortrait_Mordrun.png",
@@ -246,7 +247,6 @@
     "PDFExports/Campaign/Resources/Maggie/Tuppie.pdf",
     "PDFExports/Campaign/Resources/Maggie",
     "Campaign/Resources/Gregory/Secret Backstory.md",
-    "Campaign/Resources/Player Side/Social contract.md",
     "Worldbuilding/Notable Things/Time in the Settled Systems.md",
     "Settled Systems.md",
     "PDFExports/Notable Things/Time in the Settled Systems.pdf",
@@ -258,7 +258,6 @@
     "Worldbuilding/Notable Locations/Wander.md",
     "Campaign/Resources/Jonah/Ponderer's Cards (lvl 1 draft 2).json",
     "PDFExports/Notable People/KE$HRA.pdf",
-    "PDFExports/Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.pdf",
-    "PDFExports/Campaign/Resources/Jonah"
+    "PDFExports/Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.pdf"
   ]
 }
