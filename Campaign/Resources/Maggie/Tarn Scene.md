@@ -12,7 +12,7 @@ Scene is parents sitting me down, showing photos from Zelle of new housing unit,
 
 
 # Scene
-"You won't remember...Come to Luna `*garbled*` system...One day `*garbled*` understand" bright, flashing lights can be seen through an out of focus lens.
+"You won't remember...Come to Luna `*garbled*` system...One day `*garbled*` try to understand" bright, flashing lights can be seen through an out of focus lens.
 
 We cut to an overhead shot of a sleeping brenneri, head laid on a fluffy pink pillow with white cloth blankets draped over the rest of her body. She wakes with a start, =="Sobok?"==, there's a mist in her eyes she doesn't notice. The rest of the room is covered in the average commodities of a teenage girl. A small desk area in the corner of the room, blocked from view by a bookshelf if you're looking from the main doorway leading in. She doesn't notice she spoke as her eyes dart along the room, the normal flood of her senses accompanying the morning are gone: No smell of Pancakes topped with Ossian cream, or traditional Third Wall ballads to lull her from rest. Instead just the cold of band 2. *Knock Knock*, the sound of knocking at the door. "little boe, could mom and I see you in the main hab?" the sound of her father sneaks through the door, but the door never opens before the sound of footsteps receding can be heard.
 
@@ -39,5 +39,9 @@ Her father finishes his wife's thought, "We need you to enlist little boe."
 "and safe, service with openings right now. You'd be able to still attend school when you're off duty."
 "This would be a real resume builder, Tarn, not many Brenneri get service experience this early on in their career."
 "You'd be helping people darling. Just.. Think on it."
+
+=="What are you asking me to do?"==
+
+Her father answers, "We need you to enlist, little boe."
 
 The camera cuts to black.
