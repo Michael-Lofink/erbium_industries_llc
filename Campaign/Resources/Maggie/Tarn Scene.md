@@ -1,16 +1,3 @@
-# Outline
-Starts off with, She gets up in the morning, looking for Sobok, parents are home <- weird because they're never home in the mornings and sobok is missing.
-We need to sit you down son <- still a girl
-You're old enough
-==Sure, but where's Sobok?==
-You don't understand, he's gone, go work for [[Erbium Industries LLC]]
-Mom is like, I had my annual, offering me a promising promotion but they want more enlistment I need you to go work for erbium.
-
-So next morning after sobok gone, parents are pressuring Tarn to enlist in service because they have an offer for housing in an upper district which would provide better opportunities for all of them, but to qualify for the housing unit, at least 3 occupants need to be enlisted in service.
-
-Scene is parents sitting me down, showing photos from Zelle of new housing unit, "You know the water leak in your room? Could be a new plasma tv instead" next to crappy photographs of Tarn's old room
-
-
 # Scene
 “You won’t remember... Come to Luna—`*garbled*`—system... One day—`*garbled*`—try to understand.” Bright, flashing lights bleed through an out-of-focus lens.
 
@@ -54,7 +41,7 @@ Her mother continues, “Well... sweetheart, for a housing unit like this, the h
 
 “I talked with Andrew, and there’s this wonderful—” her mother begins. “—and safe—” Tarn’s father adds quickly. Her mother nods and continues, “—and safe service with openings right now. You’d still be able to attend school when you’re off duty.”
 
-Her father leans forward again, trying to sound encouraging. “This would be a real résumé builder, Tarn. Not many brenneri get service experience this early in their career.” Her mother adds, “You’d be helping people, darling. Just... think on it.”
+Her father leans forward again, trying to sound encouraging. “This would be a real résumé builder, Tarn. Not many brenneri get service experience this early in their career. And no one would question it given our--” he begins to motion between the three of them but Tarn's mother cuts him off adding, “You’d be helping people, darling. Just... think on it.”
 
 Tarn stares at the housing pictures for another moment before looking from her mother to her father. ==“What are you asking me to do?”==
 
