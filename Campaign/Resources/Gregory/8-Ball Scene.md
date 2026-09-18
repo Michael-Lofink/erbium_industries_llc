@@ -1,5 +1,5 @@
 # Outline
-Wrip the exact opening from fallout new vegas (literally stole the platinum coin)
+Rip the exact opening from fallout new vegas (literally stole the platinum coin)
 Shot in the head
 Original voice clean texan accent (won't use being 8-ball)
 Being shot is a betrayal? 
@@ -34,3 +34,5 @@ No internal monologue
 Seeing the person that puts him down
 Not knowing why
 Person who puts him down says abstract stuff that 8-ball then would know but we will be confused.
+
+# Scene
