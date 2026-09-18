@@ -526,5 +526,143 @@
     "card_font_size": "7",
     "auto_fit_font_size": true,
     "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "FED Traits I",
+    "contents": [
+      "html | <div style=\"font-size:6.5pt;color:#555;margin-bottom:3px;\">Source Player Core pp. 246, 456</div>",
+      "text | <b>Comfort</b> This armor is so comfortable that you can rest normally while wearing it.",
+      "text | <b>Flexible</b> The armor is flexible enough that it doesn’t hinder most actions. You don’t apply its check penalty to Acrobatics or Athletics checks.",
+      "text | <b>Tech</b> Equipment with the tech trait rely on electricity and may gain the glitching condition. Some creatures and hazards also have the tech trait, such as artificial intelligence, robots, and turrets."
+    ],
+    "tags": [
+      "erbium",
+      "fed",
+      "trait",
+      "reference"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DeepSkyBlue",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "DeepSkyBlue",
+    "icon_front": "",
+    "icon_back": "open-book",
+    "title_size": "9",
+    "card_type": "Reference",
+    "card_font_size": "",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "FED Traits II",
+    "contents": [
+      "html | <div style=\"font-size:6.5pt;color:#555;margin-bottom:3px;\">Source Player Core p. 257</div>",
+      "text | <b>Powered</b> This melee weapon uses a battery. You can activate or deactivate a powered weapon with an Interact action or as part of drawing or stowing it. This weapon comes with a commercial battery installed and uses 1 charge per day (rather than 1 charge per attack). If you try to attack with a powered weapon that’s out of charges or deactivated, it functions as an improvised weapon. A modular (powered) weapon activates or deactivates when it switches between its modular configurations.",
+      "text | <b>Professional</b> A weapon with this trait can be used as a toolkit for the listed skill. Add the weapon’s item bonus to attack rolls as an item bonus to skill checks using the listed skill. For purposes of proficiency, you treat this martial weapon as a simple weapon or this advanced weapon as a martial weapon, up to your proficiency with the listed skill (if higher than your normal proficiency for this weapon)."
+    ],
+    "tags": [
+      "erbium",
+      "fed",
+      "trait",
+      "reference"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DeepSkyBlue",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "DeepSkyBlue",
+    "icon_front": "",
+    "icon_back": "open-book",
+    "title_size": "9",
+    "card_type": "Reference",
+    "card_font_size": "",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "FED Traits III",
+    "contents": [
+      "html | <div style=\"font-size:6.5pt;color:#555;margin-bottom:3px;\">Source Player Core p. 259</div>",
+      "text | <b>Razing</b> This weapon is particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including shields and animated objects), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice.",
+      "text | <b>Unwieldy</b> You can’t use an unwieldy weapon more than once per round to Strike and can’t use it to Strike as part of a reaction, such as Reactive Strike."
+    ],
+    "tags": [
+      "erbium",
+      "fed",
+      "trait",
+      "reference"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DeepSkyBlue",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "DeepSkyBlue",
+    "icon_front": "",
+    "icon_back": "open-book",
+    "title_size": "9",
+    "card_type": "Reference",
+    "card_font_size": "",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "FED Traits IV",
+    "contents": [
+      "html | <div style=\"font-size:6.5pt;color:#555;margin-bottom:3px;\">Source Player Core pp. 446, 450</div>",
+      "text | <b>Extradimensional</b> An effect or item with this trait creates an extradimensional space. An extradimensional effect placed inside another extradimensional space ceases to function until it’s removed.",
+      "text | <b>Magical</b> Something with the magical trait is imbued with magical energies not tied to a specific tradition of magic. Some items or effects are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicate that the item is magical."
+    ],
+    "tags": [
+      "erbium",
+      "fed",
+      "trait",
+      "reference"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DeepSkyBlue",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "DeepSkyBlue",
+    "icon_front": "",
+    "icon_back": "open-book",
+    "title_size": "9",
+    "card_type": "Reference",
+    "card_font_size": "",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "FED Campaign Traits",
+    "contents": [
+      "html | <div style=\"font-size:6.5pt;color:#555;margin-bottom:3px;\">Campaign-specific traits used by the Erbium Industries FED package.</div>",
+      "text | <b>Erbium</b> This item is manufactured, issued, modified, or administratively controlled by Erbium Industries LLC. Other Erbium rules can identify or interact with equipment bearing this trait.",
+      "text | <b>Leased</b> This item remains property of Erbium Industries LLC while assigned to an employee. Loss, avoidable damage, unauthorized modification, or failure to return it can create an employee-account liability when the campaign rules make that relevant.",
+      "text | <b>Homebrew</b> This rules element was created for the Erbium Industries campaign and is not part of published Starfinder Second Edition rules."
+    ],
+    "tags": [
+      "erbium",
+      "fed",
+      "trait",
+      "reference",
+      "homebrew"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "MediumVioletRed",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "MediumVioletRed",
+    "icon_front": "",
+    "icon_back": "open-book",
+    "title_size": "9",
+    "card_type": "Reference",
+    "card_font_size": "",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
   }
 ]

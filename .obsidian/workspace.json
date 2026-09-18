@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Resources/Gregory/8-Ball Scene.md",
+                "file": "Campaign/Resources/Maggie/Tarn Scene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-Ball Scene"
+              "title": "Tarn Scene"
             }
           },
           {
@@ -228,24 +228,29 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
-    "Worldbuilding/Notable Locations/Zakaron.md",
-    "Campaign/Resources/Gregory/8-Ball Scene.md",
+    "Campaign/Resources/Jonah/PondererLvl1Cards.pdf",
+    "Campaign/Resources/Player Side/FEDEquipmentPackageNoShared.pdf",
     "Campaign/Resources/Player Side/FEDEquipmentPackage.pdf",
+    "Campaign/Resources/Player Side/FED_Equipment_Cards.json",
+    "Campaign/Resources/Player Side/FED_Equipment_Cards(1).json",
+    "PDFExports/Campaign/Resources/Maggie/Tarn Scene.pdf",
+    "Campaign/Resources/Gregory/8-Ball Scene.md",
+    "Campaign/Resources/Gregory/Animated Firearm.md",
+    "Campaign/Resources/Gregory/Secret Backstory.md",
+    "PDFExports/Campaign/Resources/Gregory/8-Ball Scene.pdf",
+    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
+    "Campaign/Resources/Maggie/Tarn Scene.md",
+    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "Campaign/Resources/Jonah/Ponder Unity.md",
+    "Worldbuilding/Notable Locations/Zakaron.md",
     "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
     "Campaign/Resources/Player Side/Social contract.md",
     "Campaign/Sessions/Session 1.md",
-    "Campaign/Resources/Gregory/Animated Firearm.md",
     "Campaign/Resources/Player Side/Social Contract Truncated.md",
     "Worldbuilding/Notable Locations/Theosis.md",
-    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
-    "Campaign/Resources/Jonah/Ponder Unity.md",
-    "Campaign/Resources/Maggie/Tarn Scene.md",
-    "Campaign/Resources/Gregory/Secret Backstory.md",
-    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
     "Campaign/Resources/Maggie/The Crew.md",
     "Resources/erbium_industries_fed.png",
     "Resources/erbium_industries_fed_voxel.png",
-    "Campaign/Resources/Player Side/FED_Equipment_Cards.json",
     "Campaign/Resources/Player Side/FED_Equipment_Cards_v3_1_compact_manifest.json",
     "Campaign/Resources/Maggie/Tuppie.md",
     "Campaign/Resources/Maggie/Tarn_lvl1(2).json",
@@ -267,11 +272,7 @@
     "Worldbuilding/00_Mechanics/Demi-Ancestries/Goblin.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
-    "PDFExports/Campaign/Resources/Maggie/Tuppie.pdf",
-    "PDFExports/Campaign/Resources/Maggie",
     "Worldbuilding/Notable Things/Time in the Settled Systems.md",
-    "Settled Systems.md",
-    "PDFExports/Notable Things/Time in the Settled Systems.pdf",
-    "PDFExports/Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.pdf"
+    "Settled Systems.md"
   ]
 }

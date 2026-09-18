@@ -1,4 +1,3 @@
-# Scene
 “You won’t remember... Come to Luna—`*garbled*`—system... One day—`*garbled*`—try to understand.” Bright, flashing lights bleed through an out-of-focus lens.
 
 We cut to an overhead shot of a sleeping brenneri, her head resting on a fluffy pink pillow with white blankets draped over the rest of her body. She wakes with a start. ==“Sobok?”== There’s a mist in her eyes she doesn’t notice.
