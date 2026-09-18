@@ -36,3 +36,4 @@ Not knowing why
 Person who puts him down says abstract stuff that 8-ball then would know but we will be confused.
 
 # Scene
+We open up looking through the scope of a rifle, trained on a hat with a tall creased crown and wide curved brim. Beneath the brim, a lone droid treads forward through a crowd. We follow the line of the scope up and up, past the beating heat of the sunlock until up becomes down as we reorient to the overcity. 
