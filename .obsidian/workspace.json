@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Resources/Maggie/Tarn Scene.md",
+                "file": "Campaign/Resources/Maggie/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarn Scene"
+              "title": "Untitled"
             }
           },
           {
@@ -228,18 +228,24 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
+    "Campaign/Resources/Maggie/RoutineEvalFor8Ball.png",
+    "PDFExports/Campaign/Resources/Maggie/Paper Minis - Tarn.pdf",
+    "Jonah Pain Point Transcript.md",
+    "Campaign/Resources/Maggie/Untitled.md",
+    "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
+    "Campaign/Resources/Gregory/8-Ball Scene.md",
+    "Pasted image 20260914121730.png",
+    "Campaign/Resources/Maggie/Tarn Scene.md",
     "Campaign/Resources/Jonah/PondererLvl1Cards.pdf",
     "Campaign/Resources/Player Side/FEDEquipmentPackageNoShared.pdf",
     "Campaign/Resources/Player Side/FEDEquipmentPackage.pdf",
     "Campaign/Resources/Player Side/FED_Equipment_Cards.json",
     "Campaign/Resources/Player Side/FED_Equipment_Cards(1).json",
     "PDFExports/Campaign/Resources/Maggie/Tarn Scene.pdf",
-    "Campaign/Resources/Gregory/8-Ball Scene.md",
     "Campaign/Resources/Gregory/Animated Firearm.md",
     "Campaign/Resources/Gregory/Secret Backstory.md",
     "PDFExports/Campaign/Resources/Gregory/8-Ball Scene.pdf",
     "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
-    "Campaign/Resources/Maggie/Tarn Scene.md",
     "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
     "Campaign/Resources/Jonah/Ponder Unity.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
@@ -255,7 +261,6 @@
     "Campaign/Resources/Maggie/Tuppie.md",
     "Campaign/Resources/Maggie/Tarn_lvl1(2).json",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Android/Android.md",
-    "PDFExports/Campaign/Resources/Maggie/The Crew.pdf",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
     "Resources/Ancestry Lineup Erbium Industries.png",
     "Resources/characterPortrait_Ponderer.png",
@@ -264,15 +269,10 @@
     "Resources/characterPortrait_KE$HRA.png",
     "Resources/creaturePortrait_EnforcerRobot.png",
     "Resources/ancestryPortrait_Vesk.png",
-    "Resources/ancestryPortrait_Vesk2.png",
-    "Resources/Android_71926_2145.pdf",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Worldbuilding/00_Mechanics/Demi-Ancestries/Copaxi.md",
     "Worldbuilding/00_Mechanics/Demi-Ancestries/Goblin.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
-    "Worldbuilding/Notable Things/Time in the Settled Systems.md",
-    "Settled Systems.md"
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md"
   ]
 }
