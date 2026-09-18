@@ -116,13 +116,15 @@ if (!clock) {
 
 # Outline
 > Scenes
+
 > 	Mary Beth
 > 	Jonah
 > 	Maggie
 > 	Gregory
 > 	Opening
+
 > Enter frontier space (personal relays to stay on-stamp)
 > Their ship gets shot down, forcibly enters orbit of astral body, (Crash landing)
-> Everybody but the Player Characters die. probably.
-> They meet the Copaxi 
+> Everybody but the Player Characters die. probably. (Objective find a way back home)
+> They meet the Copaxi (if enough time)?
 > Dun dun DUUUUUUH (Objective find a way back home)

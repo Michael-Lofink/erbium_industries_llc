@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Resources/Maggie/The Crew.md",
-                "mode": "preview",
+                "file": "Campaign/Resources/Maggie/Tarn Scene.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Crew"
+              "title": "Tarn Scene"
             }
           }
         ]
@@ -214,13 +214,26 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
-    "Campaign/Resources/Player Side/Social contract.md",
+    "Worldbuilding/Notable Locations/Theosis.md",
     "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
     "Campaign/Resources/Maggie/Tarn Scene.md",
     "Campaign/Resources/Maggie/The Crew.md",
-    "PDFExports/Campaign/Resources/Maggie/The Crew.pdf",
-    "Worldbuilding/Notable Locations/Theosis.md",
+    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "Campaign/Resources/Gregory/Secret Backstory.md",
+    "Campaign/Resources/Gregory/Animated Firearm.md",
+    "Campaign/Resources/Gregory/8-Ball Scene.md",
+    "Resources/erbium_industries_fed.png",
+    "Resources/erbium_industries_fed_voxel.png",
+    "Campaign/Resources/Player Side/FED_Equipment_Cards.json",
+    "Campaign/Resources/Player Side/FED_Equipment_Cards_v3_1_compact_manifest.json",
+    "Campaign/Resources/Player Side/FEDEquipmentPackage.pdf",
+    "Campaign/Resources/Maggie/Tuppie.md",
     "Campaign/Sessions/Session 1.md",
+    "Campaign/Resources/Maggie/Tarn_lvl1(2).json",
+    "Campaign/Resources/Player Side/Social contract.md",
+    "Campaign/Resources/Player Side/Social Contract Truncated.md",
+    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Android/Android.md",
+    "PDFExports/Campaign/Resources/Maggie/The Crew.pdf",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
     "Resources/Ancestry Lineup Erbium Industries.png",
     "Resources/characterPortrait_Ponderer.png",
@@ -228,36 +241,23 @@
     "Resources/characterPortrait_Hondue.png",
     "Resources/characterPortrait_KE$HRA.png",
     "Resources/creaturePortrait_EnforcerRobot.png",
-    "Resources/erbium_industries_fed.png",
-    "Resources/erbium_industries_fed_voxel.png",
     "Resources/ancestryPortrait_Vesk.png",
     "Resources/ancestryPortrait_Vesk2.png",
     "Resources/Android_71926_2145.pdf",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Android/Android.md",
-    "Campaign/Resources/Maggie/Tuppie.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Vesk/Vesk.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
-    "Campaign/Resources/Gregory/Animated Firearm.md",
-    "Campaign/Resources/Gregory/8-Ball Scene.md",
     "Worldbuilding/00_Mechanics/Demi-Ancestries/Copaxi.md",
     "Worldbuilding/00_Mechanics/Demi-Ancestries/Goblin.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
     "PDFExports/Campaign/Resources/Maggie/Tuppie.pdf",
     "PDFExports/Campaign/Resources/Maggie",
-    "Campaign/Resources/Gregory/Secret Backstory.md",
     "Worldbuilding/Notable Things/Time in the Settled Systems.md",
     "Settled Systems.md",
     "PDFExports/Notable Things/Time in the Settled Systems.pdf",
     "Worldbuilding/Notable Things/Void Calling.md",
-    "Campaign/Resources/Player Side/Social Contract Truncated.md",
-    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
     "PDFExports/Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.pdf",
-    "PDFExports/Campaign/Resources/Mary Beth",
-    "Worldbuilding/Notable Locations/Wander.md",
-    "Campaign/Resources/Jonah/Ponderer's Cards (lvl 1 draft 2).json",
-    "PDFExports/Notable People/KE$HRA.pdf",
-    "PDFExports/Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.pdf"
+    "Worldbuilding/Notable Locations/Wander.md"
   ]
 }
