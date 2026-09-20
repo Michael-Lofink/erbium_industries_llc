@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sessions/Session 1.md",
+                "file": "Worldbuilding/Notable Things/Sulfur-Rot.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Sulfur-Rot"
             }
           },
           {
@@ -228,9 +228,10 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
+    "Worldbuilding/Notable People/Hondue Last-Tether.md",
+    "Campaign/Sessions/Session 1.md",
     "Campaign/Resources/Gregory/8-Ball Scene.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
-    "Campaign/Sessions/Session 1.md",
     "Discord Out/Session 1/Erbium Industries LLC - Text Channels - general [1531324594684694682].html",
     "Discord Out/Session 1/Erbium Industries LLC - World Resources - public-education [1532820403322622083].html",
     "Discord Out/Session 1/Erbium Industries LLC - character-options - Player Character Requirements [1531328721028513992].html",
@@ -272,7 +273,6 @@
     "Campaign/Resources/Gregory/Secret Backstory.md",
     "Campaign/Resources/Jonah/Ponder Unity.md",
     "Campaign/Resources/Player Side/Social contract.md",
-    "Campaign/Resources/Player Side/Social Contract Truncated.md",
-    "Campaign/Resources/Maggie/Tuppie.md"
+    "Campaign/Resources/Player Side/Social Contract Truncated.md"
   ]
 }
