@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Notable Things/Sulfur-Rot.md",
+                "file": "Campaign/Resources/Gregory/8-Ball Scene.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sulfur-Rot"
+              "title": "8-Ball Scene"
             }
           },
           {
@@ -228,6 +228,7 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
+    "Worldbuilding/Notable Things/Sulfur-Rot.md",
     "Worldbuilding/Notable People/Hondue Last-Tether.md",
     "Campaign/Sessions/Session 1.md",
     "Campaign/Resources/Gregory/8-Ball Scene.md",
@@ -272,7 +273,6 @@
     "Campaign/Resources/Gregory/Animated Firearm.md",
     "Campaign/Resources/Gregory/Secret Backstory.md",
     "Campaign/Resources/Jonah/Ponder Unity.md",
-    "Campaign/Resources/Player Side/Social contract.md",
-    "Campaign/Resources/Player Side/Social Contract Truncated.md"
+    "Campaign/Resources/Player Side/Social contract.md"
   ]
 }

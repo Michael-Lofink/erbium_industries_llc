@@ -1,83 +1,109 @@
-We open looking through the scope of a rifle, trained on a hat with a tall creased crown and wide curved brim. Beneath the brim, a lone android treads forward through a crowd, disappearing for a moment behind a passing freight cart before the reticle finds him again. We pull away from the scope and follow its line up and up, across the open interior of Zakaron and past the beating heat of the Sunlock, until the Overcity resolves on the opposite side of the world and the droid becomes one figure among thousands moving through the streets above. He steps beneath an awning, crosses through a knot of pedestrians waiting beside a transit stop, and ducks into an alleyway tucked away from the crowd.
+We open through the lens of a scope. In its center, a bright red dot trails a creased leather crown atop a chocolate colored brim. From our vantage point the quarry can not be clearly seen, only their brown hat weaving through a sea of other hats and hair directly below — or maybe it's above? Here in a city sprawling across the inner walls of a hollow sphere, with the beating heat of the Sunlock at its core, one's sense of up and down is rendered rather meaningless. 
 
-Another android waits inside beneath the shade of an exposed ventilation duct. His clothes are plain enough to disappear into Kharosai without effort: dark trousers, a weathered coat, a narrow satchel hanging beneath one arm. Two yellow optics turn toward the droid in the hat as he approaches. For several seconds neither speaks; somewhere beyond the alley, a mechanical lift groans upward and a vendor calls after someone who has walked away without their change.
+A freight car passes between the reticle and the hat of interest through the mega city's unified "skyline", blocking our view. As the car passes we find our view has now changed, no longer a seemingly bird's eye perspective, and free of the crosshairs. We're now at ground level on the other side of the city, and across a crowded street we catch a glimpse of that leather curved brim ducking beneath an awning, and crossing through a knot of pedestrians waiting beside a transit stop, before ducking away into an alleyway away from the crowd. 
 
-“You’re the contact?”
+Our view shifts to the alleyway, dark and musty from the pooled condensation from nearby cooling units. The silhouette of an android can be seen framed in hazy neon red light beneath the shade of an exposed ventilation duct. Without the assistance of low-light vision all we can make out of the figure is the faint glow of their optic eyes, two golden discs peering from the shadows at the approach of the mysterious leather crown and curved brim hat. In this moment we finally get a decent glance at the hat's owner; a worn duster of the same material and color shroud glimpses of metallic sheen from underneath. Like with the dark silhouette we can see from beneath the cholate brim of the lone stranger the light of two optic eyes, now meeting the golden gaze of the shadows. For several moments neither figure speaks; the sound of a distant hydraulic lift groaning from somewhere beyond the alley.
 
-==“That depends who sent you.”==
+The silhouette gestures at the lone stranger's attire.
 
-The courier reaches beneath his coat and produces a small metallic disk between two fingers. It is about the width of a large coin but considerably thicker, its pale face surrounded by a darker rim and broken only by a shallow pattern pressed into the surface. The gunslinger looks at it long enough to recognize whatever he needs to recognize, then glances back toward the mouth of the alley.
+"Not very subtle." 
 
-==“That’ll do.”==
+==“I wasn't going for subtle.”== 
 
-The courier puts it away. “Where are we going?”
+“You’re the contact?” 
 
-==“Not here.”==
+==“That depends. Do you have something for me?”== 
 
-We cut to the pair moving through Kharosai. They descend a narrow stairwell beneath a row of residential units, pass through a service market crowded with replacement filters and secondhand machine parts, then emerge onto a suspended walkway where the Sunlock catches the edges of passing workers and turns their shadows sharp against the floor. The courier keeps a few paces behind. At one point a municipal drone drops from an overhead rail and scans both of them before continuing on its route without comment.
+We watch as the golden eyed android takes a step out of the shadows into the dim light. His clothes, in stark contrast to the lone stranger's, look common and plain. Dark trousers, a weathered coat, and a narrow satchel, all a dull grey that could easily vanish among the local residents of Kharosai effortlessly. The lone strangers looks on silently as the droid reaches beneath his coat and produces a small metallic disk between his fingers. Even in the bad light we can just about make out its pale face surrounded by a darker rim, broken only by a shallow pattern pressed artisanally into the surface.
 
-They eventually leave the heavier foot traffic behind. The buildings here are broader, older, and built more for freight than people, their exterior walls interrupted by loading doors, service ladders, and pipes painted over so many times the warning labels underneath have become raised shapes. The gunslinger stops before a recessed door with no sign over it and presses two fingers against the release. Nothing happens. He waits, presses again, and somewhere inside a lock disengages.
+Turning back to the lone stranger, we see the apertures of his eyes narrow, focusing on the disk.
 
-The courier looks at the door, then at him. “Who’s inside?”
+Several more moments pass. Then, the lone stranger turns his head, glancing back towards the mouth of the alley, before quietly regarding the golden eyed courier once more.
 
-==“The person we're here to meet.”==
+==“That’ll do.”== 
 
-“That isn’t what I asked.”
+We catch a glimpse of the courier sliding the strange disk back into his coat. 
 
-The gunslinger pushes the door open.
+“Lead the way.” 
 
-Inside is an old transfer room with most of its original equipment still bolted in place. A loading frame hangs motionless from the ceiling, several cargo restraints sit folded into the floor, and a battered worktable has been pulled beneath the only functioning overhead light. The rest of the room disappears into shadow around it. Someone stands on the other side of the table.
+Our view pulls slightly back as we trail the two androids as they discretely make their way through the streets of one of Kharosai's many industrial districts. We follow as they descend a narrow stairwell beneath a row of residential units, pass through a service market crowded with replacement filters and secondhand machine parts, before emerging onto a suspended walkway. The warm light of the Sunlock catches the edges of passing workers, casting sharp moving shadows along the walkway. We see as a municipal drone drops from an overhead rail, then bathes the pair in the pale blue light of a scanner pass, before continuing on its route without comment.
 
-The gunslinger stops just inside. For the first time since the alley, the courier steps up beside him. The figure looks past the gunslinger and toward the courier.
+The droids eventually leave the heavier foot traffic behind as they enter the older part of the district. The buildings here are broader — built more for freight than people — their exterior walls interrupted by loading doors, service ladders, and pipes painted over so many times the warning labels underneath have become raised shapes. Finally, we watch as the lone stranger stops before an unmarked recessed metal door. He looks carefully up and down the way for any signs of prying eyes, before turning back to the door; pressing two fingers against the release. The courier watches on as nothing happens. The lone stranger waits, then presses again, and somewhere inside we hear a lock disengage.
 
-“You brought it?”
+The courier looks towards the door, then at him. 
 
-The courier does not answer immediately. His yellow optics dart toward the gunslinger, then back to the figure across the room.
+“Packing heat?” 
 
-==“Show them.”==
+==“Always.”==  
 
-The courier reaches beneath his coat.
+The lone stranger pushes open the door, and he and the courier step into the space beyond.
 
-The lights cut out.
+Seeing inside, we take in what appears to be an old transfer room. Most of the original equipment can be seen still bolted in place. A loading frame hangs motionless from the ceiling, several cargo restraints sit folded into the floor, and a battered worktable has been pulled beneath the only functioning overhead light. 
 
-A violent electrical crack fills the room and our view tears sideways into white static. Something strikes the floor. A gunshot follows, then another from somewhere farther away, and for several seconds the only image we get is interference broken by brief impressions of movement: the edge of the worktable, a body falling, the muzzle flash of a weapon. Then even that disappears.
+Standing behind the table, the imposing form of a barrel-chested vesk can now be seen. The bluesish scales of its reptilian face reflect iridescently in the pale light, except for a thin orange scar that crosses the vesk's left eye. 
 
-When the picture returns, it does so slowly. The gunslinger lies on his side near the entrance, one arm folded beneath him and the hat several feet away where it struck the floor. His vision catches and doubles before settling enough to show the courier across the room, collapsed beside the worktable. One side of the courier’s face has been badly damaged.
+The unlit portions of the room beyond the table are shrouded in pools of darkness, which comes flooding to quench the light from outside as the lone stranger closes the door behind him.
 
-The figure from across the table kneels beside the courier and reaches beneath his coat, searches once, then reaches farther beneath the fabric. Their hand emerges holding the small metallic disk. They turn it over beneath the overhead light as though checking something on its surface, then close their fingers around it. The courier’s hand shifts against the floor. The figure notices the movement, watches for a moment, then stands.
+The vesk's good eye looks towards the lone stranger entering into the light, drifting to the courier as he steps up beside him, then back to the stranger.
 
-From behind them, metal scrapes against metal as the gunslinger tries to force himself upright.
+"You're late."
 
-==“...Annabelle.”==
+==“I'm cautious.”==
 
-The figure stops and turns around. She looks at the gunslinger on the floor, then toward the open doorway behind him.
+"Were you followed?"
 
-“I told you nothing good would come of this.”
+==“Like I said, I'm cautious.”== 
 
-The gunslinger manages to get one knee beneath himself before the damaged arm gives way again. He catches himself against the floor and looks past Annabelle toward the courier.
+A hissy sigh escapes through the vesk's toothy maw. Its eye once again shifting to the courier.
 
-==“What did you do?”==
+“Show it to me.” 
 
-Annabelle slips the disk away.
+We see the courier steal a glance at the lone stranger, who nods approvingly, before the courier begins reaching beneath his coat... 
 
-“You had your warning.”
+The lights suddenly cut out as a violent electrical crack fills the room.
 
-The gunslinger stares at her for another moment.
+Our view tears sideways into white static. We hear something thud against the floor as the flashes of gunshots fill the room. For several terrible seconds we barely make out brief impressions of movement between muzzle flashes. This is followed by the sound of another thud, and then nothing but silence and darkness.
 
-==“You knew I'd come.”==
+Seconds or minutes pass, then our vision is flooded with white amidst the sound of popping joints and crunching bones.
 
-“I thought you might.”
+We blink. We're seeing from the eyes of the lone stranger. 
 
-==“Then why warn me?”==
+The picture is pixelated and distorted at first, but slowly the room comes back into view. From the angle of the vision we can determine that the lone stranger is lying on his side. Another blink. We can now see that either the lights have returned, or the lone stranger's optics can see in the dark. Across the floor only a few feet away is the now dark optics of the courier, facing us in an empty stare. Smoke slowly rises from the singed remains of his face. 
 
-Annabelle looks back toward the courier, then down at the gunslinger. The weapon is still hanging loosely in one hand.
+The sound of footsteps approach from off-screen, and the lone stranger turns to see not the vesk, but instead a smaller and more feminine figure walk over to the courier's body. She is wearing some sort of form fitting polymer weave, and a featureless faceplate obscuring her face. The lone strangers watches on as his diagnostic module flashes into view indicating several points of severe damage, as the woman kneels beside the courier. She reaches beneath his coat, searches once, then reaches farther beneath the fabric. her hand emerges holding the small metallic disk. 
 
-“I hoped I was wrong.”
+As she brings up her hand up to the overhead light, turning the disk as though checking something on its surface, we can that her uncovered fingers are burned. The flesh at her fingertips reddened like gums, blistered, the skin cracking apart. Inflamed veins can be seen scratching down her fingers and across her hands.
 
-She begins walking toward him. The gunslinger watches her approach, looking once toward the courier before returning his attention to Annabelle.
+She closes her rotted fingers around the disc.
 
-Annabelle stops within arm's reach. The gun rises. The gunslinger's eyes follow it until the barrel settles directly in front of his face. For several seconds neither of them moves.
+We hear the scraping sound of metal on metal as our vision begins to rise, and the lone stranger tries to force himself upright.
 
-==“Annabelle...”==
+==“Annabelle.”== 
 
-Bam.
+She turns towards us, the cold polymer shell of her featureless mask staring down at us. From this angle, we notice a sharp tear in her side that left a jagged shred in the polymer weave. Within the shred we can see similarly inflamed veins stretching out from a splotch of orange, rubbery, skin, covered in tiny lilac growths that would give the skin a braille-like texture.
+
+“I told you nothing good would come of this.” 
+
+Our vision turns as the lone stranger notices his rotating pistol only a few feet away where it fell during the fire fight. With a lurch we watch as the stranger dives for his weapon, as a clap of thunder fills the room. As our vision clears, the diagnostic module flashes up again, but we can already see the damage as the stranger stares at the stump. The stranger catches himself against the floor and turning back to Annabelle, who now held a scoped rifle pointing directly at his head.
+
+==“What did you do?”== 
+
+“You had your warning.” 
+
+We and the lone stranger stare down the rifle's barrel for several moments, knowing any second could be our last. 
+
+==“You knew I'd come.”== 
+
+“I thought you might.” 
+
+==“Then why warn me?”== 
+
+Annabelle glances back toward the courier, then back down her scope at us. 
+
+“I hoped I was wrong.” 
+
+For a precious moment, the world stops.
+
+Then it ends. 
+
+**BOOM**
