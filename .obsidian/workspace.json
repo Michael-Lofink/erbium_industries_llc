@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Resources/Gregory/8-Ball Scene.md",
+                "file": "Worldbuilding/Notable Things/Void Calling.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8-Ball Scene"
+              "title": "Void Calling"
             }
           },
           {
@@ -228,10 +228,16 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
-    "Worldbuilding/Notable Things/Sulfur-Rot.md",
-    "Worldbuilding/Notable People/Hondue Last-Tether.md",
+    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
+    "Campaign/Resources/Maggie/Tarn Scene.md",
+    "Campaign/Resources/Maggie/The Crew.md",
+    "Campaign/Resources/GM Side/Erbium_Session_1_Assessment_Recap_Continuity.md",
     "Campaign/Sessions/Session 1.md",
     "Campaign/Resources/Gregory/8-Ball Scene.md",
+    "Campaign/Resources/Gregory/8-Ball Scene.pdf",
+    "Worldbuilding/Notable Things/Sulfur-Rot.md",
+    "Worldbuilding/Notable People/Hondue Last-Tether.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
     "Discord Out/Session 1/Erbium Industries LLC - Text Channels - general [1531324594684694682].html",
     "Discord Out/Session 1/Erbium Industries LLC - World Resources - public-education [1532820403322622083].html",
@@ -243,7 +249,6 @@
     "Discord Out/Session 1",
     "Discord Out",
     "Campaign/System/Campaign Clock.md",
-    "Campaign/OBS_ASSETS/Session 1/Erbium.json",
     "Campaign/Campaign Timeline.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
@@ -251,9 +256,6 @@
     "Worldbuilding/Notable Locations/Theosis.md",
     "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Campaign/OBS_ASSETS/Session 1/drift.jpg",
-    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
-    "Campaign/Resources/Maggie/Tarn Scene.md",
-    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
     "Worldbuilding/Notable Locations/Zakaron.md",
     "Campaign/OBS_ASSETS/Session 1/block_ship_flying.gif",
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship_2.webp",
@@ -264,7 +266,6 @@
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship.webp",
     "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
     "Worldbuilding/Notable Locations/Wander.md",
-    "Campaign/Resources/Maggie/The Crew.md",
     "Campaign/Resources/Maggie/RoutineEvalFor8Ball.png",
     "Campaign/OBS_ASSETS/Session 1/Photo_2026-09-18-173542.png",
     "Jonah Pain Point Transcript.md",
@@ -272,7 +273,6 @@
     "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
     "Campaign/Resources/Gregory/Animated Firearm.md",
     "Campaign/Resources/Gregory/Secret Backstory.md",
-    "Campaign/Resources/Jonah/Ponder Unity.md",
-    "Campaign/Resources/Player Side/Social contract.md"
+    "Campaign/Resources/Jonah/Ponder Unity.md"
   ]
 }

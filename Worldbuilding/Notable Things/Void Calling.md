@@ -57,7 +57,7 @@ A natural planetary atmosphere interferes with the disease, even when that atmos
 
 Void Calling, Exposure is the lesser form of the disease found aboard ships, stations, and other habitats outside a planetary atmosphere. The victim begins to perceive familiar people and ordinary surroundings as incomplete or unreal. Voices and apparent emergencies draw their attention toward viewports, maintenance passages, and airlocks.
 
-**Exposure** A creature can be exposed after spending at least 24 consecutive hours outside a planetary atmosphere aboard a vessel or habitat without a functioning void-grounding protocol. A creature is also exposed after spending 8 consecutive hours aboard the same vessel or habitat as a creature at stage 3 or higher, or through direct contact with a Void-Drawn creature.
+**Exposure** A creature can be exposed after spending at least 24 consecutive hours outside a planetary atmosphere aboard a vessel or habitat without a functioning void-grounding protocol. A creature is also exposed after spending 8 consecutive hours aboard the same vessel or habitat as a creature at stage 1 or higher, or through direct contact with a Void-Drawn creature.
 
 A creature with the cosmic trait can't progress beyond stage 1.
 
