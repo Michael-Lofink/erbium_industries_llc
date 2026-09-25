@@ -4,6 +4,15 @@ session: 1
 stamp-start-lapse: 29
 stamp-start-minute: 8472119
 elapsed-minutes: 240
+stamp-session-id: pes-mugb4zm6-e07v7860
+stamp-lapse-size: 16777216
+stamp-status: completed
+stamp-planned-minutes: 240
+stamp-actual-minutes: 240
+stamp-sync-status: unspecified
+stamp-end-lapse: 29
+stamp-end-minute: 8472359
+stamp-commit-id: pes-mugb4zm6-e07v7860
 ---
 
 # Session 1
@@ -11,49 +20,7 @@ elapsed-minutes: 240
 ## Session Clock
 
 ```dataviewjs
-const session = dv.current();
-const clock = dv.page("Campaign/System/Campaign Clock");
-
-if (!clock) {
-    dv.paragraph(
-        "> [!failure] Campaign Clock not found\n" +
-        "> Confirm that the clock is located at `Campaign/System/Campaign Clock.md`."
-    );
-} else {
-    const limit = Number(clock["lapse-size"]);
-    const startLapse = Number(session["stamp-start-lapse"]);
-    const startMinute = Number(session["stamp-start-minute"]);
-    const elapsed = Number(session["elapsed-minutes"] ?? 0);
-
-    if (
-        !Number.isInteger(limit) ||
-        limit <= 0 ||
-        !Number.isInteger(startLapse) ||
-        !Number.isInteger(startMinute) ||
-        !Number.isInteger(elapsed)
-    ) {
-        dv.paragraph(
-            "> [!failure] Invalid Session Clock\n" +
-            "> Check the session clock properties."
-        );
-    } else {
-        const total = startMinute + elapsed;
-        const endLapse = startLapse + Math.floor(total / limit);
-        const endMinute = total % limit;
-        const width = String(limit - 1).length;
-
-        const start =
-            `${startLapse}:${String(startMinute).padStart(width, "0")} PES`;
-
-        const end =
-            `${endLapse}:${String(endMinute).padStart(width, "0")} PES`;
-
-        dv.table(
-            ["Start Stamp", "Elapsed", "End Stamp"],
-            [[start, `${elapsed} minutes`, end]]
-        );
-    }
-}
+await dv.view("Campaign/System/PES/view", {mode: "summary"});
 ```
 
 # Outline
@@ -106,7 +73,8 @@ She pulls her headphones down around her neck, and we hear the ventilation runni
 
 # Progression
 
-## Tarn And Eight Ball Eval Time [stamp-offset:: 0]
+## Tarn And Eight Ball Eval Time
+<!-- pes: {"id":"pes-mugb4zm7-zhxnhby5","plan":{"kind":"offset","minutes":0}} -->
 Song: Finish fading out **Levitating**.
 
 > Beside Tarn, the terminal displays a questionnaire with 8-Ball's name already filled in. A charging lead hangs loose beside his chair, and a small robot hovers near the table, adjusting its position whenever either of you moves. At the bottom of the form, the overall assessment remains blank.
@@ -119,7 +87,8 @@ Tuppie supplies tools and diagnostic readings when Tarn asks. Sven'a remains wit
 
 **Move on:** Once they have established how they treat each other, cut to Mordrun and Ponderer. The form can be finished afterward.
 
-## Awkward Ooze (Mordrun and Ponderer) [stamp-offset:: 0]
+## Awkward Ooze (Mordrun and Ponderer)
+<!-- pes: {"id":"pes-mugb4zm7-ll4ehmhs","plan":{"kind":"offset","minutes":0}} -->
 > Outside the assessment room, your names share a line on the watch display: Ponderer and Mordrun Stronglimb. Beneath it, a reminder asks assigned partners to complete their pre-arrival grounding check. A crew member passes with a toolkit under one arm. “Get that logged before we come out of the Drift. Then bring your gear through for the check.”
 
 Use the pairing discussed with Mary Beth: Mordrun and Ponderer are assigned partners under **A9%11&4-6**, the Extended-Voyage Cognitive Exposure and Quarantine Standard. The repository's Void Calling precautions include paired watches, spoken identity/location checks, and familiar anchors. They are checking on someone they boarded with; let their existing level of familiarity shape the exchange.
@@ -145,7 +114,8 @@ The crew member asks everyone to test their suit controls and the common comm ch
 
 Once the check is complete, allow a little shipboard conversation, then advance the clock to Drift exit.
 
-## Exiting the drift [stamp-offset::  133]
+## Exiting the drift
+<!-- pes: {"id":"pes-mugb4zm7-317z3vx2","plan":{"kind":"offset","minutes":133}} -->
 > The vibration beneath your feet changes. Beyond the nearest viewport, the purple light stretches into narrow bands and disappears, leaving a field of stars. A chime sounds through the ship. “Drift transit complete. Frontier personnel, check your relay caches before separation from stamp authority.”
 
 The crew confirms that everyone's **PES-DR4 Relay Cache**, or Ghost Box, has retained an authenticated stamp. As coverage ends, it continues a locally signed record for later reconciliation. Local comms still work; outbound intersystem messages require relay access.
@@ -156,7 +126,8 @@ Give each player an opportunity to send a final message while the connection is 
 
 Advance through the remaining routine travel once the players have finished.
 
-## Ship under attack [stamp-offset::  200]
+## Ship under attack
+<!-- pes: {"id":"pes-mugb4zm7-6xn90eo3","plan":{"kind":"offset","minutes":200}} -->
 Song: **Debris — Steven Price**, after the first impact.
 
 > A hard impact throws a loose cup across the room. The lights go out and return in red, while a metallic rattle runs along the ceiling. Over the comm comes a strained voice: “We've taken a hit. Seal your suits. Get clear of the aft passage.” A second impact interrupts the transmission, and the floor begins to tilt.
@@ -199,52 +170,5 @@ End after the group gets its first clear look outside and chooses an immediate p
 ## Timeline
 
 ```dataviewjs
-const session = dv.current();
-const clock = dv.page("Campaign/System/Campaign Clock");
-
-if (!clock) {
-    dv.paragraph(
-        "> [!failure] Campaign Clock not found\n" +
-        "> Confirm that the clock note path is correct."
-    );
-} else {
-    const limit = Number(clock["lapse-size"]);
-    const startLapse = Number(session["stamp-start-lapse"]);
-    const startMinute = Number(session["stamp-start-minute"]);
-    const width = String(limit - 1).length;
-
-    function addMinutes(offset) {
-        const total = startMinute + Number(offset);
-        const lapse = startLapse + Math.floor(total / limit);
-        const minute = total % limit;
-
-        return `${lapse}:${String(minute).padStart(width, "0")} PES`;
-    }
-
-	    // Read the current note's Markdown.
-	const content = await dv.io.load(session.file.path);
-	
-	// Find headings ending with [stamp-offset:: NUMBER].
-	const headingPattern =
-	    /^#{1,6}[ \t]+(.+?)[ \t]+\[stamp-offset::[ \t]*(\d+)[ \t]*\][ \t]*\r?$/gm;
-	
-	const events = Array.from(content.matchAll(headingPattern))
-	    .map(match => ({
-	        title: match[1].trim(),
-	        offset: Number(match[2])
-	    }))
-	    .sort((a, b) => a.offset - b.offset)
-	    .map(event => [
-	        addMinutes(event.offset),
-	        event.title
-	    ]);
-
-    if (events.length === 0) {
-        dv.paragraph(
-            "*No stamped events have been recorded for this session.*"
-        );
-    } else {
-        dv.table(["Stamp", "Event"], events);
-    }
-}
+await dv.view("Campaign/System/PES/view", {mode: "timeline"});
 ```

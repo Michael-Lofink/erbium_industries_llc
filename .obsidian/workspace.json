@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sessions/Session 2.md",
+                "file": "Campaign/Sessions/Session 1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Session 1"
             }
           },
           {
@@ -228,11 +228,13 @@
   },
   "active": "3ba2665f9323ce20",
   "lastOpenFiles": [
-    "Campaign/Sessions/Session 1.md",
     "Campaign/Sessions/Session 2.md",
+    "Campaign/Sessions/Session 1.md",
+    "Campaign/System/Campaign Clock.md",
+    "Campaign/Resources/GM Side/PES Timekeeping Toolkit.md",
+    "PES-Backups/20260924-203142-114324/Templates/Advance Stamp.md",
     "Campaign/Resources/GM Side/Erbium_Session_1_Assessment_Recap_Continuity.md",
     "Untitled.md",
-    "Campaign/System/Campaign Clock.md",
     "Campaign/Sessions/Session 2",
     "Campaign/Sessions/Session 1",
     "Worldbuilding/Notable People/Cowboy 8-Ball.md",
@@ -270,8 +272,6 @@
     "Campaign/OBS_ASSETS/Session 1/arc-big-block-v0-p6iv83amernh1_2026-09-19_17_25_23.821839.webp",
     "Campaign/OBS_ASSETS/Session 1/arc-big-block-v0-3yqtk5amernh1_2026-09-19_17_29_00.003970.webp",
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship.webp",
-    "Worldbuilding/Notable Locations/Agrio Dysis IV.md",
-    "Worldbuilding/Notable Locations/Wander.md",
     "Campaign/Resources/Maggie/RoutineEvalFor8Ball.png",
     "Campaign/OBS_ASSETS/Session 1/Photo_2026-09-18-173542.png"
   ]
