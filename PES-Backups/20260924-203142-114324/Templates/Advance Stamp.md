@@ -1,0 +1,1 @@
+<%* await tp.user.advance_stamp(tp) %>

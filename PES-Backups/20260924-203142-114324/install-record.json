@@ -1,0 +1,27 @@
+{
+  "created": [
+    "Campaign/System/PES/PES-Dictionary.txt",
+    "Campaign/System/PES/core.js",
+    "Campaign/System/PES/local-time.json",
+    "Campaign/System/PES/view.js",
+    "Scripts/pes.js",
+    "Templates/PES/PES Advance time.md",
+    "Templates/PES/PES Check session.md",
+    "Templates/PES/PES Correct elapsed time.md",
+    "Templates/PES/PES Finish session.md",
+    "Templates/PES/PES Initialize session.md",
+    "Templates/PES/PES Insert current stamp.md",
+    "Templates/PES/PES Menu.md",
+    "Templates/PES/PES Plan scene.md",
+    "Templates/PES/PES Planned duration.md",
+    "Templates/PES/PES Record scene.md",
+    "Templates/PES/PES Start session.md",
+    "Templates/PES/PES Synchronization.md",
+    "Templates/PES/PES Upgrade displays.md",
+    ".obsidian/plugins/templater-obsidian/data.json"
+  ],
+  "replaced": [
+    "Scripts/advance_stamp.js",
+    "Templates/Advance Stamp.md"
+  ]
+}

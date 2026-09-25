@@ -1,1 +1,1 @@
-<%* await tp.user.advance_stamp(tp) %>
+<%* tR += tp.file.selection(); await tp.user.advance_stamp(tp); -%>

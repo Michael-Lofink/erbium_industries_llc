@@ -1,0 +1,7 @@
+stamp-offset::
+stamp-local-calendar:
+stamp-sync-status:
+on-stamp
+off-stamp
+unspecified
+PES
