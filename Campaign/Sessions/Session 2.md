@@ -36,7 +36,35 @@ And that is where we will begin: "Awake on Planet 'X'"
 
 >8-Ball, Mordrun, your surroundings are cold, ridged, and gray. The main hab has shattered to bits, but a chunk remains large enough to create an overhang. That is where you, Mordrun, find yourself now as you follow closely the instructions on the medkit to resuscitate your pairing Ponderer. 8-Ball, your head is on backwards, and you see over the horizon a ginormous celestial body covering most of your view. It is green and blue, covered in harrowing clouds.
 
+Remind them of [[Analyze Environment]] exploration activity
+
+Ponderer's Spacesuit; hidden in the wreckage. Use Seek `pf2:1`  **Stealth DC** 15.
+- Trapped under debris, careful removal can be done to keep it from being  damaged when removing it from the debris. **Thievery DC** 15
+	- **Critical Success** Retrieved with no damage
+	- **Success** As Critical Success, but lose 1 bulk of air
+	- **Failure** lose 2 bulk of air
+	- **Critical Failure** Spacesuit is [[Broken|broken]], lose 4 bulk of air
+
+The Last Grin is tidally locked. (The same face is always pointed towards the planet surface)
+Cockpit and back of ship are nowhere to be found, only main hab.
+They are on the bright side of the moon.
+There is a settlement on the darkside: Fresh-Breath, occupied by people a couple generations after ex erbium-employees. Perhaps refuges from Wander way back when? Maybe Theosis wasn't the only place fled to?
+
+## Collapsible "The Last Grin" Stats
+![[The Last Grin]]
+
 # Electrovores at the wreckage
-Electroves show up to the wreckage eventually because of concentration of electricity.
+Electrovores show up to the wreckage eventually because of concentration of electricity at the wreckage.
+
+## Collapsible Electrovore Stats
 ![[Electrovore#Electrovore]]
 ![[Electrovore#Weak Electrovore]]
+
+# Where did the Cockpit go?
+The Pilot, "Chief," launching the emergency parachute attached to the cockpit, survived and landed on the darkside of the Last Grin.
+
+# Fresh-Breath
+There is an abandoned ship, that sunk in a cave-in, an electrovore nest cave. Could be fixed up?
+
+## Collapsible Fresh-Breath Stats
+![[Fresh-Breath#Fresh-Breath Statblock]]

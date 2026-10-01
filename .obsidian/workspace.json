@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore.md",
+                "file": "Campaign/Sessions/Session 2.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Electrovore"
+              "title": "Session 2"
             }
           }
         ]
@@ -214,7 +214,18 @@
   },
   "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
+    "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
+    "Erbium Industries LLC.md",
+    "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
     "Campaign/Sessions/Session 2.md",
+    "Campaign/Locations/Outside Settled Systems/The Last Grin",
+    "Starfinder 2e Rules/Actions/Analyze Environment.md",
+    "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
+    "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
+    "Campaign/Resources/Jonah/Ponder Unity.md",
+    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "Starfinder 2e Rules/Conditions/Broken.md",
+    "Pasted image 20261001122544.png",
     "Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore.md",
     "Resources/creaturePortrait_Electrovore.webp",
     "Worldbuilding/00_Mechanics/Creatures/Level 4/Construct/Enforcer Robot.md",
@@ -234,30 +245,20 @@
     "Starfinder 2e Rules/Creature/Level 2",
     "Starfinder 2e Rules/Creature/Level 1",
     "Starfinder 2e Rules/Creature",
-    "Campaign/Locations/Outside Settled Systems/The Last Grin.md",
     "Starfinder 2e Rules/Environment/Atmosphere/Nitrous-Oxide Atmosphere.md",
     "Campaign/Resources/Player Side/FEDEquipmentPackage.pdf",
     "Campaign/Resources/Player Side/FEDEquipmentPackageNoShared.pdf",
     "Campaign/Locations/Untitled.md",
     "Starfinder 2e Rules/Environment/Atmosphere/Thin Atmosphere.md",
-    "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
     "Campaign/Resources/Player Side/Social contract.md",
     "Campaign/Resources/Maggie/The Crew.md",
     "Campaign/Resources/Maggie/RoutineEvalFor8Ball.png",
-    "Campaign/Resources/Gregory/Secret Backstory.md",
-    "Campaign/Resources/GM Side/PES Timekeeping Toolkit.md",
-    "Campaign/Resources/Gregory/8-Ball Scene.md",
-    "Campaign/Resources/Jonah/PondererLvl1Cards.pdf",
-    "Starfinder 2e Rules/Environment/Atmosphere/Toxic Atmosphere.md",
-    "Starfinder 2e Rules/Environment/Atmosphere.md",
-    "Worldbuilding/Planet Template.md",
     "Campaign/OBS_ASSETS/Session 1/drift.jpg",
     "Campaign/OBS_ASSETS/Session 1/block_ship_flying.gif",
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship_2.webp",
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship_2.png",
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship_1.webp",
     "Campaign/OBS_ASSETS/Session 1/arc-big-block-v0-p6iv83amernh1_2026-09-19_17_25_23.821839.webp",
-    "Campaign/OBS_ASSETS/Session 1/arc-big-block-v0-3yqtk5amernh1_2026-09-19_17_29_00.003970.webp",
-    "Campaign/OBS_ASSETS/Session 1/arc_block_ship.webp"
+    "Campaign/OBS_ASSETS/Session 1/arc-big-block-v0-3yqtk5amernh1_2026-09-19_17_29_00.003970.webp"
   ]
 }
