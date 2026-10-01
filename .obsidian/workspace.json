@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign/Sessions/Session 2.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Session 2"
@@ -214,10 +214,12 @@
   },
   "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
+    "Campaign/Resources/Maggie/Tuppie.md",
+    "Campaign/Resources/Player Side/FEDEquipmentPackageNoShared.pdf",
+    "Campaign/Sessions/Session 2.md",
     "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
     "Erbium Industries LLC.md",
     "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
-    "Campaign/Sessions/Session 2.md",
     "Campaign/Locations/Outside Settled Systems/The Last Grin",
     "Starfinder 2e Rules/Actions/Analyze Environment.md",
     "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
@@ -247,11 +249,9 @@
     "Starfinder 2e Rules/Creature",
     "Starfinder 2e Rules/Environment/Atmosphere/Nitrous-Oxide Atmosphere.md",
     "Campaign/Resources/Player Side/FEDEquipmentPackage.pdf",
-    "Campaign/Resources/Player Side/FEDEquipmentPackageNoShared.pdf",
     "Campaign/Locations/Untitled.md",
     "Starfinder 2e Rules/Environment/Atmosphere/Thin Atmosphere.md",
     "Campaign/Resources/Player Side/Social contract.md",
-    "Campaign/Resources/Maggie/The Crew.md",
     "Campaign/Resources/Maggie/RoutineEvalFor8Ball.png",
     "Campaign/OBS_ASSETS/Session 1/drift.jpg",
     "Campaign/OBS_ASSETS/Session 1/block_ship_flying.gif",

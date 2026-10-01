@@ -54,17 +54,19 @@ There is a settlement on the darkside: Fresh-Breath, occupied by people a couple
 ![[The Last Grin]]
 
 # Electrovores at the wreckage
-Electrovores show up to the wreckage eventually because of concentration of electricity at the wreckage.
+Electrovores show up to the wreckage eventually because of concentration of electricity at the wreckage. 
+
+if they are struggling and left emergency beacon on then hunting party led by PPPPP could show up?
 
 ## Collapsible Electrovore Stats
 ![[Electrovore#Electrovore]]
 ![[Electrovore#Weak Electrovore]]
 
 # Where did the Cockpit go?
-The Pilot, "Chief," launching the emergency parachute attached to the cockpit, survived and landed on the darkside of the Last Grin.
+The Pilot, "Chief," launching the emergency parachute attached to the cockpit, survived and landed on the darkside of the Last Grin. 
 
 # Fresh-Breath
-There is an abandoned ship, that sunk in a cave-in, an electrovore nest cave. Could be fixed up?
+There is an abandoned ship, that sunk in a cave-in, an electrovore nest cave. Could be fixed up? Chief landed near Fresh-Breath, and has likely made it there.
 
 ## Collapsible Fresh-Breath Stats
 ![[Fresh-Breath#Fresh-Breath Statblock]]
