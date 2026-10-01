@@ -1,0 +1,1 @@
+These attacks will either list a finite range or a range increment, which follows the normal rules for [[Starfinder 2e Rules/Equipment/Weapons/Range|range increments]]

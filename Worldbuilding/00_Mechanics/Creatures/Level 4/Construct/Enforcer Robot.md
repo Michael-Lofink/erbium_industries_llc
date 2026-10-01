@@ -56,7 +56,7 @@ These sub-sapient robots staff checkpoints and gates and serve as expendable law
 ![[Tech]]
 ![[Expend]]
 ![[Magazine]]
-![[Range]]
+![[Starfinder 2e Rules/Equipment/Weapons/Range]]
 ![[Reload]]
 ![[Manipulate]]
 

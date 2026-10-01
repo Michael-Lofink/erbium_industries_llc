@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ba2665f9323ce20",
+            "id": "5c9d61b320043b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sessions/Session 1.md",
+                "file": "Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 1"
-            }
-          },
-          {
-            "id": "7e885901e1ceb7ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Notable Locations/Zakaron.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zakaron"
+              "title": "Electrovore"
             }
           }
         ]
@@ -226,53 +212,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3ba2665f9323ce20",
+  "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
     "Campaign/Sessions/Session 2.md",
+    "Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore.md",
+    "Resources/creaturePortrait_Electrovore.webp",
+    "Worldbuilding/00_Mechanics/Creatures/Level 4/Construct/Enforcer Robot.md",
+    "Starfinder 2e Rules/Equipment/Weapons/Range.md",
+    "Starfinder 2e Rules/Traits/Range.md",
+    "Starfinder 2e Rules/Traits/Agile.md",
+    "Starfinder 2e Rules/Conditions/Glitching.md",
+    "Starfinder 2e Rules/Traits/Tech.md",
+    "Starfinder 2e Rules/Perception and Detection/Senses/Imprecise Senses.md",
+    "Worldbuilding/Notable Locations/Major Hub/Agrio Dysis IV.md",
+    "Starfinder 2e Rules/Perception and Detection/Senses",
+    "Starfinder 2e Rules/Perception and Detection/Special Senses/Darkvision and Greater Darkvision.md",
+    "Starfinder 2e Rules/Perception and Detection/Special Senses",
+    "Starfinder 2e Rules/Perception and Detection",
     "Campaign/Sessions/Session 1.md",
-    "Campaign/System/Campaign Clock.md",
-    "Campaign/Resources/GM Side/PES Timekeeping Toolkit.md",
-    "PES-Backups/20260924-203142-114324/Templates/Advance Stamp.md",
-    "Campaign/Resources/GM Side/Erbium_Session_1_Assessment_Recap_Continuity.md",
-    "Untitled.md",
-    "Campaign/Sessions/Session 2",
-    "Campaign/Sessions/Session 1",
-    "Worldbuilding/Notable People/Cowboy 8-Ball.md",
-    "Campaign/Resources/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.md",
+    "Starfinder 2e Rules/Creature/Level 2/Beast",
+    "Starfinder 2e Rules/Creature/Level 2",
+    "Starfinder 2e Rules/Creature/Level 1",
+    "Starfinder 2e Rules/Creature",
+    "Campaign/Locations/Outside Settled Systems/The Last Grin.md",
+    "Starfinder 2e Rules/Environment/Atmosphere/Nitrous-Oxide Atmosphere.md",
     "Campaign/Resources/Player Side/FEDEquipmentPackage.pdf",
-    "Worldbuilding/Notable Locations/Theosis.md",
-    "Worldbuilding/Notable Things/Sulfur-Rot.md",
-    "Campaign/Resources/Maggie/Tarn Scene.md",
-    "Worldbuilding/00_Mechanics/Demi-Ancestries/Goblin.md",
-    "Worldbuilding/00_Mechanics/Demi-Ancestries/Copaxi.md",
-    "Worldbuilding/Notable Things/Void Calling.md",
+    "Campaign/Resources/Player Side/FEDEquipmentPackageNoShared.pdf",
+    "Campaign/Locations/Untitled.md",
+    "Starfinder 2e Rules/Environment/Atmosphere/Thin Atmosphere.md",
     "Campaign/Resources/Jonah/Ponderer (of Oceanus) Scene.md",
+    "Campaign/Resources/Player Side/Social contract.md",
     "Campaign/Resources/Maggie/The Crew.md",
+    "Campaign/Resources/Maggie/RoutineEvalFor8Ball.png",
+    "Campaign/Resources/Gregory/Secret Backstory.md",
+    "Campaign/Resources/GM Side/PES Timekeeping Toolkit.md",
     "Campaign/Resources/Gregory/8-Ball Scene.md",
-    "Campaign/Resources/Gregory/8-Ball Scene.pdf",
-    "Worldbuilding/Notable People/Hondue Last-Tether.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Dwarf/Dwarf.md",
-    "Discord Out/Session 1/Erbium Industries LLC - Text Channels - general [1531324594684694682].html",
-    "Discord Out/Session 1/Erbium Industries LLC - World Resources - public-education [1532820403322622083].html",
-    "Discord Out/Session 1/Erbium Industries LLC - character-options - Player Character Requirements [1531328721028513992].html",
-    "Discord Out/Session 1/Erbium Industries LLC - gregory - Character Concept [1531331799177756742].html",
-    "Discord Out/Session 1/Erbium Industries LLC - maggie - Character Concept [1531330534121410571].html",
-    "Discord Out/Session 1/Erbium Industries LLC - jonah - Character Concept [1531331884745883748].html",
-    "Campaign/Campaign Timeline.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Ancestry Feats.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Madrosarai/Heritages.md",
-    "Worldbuilding/00_Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Campaign/Resources/Jonah/PondererLvl1Cards.pdf",
+    "Starfinder 2e Rules/Environment/Atmosphere/Toxic Atmosphere.md",
+    "Starfinder 2e Rules/Environment/Atmosphere.md",
+    "Worldbuilding/Planet Template.md",
     "Campaign/OBS_ASSETS/Session 1/drift.jpg",
-    "Worldbuilding/Notable Locations/Zakaron.md",
     "Campaign/OBS_ASSETS/Session 1/block_ship_flying.gif",
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship_2.webp",
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship_2.png",
     "Campaign/OBS_ASSETS/Session 1/arc_block_ship_1.webp",
     "Campaign/OBS_ASSETS/Session 1/arc-big-block-v0-p6iv83amernh1_2026-09-19_17_25_23.821839.webp",
     "Campaign/OBS_ASSETS/Session 1/arc-big-block-v0-3yqtk5amernh1_2026-09-19_17_29_00.003970.webp",
-    "Campaign/OBS_ASSETS/Session 1/arc_block_ship.webp",
-    "Campaign/Resources/Maggie/RoutineEvalFor8Ball.png",
-    "Campaign/OBS_ASSETS/Session 1/Photo_2026-09-18-173542.png"
+    "Campaign/OBS_ASSETS/Session 1/arc_block_ship.webp"
   ]
 }

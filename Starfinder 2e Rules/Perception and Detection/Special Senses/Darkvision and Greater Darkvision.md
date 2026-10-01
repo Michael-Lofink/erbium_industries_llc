@@ -1,0 +1,3 @@
+**Source** [Player Core pg. 424](https://2e.aonsrd.com/sources/2-player-core)
+
+A creature with darkvision or greater darkvision can see perfectly well in areas of [darkness](https://2e.aonsrd.com/rules/453-darkness) and [dim light](https://2e.aonsrd.com/rules/452-dim-light), though such vision is in black and white only. Some forms of magical darkness, such as a 4th-rank _[darkness](https://2e.aonsrd.com/spells/54-darkness)_ spell, block normal darkvision. A creature with greater darkvision, however, can see through even these forms of magical darkness.

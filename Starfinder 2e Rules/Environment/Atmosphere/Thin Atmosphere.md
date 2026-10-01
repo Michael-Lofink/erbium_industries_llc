@@ -1,0 +1,3 @@
+**Source** [GM Core pg. 97](https://2e.aonsrd.com/sources/8-gm-core)
+
+A thin atmosphere has low air pressure and often lacks enough oxygen to keep characters healthy. Breathing a thin atmosphere for more than a few hours causes non-acclimated characters to become fatigued. Severely thin atmospheres require characters to attempt a Fortitude save every hour or become [drained](https://2e.aonsrd.com/conditions/10-drained). The value of the drained condition depends on the specific atmosphere (typically drained 1).

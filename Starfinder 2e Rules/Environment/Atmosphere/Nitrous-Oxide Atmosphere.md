@@ -1,0 +1,5 @@
+**Source** Erbium Industries LLC
+
+A nitrous-oxide atmosphere contains gases that dull awareness and impair coordination. A creature breathing this atmosphere must attempt a Fortitude save every minute (typically DC 18), becoming **stupefied 1** on a failure or **stupefied 2** and **clumsy 1** on a critical failure. Dilute mixtures require a save every 10 minutes (typically DC 15). Concentrated mixtures require a save every round (typically DC 22) and also cause **slowed 1** on a critical failure.
+
+Conditions imposed by this atmosphere last until the creature spends 1 uninterrupted minute breathing uncontaminated air. Repeated failures don’t increase condition values beyond those listed, and subsequent successful saves don’t reduce or remove these conditions. These are inhaled poison effects. Creatures that don’t breathe or are specifically adapted to this atmosphere are unaffected.
