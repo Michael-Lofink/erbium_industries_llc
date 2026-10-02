@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+                "file": "Campaign/Sessions/Session 2.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Fonqugon"
+              "title": "Session 2"
             }
           }
         ]
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 290.11279296875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +214,22 @@
   },
   "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
-    "Vault Review.md",
-    "Vault Guide.md",
+    "Campaign/Sessions/Session 1.md",
+    "Campaign/Party/Maggie/Tuppie.md",
+    "Campaign/Sessions/Session 2.md",
     "00 - Start Here.md",
+    "Campaign/00 - Run the Campaign.md",
+    "Inbox/Untitled.md",
+    "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
+    "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
+    "Campaign/GM Notes/Erbium_Session_1_Assessment_Recap_Continuity.md",
+    "Campaign/GM Notes/PES Timekeeping Toolkit.md",
+    "Vault Guide.md",
+    "Vault Review.md",
     "Campaign/Party/00 - Party Index.md",
+    "Starfinder 2e Rules/00 - Rules Index.md",
+    "Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore.md",
+    "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
     "Worldbuilding/00 - Worldbuilding Index.md",
     "Worldbuilding/Society and Economy/Erbium Credit Trust and Equipment Financing.md",
     "Worldbuilding/People/Corpo 8-Ball.md",
@@ -225,27 +237,15 @@
     "Worldbuilding/People/KE$HRA.md",
     "Worldbuilding/People/Hondue Last-Tether.md",
     "Pasted image 20261001122544.png",
-    "Campaign/00 - Run the Campaign.md",
-    "Campaign/Sessions/Session 2.md",
-    "Campaign/Sessions/Session 1.md",
     "Campaign/OBS_ASSETS/Session 1/2026-09-19 13-12-54.mp4",
     "Campaign/OBS_ASSETS/Session 1/2026-09-19 15-39-01.mp4",
-    "Campaign/Party/Maggie/Tuppie.md",
     "Campaign/Player Handouts/FEDEquipmentPackageNoShared.pdf",
-    "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
     "Erbium Industries LLC.md",
-    "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
     "Campaign/Locations/Outside Settled Systems/The Last Grin",
     "Starfinder 2e Rules/Actions/Analyze Environment.md",
     "Starfinder 2e Rules/Equipment/Armor/Environmental Protection.md",
     "Starfinder 2e Rules/Actions/Big Wet Eye Blink.md",
-    "Campaign/Party/Jonah/Ponder Unity.md",
-    "Campaign/Party/Jonah/Ponderer (of Oceanus) Scene.md",
-    "Starfinder 2e Rules/Conditions/Broken.md",
-    "Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore.md",
     "Resources/creaturePortrait_Electrovore.webp",
-    "Worldbuilding/Mechanics/Creatures/Level 4/Construct/Enforcer Robot.md",
-    "Starfinder 2e Rules/Equipment/Weapons/Range.md",
     "Starfinder 2e Rules/Perception and Detection/Senses",
     "Starfinder 2e Rules/Perception and Detection/Special Senses",
     "Starfinder 2e Rules/Perception and Detection",

@@ -58,6 +58,11 @@ Electrovores show up to the wreckage eventually because of concentration of elec
 
 if they are struggling and left emergency beacon on then hunting party led by PPPPP could show up?
 
+I’d use PPPPP for an attempted salvage seizure. If his group encounters the party outside Fresh-Breath, he offers directions and transport, then starts identifying equipment as payment: a spare battery, a toolkit, anything portable that still works. One of his companions begins loading an unattended supply case while he keeps the survivors talking.
+
+attempt observable and interruptible
+
+
 ## Collapsible Electrovore Stats
 ![[Electrovore#Electrovore]]
 ![[Electrovore#Weak Electrovore]]
@@ -65,8 +70,22 @@ if they are struggling and left emergency beacon on then hunting party led by PP
 # Where did the Cockpit go?
 The Pilot, "Chief," launching the emergency parachute attached to the cockpit, survived and landed on the darkside of the Last Grin. 
 
+The cockpit remains where it landed, with the parachute stretched across nearby rocks, an open emergency hatch, and boot prints beside narrow vehicle tracks. Someone has removed its emergency supplies.
+
+Its surviving flight recorder contains a short warning sequence identifying incoming fire from the moon’s surface. A saved sensor display marks an approximate launch area.
+
 # Fresh-Breath
 There is an abandoned ship, that sunk in a cave-in, an electrovore nest cave. Could be fixed up? Chief landed near Fresh-Breath, and has likely made it there.
+
+|Person|Practical role|What they want|What they know|
+|---|---|---|---|
+|**A.Sop**|Settlement head; authorizes use of the emplacement and allocation of communal supplies|Prevent corporate discovery or occupation; establish whether rescue is coming|Authorized the attack; knows the old ship’s location and the settlement’s account of its arrival|
+|**PPPPP**|Hunter, smuggler, occasional recovery-crew leader|Obtain valuable salvage and keep profitable finds outside A.Sop’s inventory|Knows local routes, the attack’s target, and recent signs of electrovores around the buried ship; does not know whether it can fly|
+|**Nera Sop** |Maintains air equipment; handles the shared tool store and incoming suit connections|Keep damaged or incompatible equipment from disrupting the air system; get injured arrivals stabilized|Knows Chief was brought in and what he needed; heard the firing but was working below ground and did not witness the targeting decision|
+
+A.Sop can bring up the ship when the party asks about leaving. It allegedly carried Fresh-Breath’s original settlers and became their first shelter. After the settlement expanded, residents removed useful equipment from it; a later subsidence trapped much of the hull, and electrovores eventually occupied the accessible spaces.
+
+A.Sop knows where the entrance was and what earlier salvage crews removed. He has no current assessment of the engines. The party’s recent wreck might supply components the settlement has lacked.
 
 ## Collapsible Fresh-Breath Stats
 ![[Fresh-Breath#Fresh-Breath Statblock]]
