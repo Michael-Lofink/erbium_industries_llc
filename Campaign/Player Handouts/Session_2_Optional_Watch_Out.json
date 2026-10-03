@@ -1,0 +1,33 @@
+[
+  {
+    "count": 1,
+    "title": "Watch Out",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Concentrate</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Envoy</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 108",
+      "property | Action | Reaction",
+      "property | Trigger | A creature targets an ally within 60 feet with an attack, and you can see both the attacker and your ally.",
+      "text | You signal a warning to your ally, granting them a <b>+2 circumstance bonus to AC</b> against the <b>triggering attack</b>."
+    ],
+    "tags": [
+      "erbium",
+      "proposed-reward",
+      "ponderer"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "SeaGreen",
+    "color_back": "SeaGreen",
+    "title_color": "",
+    "icon_front_color": "",
+    "icon_front": "p2e-reaction",
+    "icon_back": "shield-reflect",
+    "title_size": "10",
+    "card_type": "Feat 1",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  }
+]

@@ -16,6 +16,6 @@
 **Resources** $N_2O$ gas deposits, $H_2O$ sub-surface, 
 ---
 ### Threats & Encounters
-* **Hazards** Diluted Nitrous-Oxide and Thin Atmosphere; See [[Nitrous-Oxide Atmosphere]] and [[Thin Atmosphere]] treat as Diluted because Thin
+* **Hazards** Diluted Nitrous-Oxide and Thin Atmosphere; See [[Nitrous-Oxide Atmosphere]] and [[Thin Atmosphere]] treat as Diluted because Thin.<br>[[Chuckle Vent|Chuckle Vents]] litter the surface of the moon
 * **Creatures** Electrovores; Packs of 2-3 (Include weak adjustment)
 ```

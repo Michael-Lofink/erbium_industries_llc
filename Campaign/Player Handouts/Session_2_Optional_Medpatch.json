@@ -1,0 +1,41 @@
+[
+  {
+    "count": 1,
+    "title": "Medpatch (Commercial)",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Consumable</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Healing</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Tech</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 241",
+      "property | Price New | 30 credits | Bulk | L",
+      "property | Hands | 1",
+      "property | Activate | 1 action (manipulate)",
+      "text | A sealed medical patch salvaged from a damaged first-aid cabinet.",
+      "section | Apply Patch",
+      "text | The recipient regains <b>1d6 Hit Points</b> and gains a <b>+1 item bonus</b> to saving throws against diseases and poisons for <b>10 minutes</b>.",
+      "text | Apply to yourself or a creature within reach. An unwilling target normally must be paralyzed, petrified, or unconscious.",
+      "boxes | 1 | 1.5 | Mark when used; single patch."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "recoverable",
+      "equipment",
+      "optional"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "Crimson",
+    "title_color": "",
+    "icon_front_color": "",
+    "color_back": "Crimson",
+    "icon_front": "",
+    "icon_back": "health-normal",
+    "title_size": "9",
+    "card_type": "Item 1",
+    "card_font_size": "9",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  }
+]

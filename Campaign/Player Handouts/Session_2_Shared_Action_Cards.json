@@ -1,0 +1,352 @@
+[
+  {
+    "count": 1,
+    "title": "Analyze Environment",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Concentrate</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Exploration</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 430",
+      "property | Cost | Exploration",
+      "property | Requires | Armor environmental protection or a field scientist’s kit",
+      "text | Travel at half speed or slower while checking your armor sensors or a held field scientist’s kit.",
+      "text | <b>Automatically detect environmental hazards your armor protects against</b>, including their severity: temperature, radiation, presence or absence of air, and similar conditions.",
+      "text | This is not a general scan for hidden traps, creatures, or every danger. Use Search or Seek for those."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Search",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Concentrate</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Exploration</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 432",
+      "property | Cost | Exploration",
+      "property | Requires | None",
+      "text | Search for concealed hazards, secret doors, and hidden objects while usually traveling at half speed.",
+      "text | To check everything thoroughly, travel no faster than <b>300 feet/minute</b>; to check before walking into danger, no faster than <b>150 feet/minute</b>. Cluttered locations require stopping for a longer search.",
+      "text | When you encounter a hidden object or hazard, the GM makes a free <b>secret Seek check</b> to determine whether you notice it. Detection can require a minimum Perception proficiency."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Seek",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Concentrate</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Secret</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 409",
+      "property | Cost | 1 action",
+      "property | Requires | None",
+      "text | Choose an area to scan, normally no more than <b>30 feet in any dimension</b>. The GM can adjust the area, impose distance penalties, or require extra actions for clutter.",
+      "text | The GM rolls secret <b>Perception</b> against hidden creatures’ Stealth DCs and objects’ detection DCs.",
+      "text | <b>Critical success:</b> Detected hidden or undetected creatures become observed; you locate objects.",
+      "text | <b>Success:</b> Undetected creatures become hidden; hidden creatures become observed. You locate an object or gain a clue to its whereabouts.",
+      "text | Limited senses or effects such as invisibility can prevent a creature from becoming observed."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Recall Knowledge",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Concentrate</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Secret</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 190",
+      "property | Cost | 1 action",
+      "property | Requires | A relevant skill; training not generally required",
+      "text | Suggest a relevant skill and ask the GM <b>one specific question</b>. The GM sets the DC and rolls secretly. You can discuss the question and skill before committing the action.",
+      "text | <b>Critical success:</b> A true answer, plus useful context or an answer to a follow-up question.",
+      "text | <b>Success:</b> A true answer. <b>Failure:</b> No useful answer. <b>Critical failure:</b> A false answer, or no answer at the GM’s discretion.",
+      "text | Examples: Piloting for vehicle parts; Crafting for engineering or tech creatures; Nature for beasts; a relevant Lore for its specialty. Ask about a weakness, a defense, or how something works."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Aid",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 408",
+      "property | Cost | Prepare, then reaction",
+      "property | Requires | A willing ally; explain how you help",
+      "text | Prepare to help, usually by spending <b>1 action</b> on your turn. The GM decides whether the method works and what check you roll.",
+      "text | <b>Trigger:</b> Your ally is about to make a skill check or attack roll. Use your <b>reaction</b> to roll the approved skill or attack, usually against <b>DC 15</b>.",
+      "text | <b>Critical success:</b> Ally gains +2 circumstance bonus to that check (+3 if you are master in the check; +4 if legendary).",
+      "text | <b>Success:</b> +1 circumstance bonus. <b>Failure:</b> No benefit. <b>Critical failure:</b> −1 circumstance penalty.",
+      "text | The GM can change the DC, preparation, traits, or permitted checks to suit the task."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Scout",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Concentrate</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Exploration</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 432",
+      "property | Cost | Exploration",
+      "property | Requires | None",
+      "text | Watch for danger ahead of and behind the group while traveling at <b>half speed</b>.",
+      "text | At the next encounter, <b>everyone in your party gains +1 circumstance bonus to initiative</b>. Multiple Scouts do not stack this bonus."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Avoid Notice",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Exploration</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 430",
+      "property | Cost | Exploration",
+      "property | Requires | None",
+      "text | Attempt <b>Stealth</b> to travel unnoticed at <b>half speed</b>.",
+      "text | When an encounter starts, you usually roll Stealth for initiative. Compare that same result with enemies’ Perception DCs to determine whether they notice you, using the rules for Sneak.",
+      "text | Acting before someone in initiative does not by itself mean you are hidden from them."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Sense Motive",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Concentrate</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Secret</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 409",
+      "property | Cost | 1 action",
+      "property | Requires | None",
+      "text | Assess one creature’s behavior. The GM rolls secret <b>Perception</b> against its Deception DC or another relevant DC.",
+      "text | <b>Critical success:</b> Learn its true intentions and get a solid idea of mental magic affecting it.",
+      "text | <b>Success:</b> Tell whether it behaves normally, without learning exact intentions or magic.",
+      "text | <b>Failure:</b> Believe the deceptive impression it presents, or think a truthful creature behaves normally. <b>Critical failure:</b> Form a false impression of its intentions.",
+      "text | Normally you cannot retry against the same creature until the situation changes significantly. This is not automatic lie detection."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Take Cover",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 410",
+      "property | Cost | 1 action",
+      "property | Requires | Have cover, be near a suitable feature, or be prone",
+      "text | If you have standard cover, improve it to <b>greater cover</b>: +4 circumstance bonus to AC, Reflex saves against area effects, and Stealth checks to Hide, Sneak, or avoid detection.",
+      "text | Otherwise gain <b>standard cover</b>, giving +2 instead.",
+      "text | Lasts until you move from your space, use an attack action, become unconscious, or end it as a free action. Cover must apply to the direction and situation of the attack."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Step",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Move</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 410",
+      "property | Cost | 1 action",
+      "property | Requires | Land Speed at least 10 feet",
+      "text | Move <b>5 feet</b> without triggering reactions caused by movement or leaving or entering a square.",
+      "text | You cannot Step into difficult terrain or use a Speed other than your land Speed.",
+      "text | A useful way to reposition without an attack roll; it does not make you immune to all possible reactions."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Hero Points",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 405",
+      "property | Cost | No action",
+      "property | Requires | At least 1 Hero Point",
+      "text | Start each session with <b>1 Hero Point</b>; hold at most 3. Unspent points expire at session end.",
+      "text | <b>Reroll:</b> Spend 1 point to reroll a check. You must use the second result. This is a fortune effect; you cannot spend multiple Hero Points on the same check.",
+      "text | <b>Heroic recovery:</b> When your dying condition would increase, spend <b>all</b> your points (minimum 1). Remove dying and stabilize at 0 HP. This does not add or increase wounded, but does not remove existing wounded."
+    ],
+    "tags": [
+      "erbium",
+      "session-2",
+      "action-reference",
+      "shared"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Reference",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  }
+]

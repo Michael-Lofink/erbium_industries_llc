@@ -1,0 +1,138 @@
+[
+  {
+    "count": 1,
+    "title": "Experienced Smuggler",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">General</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Skill</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 220",
+      "property | Prerequisite | Trained in Stealth",
+      "text | When the GM rolls Stealth to determine whether a <b>passive observer</b> notices a <b>small item you have concealed</b>, treat the die roll as at least <b>10</b>, then add your Stealth modifier.",
+      "section | Higher Proficiency",
+      "text | <b>Master:</b> Treat the die roll as at least <b>15</b>.",
+      "text | <b>Legendary:</b> Automatically succeed at hiding a small concealed item from passive observers.",
+      "section | Active Searches",
+      "text | This feat provides no benefit against a creature actively searching you for hidden items with a Perception check."
+    ],
+    "tags": [
+      "erbium",
+      "proposed-reward",
+      "8-ball"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkSlateGray",
+    "color_back": "DarkSlateGray",
+    "title_color": "",
+    "icon_front_color": "",
+    "icon_front": "",
+    "icon_back": "hidden",
+    "title_size": "10",
+    "card_type": "Feat 1",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Quick Repair",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">General</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Skill</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 226",
+      "property | Prerequisite | Trained in Crafting",
+      "text | Your <b>Repair</b> activity loses the exploration trait and takes <b>1 minute</b> instead of 10 minutes.",
+      "section | Higher Proficiency",
+      "text | <b>Master in Crafting:</b> Repair takes <b>3 actions</b>.",
+      "text | <b>Legendary in Crafting:</b> Repair takes <b>1 action</b>."
+    ],
+    "tags": [
+      "erbium",
+      "proposed-reward",
+      "tarn"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "SteelBlue",
+    "color_back": "SteelBlue",
+    "title_color": "",
+    "icon_front_color": "",
+    "icon_front": "",
+    "icon_back": "auto-repair",
+    "title_size": "10",
+    "card_type": "Feat 1",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Lie to Me",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">General</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Skill</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 224",
+      "property | Prerequisite | Trained in Deception",
+      "text | When you engage in conversation with someone trying to <b>Lie</b> to you, use your <b>Deception DC</b> in place of your Perception DC if it is higher.",
+      "text | The speaker's Lie check is resolved against that DC.",
+      "section | Conversation Required",
+      "text | You must have a back-and-forth dialogue. This benefit does not apply when you only listen, such as during a long speech."
+    ],
+    "tags": [
+      "erbium",
+      "proposed-reward",
+      "mordrun"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "MediumSlateBlue",
+    "color_back": "MediumSlateBlue",
+    "title_color": "",
+    "icon_front_color": "",
+    "icon_front": "",
+    "icon_back": "conversation",
+    "title_size": "10",
+    "card_type": "Feat 1",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  },
+  {
+    "count": 1,
+    "title": "Additional Lore",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">General</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Skill</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 215",
+      "property | Chosen Lore | Salvage Contracts Lore",
+      "text | Become <b>trained</b> in the chosen Lore subcategory.",
+      "text | At <b>3rd, 7th, and 15th levels</b>, gain an additional skill increase that can be applied only to this Lore subcategory.",
+      "section | Campaign Specialty",
+      "text | Salvage ownership claims, recovery agreements, customary fees, and obligations attached to recovered property. The GM determines which checks this specialty covers.",
+      "section | Special",
+      "text | You can select Additional Lore more than once, choosing a different Lore subcategory each time. Each choice receives its own listed skill increases."
+    ],
+    "tags": [
+      "erbium",
+      "proposed-reward",
+      "ponderer"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "DarkGoldenrod",
+    "color_back": "DarkGoldenrod",
+    "title_color": "",
+    "icon_front_color": "",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Feat 1",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  }
+]

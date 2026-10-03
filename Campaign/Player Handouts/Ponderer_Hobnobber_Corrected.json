@@ -1,0 +1,33 @@
+[
+  {
+    "count": 1,
+    "title": "Hobnobber",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">General</span>",
+      "p2e_trait | common | <span style=\"background-color:#2E4969;color:#FFFFFF;display:inline-block;margin:0 -5px;padding:0 3px;border:1px solid #A3E1E6;box-shadow:0 0 0 2px #A3E1E6;\">Skill</span>",
+      "p2e_end_trait_section",
+      "property | Source | Player Core 222",
+      "property | Cost | Passive feat",
+      "property | Requires | Trained Diplomacy; must have this feat",
+      "text | Your <b>Gather Information</b> exploration activity takes <b>half its normal time</b>, usually 1 hour instead of 2.",
+      "text | If you are a <b>master in Diplomacy</b>, a critical failure to Gather Information becomes a failure instead.",
+      "text | This does not guarantee that the rumors you hear are accurate."
+    ],
+    "tags": [
+      "erbium",
+      "ponderer",
+      "corrected-card"
+    ],
+    "icon_back_container": "rounded-square",
+    "color_front": "SteelBlue",
+    "color_back": "SteelBlue",
+    "icon_front": "",
+    "icon_back": "scroll-unfurled",
+    "title_size": "10",
+    "card_type": "Feat 1",
+    "card_font_size": "10",
+    "auto_fit_font_size": true,
+    "vertical_alignment_reference": ""
+  }
+]
