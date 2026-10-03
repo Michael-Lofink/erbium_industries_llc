@@ -36,6 +36,7 @@ In fact, at this very moment, as we zoom in on the crash site, and follow past t
 And that is where we will begin: "Awake on Planet 'X'"
 
 # Awake on Planet "X"?
+<!-- pes: {"id":"pes-musz5vdj-iyuer1lo","plan":{"kind":"offset","minutes":-5}} -->
 
 >8-Ball, Mordrun, your surroundings are cold, ridged, and gray. The main hab has shattered to bits, but a chunk remains large enough to create an overhang. That is where you, Mordrun, find yourself now as you follow closely the instructions on the medkit to resuscitate your pairing Ponderer. 8-Ball, your head is on backwards, and you see over the horizon a ginormous celestial body covering most of your view. It is green and blue, covered in harrowing clouds.
 
@@ -61,6 +62,7 @@ There is a settlement on the darkside: Fresh-Breath, occupied by people a couple
 ![[The Last Grin]]
 
 # Electrovores at the wreckage
+<!-- pes: {"id":"pes-musz71rg-fw82smx9","plan":{"kind":"after","scene":"pes-musz5vdj-iyuer1lo","minutes":30}} -->
 Electrovores show up to the wreckage eventually because of concentration of electricity at the wreckage. 
 
 if they are struggling and left emergency beacon on then hunting party led by PPPPP could show up? PPPPP shows up in Fresh-Breath's [[Grinrunner Hunting Truck|Grinrunner]]
@@ -74,12 +76,16 @@ attempt observable and interruptible
 - **8-Ball — interrupt the salvage seizure.** During PPPPP’s conversation, visibly describe his companion lifting their supply case. Give Gregory time to intervene and use Intimidation.
 - **Mordrun — recognize the negotiation.** Piracy Lore could help Mary Beth recognize that PPPPP is testing how much the survivors will surrender. This reveals his bargaining tactic; it doesn’t establish who attacked them.
 
+## Electrovores Dead
+<!-- pes: {"id":"pes-musz943u-ukybpyvt","plan":{"kind":"after","scene":"pes-musz71rg-fw82smx9","minutes":10}} -->
+
 
 ## Collapsible Electrovore Stats
 ![[Electrovore#Electrovore]]
 ![[Electrovore#Weak Electrovore]]
 
 # Where did the Cockpit go?
+<!-- pes: {"id":"pes-muszc4r6-ucdnr8zd","plan":{"kind":"after","scene":"pes-musz943u-ukybpyvt","minutes":30}} -->
 The Pilot, "Chief," launching the emergency parachute attached to the cockpit, survived and landed on the darkside of the Last Grin. 
 
 The cockpit remains where it landed, with the parachute stretched across nearby rocks, an open emergency hatch, and boot prints beside narrow vehicle tracks. Someone has removed its emergency supplies.
@@ -91,6 +97,7 @@ Its surviving flight recorder contains a short warning sequence identifying inco
 - **GM reminder:** Give them the basic surface-attack clue when they access the recorder. Checks can improve its precision.
 
 # Fresh-Breath
+<!-- pes: {"id":"pes-muszf056-h5i7seat","plan":{"kind":"after","scene":"pes-musz943u-ukybpyvt","minutes":120}} -->
 There is an abandoned ship, that sunk in a cave-in, an electrovore nest cave. Could be fixed up? Chief landed near Fresh-Breath, and has likely made it there.
 
 |Person|Practical role|What they want|What they know|
