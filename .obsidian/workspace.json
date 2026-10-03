@@ -11,12 +11,14 @@
             "id": "5c9d61b320043b4a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Campaign/Player Handouts/FEDEquipmentPackageNoShared.pdf"
+                "file": "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "FEDEquipmentPackageNoShared"
+              "icon": "lucide-file",
+              "title": "The Last Grin"
             }
           }
         ]
@@ -212,11 +214,13 @@
   },
   "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
+    "Campaign/OBS_ASSETS/Session 2/cantina.jpeg",
+    "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
+    "Campaign/GM Notes/Erbium_Session_1_Assessment_Recap_Continuity.md",
+    "Campaign/Player Handouts/FEDEquipmentPackageNoShared.pdf",
     "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
     "Campaign/OBS_ASSETS/Session 2/crashsitemoon.png",
     "Campaign/OBS_ASSETS/Session 2/space-outpost.png",
-    "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
-    "Campaign/GM Notes/Erbium_Session_1_Assessment_Recap_Continuity.md",
     "Campaign/Sessions/Session 2.md",
     "Campaign/Party/Jonah/PondererLvl1Cards.pdf",
     "Campaign/Player Handouts/Session2handout.pdf",
@@ -233,7 +237,6 @@
     "Campaign/Player Handouts/Ponderer_Hobnobber_Corrected.json",
     "Starfinder 2e Rules/Vehicles/Level 2/Grinrunner Hunting Truck.md",
     "Starfinder 2e Rules/Hazards/Level 1/Chuckle Vent.md",
-    "Starfinder 2e Rules/Vehicles/Level 2",
     "Resources/00 - Resource Index.md",
     "Templates/PES/PES Advance time.md",
     "Templates/PES/PES Check session.md",
