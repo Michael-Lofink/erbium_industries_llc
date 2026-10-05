@@ -17,194 +17,151 @@ tags:
   - major-hub
 ---
 > [!summary]
-> **Zakaron**, called **the Inverted Arsenal**, is the ancestral world of the [[Madrosarai]] and [[Vesk]]. Ancient internal wars stripped its atmosphere, fractured its mantle, and forced its surviving peoples to rebuild civilization along the inside of the planetary crust. Today, the inner-shell megacity of **Kharosai** surrounds a technologically stabilized core called the **Sunlock**. Artificial gravity holds residents against the inner surface while the illuminated districts on the opposite side of the world hang visibly overhead.
+> **Zakaron**, the **Inverted Arsenal**, is the ancestral world of the [[Madrosarai]] and [[Vesk]]. The Rupture Wars destroyed its surface and much of the original planet. Its survivors rebuilt within a reinforced remnant, arranging their city around a central cavity. Artificial gravity holds residents against the inside of the shell, with the opposite districts hanging upside down overhead. A contained fragment of the old core, the **Sunlock**, lights the city.
 >
-> Zakaron is the leading center of military engineering, cybernetics, combat medicine, neural interfaces, and weapons development in the [[Settled Systems]]. Its government retains substantial independence from [[Erbium Industries LLC]], though its fleets remain constrained by Erbium’s control of refined erbium and recognized Drift infrastructure.
+> **Kharosai** houses 3.1 billion people across its inward-facing skyline and the densely inhabited rock behind it. Zakaron leads the [[Settled Systems]] in military technology and cybernetics. It remains independent of [[Erbium Industries LLC]], though its fleets depend on access to refined erbium and recognized Drift infrastructure.
 
 ![[planet_Zakaron.png#center]]
 
 > [!info] ZAKARON
 > *The Inverted Arsenal*
 >
-> **Gravity** Normal artificial gravity throughout Kharosai; variable around damaged projectors and structural seams  
-> **Atmosphere** None on the exterior; normal and mechanically maintained within Kharosai  
+> **Diameter** Approximately 200 km; the central cavity is approximately 12 km across  
+> **Gravity** Normal artificial gravity throughout Kharosai; unstable near damaged projectors and structural seams  
+> **Atmosphere** None outside; mechanically maintained within Kharosai  
 > **Day** 24 hours by regulated civic lighting cycle  
 > **Year** Approximately 326 standard days  
 > **Government** The [[Zakaron Concord]], governed through the Paired Mandate and two clan assemblies  
 > **Capital** Sairak Axis  
 > **Population** Approximately 3.1 billion; primarily Vesk and Madrosarai, with established offworld communities  
 > **Languages** Common, Madrosarai, Vesk  
-> **Religions** Clan ancestor traditions, martial oath practices, Sunlock stewardship, bloodline observances, and imported Settled Systems faiths  
+> **Religions** Clan ancestor traditions, martial oaths, Sunlock stewardship, bloodline observances, and imported Settled Systems faiths  
 
-At a distance, Zakaron resembles a dead industrial world. The exterior is airless, cratered, and covered in overlapping armor plates, radiator fields, buried conduits, weapons emplacements, freight rails, and sealed access structures. Large sections of the original crust remain exposed between the plated regions, showing glassed stone, collapsed continental shelves, and scars left by orbital weapons.
+Zakaron's airless exterior is covered in industrial armor, cooling infrastructure, and defenses. Exposed rock between the plates bears the damage of the Rupture Wars. The world is much smaller than it was before the Inversion; extensive reconstruction holds the surviving material together.
 
-Most ships approach through shielded ports embedded deep within the exterior plating. Passengers descend through pressure locks, armored transit shafts, and gravity-transition chambers before emerging into Kharosai. Their first view of the inhabited world usually comes through a reinforced observation concourse: towers, transit lines, factories, housing blocks, and illuminated advertisements curving upward in every direction around the planetary cavity.
+Ships dock at fortified surface ports. Passengers descend through pressure locks and deep transit shafts before crossing into the city's gravity fields. Approaching Kharosai, local down turns toward the rock behind them. Observation concourses open onto a crowded skyline that curves up the walls and continues overhead.
 
-The city continues overhead until atmospheric haze and the light of the Sunlock obscure its most distant districts. On clear cycles, residents can see moving trains, military traffic, industrial furnaces, and entire neighborhoods hanging upside down across the sky.
+The Sunlock hangs between the two sides. Across the cavity, upside-down towers rise toward it, with traffic passing between their floors. Haze gathers around the containment machinery and the busiest industrial districts.
 
 ## The Inversion
 
-Zakaron’s present condition began with the **Rupture Wars**, a long sequence of conflicts fought among Vesk holds, Madrosarai blood-clans, and temporary coalitions assembled against whichever power appeared closest to planetary dominance.
+The **Rupture Wars** began as conflicts among Vesk holds and Madrosarai blood-clans. Coalitions repeatedly formed against whichever power came closest to controlling the planet. Over generations, attacks spread to the infrastructure that kept their populations alive.
 
-The wars escalated across generations. Combatants attacked atmosphere processors, orbital habitats, geothermal infrastructure, population shelters, and mantle-access facilities. Deep weapons redirected pressure through the crust. Extraction systems hollowed out strategically important mineral formations. Orbital strikes ignited atmospheric fires and damaged the planet’s magnetic protection. Each faction believed surrender would give its rivals control of the systems required for survival.
+Deep weapons destabilized the mantle while orbital bombardment destroyed surface settlements and atmospheric systems. Mining had already weakened much of the crust. The final collapse, remembered as **the Inversion**, broke apart much of Zakaron and left its surviving surface uninhabitable. Refugees withdrew into fortified underground settlements.
 
-The final collapse is remembered as **the Inversion**. Much of the remaining atmosphere escaped. Sections of the mantle destabilized and fell inward. Surface cities became uninhabitable, and the surviving populations withdrew into mines, bunkers, subterranean transit systems, and enormous structural cavities beneath the crust.
+Reconstruction consolidated the surviving settlements and salvaged material around a much smaller interior. The population built toward the central cavity, with a contained core remnant providing light and power. The Inversion eventually became the name for both the catastrophe and the reconstruction that followed.
 
-The term eventually came to describe both the catastrophe and the decision to rebuild civilization facing inward.
-
-Early reconstruction demanded cooperation across ancestral and political lines. Vesk holds supplied mass labor, heavy engineering, civil defense, and the military forces needed to protect shared infrastructure. Madrosarai blood-clans supplied arcane engineering, surgical expertise, intelligence networks, precision manufacturing, and the blood-reactive systems used to control sensitive machinery.
-
-The coalition prevented extinction. It also preserved many of the organizations that had caused the wars.
+Vesk holds provided most of the heavy engineering and civil defense. Madrosarai blood-clans contributed arcane engineering, medical expertise, and precision manufacturing, including the blood-reactive controls used in sensitive machinery. Cooperation kept the survivors alive, but left many of the institutions responsible for the wars in power.
 
 ## Kharosai
 
-**Kharosai** is the collective name for the inhabited inner shell of Zakaron. The name combines archaic Vesk and Madrosarai terms associated with a fortified enclosure and a shared interior light. Reconstruction authorities adopted the word to describe a civilization that belonged to both peoples.
+**Kharosai** names the inhabited interior of Zakaron. The word combines archaic Vesk and Madrosarai terms for a fortified enclosure and a shared interior light. Reconstruction authorities adopted it to recognize both peoples' part in rebuilding.
 
-Kharosai is often described as one city, though it contains thousands of districts, territorial holds, blood-clan enclaves, industrial regions, civic governments, and partially autonomous settlements. Continuous infrastructure connects most of the inhabited shell through high-speed rail, freight conduits, pressure routes, data networks, and military transit systems.
+The city wraps around a roughly spherical cavity about 12 km across. Skyscrapers crowd its inner surface, several reaching hundreds of meters toward the Sunlock. Elevated railways and bridges connect their upper floors. From an open balcony, the curvature is obvious: the skyline continues up either side until it becomes the ceiling.
 
-An artificial-gravity lattice embedded throughout the crust directs local gravity toward the shell beneath each district. The projectors overlap to create a stable downward pull across most inhabited areas. At the boundaries between poorly synchronized fields, residents experience shifting weight, vertigo, lateral pull, or brief periods of reduced gravity.
+Most of Kharosai lies behind this visible surface. Inhabited layers extend kilometers into the surrounding rock, with hundreds of levels connected by deep transit shafts. Most residents live in these enclosed districts. Access to a window facing the cavity is expensive.
 
-Gravity maintenance is one of Zakaron’s most tightly controlled public services. Every major clan supports dedicated engineering units capable of repairing local projectors, while the Concord maintains authority over the network’s planetary coordination. Deliberate interference with a gravity field is treated as a survival-level attack.
+Kharosai contains thousands of districts, including territorial holds and blood-clan enclaves with their own local governments. Shared transport and utility networks connect them. Residential levels are cramped, and heavy industry occupies separate excavations with dedicated cooling and freight access.
 
-The atmosphere circulates through immense ventilation channels and pressure reservoirs buried beneath the city. Carbon processing, heat exchange, humidity control, microbial monitoring, and industrial filtration operate continuously. Older districts smell of hot metal, coolant, electrical insulation, dense habitation, machine oil, and whatever food is being cooked in the nearest market corridor.
+An artificial-gravity lattice directs down toward the shell. Occupants of opposing districts each experience the other side as overhead. Underground levels follow the same local orientation. Poorly synchronized projectors cause shifts in weight and direction, sometimes leaving a street or building briefly weightless.
+
+The major clans maintain local engineering crews, while the Concord coordinates the planetary network. Deliberately disrupting a gravity field is treated as an attack on life-support infrastructure.
+
+Buried ventilation plants maintain the atmosphere and remove industrial heat and contaminants. Enclosed districts have separate pressure controls so that a breach can be isolated. Older residential levels tend to smell of machinery and cooking, especially where ventilation is overdue for repair.
 
 ## The Sunlock
 
-The luminous object at the center of Zakaron is called the **Sunlock**. It contains the surviving metallic and magmatic core, held within layered magnetic fields and surrounded by thermal exchangers, power-conversion structures, and containment rings.
+The **Sunlock** occupies the center of the cavity. It contains a small remnant of Zakaron's original core within magnetic containment and power-generation machinery. Its luminous enclosure is less than a kilometer across; the surrounding rings and service structures extend farther into the cavity.
 
-The Sunlock provides much of Kharosai’s visible light and a substantial portion of its power. Civic lighting cycles alter the intensity and spectrum of its outer plasma layers, producing scheduled dawns, bright work periods, dim evening cycles, and reduced-light rest periods throughout most districts.
+The installation supplies much of Kharosai's power. Controlled plasma illumination provides its civic day and night cycle, supplemented by local lighting in enclosed districts. Heat exchangers carry waste heat to the exterior radiator fields. Containment failures can interrupt power and gravity, and every major faction insists on retaining access to the machinery.
 
-The Sunlock remains dangerous. Containment fluctuations produce heat surges, electromagnetic interference, transit shutdowns, and temporary changes in artificial gravity. Every major political faction claims that its continued access to Sunlock systems is required for planetary survival.
+Residents call the city across the cavity the **Overcity**. The name is relative: someone looking back from those districts would use it for the streets beneath the observer's feet.
 
-The city visible across the cavity is called the **Overcity**. The term always refers to the districts above the speaker. No single district permanently occupies that designation.
+The distance between opposing districts is measured in kilometers. On clear cycles, residents can pick out individual towers and follow the lights of overhead trains. Large advertisements face across the cavity. With advanced image stabilization and atmospheric correction, a scope can follow a person along an exposed street or balcony on the opposite side.
 
-Children learn to identify major transit routes and industrial zones from their light patterns. Military observers track fleet movements through silhouettes crossing the Sunlock. Advertisers purchase enormous upward-facing displays intended for viewers thousands of kilometers away.
+Buildings, industrial haze, and the Sunlock itself obstruct that view. Streets directly behind the containment enclosure are hidden from the observer; a position farther along the district may offer a view around it. The crowded skyline leaves frequent gaps in anyone's line of sight.
 
 ## The Zakaron Concord
 
-Zakaron’s sovereign government is the **Zakaron Concord**. The Concord developed from the reconstruction agreements that allocated labor, territory, atmosphere, gravity coverage, and access to the Sunlock after the Inversion.
+The **Zakaron Concord** grew from reconstruction agreements governing territory, labor, and access to shared infrastructure. Its legislature has two chambers.
 
-Its legislature consists of two political chambers.
+The **Assembly of Holds** represents the major Vesk holds, which combine lineage, territorial government, and military or industrial authority. It controls defense spending, public mobilization, heavy infrastructure, and industrial policy, including fleet construction.
 
-The **Assembly of Holds** represents the major Vesk holds. A hold may be an extended lineage, territorial government, military organization, industrial consortium, or combination of these institutions. The Assembly controls defense appropriations, heavy infrastructure, public mobilization, fleet construction, and much of Zakaron’s industrial policy.
+The **Conclave of Veils** represents recognized Madrosarai blood-clans. Seats reflect population, territory, inherited agreements, and responsibility for infrastructure, with powerful clans exerting influence over the allocations. The Conclave oversees intelligence and internal security, covert diplomacy, classified research, and regulation of cybernetic and blood-reactive technology.
 
-The **Conclave of Veils** represents the recognized Madrosarai blood-clans. Representation depends on population, territorial control, infrastructure obligations, inherited agreements, and the political influence of each clan. The Conclave oversees intelligence law, classified research, cybernetic regulation, covert diplomacy, internal security, and many of the systems associated with blood-reactive technology.
+The Vesk **Kharduun**, or **High Marshal**, commands planetary defense and fleet mobilization, including civil emergency forces. The title's older meaning is “the one who carries the wall.” The Madrosarai **Saivara**, or **First Veil**, directs intelligence, cyberwarfare, classified research, and protection of sensitive infrastructure.
 
-The Vesk figurehead is the **Kharduun**, commonly translated as **High Marshal**. The older meaning of the title is “the one who carries the wall.” The Kharduun directs planetary defense, civil emergency forces, fleet mobilization, and visible military command.
+These offices form the **Paired Mandate**. Both must approve declarations of war, major interstellar treaties, planetary emergency powers, unrestricted deployment of classified weapons, and fundamental changes to Sunlock governance.
 
-The Madrosarai figurehead is the **Saivara**, commonly translated as **First Veil**. The Saivara directs intelligence, counterintelligence, cyberwarfare, classified research, and the protection of Zakaron’s most sensitive infrastructure.
+The assemblies normally dominate policy. During war or an infrastructure crisis, the Kharduun and Saivara can exercise much broader authority. Agreement between them gives the executive considerable control over the planet; a dispute can prevent decisions on essential services.
 
-Together, these offices form the **Paired Mandate**. Both must authorize declarations of war, major interstellar treaties, planet-wide emergency powers, unrestricted deployment of classified weapons, and fundamental changes to Sunlock governance.
-
-During stable periods, the two assemblies dominate policy. During war or infrastructure crisis, the Kharduun and Saivara can acquire broad practical authority. A coordinated Paired Mandate can control nearly every major institution on Zakaron. An openly hostile pair can paralyze the government while each side claims the other has endangered the planet.
-
-Zakaron also holds a permanent voting seat on the [[Settled Systems Code Council]], the intersystem body responsible for drafting, adopting, and amending the [[Settled Systems Administrative Code]]. The Concord’s delegation is jointly appointed by the Assembly of Holds and the Conclave of Veils. A formal vote from the Zakaron seat requires authorization from both chambers, making its delegation influential when the Concord is united and conspicuously silent when the two assemblies cannot agree.
+Zakaron holds a permanent voting seat on the [[Settled Systems Code Council]], which drafts, adopts, and amends the [[Settled Systems Administrative Code]]. The two assemblies jointly appoint its delegation and must both authorize its formal votes. Disagreement can leave Zakaron unable to vote.
 
 ## Holds and Blood-Clans
 
-Vesk holds and Madrosarai blood-clans remain distinct institutions, though daily life throughout Kharosai is thoroughly integrated. Military units, factories, neighborhoods, universities, criminal organizations, medical systems, and commercial firms commonly include both ancestries.
+Vesk holds and Madrosarai blood-clans remain separate institutions, but both ancestries share Kharosai's workplaces and neighborhoods.
 
-Most Vesk holds emphasize public obligation, martial readiness, endurance, visible responsibility, and the controlled application of force. Their internal disputes concern who deserves protection, which authority may demand sacrifice, and whether conquest can be justified as the creation of order.
+Vesk holds emphasize public duty, military readiness, and responsibility for those under their protection. They disagree over who deserves that protection, who can demand sacrifice, and whether conquest is a legitimate means of establishing order.
 
-Madrosarai blood-clans organize themselves around inherited magical traits, specialized techniques, family archives, covert obligations, and control of particular technologies. Their blood carries measurable arcane properties that influence coloration, magical aptitude, and the techniques available to some lineages.
+Madrosarai blood-clans preserve inherited magical techniques and family archives, alongside covert obligations and control of particular technologies. Their blood has measurable arcane properties that influence its color and the abilities available to a lineage. Those properties also shape expectations about a person's career.
 
-Bloodline expectations affect education and employment. Gold-blooded Madrosarai are often directed toward command. Lime bloodlines dominate technical and cybernetic professions. Red bloodlines are associated with controlled aggression. Stone bloodlines are trained for analysis and medicine. Teal bloodlines carry expectations of endurance and service. Umber bloodlines maintain strong connections to psychic and occult practices.
+| Bloodline | Expected work or role |
+| --- | --- |
+| Gold | Command |
+| Lime | Technical work and cybernetics |
+| Red | Controlled aggression |
+| Stone | Analysis and medicine |
+| Teal | Endurance and service |
+| Umber | Psychic and occult practices |
 
-These expectations produce highly skilled institutions and extensive coercion. A person whose interests conflict with their bloodline’s assigned role may be treated as wasting an inherited resource. Clan authorities frequently describe pressure as education, obligation, or continuity.
-
-Vesk experience similar expectations. A Vesk who pursues espionage, art, medicine, or quiet scholarship may face assumptions that they lack ambition or courage. A Madrosarai who seeks heavy military command may be accused of pursuing status without accepting visible risk.
+Clans pressure members into these roles through education and obligations to their families. Someone pursuing unrelated work may be accused of wasting an inherited ability. Vesk face similar pressure to enter martial professions, with other ambitions sometimes dismissed as cowardice. Madrosarai seeking heavy military command can face accusations that they want its status without accepting its risks.
 
 ## The Star Dream and the Open Stars
 
-The [[Star Dream]] reached Zakaron after Kharosai had already become a stable inner-world civilization. Vesk and Madrosarai recipients saw distant peoples, Drift engines, intersystem relays, and worlds whose populations lived beneath open skies.
+The [[Star Dream]] reached Zakaron after Kharosai was established. Recipients saw other inhabited worlds and the Drift technology that could reach them. Many interpreted the revelation as a mandate to impose order beyond Zakaron, using its existing military strength.
 
-Many Zakaron interpreters understood the revelation as confirmation that their survival had prepared them to impose order beyond their ruined home. The Dream provided access to the Drift while Zakaron’s existing military and industrial institutions supplied weapons, soldiers, armor, cybernetics, and covert expertise.
+The resulting campaigns are known locally as the **War of the Open Stars** and elsewhere as the **Zakaron Expansion War**. Vesk assault forces seized transport and industrial infrastructure while Madrosarai operatives disrupted enemy command and navigation. Their fleets benefited from advanced equipment and close tactical coordination.
 
-Zakaron’s early interstellar campaigns became known locally as the **War of the Open Stars**. Settled Systems histories usually call the same conflict the **Zakaron Expansion War**.
-
-Vesk assault forces captured stations, shipyards, and ports. Madrosarai operatives disrupted command networks, sabotaged relays, assassinated political leaders, and seized navigation data. Zakaron fleets possessed advanced armor, weapons, cybernetics, and tactical coordination.
-
-Their expansion depended on limited erbium deposits found among moons, asteroids, and other bodies in the Zakaron system. The Concord exhausted those deposits faster than it could replace them. Zakaron continued constructing ships and weapons while losing the ability to supply those ships with Drift cores, relay components, and refined erbium.
-
-The war ended through logistics. Zakaron could win battles and capture territory. Each victory carried its fleets farther from a shrinking supply of the material required to move between stars.
+Expansion consumed the Zakaron system's limited erbium deposits. The Concord could keep building warships, but could no longer supply enough refined erbium and Drift components to move and support its fleets. Continued victories extended its supply lines until the campaigns became unsustainable.
 
 ## The Still-Drive Accords
 
-The peace settlement became known as the **Still-Drive Accords**, named for the armed Zakaron vessels left functional and unable to perform reliable intersystem travel.
+The **Still-Drive Accords** take their name from Zakaron's armed ships left without reliable intersystem travel. The settlement preserved the Concord's government, domestic military and industry, and sovereignty over its system. It limited the size and deployment of interstellar fleets, required inspection of imported Drift components, and tied recognized relay access to negotiated erbium allocations.
 
-The Accords preserved Zakaron’s internal government, domestic military, industrial base, and ownership of its planetary system. They restricted the size and deployment of its interstellar fleet, subjected imported Drift components to inspection, and tied recognized relay access to negotiated erbium allocations.
+The Accords took effect at `0:00000000 PES`. Erbium Industries presented the new universal time standard as a means of administering a lasting peace. On Zakaron, that stamp also marks the end of its expansion.
 
-The effective stamp of the Accords became `0:00000000 PES`. Erbium Industries presented the new universal time standard as the first shared administrative structure capable of ending intersystem war and maintaining a stable peace.
+The settlement guaranteed Zakaron its permanent Code Council seat, giving the Concord a say in the laws it was expected to follow. Erbium administers much of the infrastructure used to record, distribute, and enforce the Code. It cannot unilaterally enact new provisions.
 
-For Zakaron, the beginning of PES also records the stamp at which its expansion stopped.
+Zakaron uses its seat to resist restrictions on military technology and sovereign infrastructure. Its delegates also support harsh identity, security, and emergency laws when those measures benefit the Concord.
 
-The Accords also guaranteed Zakaron its permanent seat on the Settled Systems Code Council. The other signatories wanted the Concord bound by shared intersystem law but could not credibly demand compliance while excluding one of the largest sovereign powers from writing that law. Erbium Industries administers much of the technical infrastructure through which the Code is recorded, distributed, and enforced, but it does not formally possess unilateral authority to enact new provisions.
+Erbium has no chartered authority over Kharosai's domestic industry or public infrastructure, including the gravity network and Sunlock. Corporate representatives work through orbital treaty facilities, licensed trade missions, and Concord-approved intermediaries.
 
-Zakaron has used its seat to resist restrictions on cybernetics, military production, classified research, and sovereign infrastructure. Its delegates have also supported severe identity, security, and emergency provisions when those rules serve Concord interests. Zakaron’s opposition to Erbium therefore does not consistently translate into opposition to coercive law.
-
-Erbium Industries possesses no chartered authority over Kharosai’s public utilities, mines, factories, gravity systems, or Sunlock infrastructure. Corporate representatives conduct most official business through orbital treaty facilities, licensed trade missions, and Zakaron-controlled intermediaries.
-
-Erbium retains leverage through refined erbium, relay recognition, offworld shipping, component certification, and access to Settled Systems markets. Zakaron retains leverage through military technology, cybernetics, combat medicine, neural systems, armor, security equipment, and industrial augmentation.
-
-Each government depends on products controlled by the other. Each maintains programs intended to end that dependence.
+Erbium's leverage comes from control over refined erbium and access to recognized intersystem transport and markets. Zakaron supplies military technology and advanced medical and industrial cybernetics. Both governments fund efforts to replace the products they must obtain from the other.
 
 ## The Inverted Arsenal
 
-Zakaron produces the most advanced widely available cybernetics in the Settled Systems. Prosthetic limbs, sensory replacements, neural interfaces, reinforced organs, industrial augmentations, armor integration systems, and combat implants often originate from Zakaron research.
+Zakaron produces the Settled Systems' most advanced commercially available cybernetics, alongside restricted military systems. Its exports are durable, modular, and heavily licensed. Classified domestic implants can be several generations ahead of those sold abroad.
 
-Commercial exports are durable, modular, and heavily licensed. Near-military products include restricted targeting systems, reflex accelerators, encrypted neural links, adaptive armor interfaces, blood-reactive controls, and integrated weapon mounts.
+Augmentation is common in hazardous infrastructure work. Gravity technicians use vestibular regulators, while exterior crews need protection against radiation and loss of pressure. Blood-keyed interfaces are common among Madrosarai specialists; Vesk emergency personnel often use armor integrated with their bodies.
 
-The strongest domestic systems remain classified. Zakaron military personnel and clan specialists sometimes possess implants several generations beyond anything available through ordinary Settled Systems markets.
-
-Cybernetic development also supports life within Kharosai. Maintenance workers use reinforced joints and sensory implants to enter hazardous structural zones. Gravity technicians carry vestibular regulators. Exterior crews use radiation-resistant organs and sealed respiratory systems. Madrosarai operatives employ blood-keyed interfaces. Vesk emergency personnel integrate armor directly with their skeletal and muscular systems.
-
-The same technology supports surveillance and control. Employers monitor implant output. Clans restrict firmware. Military augmentations can contain remote safeties. Medical access may depend on loyalty, rank, or continued service.
-
-Zakaron exports personal freedom through bodily modification while preserving extensive authority over modified bodies at home.
+Employers and clans retain considerable control over these modifications through monitoring and restricted firmware. Military implants can include remote safeties. Access to maintenance and medical care may depend on loyalty, rank, or continued service.
 
 ## Districts of Kharosai
 
-**Sairak Axis** is the political center of the Concord and the formal capital of Zakaron. The Assembly of Holds and Conclave of Veils occupy separate fortified complexes connected through the Hall of the Paired Mandate. Government towers extend toward the Sunlock from one of the most stable gravity regions on the inner shell.
+**Sairak Axis** is the capital. The Assembly of Holds and Conclave of Veils occupy separate fortified complexes linked by the Hall of the Paired Mandate. Government towers face the Sunlock from one of the city's most stable gravity regions.
 
-**Kheled Foundry Belt** contains shipyards, armor works, military laboratories, implant manufacturers, and heavy industrial districts. Freight trains cross the visible sky in continuous lines. Heat from the foundries requires dedicated atmospheric channels and local Sunlock exchangers.
+**Kheled Foundry Belt** houses heavy industry and military manufacturing, including shipyards and implant production. Its elevated freight lines are visible across the cavity. Dedicated cooling systems connect the foundries to the Sunlock exchange network and exterior radiators.
 
-**The Black Meridian** follows one of the deepest surviving planetary fractures. Cheap housing, repair markets, illegal clinics, weapons dealers, clanless communities, and undocumented migrants occupy structures built across the reinforced fault. Gravity faults remain common enough that furniture, tools, and sleeping spaces use permanent restraints.
+**The Black Meridian** occupies a deep, reinforced fracture in the shell. Cheap housing and an extensive illegal trade attract clanless residents and undocumented migrants. Unreliable gravity makes restraints standard on furnishings and workshop equipment.
 
-**Veilmarket** is a dense Madrosarai commercial and intelligence district known for bloodline clinics, specialized cybernetics, information brokers, private security firms, surgical theaters, and discreet clan compounds. Visitors routinely discover that a shop, clinic, or restaurant serves as the public entrance to a much larger operation.
+**Veilmarket** is a Madrosarai commercial and intelligence district known for bloodline clinics and specialized cybernetics. Information brokers and clan operations often occupy larger premises behind ordinary storefronts.
 
-**The Ashskin** is the inhabited edge of Zakaron’s exterior infrastructure. Pressure-sealed settlements support starports, radiator maintenance, orbital defense, salvage work, and expeditions into pre-Inversion ruins. The exterior beyond the settlements contains old weapons, collapsed cities, abandoned bunkers, and unstable crustal cavities.
+**The Ashskin** consists of pressure-sealed settlements serving the exterior ports, defenses, and maintenance works. Salvage crews use them as bases for expeditions into pre-Inversion ruins. Beyond the settlements, abandoned military sites and unstable excavations remain dangerous.
 
 ## Homeland and Diaspora
 
-More than nine centuries have passed since the beginning of PES. Vesk and Madrosarai communities now exist throughout the Settled Systems.
+More than nine centuries after the beginning of PES, Vesk and Madrosarai live throughout the Settled Systems. Those raised on Zakaron are more likely to have direct clan obligations and military training. Distrust of Erbium and the governments that benefited from Zakaron's defeat remains common.
 
-Zakaron-born people are more likely to possess direct clan obligations, familiarity with Kharosai’s infrastructure, military training, and knowledge of the political meaning attached to the War of the Open Stars. Many retain a strong distrust of Erbium and the governments that benefited from Zakaron’s defeat.
+Offworld families maintain varying degrees of contact through clan traditions and trade. Some identify closely with Zakaron; others have little connection beyond ancestry. Settled Systems institutions still stereotype Vesk as soldiers and Madrosarai as covert operatives, despite the range of lives their descendants now lead.
 
-Offworld families may maintain ceremonial clan ties, commercial relationships, inherited bloodline practices, or little connection beyond ancestry and family history. Some identify strongly with Zakaron. Others regard its clan politics, militarism, and expansionist nostalgia as distant problems.
-
-Settled Systems institutions still stereotype Vesk as soldiers and Madrosarai as covert operatives. Nine centuries of migration have produced Vesk physicians, Madrosarai laborers, mixed communities, dissidents, corporate employees, artists, settlers, and people whose lives have no direct relationship to Zakaron’s military traditions.
-
-Zakaron claims cultural and political interest in these populations. Many members of the diaspora reject the claim that ancestry gives the Concord authority over them.
-
-# Recent Events
-
-A survey vessel controlled by the Assembly of Holds recently returned from the outer Zakaron system with evidence of a previously inaccessible erbium-bearing formation inside a fractured dwarf planet. The reported concentration is small by historical standards and large enough to affect the Still-Drive Accords. The Conclave of Veils sealed the survey records after discovering discrepancies between the public samples and the vessel’s navigation logs.
-
-The southern Sunlock containment ring has developed a persistent thermal imbalance. Concord engineers describe the drift as manageable, though several districts have experienced unscheduled lighting changes, gravity fluctuations, and power rationing. The Kharduun has placed military units around critical repair sites. The Saivara argues that the deployment obstructs an active sabotage investigation.
-
-Settled Systems security forces have begun fielding Zakaron-designed neural coordination implants with capabilities exceeding the versions authorized for export. The Assembly of Holds has accused Erbium of reverse engineering restricted systems. Several Madrosarai blood-clans suspect a domestic manufacturer sold the designs through an off-stamp intermediary.
-
-A coalition of diaspora Vesk and Madrosarai has petitioned the Concord to release its claimed authority over offworld clan members. The movement argues that ancestry, bloodline, and inherited clan records cannot create political obligations without individual consent. Zakaron traditionalists describe the petition as an Erbium-backed attempt to sever the world from its people.
-
-The current Kharduun has called for a comprehensive review of the Still-Drive Accords. The current Saivara supports renegotiation while opposing immediate fleet expansion. Revanchist holds have begun moving personnel and unfinished warships into orbital yards under the designation of emergency civil-defense readiness.
-
-Erbium Industries has offered to mediate the dispute, certify the new mineral survey, and provide temporary Sunlock engineering support.
-
-The Zakaron Concord has declined all three offers.
-
-> [!danger] GM Information
-> The outer-system survey found usable erbium. The largest deposits extend through an inhabited artificial structure buried inside the dwarf planet. Zakaron’s first-contact team classified the structure as an automated extraction complex after detecting no life that satisfies Concord recognition standards.
->
-> The Sunlock imbalance comes from a concealed power draw. A coalition of revanchist holds and Madrosarai weapons researchers is constructing an experimental Drift core beneath the Kheled Foundry Belt.
->
-> Erbium knows about both discoveries. The company has delayed intervention because an open Zakaron treaty crisis would justify expanded inspection authority, tighter control of refined erbium, and emergency restrictions on every independent military fleet in the Settled Systems.
+The Concord claims a political interest in these communities. Many members of the diaspora reject its authority over people who have never lived on Zakaron.
