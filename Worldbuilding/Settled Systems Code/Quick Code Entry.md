@@ -1,26 +1,33 @@
-## [Law Name]
+---
+type: template
+---
 
-**Citation:** Settled Systems Code `[CODE]`
+# Quick Code Entry
 
-**Administrative Title:**  
-**Chapter:**  
-**Section:**  
-**Clause:**  
+Copy the block into a new law note. Replace the citation placeholder with an unused number from the correct title and chapter. Start as **unreviewed**; change `code-status` only after checking the source and assignment.
 
-**Public Purpose:**  
+```markdown
+---
+type: settled-systems-code
+code: "[citation]"
+short-title: "[plain-language name]"
+code-status: unreviewed
+formal-title:
+tags:
+  - settled-systems-code
+---
 
-**Actual Legal Effect:**  
+# [Plain-language name]
 
-**Administering Authority:**  
+## What it does
 
-**Enforcement Authority:**  
+[One or two sentences explaining the rule.]
 
-**Affected Groups:**  
+## Application
 
-**Exemptions:**  
+[Who uses it, important limits, and its effect in the setting. Omit details not yet established.]
+```
 
-**Penalties:**  
+The detector adds and maintains a **Referenced in** section. It does not write the law itself. Add statutory text, penalties, or GM information only when the provision needs them. Describe newly written legal wording as proposed until accepted.
 
-**Practical Effect:**  
-
-**Related Codes:**  
+Use [[Code Index]] to check existing numbers and [[Code Chapters]] to choose a chapter. The older repossession examples remain recorded as [[A3%4&7-2]] and [[A6%1&8-5]]; they have not been promoted to established law.

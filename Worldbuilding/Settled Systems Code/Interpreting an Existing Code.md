@@ -1,20 +1,13 @@
-Using the Settled Systems Administrative Code reference, interpret the following citation and passage:
+---
+type: setting-reference
+---
 
-[CODE AND TEXT]
+# Interpreting a Code reference
 
-Explain:
+Find the citation in [[Code Index]], then read the source section linked from its page. Begin with what the rule actually requires, permits, or prohibits.
 
-1. The Administrative Title.
-2. The chapter’s legal subject.
-3. The section’s operational subject.
-4. The exact effect of the clause.
-5. The public justification.
-6. Which institution administers it.
-7. Which institution enforces it.
-8. Who is affected.
-9. Likely exemptions.
-10. How Erbium Industries could exploit or broaden the provision.
-11. What related codes would probably apply.
-12. Any ambiguity that should be resolved before the provision becomes setting canon.
+Check who applies it and whether the source establishes any conditions, exceptions, or consequences. Separate the rule from an official's interpretation and from what happened in a particular case. A title or chapter number alone does not establish those details.
 
-Do not redefine any previously established citation.
+If the note is incomplete, record the gap. Do not fill it with a guessed fine, deadline, exemption, or enforcement power. Check related provisions where the source explicitly relies on them.
+
+When two notes disagree, preserve the citation and describe the conflict in [[Code Review]]. Update the law after resolving the difference. A newer export or a longer paragraph is not automatically the more authoritative source.

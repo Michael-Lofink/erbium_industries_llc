@@ -1,0 +1,9 @@
+{
+  "id": "settled-systems-code",
+  "name": "Settled Systems Code",
+  "version": "1.0.1",
+  "minAppVersion": "1.5.0",
+  "description": "Find new Code citations and maintain a readable law index with source-note references.",
+  "author": "Erbium Industries campaign tools",
+  "isDesktopOnly": false
+}

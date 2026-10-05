@@ -1,0 +1,214 @@
+{
+  "files": [
+    {
+      "path": ".obsidian/plugins/settled-systems-code/core.js",
+      "previous_sha256": null,
+      "installed_sha256": "c18dea2a4e65131915e3fef08994e6e6359407ff87a0369da7287eacf6189af1"
+    },
+    {
+      "path": ".obsidian/plugins/settled-systems-code/main.js",
+      "previous_sha256": null,
+      "installed_sha256": "3eef06e24d72317d62b6a3bcd4076eb30e9fdd452fe6f4b5448380cb3eaeeedb"
+    },
+    {
+      "path": ".obsidian/plugins/settled-systems-code/manifest.json",
+      "previous_sha256": null,
+      "installed_sha256": "99596f41fd4ffcf6f23952950d1f7262946641b521ae0ddf012c2a1c2092d8d8"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
+      "previous_sha256": "351b34d588845c28ba3c34aec2b1530d597e5f0cf4439ccd138a1a1923215b8f",
+      "installed_sha256": "4225662c38b9e063e67e9cbd90f9d7a114dba07ac3cab5eb8502c48fc5f5d351"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Code Chapters.md",
+      "previous_sha256": null,
+      "installed_sha256": "88fef513443e75217ee54d3269112f9c77ec9c814b045e15b96c00639f911892"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Code Inbox.md",
+      "previous_sha256": null,
+      "installed_sha256": "a5c0900d1ca5d39aea6d5533a3110aad07f5d982c6391f6f7849b6eba064eb33"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Code Index.md",
+      "previous_sha256": null,
+      "installed_sha256": "2027d43f1228e0eb9e8238c251f6e31e0dfb0a35870715b942c0f6d64b203bdf"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Code Review.md",
+      "previous_sha256": null,
+      "installed_sha256": "a3a5831881b0813ed0104f419ed9ce1de54e3a4a9061f322dab447471ef18ab3"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Creating a Settled Systems Code Players.md",
+      "previous_sha256": "2ab6ece93545ad8faf999bb3f8d4245ee212fef618ff3ce5e8190b5626a83650",
+      "installed_sha256": "b1986f4e057d890008d271f9d77ca9640dc09198757df68912a35dc4422ae60c"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Interpreting an Existing Code.md",
+      "previous_sha256": "78fc10a2346e945fdc760de48f6c555fcd03f401a14ad142f6ffe2fc8382285c",
+      "installed_sha256": "7fc9eeb2537f6898a03fef8c477416ab3a264e419129a821efb5972a3c770a5c"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A1%1&17-4.md",
+      "previous_sha256": null,
+      "installed_sha256": "84289f818bb1675036323f9359d56387619e2e01a391b8014470efec893daf63"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A1%5&99-101.md",
+      "previous_sha256": null,
+      "installed_sha256": "e448dfc4931abaa130a153effc19b89ad0b3b9ecc8e83a89075edf13f89c8cce"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A1%8&14-7.md",
+      "previous_sha256": null,
+      "installed_sha256": "9aa6182dbd83f106b0a27d381372b95b8d27c9995e0ce98325b5edcede8305cf"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A2%1&4-4.md",
+      "previous_sha256": null,
+      "installed_sha256": "9ec8254beeb0e9ae8e5483addfba6cc1c67fcb62631df83de5e6f6195f101352"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A2%1&4-8.md",
+      "previous_sha256": null,
+      "installed_sha256": "766cedbd9273f38baf9436bca82fe6e299fd2c6cc53ae1465ed3a7751720ee62"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A2%13&1-3.md",
+      "previous_sha256": null,
+      "installed_sha256": "e4152feeb3cddf318614d11754efc4fc2152204d3f5517bfad037a90d2c6a181"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A2%8&3-11.md",
+      "previous_sha256": null,
+      "installed_sha256": "c2d1c25eaed8e98c333dfcba1e2f6bafbdf72b2aeb4951ee47b4132bdc90adb1"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A3%4&7-2.md",
+      "previous_sha256": null,
+      "installed_sha256": "2dcb867066ab03fa7828a2eea2e9ad7cc62d8f131d3eb16a1c8388d72601a774"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A3%8&16-5.md",
+      "previous_sha256": null,
+      "installed_sha256": "77be1028c332c6f2d09569ad7221a39290101ef905e0d3c2afc5f356ba3a03d0"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A4%1&15-2.md",
+      "previous_sha256": null,
+      "installed_sha256": "815f15b47d43147b6e14c3be23dc39111cb794dc7aa381009c278b93e9614158"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A4%12&2-6.md",
+      "previous_sha256": null,
+      "installed_sha256": "0471107cf5545436ad5cd57009d216592e02a284ee13536022e1dd258a3812d7"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A4%5&18-6.md",
+      "previous_sha256": null,
+      "installed_sha256": "4908267f67ab2a75ee91b397661dd384ead273685ec8aa91311ace83565b68e7"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A4%7&14-3.md",
+      "previous_sha256": null,
+      "installed_sha256": "4e065edcb0e7ab0e2120685db579af23717911baa3e076359204ccb3e7612e03"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A4%7&6-2.md",
+      "previous_sha256": null,
+      "installed_sha256": "70b9cc93779e1656994c633d0324b135d3f38abc19cb6e2dd9a743c81909e0f4"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A4%9&1-1440.md",
+      "previous_sha256": null,
+      "installed_sha256": "264445c6fcbc29cd1f5c8715ec575f10c4e7fb25f4d9bb1acdae23858b74fe0c"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A4%9&4-7.md",
+      "previous_sha256": null,
+      "installed_sha256": "205a3556155bd983e92cd8a3f7ad7b6693f3923ecd259324b91c63ae42701942"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A5%11&9-4.md",
+      "previous_sha256": null,
+      "installed_sha256": "471ebd58c43cc151716a036ceb7907e1392400be229ffe24310dca795e9762e3"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A5%8&12-5.md",
+      "previous_sha256": null,
+      "installed_sha256": "aafe81ad2f5cf67eb8161aa8222a3eb21d779268817fa11f1423d027fce77041"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A6%1&8-5.md",
+      "previous_sha256": null,
+      "installed_sha256": "01d72e8cdf6e97ed887bca4f9540afadfa898e56ce70c7c2f9d3308bdde0a642"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A6%4&2-7.md",
+      "previous_sha256": null,
+      "installed_sha256": "11a9e48bd1c2f8dbd95421e8efe12a4a41e8ed38b5c834f6c05b6fa20c90be9a"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A6%6&3-5.md",
+      "previous_sha256": null,
+      "installed_sha256": "78b8cdbc1b9d22d6488c89f9d3d60400801dc3b53a1477780a8d79e0e6003650"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A6%8&1-3.md",
+      "previous_sha256": null,
+      "installed_sha256": "2e6e601d5c6938503eeb2fc320abbf7dafd47478308dac65ec04606324c708fb"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A7%6&11-3.md",
+      "previous_sha256": null,
+      "installed_sha256": "ec0f70afc7d53c655749884bb48b61f6e5bdc36fe707b1ca307175965449aa6d"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A7%6&4-2.md",
+      "previous_sha256": null,
+      "installed_sha256": "ff36c80fb7213f30df8a42c95b15de50b18e6a10df389f4cb926a520575a9978"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A7%9&14-6.md",
+      "previous_sha256": null,
+      "installed_sha256": "7c1e51bd9a701852c130b6dc2041328f686e4fb7e37a5c5e9762289d11f030d4"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A7%9&6-8.md",
+      "previous_sha256": null,
+      "installed_sha256": "a74d219c757435a101e5e79c8c032639d2dd905fb08a512d2b8425b23932e888"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A8%10&5-2.md",
+      "previous_sha256": null,
+      "installed_sha256": "5ac06be3ad51e04a5cd7a09e1e746aba71e698ba26b78f90673064c5ff6f16e4"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A9%11&4-6.md",
+      "previous_sha256": null,
+      "installed_sha256": "51ebcd603bdc0f61e7531113633187f00db4b124a180d157d589cb778227b101"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A9%6&12-2.md",
+      "previous_sha256": null,
+      "installed_sha256": "20cc5458475a1d9609f4e45101cc45d010874b53e7e75827325d62a5a7cc568f"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Provisions/A9%8&7-9.md",
+      "previous_sha256": null,
+      "installed_sha256": "e77e0d0783ac2e03a962c352ec4f25e91499fceb5bd04e8b0e6dace93d8f35bb"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Quick Code Entry.md",
+      "previous_sha256": "c9370774835469d7798b588231a34097732887e5b676f59a4f6d7888f3654a05",
+      "installed_sha256": "c4ab61b6cde69a372cdeba3a065238de14570a4ab1de54619203a48395eff84f"
+    },
+    {
+      "path": "Worldbuilding/Settled Systems Code/Settled Systems Administrative Code System.md",
+      "previous_sha256": "dc40c69830f9264b81c45712fee7a94af39047ea7fa27a7c0c1964ab2c633291",
+      "installed_sha256": "72d854e12596d8b794370170d7c1f18666940339bdb22094dc4f4d05d6fa9dc8"
+    }
+  ]
+}
