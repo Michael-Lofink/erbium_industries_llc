@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Agrio Dysis IV
   - The Low Plane
   - The Borrowed Horizon
   - Agrio Dysis
@@ -23,11 +24,9 @@ tags:
   - corporate-dependency
 ---
 > [!summary]
-> **Agrio Dysis IV**, called **the Borrowed Horizon**, is a broadly habitable refuge world near the established frontier. Its largest settled region, **the Low Plane**, is an immense sunken basin of dry grasslands, seasonal rivers, engineered pasture, cattle towns, rail depots, flood works, and scattered communities built around dependable wells.
+> **Agrio Dysis IV**, the **Borrowed Horizon**, is a habitable refuge world near the established frontier. Its largest settled region, **the Low Plane**, is a dry basin of cattle towns and agricultural settlements dependent on wells, seasonal rivers, and rail transport.
 >
-> Settlers came to Agrio Dysis IV seeking land, distance, religious freedom, economic independence, or a life beyond the sealed cities and corporate institutions of older worlds. Many found those things. They also arrived carrying transportation debt, equipment leases, settlement obligations, livestock financing, and land titles whose validity depends on records maintained far from the property itself.
->
-> The planet possesses a legitimate and publicly administered government. [[Erbium Industries LLC]] rarely governs it openly. The company instead controls or finances the registries, transportation systems, survey data, agricultural licenses, infrastructure loans, and equipment through which local independence becomes legally recognizable.
+> Settlers came for land and independence, often financing their passage and the equipment needed to establish a home. Many still owe money on property their families have occupied for generations. The planet governs itself through the [[Agrio Dysis Settlement Compact]], but [[Erbium Industries LLC]] supplies much of its infrastructure and the authenticated records on which its property laws depend.
 
 ![[planet_AgrioDysisIV.png#center]]
 
@@ -44,794 +43,418 @@ tags:
 > **Languages** Common, Dwarven, Brenneri, Vesk, Lashunta, and numerous community languages  
 > **Religions** Star Dream traditions, Wander memorial congregations, water-covenant practices, Vuddarian stewardship traditions, independent settlement faiths, and imported Settled Systems religions  
 
-From orbit, Agrio Dysis IV looks more welcoming than many inhabited worlds.
+Agrio Dysis IV has open seas, native forests, and a breathable atmosphere. Water is scarce across much of the interior, where rivers can disappear beneath gravel beds during the dry season. Towns cluster around reliable wells and transport routes. Rimlight, the planet's only major moon, illuminates the open country at night.
 
-Cloud systems gather above dark coastal waters and sweep inland across ochre continents. Mountain chains cast long shadows over broad interior basins. River systems appear as thin branching lines through grasslands, scrub, wetlands, and cultivated corridors. Rimlight moves above the planet as a pale, slow-turning moon, bright enough to illuminate open country without overwhelming the stars.
+In the Low Plane, grazing land and irrigation channels stretch between broken mountain ranges. Rail carries most long-distance freight, supplemented by tracked carriers and low-altitude transport. Roads mainly serve the larger settlements.
 
-The first descent usually corrects the impression of abundance.
-
-Large portions of the atmosphere contain very little water. Rivers that appear permanent from orbit may disappear beneath gravel beds during the dry season. Green floodplains can become dust within a few local months. Settlements cluster tightly around deep wells, rail lines, mountain runoff, reservoirs, and seasonal channels whose behavior can change after a single storm.
-
-Approaching the Low Plane, a traveler sees long shadows cast by broken ranges, engineered grazing grids, irrigation channels, rail lines, flood barriers, livestock enclosures, and isolated towns marked by towers, water tanks, and landing beacons. Roads exist near major communities, though long-distance freight usually moves by rail, tracked cargo carrier, or low-altitude transport.
-
-The settlements look improvised because most were expanded as need demanded. Prefabricated housing stands beside stone foundations, patched agricultural domes, converted freight containers, shade structures, repair sheds, veterinary bays, cisterns, and municipal buildings assembled from several generations of construction systems.
-
-Nothing is uniformly ruined. Pumps are maintained because towns die without them. Rail beds are repaired because feed and medicine arrive upon them. Buildings are patched, shaded, reinforced, and rebuilt by people who expect to remain.
-
-The Erbium emblem appears on the cleanest objects: title terminals, leased pumps, veterinary medication, survey markers, freight seals, and the doors of the office that may determine whether the land beneath a family’s home still belongs to them.
+Towns have grown through successive additions of prefabricated housing and locally built structures. Older buildings are patched and reinforced, often with parts from several generations of equipment. Pump stations and rail beds receive regular maintenance because the town depends on them. Erbium branding is common on leased machinery and the terminals used to administer land titles.
 
 ## A Dry Living World
 
-Agrio Dysis IV orbits the mature yellow-orange star called the **Agrio Dysis Primary** at approximately 0.82 astronomical units. The system is around 5.8 billion standard years old, and the primary’s comparatively steady output helped native life develop across much of the planet before interstellar settlement began.
+Agrio Dysis IV orbits the **Agrio Dysis Primary**, a mature yellow-orange star in a system approximately 5.8 billion standard years old. The star's steady output supported a complex native biosphere long before settlement.
 
-The planet has a radius of approximately 6,435 kilometers and a mass of approximately 5.733 × 10^24 kilograms. Surface gravity is close enough to the human standard that most settlers require little physical adaptation. A magnetic field of approximately 0.44 gauss provides substantial protection from stellar radiation. Its atmosphere is breathable, with approximately 77.2 percent nitrogen, 21.3 percent oxygen, 1.1 percent argon, and elevated but manageable carbon dioxide. Atmospheric pressure averages approximately 1.03 bar.
+| Property | Approximate value |
+| --- | --- |
+| Orbital distance | 0.82 AU |
+| Radius | 6,435 km |
+| Mass | 5.733 × 10^24 kg |
+| Surface gravity | 0.94 standard |
+| Magnetic field | 0.44 gauss |
+| Atmospheric pressure | 1.03 bar |
+| Atmospheric composition | 77.2% nitrogen, 21.3% oxygen, 1.1% argon; elevated but manageable carbon dioxide and little water vapor |
+| Surface water coverage | 29% |
 
-Water vapor makes up only a small fraction of the air. The result is a world where breathing is easy and remaining hydrated is not. Liquid water covers approximately 29 percent of the surface. Most of it occupies shallow seas, deep regional lakes, coastal shelves, mountain reservoirs, and several enclosed ocean basins. The average mapped depth is modest by planetary standards, though individual trenches and rift lakes extend much farther.
+Most settlers need little physical adaptation, though the dry air makes dehydration a concern. Seas and regional lakes hold most surface water. Average mapped depths are relatively shallow, with deeper trenches and rift lakes.
 
-Agrio Dysis IV possessed a complex water-carbon biosphere before settlement. Native microbial communities, fungi, plants, and animals occupy nearly half the habitable surface. Terraforming altered atmospheric circulation, soil chemistry, regional moisture, and the distribution of life. It did not make an empty world habitable because the world was already alive. Settlement authorities instead made particular regions easier for imported people, livestock, and crops to use.
+Native life occupies nearly half the habitable surface. Terraforming changed regional moisture, soils, and ecosystems to support imported crops and livestock. Agrio Dysis IV was already habitable when those programs began.
 
 ## The Low Plane
 
-The Low Plane occupies the interior of an ancient continental rift system.
+The Low Plane lies within an ancient continental rift. Crustal extension lowered the basin between mountain blocks; volcanic deposits, sediment, and former inland seas later filled parts of it. The floor remains several hundred meters to nearly two kilometers below the surrounding uplands.
 
-Hundreds of millions of years of extension thinned the crust and caused a broad section of the continent to sink between broken mountain blocks. Later volcanic activity, sediment accumulation, and fluctuating inland seas filled portions of the depression without eliminating its low elevation. The basin floor now lies between several hundred meters and nearly two kilometers below the surrounding uplands. Mountain ranges restrict drainage and intercept much of the moisture arriving from the coasts. Water that reaches the basin often follows a small number of deeply incised rivers or disappears into porous sediment and fractured bedrock.
+The mountains intercept coastal moisture and restrict drainage. Water enters through a few major rivers or sinks into porous sediment and fractured rock. These deposits hold extensive aquifers. Some recharge from mountain runoff; others contain ancient water that takes generations to replace.
 
-The same geology created the basin’s valuable aquifers. Ancient river deposits, porous volcanic layers, buried shorelines, and fractured stone hold immense quantities of groundwater. Some aquifers recharge quickly through mountain runoff. Others contain water deposited long before settlement and replenish only across many local generations.
+| Region | Landscape and use |
+| --- | --- |
+| **North Rangegrass** | Native grassland, engineered pasture, and scrub supporting much of the ranching economy. |
+| **Central Channels** | Dependable rivers, irrigated farmland, and the oldest towns and railways. Productive land with high flood exposure. |
+| **Glass Salt** | Dry lake basins with reflective mineral crusts. Extraction, solar collection, and specialized agriculture operate around their margins. |
+| **Southwash** | Alluvial fans and shifting rivers descending from the Bluebreak Range. Floods regularly move channels and destroy boundary markers. |
+| **Eastern Scrub** | Native vegetation and protected aquifer recharge zones. Ranching associations repeatedly petition to open land for grazing. |
 
-The Low Plane contains several distinct landscapes.
-
-The **North Rangegrass** consists of dry native grassland mixed with engineered pasture and scattered scrub. It supports much of the planet’s ranching economy.
-
-The **Central Channels** contain the most dependable rivers, largest towns, oldest rail lines, and greatest concentration of irrigated agriculture. Their land is productive and vulnerable to sudden flooding.
-
-The **Glass Salt** is a broad chain of dry lake basins where mineral crusts reflect the sun in pale sheets. Industrial extraction, solar collection, and specialized agriculture operate around its margins.
-
-The **Southwash** consists of wide alluvial fans and shifting seasonal rivers descending from the Bluebreak Range. Floods repeatedly redraw channels, bury fences, expose old foundations, and move legal boundaries away from their original markers.
-
-The **Eastern Scrub** contains large areas of native vegetation, deep-rooted plant communities, and protected recharge zones. Ranching associations have repeatedly petitioned to open portions of it for grazing.
-
-The Low Plane is hot during much of the local year. Dry-season winds lift dust from exposed channels and grazing lands. Moist air from the western seas can cross the Bluebreak Range during particular stellar and seasonal alignments, producing violent storm fronts and heavy rain over narrow sections of the basin. A town can receive little precipitation for several local years and then experience a season’s expected rainfall within a few hundred minutes.
+Much of the year is hot, with dry winds lifting dust from channels and pasture. Seasonal weather can carry western moisture over the Bluebreak Range, producing intense storms over narrow parts of the basin. A town may receive little rain for years, followed by a season's rainfall within a few hundred minutes.
 
 ## Regions Beyond the Low Plane
 
-The Low Plane dominates offworld descriptions of Agrio Dysis IV. It does not represent the entire world.
-
 ### The Bluebreak Range
 
-The **Bluebreak Range** forms much of the Low Plane’s western boundary. Its higher slopes receive more regular precipitation than the basin and contain forests, upland meadows, reservoirs, terraced farms, and the headwaters of several major rivers.
+The **Bluebreak Range** borders the basin to the west. Its wetter slopes contain forests, farms, and reservoirs feeding several major rivers. Upland towns depend on forestry, orchard agriculture, and the construction and maintenance of water infrastructure.
 
-Towns in the range specialize in water management, orchard agriculture, forestry, hydropower, stonework, and the maintenance of pipelines descending into the basin. Their residents tend to view Low Plane politics as an endless attempt to divide water that originates in Bluebreak territory.
-
-Large portions of the range are controlled through watershed compacts. A community may own the land surrounding a stream while the Settlement Compact, a downstream city, and an Erbium-financed agricultural operator each possess separate claims upon its flow.
+Watershed compacts divide claims to the headwaters among local communities, downstream governments, and agricultural operators. Ownership of streamside land does not necessarily include control of the water. Bluebreak residents resent basin demands for a larger share.
 
 ### The Sable Coast
 
-The **Sable Coast** lies west of the Bluebreak Range along a broad inland sea.
+The **Sable Coast** borders a large inland sea west of the mountains. Its cooler, wetter climate supports forests, wetlands, and coastal agriculture. Fishing and port towns occupy the settled shore, with ecological reserves protecting native habitats and migration routes.
 
-Its climate is cooler and wetter than the Low Plane. Native forests, tidal wetlands, fishing communities, port towns, and agricultural districts occupy the coastal shelf. Settlement is denser along the water while large ecological reserves protect native shorelines and migratory species.
-
-Coastal residents often resent the use of “Low Plane” as a name for the entire planet. They export food, timber, medicine, fish, water-treatment organisms, and manufactured goods while receiving political attention primarily when the basin requires additional water or tax revenue.
+The coast exports food, timber, manufactured goods, and biological products used in medicine and water treatment. Residents resent being treated as a source of water and tax revenue for the basin, and object to outsiders calling the entire planet the Low Plane.
 
 ### The Ashstep Tablelands
 
-The **Ashstep Tablelands** rise east of the Low Plane. Wind-carved volcanic plateaus support small mining communities, solar facilities, dryland farms, observatories, and religious settlements founded far from major trade routes.
+East of the basin, the **Ashstep Tablelands** contain volcanic plateaus with small mining and farming settlements, solar facilities, and isolated observatories and religious communities. Aquifers are limited, but seasonal rain is more predictable. Communal cisterns and catchment fields support towns with strict residency rules.
 
-The tablelands contain fewer large aquifers than the basin but receive more predictable seasonal rain. Many communities maintain communal cisterns, carefully managed catchment fields, and strict local residency rules.
-
-Several settlements in the Ashstep region shelter people whose Low Plane charters were revoked. They describe this as hospitality. Central authorities describe it as unauthorized transfer of settlement liability.
+Several communities shelter settlers whose Low Plane charters were revoked. Central authorities regard these arrivals as an unauthorized transfer of settlement liability.
 
 ## Time on Agrio Dysis IV
 
-A local day lasts approximately 1,722 stamp-offset minutes, or 28.7 standard hours.
+| Local measure | Duration |
+| --- | --- |
+| Day | 1,722 stamp-offset minutes; 28.7 standard hours |
+| Watch | 574 stamp-offset minutes; three per local day |
+| Year | Approximately 404,980 stamp-offset minutes; 281.2 standard days or 235 local days |
+| Rimturn | Rimlight's orbital and rotational cycle: approximately 32,042 stamp-offset minutes, or 534 standard hours |
 
-Most civil systems divide it into three **watches** of 574 minutes each. Rail schedules, water rotations, livestock movement, school periods, and municipal staffing are organized by watch rather than sunrise and sunset.
+Civil schedules use watches. First watch generally includes the coolest daylight hours, second watch the greatest heat, and third watch evening and night work. The relationship to sunrise varies by season and latitude. Households stagger sleep, and large towns operate through overlapping shifts.
 
-The first watch generally covers early activity and the coolest part of the daylight cycle. The second contains the period of greatest heat in most inhabited regions. The third includes evening, night labor, and the beginning of the next local morning, depending on season and latitude.
+Regional calendars follow agricultural and ecological seasons. Low Plane residents track dry periods, river rises, and grazing recovery; coastal calendars follow rainfall and fisheries. Rimturns help schedule night travel, markets, and religious observances, as well as informing local predictions of tides and animal behavior.
 
-No ancestry is expected to remain awake through an entire local day. Households and businesses stagger their schedules, and large towns operate continuously through overlapping shifts.
-
-The planetary year lasts approximately 404,980 stamp-offset minutes, equivalent to about 281.2 standard days or 235 local days.
-
-Residents use seasonal calendars for agriculture, flood preparation, livestock drives, school terms, and community observances. The exact seasons vary by region. A year in the Sable Coast is divided by rainfall and fisheries, while Low Plane calendars focus on the dry season, storm front, river rise, grazing recovery, and movement of livestock.
-
-Rimlight completes one orbital and rotational cycle every approximately 32,042 stamp-offset minutes. The cycle is called a **rimturn** in much of the Low Plane. It influences night travel, livestock behavior, tides, flood predictions, religious observances, and traditional market schedules.
-
-Legal records use [[Post-Erbium Standard]].
-
-The campaign begins at `29:08472119 PES`. Agrio Dysis IV completes approximately 41.4 local years during one standard lapse.
-
-A local family may describe its ranch as having survived six floods and eighty-nine dry seasons. Its title record identifies the lapses and raw stamps at which ownership, debt, water access, and improvement obligations were recognized.
+Legal records use [[Post-Erbium Standard]]. The campaign begins at `29:08472119 PES`. One standard lapse spans approximately 41.4 local years. Families may describe their history in floods and dry seasons, while their legal obligations are recorded in lapses and raw stamps.
 
 ## Survey and Early Settlement
 
-Agrio Dysis IV was first surveyed during the pre-PES interstellar era.
+Pre-PES surveys found a living world suitable for imported agriculture, with serious regional water shortages and poorly understood ecological risks. Settlement remained limited during the war with Zakaron because the system lay away from the main war routes and lacked immediately strategic resources.
 
-The early expeditions confirmed a complex biosphere, breathable atmosphere, substantial surface water, and several regions capable of supporting imported agriculture. They also identified severe regional dryness, vulnerable ecosystems, large seasonal weather shifts, and biological interactions that the survey teams did not fully understand.
+| Period | Development |
+| --- | --- |
+| `0:00000000 PES` | Following the Still-Drive Accords, Agrio Dysis IV entered the Settled Systems registry as a protected survey and agricultural-development world. |
+| Lapse 2 | Permanent research stations began studying the climate and the interaction of native ecosystems with imported agriculture. |
+| Lapse 5 | Erbium and public governments authorized limited terraforming trials. Some agricultural and moisture-management projects succeeded; others spread beyond their boundaries or damaged native ecosystems. |
+| Lapse 8 | Housing pressure and unemployment on older worlds, especially [[Theosis]], prompted the **Open Horizon Settlement Initiative**. |
+| Lapses 9–10 | Major Low Plane settlements formed. Crosswind Junction began as a rail and well camp, followed by Charter House Six. |
+| Lapse 12 | Engineered cattle and other grazing animals entered widespread use. |
+| Lapses 13–14 | Rail expansion connected cattle towns to upland water supplies and offworld freight routes. |
+| Lapse 16 | The **Agrio Dysis Settlement Compact** established a common planetary government. |
+| Lapse 22 | Prolonged dry conditions led to the formation of the **Longwater Cooperative**. |
 
-The world received limited scientific attention during the conflict with Zakaron. Its distance from the principal war routes and lack of immediately strategic resources kept permanent settlement small.
+Open Horizon offered passage, a settlement charter, and the supplies needed to establish a household or agricultural operation. Applicants could earn full title through continuous occupation and improvements. Passage and equipment were financed with deferred payments.
 
-After the Still-Drive Accords became effective at `0:00000000 PES`, Agrio Dysis IV entered the new Settled Systems registry as a protected survey and agricultural-development world.
-
-Permanent research stations appeared during Lapse 2. Their personnel studied native soil organisms, river systems, atmospheric circulation, animal diseases, and the potential interaction between local ecosystems and imported crops.
-
-During Lapse 5, Erbium and several public governments authorized limited terraforming trials. The programs introduced moisture-retaining soil microbes, imported food plants, managed cloud-seeding systems, water-capture infrastructure, and experimental grazing species.
-
-Several projects succeeded. Others spread beyond their planned boundaries or disrupted native ecological relationships.
-
-By Lapse 8, housing pressure and unemployment had grown across older worlds, particularly within the expanding cities of [[Theosis]]. Governments and Erbium Industries jointly announced the **Open Horizon Settlement Initiative**.
-
-The initiative promised approved applicants:
-
-- transportation to Agrio Dysis IV;
-- an agricultural or residential charter;
-- basic equipment;
-- access to livestock or seed stock;
-- deferred payment;
-- reduced dependence on core-world employment;
-- the possibility of full title after continuous occupation and improvement.
-
-The program attracted families seeking opportunity, communities displaced by development, religious groups seeking isolation, unemployed workers, independent migrants, and people whose debts made ordinary life on older worlds impossible.
-
-Transportation, equipment, livestock, and initial supplies were financed rather than granted.
-
-The first major Low Plane settlements were established during Lapses 9 and 10. Crosswind Junction began as a rail and well camp. Charter House Six opened soon afterward to organize survey records, equipment liens, settlement compliance, and recognized water claims.
-
-Engineered cattle and other grazing animals entered widespread use during Lapse 12. Their heat tolerance, efficient digestion, disease resistance, and compatibility with imported feed made them commercially valuable. Native ecosystems proved less predictable.
-
-Rail expansion during Lapses 13 and 14 connected the central cattle towns to upland water systems, landing fields, processing facilities, and orbital freight routes.
-
-Local governments developed from town councils, charter associations, water boards, religious communities, rail districts, and emergency committees. Each possessed authority over a narrow part of settlement life. Their jurisdictions frequently overlapped.
-
-The need for a common government became unavoidable.
+The program attracted displaced and unemployed people alongside families and religious communities seeking independence. Local government developed through overlapping town councils, water boards, and charter organizations. The Compact was formed to settle their competing jurisdictions and administer shared services.
 
 ## The Agrio Dysis Settlement Compact
 
-The **Agrio Dysis Settlement Compact** was established during Lapse 16.
-
-Its founding charter recognized Agrio Dysis IV as a publicly governed settlement world with authority over civil law, public services, water administration, environmental regulation, local taxation, and planetary representation.
-
-The Compact is legally independent of Erbium Industries.
-
-Its institutions remain materially dependent on Erbium systems.
+The **Agrio Dysis Settlement Compact** is legally independent of Erbium. Its founding charter gives it authority over civil law, public services, environmental and water regulation, taxation, and planetary representation. Much of the equipment and information needed to exercise that authority comes from corporate suppliers.
 
 ### The Settlement Assembly
 
-The **Settlement Assembly** represents incorporated towns, charter districts, and recognized population centers.
+The **Settlement Assembly** represents incorporated towns, charter districts, and recognized population centers. Seats follow registered population, with minimum representation for small incorporated communities. Independent homesteads vote through charter districts whose offices may be hundreds of kilometers away.
 
-Seats are allocated according to registered population, with minimum representation for small incorporated communities. Large cattle towns, Highwater, coastal municipalities, and upland districts dominate ordinary legislation.
-
-Independent homesteads rarely possess direct representation. They vote through charter districts whose offices may lie hundreds of kilometers away.
-
-The Assembly controls the general budget, civil law, education, health care, transportation policy, and planetary taxes. It can investigate corporate activity and revoke local operating licenses.
-
-Revoking a license does not guarantee that another supplier exists.
+The Assembly controls civil legislation, the general budget, public services, transport policy, and planetary taxes. It can investigate corporations and revoke local operating licenses, though essential services may have no alternative supplier.
 
 ### The Watershed Council
 
-The **Watershed Council** represents major drainage basins, aquifer districts, coastal water authorities, recognized cooperatives, and protected ecological regions.
+The **Watershed Council** represents drainage basins, aquifer districts, coastal authorities, recognized cooperatives, and protected ecological regions. Its representation accounts for the importance of a water source as well as the population living beside it.
 
-Its structure reflects the principle that population alone cannot determine water policy. A small upland district may control the headwaters supplying several million people. A sparsely inhabited preserve may protect an aquifer used across half the Low Plane.
-
-The Council can delay or reject legislation involving water extraction, flood control, terraforming, environmental protection, and the reassignment of watershed infrastructure.
-
-Its critics argue that water authorities and large landholders receive political power beyond their population. Its defenders point out that the planet cannot distribute water by popular demand alone.
+The Council can delay or reject legislation affecting water management, terraforming, environmental protection, or ownership of watershed infrastructure. Critics argue that this gives large landholders and water authorities disproportionate influence. Supporters point to the millions of downstream residents dependent on sparsely populated headwaters and recharge zones.
 
 ### The First Commissioner
 
-The **First Commissioner** serves as planetary executive.
+The **First Commissioner** is nominated by the Assembly, confirmed by the Watershed Council, and approved in a planetary vote. The office administers public agencies, appoints senior officials, and negotiates intersystem agreements.
 
-Candidates are nominated through the Settlement Assembly, confirmed by the Watershed Council, and approved through a planet-wide vote. The office administers public agencies, negotiates intersystem agreements, coordinates emergencies, and appoints senior officials.
-
-The First Commissioner possesses substantial authority during drought, flood, quarantine, and transportation emergencies. The office remains constrained by the Assembly, Watershed Council, Charter Court, and municipal governments.
-
-Every First Commissioner campaigns as an independent representative of the planet.
-
-Every First Commissioner eventually negotiates with Erbium over transportation, debt, insurance, or infrastructure.
+Commissioners have broad powers during environmental, transport, and public-health emergencies, subject to legislative, judicial, and municipal limits. Their work regularly requires negotiations with Erbium over infrastructure and its financing.
 
 ### The Charter Court
 
-The **Charter Court** is the highest civil and administrative court on Agrio Dysis IV.
+The **Charter Court** is the highest civil and administrative court. It hears disputes over property, settlement obligations, municipal authority, and environmental restrictions, including challenges to corporate registry evidence.
 
-It hears disputes involving land title, settlement obligations, water access, municipal authority, environmental restrictions, inheritance, equipment liens, and corporate registry evidence.
-
-The court’s judges are appointed for long terms through a joint legislative process. Many are respected local legal scholars. Others began their careers in Erbium registry, finance, or contract offices because those institutions provide much of the available professional training.
-
-The Charter Court can reject Erbium evidence.
-
-Doing so often leaves it without another intersystemly recognized record upon which to base a decision.
+Judges receive long appointments through a joint legislative process. Some trained in Erbium's legal and finance offices, which provide much of the available professional education. The court can reject corporate evidence, but often lacks an alternative record recognized by intersystem authorities.
 
 ### The Office of Survey and Record
 
-The public **Office of Survey and Record** maintains planetary maps, title filings, municipal boundaries, flood data, and occupancy records.
+The public **Office of Survey and Record** maintains planetary maps and records of property, occupancy, and flood damage. It reviews and republishes data supplied by Charter House Six and associated registries, sometimes challenging their findings.
 
-It lacks a complete independent survey network.
-
-Erbium Charter House Six and several associated registry facilities hold the most comprehensive authenticated data for the Low Plane. The public office reviews, republishes, and sometimes challenges those records.
-
-The relationship allows Agrio Dysis IV to maintain a public land system without paying the full cost of an independent planetary survey infrastructure.
-
-It also allows a private corporation to define much of the evidence upon which public property law depends.
+Using corporate surveys saves the cost of a complete independent network. It also leaves much of the evidence used in public property law under private control.
 
 ### The Planetary Water Bureau
 
-The **Planetary Water Bureau** administers large reservoirs, interstate pipelines, aquifer models, minimum ecological flows, municipal allocations, and emergency water transfers.
+The **Planetary Water Bureau** manages major reservoirs and pipelines, municipal allocations, and emergency transfers. It also sets minimum ecological flows and maintains aquifer models.
 
-Its engineers perform essential work. They maintain infrastructure no individual town or cooperative could operate alone and coordinate water among communities whose claims cannot all be satisfied during a dry season.
-
-The Bureau uses models built from government sensors, Rimlight observations, town records, Erbium surveys, and corporate extraction data.
-
-Several of those sources are incomplete, delayed, or controlled by organizations with a financial interest in the result.
+Its engineers coordinate infrastructure beyond any single town's capacity. Their models combine government and local observations with corporate surveys and extraction reports. Some data arrive late or incomplete, and some suppliers have financial interests in the resulting allocations.
 
 ## Agrio Dysis IV and Theosis
 
-Agrio Dysis IV sends a five-member delegation to the **Council of Settled Systems Administration** at Concordance Hall on Theosis.
+Agrio Dysis IV sends five delegates to the **Council of Settled Systems Administration** at Concordance Hall on Theosis. The Assembly and Watershed Council each select two; the First Commissioner selects one. Differences over property, labor, and environmental policy often divide the delegation.
 
-Two delegates are selected by the Settlement Assembly, two by the Watershed Council, and one by the First Commissioner. The delegation frequently divides over settlement, property, labor, and environmental law.
-
-Erbium’s separate Infrastructure Stewardship Seat gives the company a permanent vote on many of the same questions.
-
-Agrio representatives argue that a corporation governing Theosis and operating Settled Systems infrastructure already possesses more than enough influence. Erbium responds that the Agrio delegation represents residents while its own seat represents technical obligations shared by every system.
-
-Both statements are legally accurate.
+Erbium's separate Infrastructure Stewardship Seat gives it a permanent vote on many of the same questions. Agrio delegates object to the company's combined corporate, infrastructural, and governmental influence. Erbium maintains that its seat represents technical responsibilities shared across the systems, distinct from the delegation's responsibility to residents.
 
 ## Erbium without a Flag
 
-Erbium does not need to govern Agrio Dysis IV openly.
+Erbium's influence rests on settlement finance, agricultural licensing, transport, and authenticated records. Its holdings include Charter House Six, survey infrastructure, parts of the freight and communications networks, and the registry software used by the Transfer Spindle. Public projects also depend on corporate insurance and financing.
 
-The company owns or controls:
-
-- Charter House Six and its authenticated title records;
-- major equipment leases;
-- livestock and seed patents;
-- transportation debt;
-- agricultural financing;
-- export certification;
-- parts of the rail and freight network;
-- veterinary pharmaceuticals;
-- portions of the planetary communications system;
-- the registry software used by the Low Plane Transfer Spindle;
-- survey satellites and archival imagery;
-- insurance required by many public projects.
-
-The Settlement Compact can legislate against Erbium. It can fine subsidiaries, create public services, support cooperatives, and refuse particular contracts.
-
-Its ability to replace corporate systems varies.
-
-A town can operate an independent well. It cannot easily fabricate the licensed deep-pressure pump that keeps the well productive.
-
-A public veterinary clinic can reject an Erbium supply agreement. It may lose access to the cultured treatments required by the livestock lines already living nearby.
-
-A family may possess clear local evidence that it occupies a parcel. The Charter Court still requires an authenticated survey capable of surviving an intersystem appeal.
-
-Erbium’s influence is strongest where local fact must become legally portable.
+The Compact can regulate subsidiaries, fund public alternatives, and support cooperatives. Replacement systems are expensive, especially where existing machinery or livestock requires licensed parts and treatments. Public agencies also need records that courts and offworld institutions will recognize.
 
 ## Land, Charters, and Ownership
 
-Agrio Dysis property law distinguishes several interests that outsiders often confuse.
+Several separate interests can apply to the same property.
 
-**Physical occupation** establishes where a person actually lives or works.
-
-**Stamped title** identifies the person or organization recognized as the legal owner.
-
-A **settlement charter** grants conditional rights to occupy and improve land, usually before full title is earned.
-
-**Grazing rights** permit livestock use without granting ownership of the underlying parcel.
-
-**Water rights** govern access to rivers, aquifers, wells, pipelines, reservoirs, or seasonal flows.
-
-**Improvement obligations** require a charter holder to build, cultivate, maintain, or otherwise use the property within an established period.
-
-**Communal use** recognizes access shared through a town, cooperative, religious community, or local custom.
-
-**Equipment liens** give a creditor a claim over pumps, vehicles, irrigation systems, livestock equipment, or other financed property.
-
-**Emergency refuge rights** permit temporary occupation during flood, storm, fire, or infrastructure failure.
-
-A single ranch can involve all of these interests at once.
+| Interest | What it establishes |
+| --- | --- |
+| **Physical occupation** | Where someone actually lives or works. |
+| **Stamped title** | Legally recognized ownership. |
+| **Settlement charter** | Conditional occupation and improvement rights, usually before full title is earned. |
+| **Grazing rights** | Permission to use land for livestock without owning it. |
+| **Water rights** | Access to a specified source or supply. |
+| **Improvement obligations** | Required development, maintenance, or productive use within a set period. |
+| **Communal use** | Shared access through a local institution or recognized custom. |
+| **Equipment liens** | A creditor's claim over financed property. |
+| **Emergency refuge rights** | Temporary occupation during a disaster or infrastructure failure. |
 
 ### Authenticated Records
 
-Settled Systems Code `A1%1&17-4`, the **Authenticated Cadastral Record Priority Provision**, gives a rebuttable presumption of accuracy to recognized survey and title records when physical markers, local files, or infrastructure have been lost.
+Code `A1%1&17-4`, the **Authenticated Cadastral Record Priority Provision**, gives recognized survey and title records a rebuttable presumption of accuracy when local evidence has been lost. It provides continuity after disasters, but makes Charter House Six's records difficult to challenge.
 
-The law exists because flood, fire, conflict, and equipment failure can destroy the evidence upon which ownership depends. Without a recognized record, every major disaster could produce endless conflict over land.
-
-On Agrio Dysis IV, the provision makes Charter House Six’s data difficult to challenge.
-
-Local ground books, witness statements, historic fences, agricultural records, and physical occupation can rebut a corporate survey. Producing enough evidence usually requires time, legal assistance, and a court capable of reviewing it.
+Local records, witnesses, and evidence of occupation can rebut a corporate survey. A successful challenge usually requires legal assistance and time for a court to examine the evidence.
 
 ### Beneficial Occupation
 
-Settled Systems Code `A7%9&6-8`, the **Beneficial Settlement Occupancy Requirement**, allows settlement authorities to reclaim chartered land when its holder fails to maintain verified residence, productive use, environmental stewardship, or required improvements.
+Code `A7%9&6-8`, the **Beneficial Settlement Occupancy Requirement**, permits authorities to reclaim chartered land when a holder fails to meet requirements for verified residence, productive use, stewardship, or improvements.
 
-The law prevents speculators from claiming enormous parcels and leaving them unused while other settlers lack land.
-
-It also threatens families whose wells fail, crops die, livestock are quarantined, workers become ill, or evacuation interrupts continuous occupation.
-
-A charter holder can lose land for failing to use it under conditions that made use impossible.
+The rule prevents speculative claims from keeping usable land empty. It can also penalize families whose work or occupation was interrupted by illness, environmental damage, or an evacuation.
 
 ### Flood Reassessment
 
-Settled Systems Code `A7%9&14-6`, the **Post-Inundation Parcel Reconciliation Provision**, authorizes boundary reassessment when a flood permanently changes a river, destroys survey monuments, creates new channels, or makes the original legal description physically unusable.
+Code `A7%9&14-6`, the **Post-Inundation Parcel Reconciliation Provision**, authorizes reassessment when flooding makes an existing boundary description unusable. The Office of Survey and Record conducts the process using substantial amounts of Charter House Six imagery and elevation data.
 
-The Office of Survey and Record administers the process. Charter House Six supplies much of the underlying imagery and elevation data.
-
-Reassessment can prevent a title from referring to a riverbank that no longer exists.
-
-It can also move a boundary through a house, divide a community’s grazing land, or assign a newly valuable river crossing to the party whose survey data was accepted first.
+Reassessment updates titles to match altered rivers and terrain. It can also divide an occupied property or transfer access to a valuable crossing, particularly when one party's survey is accepted before competing evidence arrives.
 
 ## Charter House Six
 
-**Erbium Charter House Six** stands on a reinforced rise near the central Low Plane rail corridor.
+**Erbium Charter House Six** stands on a reinforced rise near the central rail corridor. It handles authenticated property and water records, settlement finance, and transport certification. Residents use it to register or dispute claims and clear obligations attached to their property.
 
-The complex combines a title archive, survey center, debt office, transport-certification bureau, equipment-lien registry, water-record repository, security station, and emergency data vault.
+The complex has independent power and a protected archive behind composite walls and flood barriers higher than those of nearby neighborhoods. Its records have survived disasters that destroyed local documents and survey markers. Their reliability and recognition by offworld institutions give them substantial authority in public proceedings.
 
-Its exterior is built from thick composite walls, narrow reinforced windows, dust-sealed doors, independent power systems, and flood barriers higher than those protecting nearby neighborhoods.
-
-Residents come to Charter House Six to:
-
-- register a parcel;
-- challenge a survey;
-- transfer inherited land;
-- verify a water right;
-- clear an equipment lien;
-- obtain a transport certificate;
-- review a settlement obligation;
-- submit proof of improvement;
-- appeal a registry discrepancy.
-
-The House does not operate the planetary government. Its records are accepted by the planetary government because they remain available, standardized, and recognized by insurers, lenders, courts, and offworld institutions.
-
-After a major flood, Charter House Six generates provisional boundaries from satellite imagery, hydrological models, historic records, and corporate survey markers.
-
-Officials describe the process as restoring cadastral certainty.
-
-Families who have lived on the land for generations may discover that certainty now places them somewhere else.
+After floods, the House generates provisional boundaries from archived records, satellite imagery, and hydrological models. These assessments may conflict with generations of local occupation.
 
 ## Water Rights
 
-No single water right grants complete control over a source.
+Ownership of a water source, permission to extract from it, and control of the equipment carrying it are separate interests. Access can also be limited by pipeline easements, ecological requirements, and emergency requisitions. Owning land or holding grazing rights does not automatically authorize groundwater extraction.
 
-A town may own a well while leasing its pump.
-
-A cooperative may hold a pipeline easement across privately titled land.
-
-A ranch may possess a grazing allocation without permission to draw groundwater beneath it.
-
-A municipal government can requisition water during an emergency without acquiring permanent ownership.
-
-An ecological preserve may require a minimum river flow that limits upstream agriculture.
-
-A corporate operator can possess an extraction license while the Settlement Compact retains regulatory authority over subsidence and contamination.
-
-These overlapping rights allow several valid claims to exist simultaneously.
-
-They also make water disputes dependent on technical records, legal interpretation, and the ability to continue paying for equipment.
+Disputes therefore depend on technical evidence and the terms of several overlapping agreements. A valid water claim may be unusable if its holder can no longer afford the pump.
 
 ### Aquifer Stewardship
 
-Settled Systems Code `A7%6&11-3`, the **Confined Aquifer Withdrawal and Subsidence Monitoring Standard**, requires high-volume operators to report extraction, pressure changes, ground deformation, recharge estimates, and downstream effects.
+Code `A7%6&11-3`, the **Confined Aquifer Withdrawal and Subsidence Monitoring Standard**, requires high-volume operators to report extraction and its effects on aquifer pressure, recharge, surrounding ground, and downstream users.
 
-The provision protects settlements from uncontrolled pumping and provides the Planetary Water Bureau with data needed for allocation.
-
-Smaller communities often lack equipment capable of satisfying the standard. Large operators possess the required sensors and legal staff, giving their records greater administrative weight even when local observations indicate a problem.
-
-The Bureau can suspend extraction when subsidence or depletion creates a public danger.
-
-Doing so can also cut water to towns, farms, and industries that have no immediate replacement source.
+The Water Bureau uses these reports to allocate water and can suspend dangerous extraction. Large operators can afford compliant sensors and legal staff; smaller communities often cannot, leaving their observations with less administrative weight. Suspending an operator may also interrupt supplies to communities without another source.
 
 ### Longwater Cooperative
 
-The **Longwater Cooperative** is a network rather than a single facility.
+The **Longwater Cooperative** connects settlements and water districts through shared infrastructure, repair crews, and emergency reserves. It formed during the Lapse 22 drought after government assistance failed to meet several small communities' needs.
 
-It connects member towns, ranch associations, repair crews, religious settlements, and independent water districts through wells, levees, floodgates, pipelines, emergency cisterns, mobile pumps, and shared maintenance agreements.
+Members contribute labor, materials, or funds according to their means. They frequently disagree over how that support should be distributed. Upstream communities cite maintenance costs, downstream towns face greater flood exposure, and ranches compete with drinking reserves for dry-season supplies. Some religious members restrict the commercial uses their contributions can support.
 
-Longwater formed during the prolonged dry conditions of Lapse 22, when several small settlements received less government assistance than their population and water need required.
-
-The cooperative maintains a reserve of parts, trained crews, water-testing equipment, and transport vehicles. Members agree to contribute labor, materials, or funds according to their means.
-
-The arrangement is effective and contentious.
-
-Upstream members argue that they perform most maintenance. Downstream communities claim they bear the greatest flood risk. Ranches demand water during breeding seasons. Towns prioritize drinking reserves. Religious settlements sometimes contribute shelter and labor while refusing particular commercial uses.
-
-Longwater’s practical legitimacy comes from arriving when pumps fail.
-
-Its political weakness comes from possessing no single authoritative charter.
+Longwater's repair work has earned local trust. Its lack of a single authoritative charter weakens its position in disputes with governments and corporations.
 
 ## Drought, Pumping, and Flood
 
-The same extraction practices can worsen both dry seasons and floods.
+Heavy extraction reduces pressure in confined aquifers. Sediment compacts as water is removed, causing subsidence that lowers districts relative to rivers and alters drainage. Pumping also dries wetlands and native plant communities that slow runoff.
 
-High-volume pumping reduces pressure within confined aquifers beneath the Low Plane. Fine sediments compact when the water supporting them is removed. The ground surface slowly subsides.
+When storms arrive, degraded soil absorbs less water. Runoff collects in subsided areas, sometimes behind levees built for earlier ground levels. Reservoir operators may have to release stored water if a storm threatens capacity, adding to downstream flooding.
 
-Subsidence lowers some districts relative to their rivers, changes the slope of drainage channels, and creates depressions behind levees. Repeated pumping also dries wetlands and deep-rooted native plant communities that once slowed runoff and allowed water to infiltrate the soil.
-
-When rain finally arrives, compacted ground absorbs less of it. Water moves quickly across hardened soil, enters altered channels, and collects in subsided areas.
-
-Corporate and public reservoirs further complicate the system. Operators retain water during dry conditions and may be forced to release large volumes when a storm threatens to exceed capacity.
-
-Longwater’s records indicate that upstream corporate pumping has increased dry-season scarcity and redirected later floodwater toward several member settlements.
-
-The Planetary Water Bureau accepts that pumping contributes to subsidence. It disputes Longwater’s estimate of the scale and argues that immediate suspension would deprive more people of water than it protects.
-
-Both positions contain truth.
+Longwater's records attribute worsening shortages and redirected floodwater to upstream corporate extraction. The Water Bureau accepts that pumping contributes to subsidence but disputes Longwater's estimate of its impact. It argues that immediate suspension would interrupt water supplies for more people than it would protect.
 
 ## Emergency Water Authority
 
-Settled Systems Code `A9%8&7-9`, the **Emergency Water and Conveyance Requisition Provision**, allows recognized governments to temporarily direct wells, pumps, pipelines, rail vehicles, water carriers, livestock transports, and private reservoirs during a declared drought, flood, fire, or public-health emergency.
+Code `A9%8&7-9`, the **Emergency Water and Conveyance Requisition Provision**, allows recognized governments to temporarily direct privately controlled water supplies and transport during declared environmental or public-health emergencies.
 
-The law has prevented towns from dying while privately controlled water remained nearby.
-
-Owners must receive compensation after the emergency. Payment depends on authenticated records of what was taken, when it was used, and whether the equipment already carried public obligations.
-
-Small operators routinely wait longer for reimbursement than major corporate providers.
-
-Communities also know that maintaining an independent water system can make it the first system the government requisitions.
+Owners are entitled to compensation, based on authenticated records of use and any existing public obligations. Small operators often wait longer for payment than corporate providers. Maintaining an independent supply can make a community an early target for requisition.
 
 ## Settlement Debt
 
-Most early settlement agreements divided a household’s obligations among several contracts.
+Settler households commonly hold separate contracts for passage, land, equipment, and agricultural stock. Satisfying a charter does not clear the other debts, which can exceed the property's sale value.
 
-Transportation might be financed separately from land. The pump might be leased by one company, the livestock lineage by another, and the rail access guaranteed through a government assessment. A family could satisfy the original charter while continuing to owe more than the property could sell for.
+Code `A4%1&15-2`, the **Independent Charter Operator Classification**, generally excludes settlers from employee status when they control their own production and commercial decisions. Independent businesses can operate without becoming departments of their financiers or buyers.
 
-Settled Systems law generally treats charter settlers as independent operators.
-
-Settled Systems Code `A4%1&15-2`, the **Independent Charter Operator Classification**, provides that a person who controls their own land use, production schedule, livestock, and commercial decisions is not ordinarily an employee of the institution financing or purchasing their output.
-
-The rule allows genuine independent ranches, farms, workshops, and cooperatives to operate without being governed as corporate departments.
-
-It also prevents many settlers from claiming wages, workplace protections, unemployment benefits, or employer responsibility from the companies that dictate their equipment, buyers, production standards, and debt payments.
-
-A rancher can be independent enough to bear every risk and dependent enough to have only one approved customer.
+The classification also limits claims to wages, employment protections, and benefits. This affects settlers whose contracts dictate their equipment, production standards, and approved customers despite their nominal independence.
 
 ## Leaving the Planet
 
-Agrio Dysis IV does not legally prohibit indebted residents from leaving.
+Debt alone does not prohibit departure. The **Low Plane Transfer Spindle** screens passengers for warrants and transport restrictions, then checks whether accompanying property is cleared to leave.
 
-The **Low Plane Transfer Spindle** verifies whether a passenger is authorized to carry leased or encumbered property offworld.
+Code `A5%8&12-5`, the **Encumbered Equipment Transport Verification Provision**, requires carriers and ports to verify permission before financed or leased property leaves the jurisdiction where its lien can be enforced. It covers livestock and equipment, including medical devices and implants.
 
-Settled Systems Code `A5%8&12-5`, the **Encumbered Equipment Transport Verification Provision**, requires carriers and ports to confirm that registered equipment, livestock, vehicles, implants, or secured property may be transported beyond the jurisdiction in which a lien can be enforced.
-
-The law prevents a borrower from loading a financed herd or leased pump aboard a ship and disappearing into another system.
-
-Its application extends beyond obvious cargo.
-
-A person may be unable to obtain authorization because their transport case includes a medical device, tool, vehicle, animal, or piece of settlement equipment attached to an unresolved account. A family can be legally free to depart while unable to take the property needed to survive elsewhere.
-
-The Spindle also screens active warrants and transport restrictions.
-
-A resident may leave without authorization aboard a private or off-stamp vessel. Doing so can convert debt into theft, invalidate identity records, and make lawful return difficult.
+A family may be free to leave while unable to take the property it needs to live or work elsewhere. Departing without the required authorization on a private or off-stamp vessel can lead to theft charges, invalidated identity records, and difficulty returning lawfully.
 
 ## Ecology and Terraforming
 
-Agrio Dysis IV’s native ecosystems developed under dry air, strong seasonal variation, and localized water.
+Native life developed around seasonal water shortages. Deep-rooted plants and fungal networks retain water and move nutrients through dry soil. Burrowing animals create infiltration channels, while native grazers migrate between water sources.
 
-Many native plants grow slowly, store water in dense tissues, or extend roots deep into fractured ground. Fungal networks move nutrients across wide areas. Burrowing animals shelter from heat and create channels through hard soil. Native grazers migrate between scattered water sources rather than remaining within fixed pasture.
+Imported agricultural species and biological controls have become established beyond the areas where they were introduced. Engineered pasture recovers quickly after grazing, but its shallow roots retain less soil and water than many native plants. Heat-tolerant livestock can digest local and imported feed, yet concentrated herds erode banks and compact ground around wells.
 
-Early terraformers imported soil organisms, crops, grasses, trees, livestock, pollinators, parasites, and biological controls.
-
-Some introductions remain confined to farms and settlements. Others have become permanent parts of the planetary ecology.
-
-Engineered pasture grasses transformed portions of the Low Plane into productive ranching territory. Their shallow roots recover quickly after grazing but hold less water and soil than many native species.
-
-Imported cattle and related engineered stock tolerate heat, require less drinking water than their ancestors, and can digest both native and introduced feed. Their concentrated movement erodes riverbanks and compacts soil around wells.
-
-Terraforming microbes improve some agricultural soils while disrupting native fungal relationships elsewhere. Moisture-control systems intended to increase rainfall in one district can reduce it downwind.
-
-The planet’s environmental policy therefore focuses less on preserving a pristine pre-settlement state than on preventing altered systems from collapsing.
+Terraforming microbes improve some soils while disrupting native fungal systems. Moisture management can increase rain in one district at the expense of another. Environmental policy now concentrates on keeping these altered ecosystems functional.
 
 ### Braidroot
 
-**Braidroot** is a widespread native plant found in dry floodplains and recharge zones.
+**Braidroot** forms low mats above dense roots extending many meters into dry floodplains and recharge zones. Its channels allow rain to penetrate compacted ground, stabilizing sediment and helping replenish aquifers.
 
-It grows as a low mat of tough stems above ground and a dense network of roots extending many meters downward. The root channels allow water to penetrate compacted soil, stabilize sediment, and connect shallow rainfall with deeper aquifer recharge.
-
-Livestock avoid mature braidroot. Its stems catch around agricultural cutters, and dense growth reduces the area available for engineered pasture. Ranchers commonly classify it as a range pest.
-
-Removal improves short-term grazing capacity.
-
-Widespread removal also reduces infiltration, increases erosion, and causes stormwater to move more rapidly toward towns and rivers.
-
-Protected braidroot corridors now form part of several environmental plans. Landholders argue that the government is preserving a weed at their expense.
+Mature braidroot is poor forage and tangles agricultural cutters. Clearing it creates more pasture but increases erosion and runoff. Protected braidroot corridors have become a recurring dispute between environmental authorities and landholders.
 
 ### Native and Engineered Animals
 
-Native dryland grazers remain common outside intensive ranching districts. Most are low-bodied, multi-limbed animals adapted to moving across uneven ground and surviving on sparse vegetation.
+Native dryland grazers are generally low-bodied, multi-limbed animals suited to uneven ground and sparse vegetation. Some native predators now hunt imported stock. Ranchers may defend their herds, subject to restrictions near preserves.
 
-Several native predators have learned to attack imported livestock. Ranchers are permitted to defend herds but face restrictions near ecological preserves.
-
-Engineered grazing animals include cattle lines, compact herd animals suited to steep ground, and low-water browsers developed for scrub country. Many remain protected through corporate genetic licenses.
-
-Independent breeders maintain unauthorized local lines selected for disease resistance, temperament, and the ability to survive without licensed feed. Corporate veterinary authorities classify several of these lines as biologically unverified.
+Engineered livestock includes cattle and specialized herd animals for steep or scrubby terrain. Many lines remain under corporate genetic licenses. Independent breeders develop local stock able to survive without licensed feed; corporate veterinary authorities classify some of those lines as biologically unverified.
 
 ### Disease and Quarantine
 
-Imported and native life exchange diseases despite centuries of monitoring.
+Native and imported species continue to exchange infections. Disease can persist in wild populations, and local soil organisms sometimes change the effectiveness of agricultural and veterinary treatments.
 
-A livestock infection can move into native grazers and persist outside managed herds. A native fungus can infect imported feed crops. Soil organisms can alter the effect of a veterinary treatment.
-
-Quarantine protects the planet’s food supply and native ecosystems.
-
-It can also destroy a ranch whose animals cannot be sold, moved, or slaughtered during an investigation.
-
-The passenger quarantine deck aboard the Transfer Spindle handles animals, people, biological cargo, and agricultural equipment arriving from other worlds. Surface veterinary offices maintain regional checkpoints during outbreaks.
+The Transfer Spindle screens incoming people, animals, and biological cargo, including potentially contaminated equipment. Surface veterinary offices establish checkpoints during outbreaks. Quarantine protects ecosystems and food supplies but can bankrupt ranches unable to move, sell, or slaughter their animals during an investigation.
 
 ## Ranching and the Cattle Towns
 
-Ranching remains one of the Low Plane’s defining industries.
+Ranching supports a large processing and service economy. Most cattle-town residents work in transport, maintenance, commerce, or public services. Herd movements shape town schedules: drives close crossings, quarantine delays sales, and water allocations limit the number of animals a district can support.
 
-Imported cattle and engineered grazing animals support breeding, veterinary medicine, feed cultivation, water management, livestock transport, slaughter, meat processing, hides, biochemical production, repair, freight, hospitality, and seasonal work.
-
-Most residents of a cattle town do not spend their days riding beside livestock.
-
-They maintain rail systems, repair pumps, process records, operate clinics, cook for travelers, manage water, inspect animals, fabricate fencing, handle freight, teach children, maintain communications, and keep local government functioning.
-
-Livestock movement remains visible throughout town life. Rail arrivals bring noise, dust, feed, animals, workers, buyers, inspectors, and disease checks. Drives close roads and crossings. Veterinary warnings affect markets. Water allocations determine how many animals a district can support.
-
-Ranch owners possess political influence because their operations occupy large areas and support export income. Freight workers, town residents, veterinarians, water administrators, and processing employees outnumber them.
+Ranch owners hold political influence through their land and export income, despite being outnumbered by the workers and residents supporting those operations.
 
 ## Clothing of the Low Plane
 
-Traditional Low Plane clothing developed from heat, glare, dust, rain, animals, and long-distance work.
+Low Plane workwear protects against heat, glare, dust, and sudden rain. The familiar hat has a tall creased crown for ventilation and a wide curved brim. Replaceable bands identify community or occupational affiliations; travelers sometimes reverse them to hide an association likely to cause trouble.
 
-The most recognizable item is a hat with a tall creased crown and wide curved brim. The crown allows heat to rise away from the head. The brim protects the face, neck, and eyes from sun, dust, and sudden rain.
-
-Replaceable hatbands display town, ranch, family, union, cooperative, religious, rail, or occupational affiliation. Travelers sometimes reverse a band to show its plain side when entering a community where the visible affiliation could cause trouble.
-
-Long dust coats protect clothing and equipment during travel. Ventilated work shirts, reinforced boots, neck coverings, gloves, water harnesses, filter masks, and compact storm respirators are common.
-
-Materials vary by occupation. Ranch workers favor fabrics resistant to dust, thorns, and animal fluids. Rail crews use heat-resistant layers and high-visibility panels. Water workers carry sealed gloves and contamination monitors. Officials adopt cleaner versions of the same clothing to emphasize local identity.
-
-The style is practical enough that people argue over which parts remain practical.
+Dust coats, ventilated shirts, and reinforced boots are standard travel clothing, with water carriers and respiratory protection close at hand. Materials and protective equipment vary by trade. Officials often wear cleaner versions of local workwear to emphasize their connection to the region.
 
 ## Local Culture
 
-Low Plane culture values competence because incompetence can kill more than the person who displays it.
+Reputation depends heavily on practical competence and willingness to help during an emergency. Residents remember who turned up to repair shared infrastructure and who avoided the work.
 
-People remember who repaired a pump, who arrived during a flood, who shared water during a dry season, and who disappeared when the work began.
+Hosts traditionally offer **first water** before serious conversation with a traveler. Even a small amount promises that the guest will not go thirsty under their roof. Refusal can express distrust or unwillingness to accept an obligation.
 
-Hospitality is an important expectation. A household or business commonly offers **first water** before beginning serious discussion with a traveler. The amount may be small. The offer confirms that the guest will not be left thirsty while under the host’s roof.
+Settlements keep **ground books**, physical and locally copied records of community life, property use, and witnessed agreements. They remain available during relay outages and can supplement authenticated evidence in court. Charter House Six accepts them in that role, although they do not automatically override registry records.
 
-Refusing first water can communicate distrust, protest, or the belief that accepting hospitality would create an obligation.
+Flood marks on buildings and public infrastructure record earlier high-water levels, helping residents judge an approaching storm.
 
-Settlements maintain **ground books**, physical and locally copied records of births, deaths, agreements, land use, water rotations, repairs, and witnessed events. They provide evidence during relay outages and protect communities from losing their entire history to a failed stamp authority.
+Mutual aid carries obligations. Communities record emergency assistance and expect recipients to contribute in return, sometimes for years. Membership rules and old disputes can exclude people from otherwise generous local support. Religious settlements may provide refuge under strict rules, while cooperatives reserve water for contributing households.
 
-Ground books do not automatically override authenticated records. They have preserved enough valid claims that even Charter House Six accepts them as supplemental evidence.
-
-Flood lines are commonly marked on public buildings, homes, rail supports, and water tanks. The marks record the highest water seen at that location and allow residents to judge whether a new storm has exceeded earlier conditions.
-
-Mutual aid remains practical rather than sentimental. A town that helps repair a neighboring levee expects labor in return. A cooperative that releases emergency water records who received it. A family sheltered during a flood may remain obligated to assist the host settlement for years.
-
-These expectations keep communities alive.
-
-They also allow old debts, grudges, and exclusions to survive across generations.
-
-Ranching towns may practice generous hospitality while refusing to recognize migrant camps. Religious settlements may shelter people from corporate collection while imposing strict behavioral rules. Cooperatives may share water among members and deny it to households that failed to contribute labor.
-
-Residents distrust authorities who arrive primarily to collect payments, inspect documents, or enforce contracts.
-
-They also demand government help when floods cross municipal boundaries, disease reaches several herds, or an upstream operator takes more water than a local town can stop.
+Residents often distrust contract enforcement and collection officials. They still expect public intervention when flooding, disease, or upstream extraction exceeds a town's ability to respond.
 
 ## Humans and Other Settlers
 
-Humans form the largest share of Agrio Dysis IV’s population.
+Humans form the largest population group. Relocation programs supplied human-standard housing and equipment, making human settlement comparatively cheap and directing many struggling households toward the frontier.
 
-Many arrived through relocation programs designed around human-standard equipment, medicine, housing, and agricultural assumptions. The same systems that made human settlement comparatively inexpensive also sent struggling humans to the frontier in greater numbers.
+Local standing depends on reputation, practical skill, land, and water access. Established families pass property and political connections to their children, preserving substantial class differences despite hostility toward Theosis corporate hierarchies.
 
-Low Plane human cultures differ sharply from Theosis corporate culture. Status depends heavily on local reputation, practical skill, land, water access, and community relationships rather than formal corporate etiquette.
+Other ancestries live throughout the planet. Some communities have developed particular institutions and concerns:
 
-This does not eliminate class.
-
-Large ranch families, freight operators, established town leaders, and successful charter holders can pass land, equipment, contacts, and political influence to their descendants. Local families sometimes condemn Theosis ladder families while constructing smaller ladders of their own.
-
-Dwarves maintain rail, structural, water, and heavy-repair businesses throughout the Low Plane. Several clanholdings operate independent machine shops and preserve ground records for nearby towns.
-
-Brenneri communities are prominent in water administration, medicine, river ecology, and cooperative organization. Their environmental requirements can make settlement in dry regions expensive, and several maintain protected aquatic neighborhoods near major reservoirs.
-
-Fonqugons contribute to environmental modeling, agricultural planning, law, logistics, and settlement administration. Their communities have been central to several challenges against simplified corporate water models.
-
-Lashuntas work throughout medicine, education, agriculture, diplomacy, ranching, security, and public government. Their telepathy can be valuable during storm response and crowded livestock operations.
-
-Vesk settlers are common in ranching, freight, heavy repair, emergency response, agriculture, government, and independent security. Some established Vesk families have become major landholders.
-
-Madrosarai clinics and technical firms provide medicine, cybernetics, bloodline services, veterinary research, and specialized security.
-
-Moyishuu constellations visit the Transfer Spindle, outer-system facilities, and survey stations. Few remain permanently on the surface, though those who do often become pilots, observers, archivists, or long-distance couriers.
-
-Androids work throughout farming, repair, transport, government, medicine, and independent settlement. Frontier distance can reduce immediate corporate oversight while making replacement parts and authorized maintenance more difficult to obtain.
-
-Astrazoans live throughout the planet’s towns and transport networks. Local ground books sometimes preserve identities and relationships that standardized records fail to understand.
+| Community | Local presence |
+| --- | --- |
+| **Dwarves** | Rail and heavy-repair businesses, including independent clan workshops. Some clanholdings preserve records for neighboring towns. |
+| **Brenneri** | Water management, medicine, and cooperative organization. Protected aquatic neighborhoods near reservoirs help meet the costs of living on a dry world. |
+| **Fonqugons** | Environmental planning and settlement administration. Their communities have challenged simplified corporate water models. |
+| **Lashuntas** | Work across public and agricultural life; telepathy assists storm response and crowded livestock operations. |
+| **Vesk** | Prominent in ranching, freight, and heavy repair, with some established families becoming major landholders. |
+| **Madrosarai** | Medical and technical firms providing cybernetics, bloodline services, veterinary research, and specialized security. |
+| **Moyishuu** | Visiting constellations frequent orbital and survey facilities. Surface residents often work in aviation, observation, archives, or courier services. |
+| **Androids** | Live and work throughout the settlements. Distance reduces direct corporate oversight but makes replacement parts and authorized maintenance harder to obtain. |
+| **Astrazoans** | Established across towns and transport networks. Ground books sometimes preserve identities and relationships poorly represented by standard records. |
 
 ## Rimlight
 
-**Rimlight** is Agrio Dysis IV’s only major moon.
+**Rimlight**, Agrio Dysis IV's only major moon, has a radius of approximately 1,100 km and a mass of 1.79 × 10^22 kg. Its composition is about 58% rock and 42% water ice. It is tidally locked, with only a negligible oxygen exosphere.
 
-It has a radius of approximately 1,100 kilometers and a mass of approximately 1.79 × 10^22 kilograms. Its composition is approximately 58 percent rock and 42 percent water ice.
-
-Rimlight is tidally locked and possesses no meaningful atmosphere beyond a negligible oxygen exosphere. Large areas of buried and surface ice support orbital reserves, scientific study, and limited industrial extraction.
-
-Its orbital and rotational cycle lasts approximately 32,042 stamp-offset minutes, or 534 standard hours.
-
-Rimlight’s regular movement anchors local calendars. Its light assists night travel across open country. Its position helps predict tides, river behavior, animal movement, and the timing of several atmospheric patterns.
-
-Low Plane residents have tracked Rimlight longer than most settlements have possessed reliable relay contact.
+Surface and buried ice support scientific stations, limited extraction, and orbital reserves. Its cycle of approximately 32,042 stamp-offset minutes anchors the rimturn calendar. Moonlight assists night travel; residents have long used its position in predictions of tides, river conditions, and seasonal activity.
 
 ### Storm-Eye Observatory
 
-**Storm-Eye Observatory** is a small government facility on Rimlight.
+**Storm-Eye Observatory** is a small government facility on Rimlight that monitors planetary weather and water conditions. Its broad view often identifies developing flood threats before surface stations can confirm them, giving towns time to evacuate, move livestock, and prepare reservoirs.
 
-Its instruments monitor the planet’s cloud systems, basin temperatures, atmospheric circulation, surface moisture, reservoir conditions, and the development of major storm fronts. Lunar distance gives it a stable view of weather patterns difficult to observe from surface stations.
-
-Storm-Eye forecasts save lives.
-
-Its scientists routinely identify flood threats before local sensors can confirm them. Towns use the data to move livestock, close crossings, position emergency crews, and release reservoir capacity.
-
-Public forecasts pass through the Planetary Water Bureau.
-
-When Storm-Eye projections conflict with official water-allocation models, release can be delayed while analysts reconcile the difference. Officials argue that publishing contradictory forecasts creates panic, unnecessary reservoir releases, and competing evacuation orders.
-
-Storm-Eye personnel argue that an accurate warning delivered late is a record rather than a warning.
+Public forecasts pass through the Water Bureau. When observations conflict with official allocation models, release may be delayed while analysts reconcile them. Officials cite the risks of contradictory evacuation and reservoir instructions. Observatory staff argue that these delays leave settlements without adequate warning.
 
 ## The Low Plane Transfer Spindle
 
-The **Low Plane Transfer Spindle** is a rotating orbital station handling passengers, livestock, freight, water ice, and settlement equipment.
+The **Low Plane Transfer Spindle** handles orbital passenger and cargo transfers. A central docking spine connects to rotating habitation and cargo sections. Approximately 188 crew live aboard permanently, with capacity for around 260 during ordinary operations.
 
-Its central spine connects docking structures to a rotating habitation and cargo section. The station maintains approximately 188 permanent crew members and can support around 260 during ordinary operations.
+Its principal facilities are the **Livestock Transfer Ring**, **Surface Freight Sling**, **Charter Registry Uplink**, **Passenger Quarantine Deck**, and **Water-Ice Reserve**, supported by workshops, inspection bays, and temporary housing.
 
-Its major facilities include:
-
-- the Livestock Transfer Ring;
-- the Surface Freight Sling;
-- the Charter Registry Uplink;
-- the Passenger Quarantine Deck;
-- the Water-Ice Reserve;
-- repair workshops;
-- temporary passenger housing;
-- freight inspection bays.
-
-The Spindle is publicly administered by the Settlement Compact.
-
-Its registry systems are supplied and audited by Erbium.
-
-Passengers departing Agrio Dysis IV pass through identity, warrant, debt, and equipment-lien screening before receiving onward transport authorization. The public authority determines whether a person may travel. Erbium systems determine whether the property accompanying them is cleared to leave.
-
-Livestock, agricultural equipment, pump assemblies, medical systems, vehicles, and financed tools can delay or prevent authorization.
-
-The distinction allows every official involved to state truthfully that residents are free to leave.
+The Compact administers the station. Erbium supplies and audits its registry systems. Public authorities authorize passenger travel; corporate records establish whether accompanying property is cleared for transport under the equipment-lien rules.
 
 ## The Agrio Dysis System
 
-The wider system supplies much of the infrastructure supporting the settlement world.
-
 ### Agrio Dysis I
 
-**Agrio Dysis I** is a small, tidally locked, airless world close to the primary.
+**Agrio Dysis I** is a small, tidally locked, airless world. The automated **Cauter Leases** extract dense metals from the permanent dayside. Human crews service the shielded mines during tightly controlled shutdowns.
 
-Shielded automated mines called the **Cauter Leases** extract dense metals from its permanent dayside. Human maintenance crews enter during tightly scheduled shutdown periods when machinery, radiation exposure, and thermal conditions can be controlled.
-
-Erbium uses the projected value of the Cauter Leases as collateral when negotiating infrastructure loans involving Agrio Dysis IV.
-
-The planet’s public government therefore borrows against resources it does not own on a world where its citizens perform dangerous maintenance.
+Erbium offers projected mine revenue as collateral in infrastructure financing for Agrio Dysis IV. The Compact's borrowing consequently depends on resources it does not own, extracted at facilities where its citizens perform dangerous maintenance.
 
 ### Agrio Dysis II
 
-**Agrio Dysis II** is a hot greenhouse world beneath a dense carbon-dioxide and sulfur atmosphere.
-
-The robotic **Brass Weather Platforms** operate within its upper atmosphere, collecting sulfur compounds and industrial feedstock for sealed use elsewhere in the system.
-
-Crewed missions are short and specialized. Most maintenance is performed through drones and replaceable platforms.
+**Agrio Dysis II** is a hot greenhouse world with a dense carbon-dioxide and sulfur atmosphere. Robotic **Brass Weather Platforms** collect sulfur compounds and industrial feedstock in its upper atmosphere. Crewed missions are brief; drones and replacement platforms handle most maintenance.
 
 ### Agrio Dysis III
 
-**Agrio Dysis III** is a hot, thin-aired desert world used for solar collection, extraction, and freight staging.
-
-**Dryline Yard** stores equipment bound for Agrio Dysis IV and the main belt. Its solar arrays and sealed warehouses form an important emergency supply point.
-
-Published records describe a substantial reserve of power equipment, settlement parts, water systems, and transport fuel.
-
-Much of that reserve is pledged against unrelated corporate obligations.
+**Agrio Dysis III** is a hot, thin-aired desert world used for solar collection, extraction, and freight staging. **Dryline Yard** holds equipment bound for Agrio Dysis IV and the main belt. Its sealed warehouses are an important emergency supply point, though much of the published reserve is pledged against unrelated corporate obligations.
 
 ### The Main Belt and Outer System
 
-The **Agrio Dysis Main Belt** contains rocky and carbonaceous bodies worked by corporate claims, independent prospectors, and settlement cooperatives.
+Corporate claims, independent prospectors, and settlement cooperatives work the rocky and carbonaceous bodies of the **Agrio Dysis Main Belt**.
 
-**Agrio Dysis V** is a ringed gas giant supporting fuel harvesting and outer-system traffic. Its icy moon **Longwatch** contains the buried **Cold Pump Depot**, which produces water, oxygen, and propellant feedstock.
+The ringed gas giant **Agrio Dysis V** supports fuel harvesting and outer-system traffic. Its icy moon **Longwatch** houses the buried **Cold Pump Depot**, producing water, oxygen, and propellant feedstock.
 
-**Agrio Dysis VI** marks the practical edge of routine traffic. Most activity around the distant ice giant is automated survey work.
+The distant ice giant **Agrio Dysis VI** marks the practical limit of routine traffic. Activity there is mainly automated survey work.
 
 ## Major Locations
 
 ### Highwater
 
-**Highwater** is the capital of Agrio Dysis IV.
+**Highwater**, the capital, occupies a reinforced upland shelf above the northern basin. Major railways and mountain-fed pipelines serve its civic district, which houses the Compact's central institutions.
 
-The city occupies a reinforced upland shelf above the northern edge of the Low Plane. Its location protects government buildings from ordinary basin floods while placing them near several mountain-fed pipelines and major rail routes.
-
-The Settlement Assembly, Watershed Council, First Commissioner, Charter Court, Planetary Water Bureau, and Office of Survey and Record operate from the central civic district.
-
-Highwater is cleaner, cooler, and better supplied than most Low Plane towns. Its residents insist that the city’s stability is necessary for planetary administration. Basin communities note that the capital receives water before districts whose pumps produce much of its revenue.
+The site is protected from ordinary floods and better supplied than most basin towns. Residents consider that stability necessary for government; downstream communities resent the capital's priority water allocation.
 
 ### Crosswind Junction
 
-**Crosswind Junction** is one of the Low Plane’s largest cattle towns and its most important interior freight center.
+**Crosswind Junction** is a major cattle town and the basin's principal interior freight center. It grew around a well, rail camp, and seasonal river crossing. Repeated floods forced sections of railway to move and the central district to be raised.
 
-The town grew around a deep well, rail spur, livestock yard, repair depot, and seasonal river crossing. Successive floods forced the settlement to move portions of its rail line and raised its central district above the original ground level.
-
-Most residents work in freight, repair, animal care, water administration, food processing, government, medicine, hospitality, or rail service.
-
-The livestock yard receives herds from across the North Rangegrass. Veterinary inspection, sale, transfer, quarantine, and loading can keep animals in the town for several watches.
-
-Crosswind’s deep well supplies residents, rail operations, livestock facilities, and nearby settlements. Every expansion produces another dispute over who receives priority during a dry season.
+Herds from the North Rangegrass spend several watches in its yards for inspection, sale, and transfer. The deep well supplies both the town and surrounding settlements. Every expansion renews disputes over dry-season priority.
 
 ### Longwater Cooperative
 
-Longwater’s administrative and repair center occupies a converted rail-service complex southwest of Crosswind Junction.
+Longwater's administrative and repair center occupies a converted rail complex southwest of Crosswind Junction. Its warehouses hold shared maintenance supplies and emergency water equipment. Dispatchers keep both stamped records and ground books, using local communications and couriers during relay failures.
 
-Warehouses contain pumps, pipe, filters, portable cisterns, flood barriers, medical water-treatment kits, and machinery adapted by several generations of crews.
-
-Its dispatch office maintains both stamped records and ground books. During relay failure, requests for help arrive through radio, courier, rail message, and local signal towers.
-
-The cooperative’s current dispute with upstream corporate operators has divided its members. Some want immediate public release of the pumping data. Others fear that a legal battle will interrupt the equipment contracts upon which their wells depend.
+Members disagree about releasing evidence against upstream corporate pumping. Some want public disclosure; others fear litigation will disrupt essential equipment contracts.
 
 ### Erbium Charter House Six
 
-Charter House Six is the central Low Plane office for recognized title, lien, and survey records.
-
-Its archive survived floods that destroyed municipal offices, family documents, and physical survey markers across the basin. This reliability gives its records real value.
-
-The House employs surveyors, legal clerks, debt administrators, archivists, security personnel, and technical staff. Many are local residents who believe the office prevents powerful families from rewriting ownership through force.
-
-Its systems also place Erbium data above forms of evidence that the company does not control.
+Charter House Six is the basin's central authenticated registry. Many of its employees are local residents who see reliable records as protection against powerful families taking land by force. Its procedures nevertheless favor Erbium-controlled data over other evidence.
 
 ### Bluebreak
 
-**Bluebreak** is the largest settlement in the mountain range sharing its name.
+**Bluebreak** is the largest mountain settlement and a center for reservoirs, hydropower, and pipeline maintenance. Its engineers negotiate deliveries with basin and coastal authorities, Longwater, and corporate agricultural operators.
 
-The town maintains reservoirs, pipeline junctions, hydropower stations, orchard terraces, repair yards, and weather stations. Its engineers negotiate water deliveries with Highwater, Longwater, coastal authorities, and corporate agricultural operators.
-
-Bluebreak residents regard their water as a product of local land and labor. Low Plane officials describe it as a planetary resource whose flow cannot be monopolized by the communities nearest its source.
+Residents regard water as a product of local land and labor. Basin officials argue that communities nearest the headwaters cannot control supplies needed across the planet.
 
 ### Sable Port
 
-**Sable Port** is the largest city on the Sable Coast.
+**Sable Port**, the coast's largest city, supports fishing, coastal agriculture, and associated processing and maintenance industries. It also produces native biological treatments. Goods can reach orbital launch facilities through the port without using the main Low Plane rail network.
 
-It supports fishing, coastal agriculture, ship and aircraft maintenance, food processing, native-biological research, and water-treatment industries. Its port moves goods to orbital launch sites without passing through the principal Low Plane rail network.
-
-Sable Port’s delegates lead efforts to reduce the political dominance of cattle towns. They also oppose proposals requiring the coast to transfer more water inland.
+Its delegates oppose cattle-town political dominance and proposals for increased coastal water transfers inland.
 
 ### Deepreed Preserve
 
-**Deepreed Preserve** protects a broad eastern recharge region containing braidroot plains, native wetlands, shallow seasonal lakes, and migration corridors.
+**Deepreed Preserve** protects eastern aquifer recharge zones, including braidroot plains, seasonal wetlands, and migration corridors. Research and ranger stations monitor the area, with limited routes open to visitors.
 
-The preserve contains research stations, ranger settlements, water-monitoring facilities, and limited public access routes.
-
-Its scientists argue that the region is part of the infrastructure sustaining the Low Plane’s aquifers.
-
-Neighboring ranchers argue that calling land infrastructure does not feed their herds.
+Scientists argue that protecting the vegetation sustains the basin's water supply. Neighboring ranchers want access to more grazing land.
 
 ### Red Spur Works
 
-**Red Spur Works** is a rail-maintenance and heavy-repair town at the southeastern edge of the basin.
+**Red Spur Works**, on the southeastern basin edge, grew around a public rail yard and independent dwarven workshops. It repairs heavy transport, agricultural machinery, and flood-damaged infrastructure.
 
-Its crews rebuild locomotives, cargo carriers, flood-damaged bridges, livestock cars, pump housings, and agricultural machinery. The settlement grew around a public rail yard and several independent dwarven workshops.
-
-Red Spur’s unions support local manufacturing intended to reduce dependence on imported Erbium parts. Their equipment remains limited by licensed control systems and specialized materials.
+Local unions support manufacturing to reduce reliance on imported Erbium parts. Licensed control systems and specialized materials still limit what they can produce independently.
 
 ### Morrow Stock Institute
 
-The **Morrow Stock Institute** is a public veterinary, agricultural, and quarantine center outside Crosswind Junction.
+The **Morrow Stock Institute** is a publicly funded veterinary, agricultural, and quarantine center outside Crosswind Junction. It studies engineered herds and their interaction with native life, with additional funding from corporate research grants.
 
-It researches livestock disease, native-animal interactions, feed compatibility, reproductive medicine, and the long-term health of engineered herd lines.
-
-The Institute receives public funding and corporate research grants. Its scientists are currently divided over whether a new illness originated in imported livestock, native animals, or a licensed veterinary treatment.
+Its scientists disagree over whether a new illness began in imported stock, native animals, or a licensed veterinary treatment.
 
 ### Covenant Wells
 
-**Covenant Wells** is an Ashstep religious settlement organized around communal water ownership, shared labor, and strict internal discipline.
+**Covenant Wells** is an Ashstep religious municipality with communal water, shared labor, and strict internal discipline. It shelters families who have lost charters, equipment, or records. Residents accept limits on private property while receiving community protection.
 
-The settlement shelters families whose charters were revoked, whose equipment was repossessed, or whose records were lost during floods.
-
-Residents contribute labor and accept limits on private property while under community protection.
-
-Compact officials recognize Covenant Wells as a lawful religious municipality. Charter House Six disputes whether it can shelter people whose settlement obligations remain attached to another district.
-
-# Recent Events
+The Compact recognizes the settlement as lawful. Charter House Six disputes its right to shelter residents whose obligations remain attached to another district.
