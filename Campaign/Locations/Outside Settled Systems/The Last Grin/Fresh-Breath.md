@@ -1,7 +1,7 @@
 # Fresh-Breath Statblock
 ```sf2e-stats
 # Fresh-Breath
-## Settlement 4
+## Settlement 2
 ==CN== ==Outpost==
 
 ---
@@ -19,6 +19,7 @@
 
 **A.Sop** (LN, male human leader 5), Head of the family
 **PPPPP** (LE, male astrazoan smuggler 3), Electrovore hunter
+**Nera Sop** (NG, female human technician 2), A.Sop's daughter
 **Resources** breathable air, electrovore meat, 'The Well' (subsurface ice harvester).
 
 ---
