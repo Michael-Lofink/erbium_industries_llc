@@ -1,0 +1,69 @@
+PONDERER BINDER — QUALITY REVIEW
+9 October 2026
+
+CORRECTIONS
+- O3: Delay now includes negative effects at the start as well as the end
+  of the turn, and clearly ends expiring benefits immediately.
+- P2: Digital Assessment! includes the attack-count and ammunition steps,
+  and explains the included Recall Knowledge action's focus requirement.
+- P3: Demoralize requires hearing. Its -4 circumstance penalty applies to
+  an unshared language or a wordless vocalization.
+- P5: A held medpatch needs one usable hand, not an additional empty hand.
+  Listed which unwilling patients it can normally be applied to.
+- B2: Release still needs the grabbed flat check, despite its exception
+  to reactions triggered by manipulate actions.
+- B6 / V9: Added grabbed and restrained effects beside Escape, with an
+  alphabetical index entry. Kept Group Impression's existing index entry.
+- G1 / G2: Clarified thorough Search speed and Seek's critical success.
+- C1: Included the null module's extradimensional nesting restriction.
+- C2: Matched the current PES-DR4 / Ghost Box name and personal issue;
+  included Seal Sample's action cost.
+- C4: Wrote out light Bulk in the conversion table to avoid confusing L
+  with a physical volume unit. The campaign's air conversion is unchanged.
+- C7: Razing scales with weapon damage dice; Professional uses the weapon's
+  item bonus. These descriptions now continue to work after upgrades.
+- Editable HTML: embedded fonts; clear edit/finish button state; separate
+  player and GM download names; explicit newline in saved HTML.
+
+REPRINT ONLY CHANGED PAGES
+The 47 player pages and their IDs are unchanged. GM page content and the
+FED-12 tracker/cutouts are unchanged. The combined mats need only the air page
+reprinted if you want the clearer unit labels: C4 is mat PDF page 5.
+
+Player binder PDF page -> printed page ID
+ 3 -> O3
+ 7 -> P2
+ 8 -> P3
+10 -> P5
+12 -> B2
+16 -> B6
+18 -> G1
+19 -> G2
+28 -> C1
+29 -> C2
+31 -> C4
+34 -> C7
+47 -> V9
+
+VERIFICATION
+- Reviewed all 47 player pages and 6 GM pages, including rendered layouts.
+- Checked the four PDFs, both editable HTML files, canonical JSON, builder,
+  instructions, layout report, fonts/licenses and five action-symbol SVGs.
+- Checked page IDs, PDF bookmarks and internal destinations, HTML anchors,
+  bundled fonts, and matching 54-point (3/4-inch) token/tracker circles.
+- Checked that the mat and carbine PDFs reproduce their binder pages.
+- Ran the HTML edit/save functions in a DOM simulation. No installed browser
+  was available for a full interactive browser test; print the PDFs for the
+  verified pagination and exact token sizes.
+- Rebuilt from a fresh extraction of the packaged source and fonts, then
+  compared PDF page text and renders with the delivered versions.
+- Checked ZIP integrity and that every archived file matches its local copy.
+
+BEFORE PLAY
+Review Jonah's character-sheet corrections on GM2. Confirm actual ammunition,
+battery charge, inventory locations and stored air; the package does not invent
+starting supplies. Current character totals remain on the character sheet.
+
+The handout is a reference for Ponderer's selected abilities and common actions,
+not a substitute for every rule in the Player Core. GM2–GM6 retain the source
+priority, homebrew rulings, historical inventory audit and remaining setup items.

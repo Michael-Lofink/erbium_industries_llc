@@ -1,0 +1,271 @@
+{
+  "binder": [
+    {
+      "id": "O1",
+      "bottom": 122.5,
+      "overflow": false
+    },
+    {
+      "id": "O2",
+      "bottom": 189.0,
+      "overflow": false
+    },
+    {
+      "id": "O3",
+      "bottom": 232.0,
+      "overflow": false
+    },
+    {
+      "id": "O4",
+      "bottom": 85.0,
+      "overflow": false
+    },
+    {
+      "id": "O5",
+      "bottom": 116.5,
+      "overflow": false
+    },
+    {
+      "id": "P1",
+      "bottom": 87.0,
+      "overflow": false
+    },
+    {
+      "id": "P2",
+      "bottom": 118.0,
+      "overflow": false
+    },
+    {
+      "id": "P3",
+      "bottom": 99.5,
+      "overflow": false
+    },
+    {
+      "id": "P4",
+      "bottom": 105.5,
+      "overflow": false
+    },
+    {
+      "id": "P5",
+      "bottom": 136.5,
+      "overflow": false
+    },
+    {
+      "id": "B1",
+      "bottom": 69.0,
+      "overflow": false
+    },
+    {
+      "id": "B2",
+      "bottom": 70.5,
+      "overflow": false
+    },
+    {
+      "id": "B3",
+      "bottom": 101.5,
+      "overflow": false
+    },
+    {
+      "id": "B4",
+      "bottom": 118.0,
+      "overflow": false
+    },
+    {
+      "id": "B5",
+      "bottom": 198.0,
+      "overflow": false
+    },
+    {
+      "id": "B6",
+      "bottom": 57.5,
+      "overflow": false
+    },
+    {
+      "id": "B7",
+      "bottom": 60.0,
+      "overflow": false
+    },
+    {
+      "id": "G1",
+      "bottom": 66.5,
+      "overflow": false
+    },
+    {
+      "id": "G2",
+      "bottom": 66.0,
+      "overflow": false
+    },
+    {
+      "id": "G3",
+      "bottom": 97.0,
+      "overflow": false
+    },
+    {
+      "id": "G4",
+      "bottom": 81.5,
+      "overflow": false
+    },
+    {
+      "id": "G5",
+      "bottom": 108.0,
+      "overflow": false
+    },
+    {
+      "id": "G6",
+      "bottom": 71.5,
+      "overflow": false
+    },
+    {
+      "id": "Y1",
+      "bottom": 133.5,
+      "overflow": false
+    },
+    {
+      "id": "Y2",
+      "bottom": 69.5,
+      "overflow": false
+    },
+    {
+      "id": "Y3",
+      "bottom": 66.0,
+      "overflow": false
+    },
+    {
+      "id": "Y4",
+      "bottom": 195.0,
+      "overflow": false
+    },
+    {
+      "id": "C1",
+      "bottom": 66.0,
+      "overflow": false
+    },
+    {
+      "id": "C2",
+      "bottom": 79.0,
+      "overflow": false
+    },
+    {
+      "id": "C3",
+      "bottom": 69.5,
+      "overflow": false
+    },
+    {
+      "id": "C4",
+      "bottom": 115.5,
+      "overflow": false
+    },
+    {
+      "id": "C5",
+      "bottom": 75.5,
+      "overflow": false
+    },
+    {
+      "id": "C6",
+      "bottom": 111.0,
+      "overflow": false
+    },
+    {
+      "id": "C7",
+      "bottom": 84.0,
+      "overflow": false
+    },
+    {
+      "id": "C8",
+      "bottom": 76.0,
+      "overflow": false
+    },
+    {
+      "id": "C9",
+      "bottom": 86.5,
+      "overflow": false
+    },
+    {
+      "id": "C10",
+      "bottom": 56.5,
+      "overflow": false
+    },
+    {
+      "id": "C11",
+      "bottom": 116.5,
+      "overflow": false
+    },
+    {
+      "id": "V1",
+      "bottom": 95.5,
+      "overflow": false
+    },
+    {
+      "id": "V2",
+      "bottom": 119.0,
+      "overflow": false
+    },
+    {
+      "id": "V3",
+      "bottom": 89.0,
+      "overflow": false
+    },
+    {
+      "id": "V4",
+      "bottom": 66.5,
+      "overflow": false
+    },
+    {
+      "id": "V5",
+      "bottom": 176.0,
+      "overflow": false
+    },
+    {
+      "id": "V6",
+      "bottom": 73.0,
+      "overflow": false
+    },
+    {
+      "id": "V7",
+      "bottom": 80.5,
+      "overflow": false
+    },
+    {
+      "id": "V8",
+      "bottom": 95,
+      "overflow": false
+    },
+    {
+      "id": "V9",
+      "bottom": 55,
+      "overflow": false
+    }
+  ],
+  "gm": [
+    {
+      "id": "GM1",
+      "bottom": 151.5,
+      "overflow": false
+    },
+    {
+      "id": "GM2",
+      "bottom": 87.0,
+      "overflow": false
+    },
+    {
+      "id": "GM3",
+      "bottom": 107.0,
+      "overflow": false
+    },
+    {
+      "id": "GM4",
+      "bottom": 61.0,
+      "overflow": false
+    },
+    {
+      "id": "GM5",
+      "bottom": 77.5,
+      "overflow": false
+    },
+    {
+      "id": "GM6",
+      "bottom": 74.0,
+      "overflow": false
+    }
+  ]
+}

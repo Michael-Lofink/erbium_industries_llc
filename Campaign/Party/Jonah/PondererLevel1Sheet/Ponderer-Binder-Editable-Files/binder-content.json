@@ -1,0 +1,2959 @@
+{
+  "sections": {
+    "O": {
+      "name": "Orange • My turn",
+      "color": "#aa4d12",
+      "label": "Orange"
+    },
+    "P": {
+      "name": "Pink • Help the party",
+      "color": "#b13568",
+      "label": "Pink"
+    },
+    "B": {
+      "name": "Blue • Fight and move",
+      "color": "#285ea0",
+      "label": "Blue"
+    },
+    "G": {
+      "name": "Green • Explore",
+      "color": "#327147",
+      "label": "Green"
+    },
+    "Y": {
+      "name": "Yellow • Talk and prepare",
+      "color": "#816600",
+      "label": "Yellow"
+    },
+    "C": {
+      "name": "Cyan • Equipment and tracking",
+      "color": "#087487",
+      "label": "Cyan"
+    },
+    "V": {
+      "name": "Purple • Rules and my abilities",
+      "color": "#75499b",
+      "label": "Purple"
+    }
+  },
+  "pages": [
+    {
+      "id": "O1",
+      "section": "O",
+      "title": "Find what I need",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "<b>Orange • My turn</b><br/>O2–O5",
+              "O2 My turn<br/>O3 Delay or Ready<br/>O4 Example turns • O5 decision guide"
+            ],
+            [
+              "<b>Pink • Help the party</b><br/>P1–P5",
+              "P1 Get ’Em! • P2 Digital Assessment!<br/>P3 Bon Mot / Demoralize<br/>P4 Aid / calm fear • P5 emergency care"
+            ],
+            [
+              "<b>Blue • Fight and move</b><br/>B1–B7",
+              "B1 Pistol • B2 neural lash<br/>B3 move / cover • B4 diversions<br/>B5 stealth • B6 get free<br/>B7 Feint / Tumble / Point Out"
+            ],
+            [
+              "<b>Green • Explore</b><br/>G1–G6",
+              "G1 Travel activity • G2 notice things<br/>G3 computers • G4 climbing<br/>G5 recovery • G6 gear / guidance"
+            ],
+            [
+              "<b>Yellow • Talk and prepare</b><br/>Y1–Y4",
+              "Y1 Size Up • Y2 persuade people<br/>Y3 information / deception<br/>Y4 bargains / languages"
+            ],
+            [
+              "<b>Cyan • Gear and tracking</b><br/>C1–C11",
+              "C1–C2 FED / crew gear • C3 bullets<br/>C4 air • C5 Bulk • C6 cutouts<br/>C7 tools • C8 turn • C9 effects<br/>C10–C11 carbine charges / tokens"
+            ],
+            [
+              "<b>Purple • Rules and abilities</b><br/>V1–V9",
+              "V1 rolls • V2 conditions • V3 glitching<br/>V4 dying / Hero Points • V5 Adhere<br/>V6 Ponder Unity • V7 math • V8–V9 index"
+            ]
+          ],
+          "widths": [
+            1.05,
+            1.8
+          ],
+          "compact": true
+        },
+        {
+          "type": "text",
+          "text": "Use the <b>page IDs</b> to find things. They stay the same when pages are added. Numbered instructions are steps; the <b>action cost</b> is shown separately. Use my <b>character sheet</b> for current bonuses, DCs, defenses, HP, Speeds and equipment."
+        }
+      ],
+      "lead": "Ponderer • Table reference"
+    },
+    {
+      "id": "O2",
+      "section": "O",
+      "title": "My turn",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Start my turn",
+          "cost": "3 actions and 1 reaction",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "End my previous directive’s bonuses (C9). Reset my actions, reaction and NEXT ATTACK marker on C8.",
+            "Check conditions. Slowed or stunned can reduce my available actions.",
+            "Choose what I want to accomplish. Ask about an unfamiliar action before committing."
+          ],
+          "outcomes": null,
+          "note": null
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "<b>Help attacks land</b>",
+              "Get ’Em! → P1"
+            ],
+            [
+              "<b>Help a Will-save ability</b>",
+              "Bon Mot → P3"
+            ],
+            [
+              "<b>Learn / defend</b>",
+              "Digital Assessment! → P2"
+            ],
+            [
+              "<b>Get safer</b>",
+              "Move / Take Cover → B3"
+            ],
+            [
+              "<b>Wait for a better moment</b>",
+              "Delay before taking actions → O3"
+            ]
+          ],
+          "widths": [
+            1.3,
+            1.5
+          ]
+        },
+        {
+          "type": "action",
+          "title": "End my turn",
+          "cost": "No action",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Resolve persistent damage and recovery checks. Usually reduce frightened by 1. Keep my reaction available for its trigger."
+          ],
+          "outcomes": null,
+          "note": null
+        }
+      ],
+      "lead": "I have 3 actions each turn. A <b>Strike</b> is one weapon or unarmed attack. Spend actions in any order. Use the current numbers on my <b>character sheet</b>.",
+      "source": "Core pp. 104, 428–429 • Current numbers: character sheet"
+    },
+    {
+      "id": "O3",
+      "section": "O",
+      "title": "Wait for the right moment",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Delay",
+          "cost": "Free action • only when my turn begins",
+          "glyph": "F",
+          "before": "I have not taken actions on this turn.",
+          "steps": [
+            "Say that I am delaying. My turn pauses; I leave the initiative order.",
+            "After another creature finishes its turn, choose to return. Take my turn then. My new initiative position stays there."
+          ],
+          "outcomes": null,
+          "note": "<b>While waiting:</b> I cannot use reactions. Negative start- and end-of-turn effects happen now. Benefits due to end during my turn end now too. After a whole round, I lose the held turn and keep my original initiative."
+        },
+        {
+          "type": "action",
+          "title": "Ready",
+          "cost": "2 actions now + my reaction later",
+          "glyph": "2",
+          "before": "One available single action or untriggered free action.",
+          "steps": [
+            "Name a clear, observable trigger and the action I will take. Readying ends my turn.",
+            "If the trigger occurs before my next turn, spend my reaction to take that action. Its requirements must still be met."
+          ],
+          "outcomes": null,
+          "note": "A readied attack uses the attack penalty I had when I readied it. I can Ready a pistol or neural-lash Strike. <b>Concentrate:</b> Ready requires focus."
+        },
+        {
+          "type": "text",
+          "text": "<b>Choose Delay</b> to take my whole turn after an ally sets something up. <b>Choose Ready</b> to reserve one specific action for a trigger.",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 408–409"
+    },
+    {
+      "id": "O4",
+      "section": "O",
+      "title": "Four usable turns",
+      "blocks": [
+        {
+          "type": "diagram",
+          "name": "turns"
+        },
+        {
+          "type": "text",
+          "text": "Each row spends three actions. Choose the row that fits the situation.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Size Up asset?</b> Lead by Example costs <b>1 action total</b> against that asset, including its attack (Y1). This leaves one more action available.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Check first:</b> weapon ready and loaded; target in range; no directive already issued this round. An attack inside an activity still counts toward my attack penalty.",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 104, 108, 408–410 • Bon Mot: PF Core 2 p. 228"
+    },
+    {
+      "id": "O5",
+      "section": "O",
+      "title": "Choose my next action",
+      "lead": "Use this when I want a starting point. I can choose a different approach.",
+      "blocks": [
+        {
+          "type": "diagram",
+          "name": "decisions"
+        },
+        {
+          "type": "text",
+          "text": "<b>Before committing:</b> check range, free hands, actions left and whether I already used a directive this round. Ask the GM about anything uncertain."
+        },
+        {
+          "type": "text",
+          "text": "<b>Already attacked?</b> Another attack takes a penalty. Bon Mot, Demoralize, a directive without a Strike, and Take Cover do not increase that penalty."
+        }
+      ],
+      "source": "Decision aid • action rules on the referenced pages"
+    },
+    {
+      "id": "P1",
+      "section": "P",
+      "title": "Get ’Em!",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Requirements for either version:</b> one visible enemy within <b>60 feet</b>; allies can hear my call or see my signal; my directive is available this round."
+        },
+        {
+          "type": "action",
+          "title": "Focus our attacks",
+          "cost": "1 action",
+          "steps": [
+            "Name the enemy and give the order.",
+            "Place the <b>+1 ATTACK</b> token on C9 and write the target’s name. I and my allies add <b>+1 status</b> to attack rolls against it."
+          ],
+          "glyph": "1",
+          "before": null,
+          "note": "Issuing the order requires no roll."
+        },
+        {
+          "type": "action",
+          "title": "Lead by Example",
+          "cost": "2 actions total • includes one weapon attack",
+          "steps": [
+            "Name the enemy and give the order. Place <b>+1 ATTACK</b> on C9: I and my allies get +1 status to attacks against it.",
+            "Make <b>one Strike</b>. Include the +1 in my attack roll. On a hit, add my <b>Charisma modifier as status damage</b>. Spend the weapon’s ammunition.",
+            "After that attack, place <b>DAMAGE</b> on C9. Hit or miss, our <b>later Strikes</b> against this enemy gain the status damage bonus below."
+          ],
+          "glyph": "2",
+          "before": "Weapon held and ready; enemy within its reach or range. A pistol must be loaded."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "My level",
+              "1–4",
+              "5–9",
+              "10–14",
+              "15–19",
+              "20"
+            ],
+            [
+              "Later-Strike damage",
+              "+1",
+              "+2",
+              "+3",
+              "+4",
+              "+5"
+            ]
+          ],
+          "widths": [
+            1.8,
+            1,
+            1,
+            1.15,
+            1.15,
+            0.8
+          ],
+          "compact": true
+        },
+        {
+          "type": "text",
+          "text": "<b>Both versions:</b> move DIRECTIVE to ISSUED on C8. All bonuses end at the start of my next turn. Get ’Em! and Digital Assessment! share the <b>one directive per round</b> limit."
+        },
+        {
+          "type": "text",
+          "text": "<b>Size Up asset:</b> Lead by Example costs <b>1 action total</b> against that asset. Follow the same three steps (Y1)."
+        }
+      ],
+      "source": "Core pp. 104, 108 • attack penalty and range still apply"
+    },
+    {
+      "id": "P2",
+      "section": "P",
+      "title": "Digital Assessment!",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Requirements:</b> target within <b>100 feet</b>; allies can hear my call or see my signal; my directive is available this round."
+        },
+        {
+          "type": "action",
+          "title": "Find a useful fact",
+          "cost": "1 action • Recall Knowledge included",
+          "steps": [
+            "Ask one question and suggest a skill that fits. Agree on the skill before spending the action.",
+            "The GM secretly rolls. Use the result below. If I identify the creature successfully, also learn <b>one resistance or immunity</b>."
+          ],
+          "glyph": "1",
+          "before": null,
+          "results": [
+            "<b>Success:</b> answer to my question. <b>Critical success:</b> extra information. <b>Failure:</b> none. <b>Critical failure:</b> possibly false information."
+          ],
+          "note": "<b>Concentrate:</b> the included Recall Knowledge needs focus."
+        },
+        {
+          "type": "action",
+          "title": "Assess and defend",
+          "cost": "2 actions total • assessment and one weapon attack",
+          "steps": [
+            "Make the assessment above, then make <b>one Strike</b>. Apply my current attack penalty and spend the weapon’s ammunition. Advance NEXT ATTACK (C8).",
+            "Place <b>+1 AC</b> on C9 and write the target. I and my allies gain +1 circumstance AC against its attacks until my next turn starts. This applies even if my check or attack failed.",
+            "If the creature has the <b>tech trait</b>, it rolls Fortitude vs my <b>Class DC on my sheet</b>. Failure: glitching 1. It then becomes immune to Digital Assessment! for 1 hour."
+          ],
+          "glyph": "2",
+          "before": "Weapon held and ready; target within its reach or range. A pistol must be loaded."
+        },
+        {
+          "type": "text",
+          "text": "After either version, move DIRECTIVE to ISSUED (C8). Choose a knowledge skill that fits the question; use its current modifier from my sheet."
+        }
+      ],
+      "source": "Core pp. 105, 190–191"
+    },
+    {
+      "id": "P3",
+      "section": "P",
+      "title": "Weaken an enemy",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Bon Mot",
+          "cost": "1 action • GM-approved feat",
+          "glyph": "1",
+          "before": "Foe within 30 feet can hear me, understand my language, and be affected by emotion and mental effects.",
+          "steps": [
+            "Deliver a distracting quip. Roll <b>Diplomacy</b> vs its Will DC."
+          ],
+          "outcomes": null,
+          "note": "Record each affected person, penalty and end time on C9. Place BON MOT there while any effect remains. The target can end its penalty with a one-action concentrated retort or suitable skill action. The penalty also lowers Will and Perception DCs. <b>Concentrate:</b> needs focus.",
+          "results": [
+            "<b>Success:</b> target takes <b>–2 status to Perception and Will</b> for 1 minute. <b>Critical success:</b> –3. <b>Failure:</b> no effect.",
+            "<b>Critical failure:</b> I take –2 to Perception and Will for 1 minute, or until I succeed at another Bon Mot."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Demoralize",
+          "cost": "1 action",
+          "glyph": "1",
+          "before": "A creature I am aware of is within 30 feet, can hear me, and can be affected by fear, emotion and mental effects.",
+          "steps": [
+            "Shout or threaten. Roll <b>Intimidation</b> vs its Will DC. Take <b>–4 circumstance</b> if I use a language it does not understand, or a wordless shout."
+          ],
+          "outcomes": null,
+          "note": "After any result, the target is immune to <b>my</b> Demoralize for <b>10 minutes</b>. Frightened reduces checks and DCs, including attacks, saves and AC; usually decreases by 1 at its turn’s end. <b>Auditory, concentrate:</b> sound and focus.",
+          "results": [
+            "<b>Success:</b> frightened 1. <b>Critical success:</b> frightened 2. <b>Failure:</b> no effect."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<b>Size Up:</b> add +1 circumstance against an asset. These actions have no attack trait, so they do not increase my attack penalty.",
+          "style": "body"
+        }
+      ],
+      "source": "Bon Mot: PF Core 2 p. 228 • SF Core p. 200"
+    },
+    {
+      "id": "P4",
+      "section": "P",
+      "title": "Help an ally succeed",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Aid",
+          "cost": "Usually 1 action to prepare; reaction to help",
+          "glyph": "R",
+          "before": "An ally accepts my help; the GM approves my method.",
+          "steps": [
+            "Name the ally’s upcoming attack roll or skill check and explain how I help. Spend the preparation action.",
+            "When the ally is about to roll, spend my reaction. Roll the skill or attack the GM selected. Typical <b>DC 15</b>; the GM can adjust it."
+          ],
+          "outcomes": [
+            [
+              "Critical success",
+              "Ally gets <b>+2 circumstance</b>; +3 if I am master with the check, +4 if legendary."
+            ],
+            [
+              "Success",
+              "Ally gets <b>+1 circumstance</b>."
+            ],
+            [
+              "Failure",
+              "No bonus."
+            ],
+            [
+              "Critical failure",
+              "Ally takes <b>–1 circumstance</b>."
+            ]
+          ],
+          "note": "The method determines traits and any resource cost. Helping with gunfire may spend a bullet; agree first. Aid normally boosts a roll, not a spell DC or an enemy’s saving throw."
+        },
+        {
+          "type": "action",
+          "title": "No Cause for Alarm",
+          "cost": "3 actions • reduce nearby fear",
+          "glyph": "3",
+          "before": "Frightened creatures within 10 feet can hear and understand me. They must be affected by emotion and mental effects.",
+          "steps": [
+            "Reassure them. Roll <b>Diplomacy</b> once; compare it with each affected creature’s Will DC."
+          ],
+          "outcomes": null,
+          "note": "This includes enemies who qualify. <b>Concentrate:</b> needs focus.",
+          "results": [
+            "<b>Success:</b> reduce frightened by 1. <b>Critical success:</b> reduce it by 2. <b>Failure:</b> no change. Each target is immune to this ability for 1 hour."
+          ]
+        }
+      ],
+      "source": "Core pp. 224, 408–409"
+    },
+    {
+      "id": "P5",
+      "section": "P",
+      "title": "Someone needs help now",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Apply a commercial medpatch",
+          "cost": "1 action if held • 1 more action to draw it",
+          "glyph": "1",
+          "before": "Patch held in one usable hand; target within reach. It must be willing, paralyzed, petrified or unconscious.",
+          "steps": [
+            "Apply the patch to me or the target. No Medicine roll.",
+            "Target regains <b>1d6 HP</b>, up to maximum HP, and gets <b>+1 item</b> to disease and poison saves for <b>10 minutes</b>. Cross off one patch."
+          ],
+          "outcomes": null,
+          "note": "<b>Consumable:</b> used up. <b>Tech:</b> if this patch is glitching, check V3 first. <b>Manipulate:</b> needs usable hands or gestures; can trigger reactions. If grabbed, pass a DC 5 flat check or lose the action."
+        },
+        {
+          "type": "action",
+          "title": "Administer First Aid",
+          "cost": "2 actions • Medicine",
+          "glyph": "2",
+          "before": "Adjacent patient; medkit worn or held. A worn medkit needs one free hand; a held one needs two.",
+          "steps": [],
+          "outcomes": null,
+          "note": "<b>Manipulate:</b> needs usable hands or gestures; can trigger reactions. If grabbed, pass a DC 5 flat check or lose the action.",
+          "choices": [
+            "<b>Stabilize a dying creature at 0 HP:</b> roll Medicine vs <b>15 + dying value</b> (normally). Success removes dying; patient stays unconscious at 0 HP. Critical failure increases dying by 1.",
+            "<b>Stop persistent bleeding:</b> roll Medicine vs the effect’s DC. Success gives assisted recovery with a lower recovery DC. Critical failure deals an immediate tick of bleed damage. Failure changes nothing."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<b>Treat Wounds takes 10 minutes</b> (G5). Battle Medicine requires its own feat. Restoring HP to a dying ally is often the quickest way to help (V4).",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 201, 241, 403–405"
+    },
+    {
+      "id": "B1",
+      "section": "B",
+      "title": "Shoot and reload",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Semi-auto pistol: Strike",
+          "cost": "1 action • 1 bullet",
+          "glyph": "1",
+          "before": "Loaded pistol in one hand; target in range.",
+          "steps": [
+            "Use my sheet’s attack modifier, then the penalties below.",
+            "Roll <b>d20 + modifier</b> vs AC. Hit: use my sheet’s damage. Critical hit: double it, including bonuses.",
+            "Move 1 bullet <b>LOADED → SPENT</b> (C3), hit or miss. Advance NEXT ATTACK (C8)."
+          ],
+          "outcomes": null,
+          "note": "<b>Analog:</b> immune to tech-targeting effects. Shots can trigger reactions."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Attack this turn",
+              "First",
+              "Second",
+              "Third+"
+            ],
+            [
+              "Penalty",
+              "0",
+              "–5",
+              "–10"
+            ]
+          ],
+          "widths": [
+            1.5,
+            1,
+            1,
+            1
+          ],
+          "compact": true
+        },
+        {
+          "type": "text",
+          "text": "<b>Three attack modifiers listed?</b> Use the matching one; its penalty is included. <b>Get ’Em!:</b> +1 status against its target."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Distance to target",
+              "Penalty"
+            ],
+            [
+              "Up to 60 feet",
+              "0"
+            ],
+            [
+              "Over 60, up to 120 feet",
+              "–2"
+            ],
+            [
+              "Over 120, up to 180 feet",
+              "–4"
+            ],
+            [
+              "Over 180, up to 240 feet",
+              "–6"
+            ],
+            [
+              "Over 240, up to 300 feet",
+              "–8"
+            ],
+            [
+              "Over 300, up to 360 feet",
+              "–10"
+            ]
+          ],
+          "widths": [
+            2,
+            1
+          ],
+          "compact": true
+        },
+        {
+          "type": "action",
+          "title": "Reload the pistol",
+          "cost": "1 action • up to 10 bullets loaded",
+          "glyph": "1",
+          "before": "A free hand and ammunition available.",
+          "steps": [
+            "Return tokens to empty LOADED spaces (C3); subtract that many bullets from my reserve."
+          ],
+          "outcomes": null,
+          "note": "<b>Manipulate:</b> can trigger reactions; grabbed requires flat DC 5 or I lose the action."
+        }
+      ],
+      "source": "Core pp. 253–255, 265 • See C3 for tracker"
+    },
+    {
+      "id": "B2",
+      "section": "B",
+      "title": "Use the neural lash",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Neural lash: Strike",
+          "cost": "1 action",
+          "steps": [
+            "Choose <b>mental</b> or <b>slashing</b> damage. For objects or mindless creatures, choose slashing.",
+            "Choose <b>nonlethal</b> (knock out a living foe at 0 HP) or <b>lethal</b>. Both use the same attack bonus.",
+            "Use the lash’s <b>attack modifier on my sheet</b>. Apply my attack penalty (B1) once. With Get ’Em!, add +1.",
+            "Hit: roll my sheet’s lash damage, using the chosen damage type. Critical hit: double damage and normal bonuses. Advance NEXT ATTACK (C8), hit or miss."
+          ],
+          "glyph": "1",
+          "before": "Lash held in one hand; target within <b>5 feet</b>."
+        },
+        {
+          "type": "text",
+          "text": "<b>Thought — GM ruling:</b> Ponder Unity counts as telepathy. I can ignore <b>unwieldy</b>: repeated lash attacks and a readied lash attack are allowed. I can also ignore <b>nonlethal</b> to deal lethal damage without a penalty."
+        },
+        {
+          "type": "text",
+          "text": "<b>Versatile S:</b> slashing is an option each attack. <b>Analog:</b> immune to effects specifically targeting technology. All my attacks share the same attack count."
+        },
+        {
+          "type": "head",
+          "text": "Make a hand available"
+        },
+        {
+          "type": "action",
+          "title": "Release",
+          "cost": "Free action",
+          "steps": [
+            "Let go of an item or release one hand from a two-handed item. A dropped item stays on the ground."
+          ],
+          "glyph": "F",
+          "before": null,
+          "note": "Manipulate: grabbed requires flat DC 5. Release does not trigger manipulate reactions."
+        },
+        {
+          "type": "text",
+          "text": "<b>Interact — 1 action:</b> draw, pick up or put away an item; swap a held item for another; or add a hand to my grip. Needs a usable hand; can trigger reactions; grabbed requires flat DC 5."
+        }
+      ],
+      "source": "Core pp. 235, 257–258, 264 • Fonqugon vault rules"
+    },
+    {
+      "id": "B3",
+      "section": "B",
+      "title": "Move or take cover",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Stride or Step",
+          "cost": "1 action each",
+          "glyph": "1",
+          "before": null,
+          "steps": [],
+          "outcomes": null,
+          "note": "<b>Move:</b> Stride can trigger movement reactions; Step avoids them. Diagonal squares cost 5 feet, then 10 feet, alternating through my turn.",
+          "choices": [
+            "<b>Stride:</b> move up to my <b>Speed on my sheet</b>. Ordinary difficult terrain costs 10 feet per square; greater difficult terrain costs 15 feet.",
+            "<b>Step:</b> move <b>5 feet</b> without triggering movement reactions. Needs Speed 10+; cannot enter difficult terrain or use my climb Speed."
+          ]
+        },
+        {
+          "type": "diagram",
+          "name": "cover"
+        },
+        {
+          "type": "action",
+          "title": "Take Cover",
+          "cost": "1 action",
+          "glyph": "1",
+          "before": "I have cover, a suitable nearby feature, or I am prone.",
+          "steps": [
+            "With standard cover, improve to <b>greater cover: +4</b>. Otherwise gain <b>standard cover: +2</b>.",
+            "Add this circumstance bonus to AC, Reflex saves against areas, and Stealth to avoid detection."
+          ],
+          "outcomes": null,
+          "note": "Ends if I move, attack, fall unconscious or end it for free. A creature between us usually gives <b>lesser cover: +1 AC only</b>. The GM decides whether I can improve it."
+        }
+      ],
+      "source": "Core pp. 410, 413–416"
+    },
+    {
+      "id": "B4",
+      "section": "B",
+      "title": "Create a distraction",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Create a Diversion",
+          "cost": "1 action",
+          "glyph": "1",
+          "before": "Choose creatures who can notice the distraction and are not immune to mental effects.",
+          "steps": [
+            "Use words, a gesture or a trick. Roll <b>Deception</b> once vs each target’s Perception DC."
+          ],
+          "outcomes": null,
+          "note": "Failure: no distraction; the target knows I tried. All targets get <b>+4 circumstance to their Perception DC</b> against my diversions for 1 minute, whatever the result.",
+          "results": [
+            "Success: I become <b>hidden</b> from that creature until my turn ends, unless I reveal myself first.",
+            "While hidden this way, I can Step, Hide or Sneak. A Strike gets the benefit of hidden for that one attack, then reveals me. Other actions normally reveal me <b>before</b> I act."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Digital Diversion",
+          "cost": "1 action • a different way to Create a Diversion",
+          "glyph": "1",
+          "before": "I am adjacent to the target. It carries, wears or wields a tech item. My hacking toolkit is worn or held, and I have a free hand.",
+          "steps": [
+            "Cause a ping or warning on the target’s equipment.",
+            "Use <b>Computers</b> instead of Deception. Resolve the same diversion results and 1-minute repeat penalty above."
+          ],
+          "outcomes": null,
+          "note": "My toolkit must be accessible. Use the same mental and manipulate restrictions below."
+        },
+        {
+          "type": "text",
+          "text": "<b>Trait checks:</b> words need hearing and a shared language. A gesture or trick has <b>manipulate</b>: usable hands; may trigger reactions; grabbed requires a DC 5 flat check. Mental effects do not affect mindless creatures.",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 198, 218 • Digital Diversion requirements verified online"
+    },
+    {
+      "id": "B5",
+      "section": "B",
+      "title": "Hide and sneak",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Hide",
+          "cost": "1 action • secret Stealth check",
+          "glyph": "1",
+          "before": "I have standard/greater cover, or concealment, from each creature I try to hide from.",
+          "steps": [
+            "The GM compares my Stealth result with observers’ Perception DCs. Add cover’s circumstance bonus when it helps me hide."
+          ],
+          "outcomes": null,
+          "note": "Leaving cover/concealment reveals me. Hidden normally ends before an action other than Hide, Sneak or Step; one Strike benefits first, then reveals me.",
+          "results": [
+            "Success: hidden from that observer. It knows my space but must pass a <b>DC 11 flat check</b> to target me. It is off-guard to me. Failure: still observed."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Sneak",
+          "cost": "1 action • move + secret Stealth check",
+          "glyph": "1",
+          "before": "I am hidden or undetected from the creatures I want to evade.",
+          "steps": [
+            "Move up to <b>half my Speed</b>. Finish with cover or concealment unless the GM allows another method."
+          ],
+          "outcomes": null,
+          "note": "<b>Move:</b> can trigger movement reactions. Step is the exception. If plainly visible at the end, I am observed. Sneak can also work while unseen and already undetected.",
+          "results": [
+            "Success: undetected. Failure: hidden, but they know my new space. Critical failure: observed."
+          ]
+        }
+      ],
+      "source": "Core pp. 198–199, 207, 425–426"
+    },
+    {
+      "id": "B6",
+      "section": "B",
+      "title": "Get free or change position",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Grabbed / restrained:</b> off-guard and unable to move. Grabbed: manipulate needs flat DC 5. Restrained: no attack/manipulate actions except Escape or Force Open the bonds."
+        },
+        {
+          "type": "action",
+          "title": "Escape",
+          "cost": "1 action • counts as an attack",
+          "glyph": "1",
+          "before": "Grabbed, restrained or otherwise immobilized.",
+          "steps": [
+            "Roll <b>Acrobatics, Athletics or unarmed attack</b> vs the Escape DC. Apply my attack penalty."
+          ],
+          "outcomes": null,
+          "note": "Advance NEXT ATTACK (C8). No manipulate flat check.",
+          "results": [
+            "Success: free. Critical success: also Stride 5 feet. Failure: still caught. Critical failure: no more Escape attempts until my next turn."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Drop Prone / Stand / Crawl",
+          "cost": "1 action each",
+          "glyph": "1",
+          "before": null,
+          "steps": [],
+          "outcomes": null,
+          "note": "These move actions can trigger movement reactions.",
+          "choices": [
+            "<b>Drop Prone:</b> off-guard; –2 circumstance to attacks. Take Cover gives +4 AC vs ranged attacks; off-guard still applies.",
+            "<b>Stand:</b> end prone. <b>Crawl:</b> move 5 feet while prone; needs Speed 10+."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Leap",
+          "cost": "1 action",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Jump <b>10 feet across</b> with Speed 15–25, or <b>15 feet</b> with Speed 30+. Include the landing space. Or jump <b>3 feet up, 5 feet across</b>. No roll."
+          ],
+          "outcomes": null,
+          "note": "Move: can trigger reactions. Longer jumps need Athletics."
+        },
+        {
+          "type": "action",
+          "title": "Avert Gaze",
+          "cost": "1 action",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Until my next turn: <b>+2 circumstance</b> to saves against visual abilities that require looking at them."
+          ],
+          "outcomes": null,
+          "note": null
+        }
+      ],
+      "source": "Core pp. 408–411, 439 • Oozy climbing: G4"
+    },
+    {
+      "id": "B7",
+      "section": "B",
+      "title": "Create an opening",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Feint",
+          "cost": "1 action • Deception vs Perception DC",
+          "glyph": "1",
+          "before": "An enemy is within my melee reach and can be affected by mental effects.",
+          "steps": [
+            "Mislead the enemy. Roll <b>Deception</b> vs its Perception DC."
+          ],
+          "outcomes": null,
+          "note": "Feint leaves my attack count unchanged. Its benefit applies to melee attacks, including the lash.",
+          "results": [
+            "<b>Success:</b> off-guard to my next melee attack this turn. <b>Critical success:</b> to all my melee attacks through my next turn.",
+            "<b>Failure:</b> no change. <b>Critical failure:</b> I am off-guard to its melee attacks through my next turn."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Tumble Through",
+          "cost": "1 action • Acrobatics vs Reflex DC",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Stride up to my Speed. To move through one enemy’s space, roll Acrobatics against its Reflex DC."
+          ],
+          "outcomes": null,
+          "note": "Move: can trigger reactions.",
+          "results": [
+            "Success: pass through. Its space is difficult terrain. I need enough movement to get all the way through.",
+            "Failure, or too little movement: stop before entering its space. I trigger reactions as though I moved out of my starting square."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Point Out",
+          "cost": "1 action",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Show an ally the space of a creature I can see but they cannot locate. If the ally can see my signal and detect the creature, it becomes hidden to them."
+          ],
+          "outcomes": null,
+          "note": "Auditory, visual, manipulate. If the ally cannot hear/understand me, it needs Perception vs the creature’s Stealth DC. Can trigger reactions; grabbed requires flat DC 5."
+        }
+      ],
+      "source": "Core pp. 192, 198–199, 411"
+    },
+    {
+      "id": "G1",
+      "section": "G",
+      "title": "What am I doing while we travel?",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Choose <b>one exploration activity</b>. Tell the GM my choice and what I am holding. Change activities when needed.",
+          "style": "body"
+        },
+        {
+          "type": "action",
+          "title": "Scout",
+          "cost": "Travel at half speed",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Watch for danger ahead and behind. When an encounter starts, the whole party gains <b>+1 circumstance to initiative</b>."
+          ],
+          "outcomes": null,
+          "note": "Concentrate: needs focus. Use the highest circumstance bonus on the roll."
+        },
+        {
+          "type": "action",
+          "title": "Search",
+          "cost": "Travel at half speed or slower",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Name what area I am checking for hazards, hidden items or doors. The GM makes secret Perception checks when appropriate. Slow down or stop for a thorough search."
+          ],
+          "outcomes": null,
+          "note": "Concentrate. To check everything before walking into it, travel no faster than 150 feet per minute. Busy areas need longer."
+        },
+        {
+          "type": "action",
+          "title": "Investigate",
+          "cost": "Travel at half speed",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Study visible clues. Choose a relevant knowledge skill; the GM makes secret Recall Knowledge checks as we travel."
+          ],
+          "outcomes": null,
+          "note": "Concentrate. Use Search to find hidden things; use Investigate to interpret clues."
+        },
+        {
+          "type": "action",
+          "title": "Avoid Notice",
+          "cost": "Travel at half speed",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Use available cover and move quietly. The GM uses my <b>Stealth modifier from my sheet</b>; it usually also becomes my initiative roll if a fight starts."
+          ],
+          "outcomes": null,
+          "note": "The GM compares Stealth with enemy Perception DCs to determine who notices me."
+        }
+      ],
+      "source": "Core pp. 430–432 • campaign pressure suit"
+    },
+    {
+      "id": "G2",
+      "section": "G",
+      "title": "Notice things and understand them",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Recall Knowledge",
+          "cost": "1 action • secret check",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Ask one question and suggest a relevant skill. I can discuss the skill and question before committing."
+          ],
+          "outcomes": null,
+          "note": "Concentrate: needs focus. <b>Digital Assessment!</b> adds benefits against creatures (P2).",
+          "results": [
+            "Success: accurate answer. Critical success: extra information or one follow-up answer. Failure: no answer. Critical failure: potentially false information."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Seek",
+          "cost": "1 action • secret Perception",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Choose an area to examine, normally no more than 30 feet in any direction. The GM sets the area and DC."
+          ],
+          "outcomes": null,
+          "note": "Concentrate. Failure reveals nothing new. Low-light vision ignores concealment caused only by dim light.",
+          "results": [
+            "Success: find objects/clues; an undetected creature becomes hidden, a hidden creature observed. Critical success: a hidden or undetected creature becomes observed, if my senses allow."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Sense Motive",
+          "cost": "1 action • secret Perception",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Choose a creature. The GM rolls vs its Deception DC or another relevant DC. Success gives a general read; critical success reveals its intentions. Failure can mislead me; critical failure gives a false read."
+          ],
+          "outcomes": null,
+          "note": "Concentrate. I cannot usually repeat this on the same creature until something changes."
+        },
+        {
+          "type": "text",
+          "text": "<b>Other trained knowledge tasks:</b> I can ask to Identify Magic or Decipher Writing with Arcana or Religion. The GM sets the time and DC; failure consequences depend on the task.",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 190–191, 409, 411"
+    },
+    {
+      "id": "G3",
+      "section": "G",
+      "title": "Use a computer",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Access Infosphere",
+          "cost": "Usually 10 minutes • secret Computers",
+          "glyph": null,
+          "before": "Device with access to a local infosphere.",
+          "steps": [
+            "Name the topic and search the network. Resolve it like Recall Knowledge: accurate information on success; extra on a critical success; none on failure; possibly false information on a critical failure."
+          ],
+          "outcomes": null,
+          "note": "Exploration, concentrate. No local connection means I need another way to get the information."
+        },
+        {
+          "type": "action",
+          "title": "Hack",
+          "cost": "Exploration • Computers",
+          "glyph": null,
+          "before": "My hacking toolkit and access to an active secured system.",
+          "steps": [
+            "Ask the GM how long this attempt takes and how many successes the system needs. Roll Computers."
+          ],
+          "outcomes": null,
+          "note": null,
+          "results": [
+            "Success: one success toward access. Critical success: two, and no trace. Failure: no progress, possibly security response. Critical failure: security activates or I am locked out for an hour."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Disable a computerized device",
+          "cost": "Usually 2 actions • Computers",
+          "glyph": "2",
+          "before": "Computerized mechanism; GM confirms access, tools and the number of successes required.",
+          "steps": [
+            "Roll <b>Computers</b> vs the device’s DC."
+          ],
+          "outcomes": null,
+          "note": "<b>Manipulate:</b> needs usable hands or gestures; can trigger reactions. If grabbed, pass a DC 5 flat check or lose the action.",
+          "results": [
+            "<b>Success:</b> one success toward disabling. <b>Critical success:</b> two; leave no trace and can rearm if possible.",
+            "<b>Failure:</b> no progress. <b>Critical failure:</b> trigger the device."
+          ]
+        }
+      ],
+      "source": "Core pp. 195–196, 209 • campaign toolkit availability"
+    },
+    {
+      "id": "G4",
+      "section": "G",
+      "title": "Climb, squeeze or catch a fall",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Climb with Oozy",
+          "cost": "1 action • use my climb Speed",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Use my climb Speed on a wall, smooth surface or ceiling. Normally <b>no roll</b>, and I am not off-guard from climbing."
+          ],
+          "outcomes": null,
+          "note": "Move: can trigger reactions. Hazardous conditions can require Athletics. My climb Speed gives +4 circumstance to that check. Ask the GM which hands must be free for this surface."
+        },
+        {
+          "type": "action",
+          "title": "Squeeze through a narrow gap",
+          "cost": "Exploration • trained Acrobatics",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Gap at least <b>2 feet</b>? Oozy lets me move through without Squeezing. At least <b>1 foot</b>? I can Squeeze if my brains fit.",
+            "Roll Acrobatics vs the GM’s DC. Success: 5 feet per minute; critical success: 10 feet. Failure: no progress. Critical failure: I become stuck.",
+            "If stuck, spend 1 minute and roll Acrobatics against the same DC. Any result except critical failure gets me unstuck."
+          ],
+          "outcomes": null,
+          "note": "Move: can trigger reactions. This takes minutes."
+        },
+        {
+          "type": "action",
+          "title": "Grab an Edge",
+          "cost": "Reaction when falling past a handhold",
+          "glyph": "R",
+          "before": null,
+          "steps": [
+            "Roll Reflex or Acrobatics, usually vs the Climb DC. My hands cannot be bound behind me or otherwise restrained."
+          ],
+          "outcomes": null,
+          "note": "Manipulate: can trigger reactions; grabbed requires flat DC 5. Tell the GM how far I fell before catching the edge.",
+          "results": [
+            "Success: catch it if a hand is free; treat the fall so far as 20 feet shorter. Critical success: catch it even without a free hand; treat the fall as 30 feet shorter.",
+            "Failure: keep falling. Critical failure after falling 20+ feet: also take 10 bludgeoning damage per 20 feet already fallen."
+          ]
+        }
+      ],
+      "source": "Fonqugon vault • Core pp. 192–193, 411–412"
+    },
+    {
+      "id": "G5",
+      "section": "G",
+      "title": "Recover between dangers",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Treat Wounds",
+          "cost": "10 minutes • Medicine",
+          "glyph": null,
+          "before": "Trained or better in Medicine; injured living target; medkit worn/held; target is not immune to Treat Wounds.",
+          "steps": [
+            "Use a worn medkit with one free hand, or hold it in two hands. Spend 10 minutes and roll Medicine vs <b>DC 15</b>."
+          ],
+          "outcomes": null,
+          "note": "The target is immune until <b>1 hour after treatment began</b>. On success, continuing for a full hour doubles healing. Exploration, healing, manipulate: needs time and usable hands.",
+          "results": [
+            "Success: heal <b>2d8 HP</b> and remove wounded. Critical success: <b>4d8 HP</b> and remove wounded. Failure: nothing. Critical failure: deal <b>1d8 damage</b>."
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Optional higher DC",
+              "Extra HP on success / critical success"
+            ],
+            [
+              "Expert: DC 20",
+              "+10"
+            ],
+            [
+              "Master: DC 30",
+              "+30"
+            ],
+            [
+              "Legendary: DC 40",
+              "+50"
+            ]
+          ],
+          "widths": [
+            1.3,
+            2
+          ],
+          "compact": true
+        },
+        {
+          "type": "text",
+          "text": "Choose the DC before rolling. A higher rank can still use a lower DC."
+        },
+        {
+          "type": "action",
+          "title": "Treat Poison",
+          "cost": "1 action • Medicine",
+          "glyph": "1",
+          "before": "Poisoned patient; medkit worn/held and the required free hands.",
+          "steps": [
+            "Roll vs the poison’s DC. Success grants <b>+2 circumstance</b> to the patient’s next poison save; critical success grants +4. Failure does nothing; critical failure gives –2."
+          ],
+          "outcomes": null,
+          "note": "Wait until the patient’s next poison save before using this on them again. <b>Manipulate:</b> needs hands; may trigger reactions; grabbed requires flat DC 5."
+        }
+      ],
+      "source": "Core pp. 201–202, 431"
+    },
+    {
+      "id": "G6",
+      "section": "G",
+      "title": "Check gear and follow a guide",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Analyze Environment",
+          "cost": "Travel at half speed; armor with environmental protection",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Read my suit’s sensors. Automatically detect environmental hazards my armor protects against and their severity."
+          ],
+          "outcomes": null,
+          "note": "Concentrate: needs focus. The suit reports hazards covered by its environmental protection (C1)."
+        },
+        {
+          "type": "action",
+          "title": "Repair an item",
+          "cost": "10 minutes • Crafting",
+          "glyph": null,
+          "before": "Repair toolkit, two hands and a stable surface; item is not destroyed.",
+          "steps": [
+            "Roll Crafting vs the repair DC. Use my Crafting rank in the table below for HP restored. Failure: no repair. Critical failure: 2d6 damage to the item, reduced by Hardness."
+          ],
+          "outcomes": null,
+          "note": "Exploration, manipulate. Repairing item HP does not automatically clear glitching; ask Tarn about Troubleshoot."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Crafting rank",
+              "Success: HP",
+              "Critical: HP"
+            ],
+            [
+              "Untrained",
+              "5",
+              "10"
+            ],
+            [
+              "Trained",
+              "10",
+              "20"
+            ],
+            [
+              "Expert",
+              "15",
+              "30"
+            ],
+            [
+              "Master",
+              "20",
+              "40"
+            ],
+            [
+              "Legendary",
+              "25",
+              "50"
+            ]
+          ],
+          "widths": [
+            1.4,
+            1,
+            1
+          ],
+          "compact": true
+        },
+        {
+          "type": "action",
+          "title": "Follow the Expert",
+          "cost": "While exploring",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Choose a willing ally who is expert or better at the repeated skill task. Match their activity. Add <b>+2 circumstance</b> for an expert, +3 for a master, +4 for legendary. If untrained, also add my level as proficiency."
+          ],
+          "outcomes": null,
+          "note": "Auditory, visual, concentrate: I must be able to follow the ally’s guidance."
+        }
+      ],
+      "source": "Core pp. 196, 431–432"
+    },
+    {
+      "id": "Y1",
+      "section": "Y",
+      "title": "Size Up someone important",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Size Up",
+          "cost": "Once per hour • exploration",
+          "steps": [
+            "Choose a method: <b>observe 1 minute</b>, <b>research online 10 minutes</b>, or <b>network 1 hour</b>. Research and networking need two identifying facts approved by the GM.",
+            "After that time, write the person below and place a SIZED UP token. My asset limit equals my <b>Charisma modifier</b>. At that limit, a new asset replaces one I choose."
+          ],
+          "glyph": null,
+          "before": null,
+          "note": "Concentrate: needs focus. Size Up itself requires no check. Mark when I can start it again."
+        },
+        {
+          "type": "text",
+          "text": "<b>Against or about an asset:</b> +1 circumstance to Deception, Diplomacy, Intimidation, Perception and Recall Knowledge. Lead by Example costs <b>1 action total</b>; follow P1’s full procedure."
+        },
+        {
+          "type": "diagram",
+          "name": "assets"
+        },
+        {
+          "type": "text",
+          "text": "<b>Next Size Up available at:</b> __________________"
+        },
+        {
+          "type": "text",
+          "text": "Keep each token here while that person is an asset. Park unused SIZED UP tokens on C9."
+        },
+        {
+          "type": "text",
+          "text": "<b>Additional assets:</b> ______________________________<br/>________________________________________________<br/>Use these lines if I have more assets than tokens."
+        }
+      ],
+      "source": "Core p. 108"
+    },
+    {
+      "id": "Y2",
+      "section": "Y",
+      "title": "Persuade people",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Make an Impression",
+          "cost": "At least 1 minute • Diplomacy",
+          "glyph": null,
+          "before": "The people can hear and understand me and are affected by mental effects.",
+          "steps": [
+            "Talk with them. <b>Group Impression</b> removes the group penalty for up to <b>10 people</b> if trained in Diplomacy; <b>20</b> if expert; <b>50</b> if master; <b>100</b> if legendary.",
+            "Roll once and compare with each target’s Will DC. Success improves attitude by <b>1 step</b>; critical success by <b>2</b>. Failure changes nothing; critical failure worsens it by 1."
+          ],
+          "outcomes": null,
+          "note": "Auditory, linguistic, mental, concentrate, exploration. Better attitude usually lasts for this interaction. Ask for favors with Request below."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Worse",
+              "Hostile → Unfriendly → Indifferent"
+            ],
+            [
+              "Better",
+              "Friendly → Helpful"
+            ]
+          ],
+          "widths": [
+            0.7,
+            3
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Request",
+          "cost": "1 action • Diplomacy",
+          "glyph": "1",
+          "before": "Target is friendly or helpful. It can hear and understand me.",
+          "steps": [
+            "Ask for something it could reasonably accept. The GM sets the DC or may agree without a roll for a simple request."
+          ],
+          "outcomes": null,
+          "note": "Auditory, linguistic, mental, concentrate. Some requests are impossible regardless of the roll. Diplomacy does not control another player’s character.",
+          "results": [
+            "Critical success: agrees without extra conditions. Success: agrees, possibly with conditions. Failure: refuses but may offer a safer or smaller alternative. Critical failure: refuses and becomes 1 step less friendly."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<b>My asset?</b> Add <b>+1 circumstance</b> from Size Up (Y1).",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 199–200, 221"
+    },
+    {
+      "id": "Y3",
+      "section": "Y",
+      "title": "Find information or use deception",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Gather Information + Hobnobber",
+          "cost": "Usually 1 hour • secret Diplomacy",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Name the person or topic and talk to people who might know. Hobnobber halves the normal time. Success finds information; failure finds nothing useful; critical failure can produce bad information."
+          ],
+          "outcomes": null,
+          "note": "Exploration, secret. At master Diplomacy or better, a critical failure becomes a failure. A rumor can still be false even when I successfully discover it."
+        },
+        {
+          "type": "action",
+          "title": "Lie",
+          "cost": "Usually 1 round or longer • secret Deception",
+          "glyph": null,
+          "before": "Targets can hear and understand my story.",
+          "steps": [
+            "Tell the story. The GM compares one roll to listeners’ Perception DCs. Success: they believe it for now. Failure: they disbelieve it and gain +4 circumstance against my further lies during this conversation."
+          ],
+          "outcomes": null,
+          "note": "Auditory, linguistic, mental, concentrate. Evidence can expose a successful lie. Implausible lies can be impossible."
+        },
+        {
+          "type": "action",
+          "title": "Coerce",
+          "cost": "Usually at least 1 minute • Intimidation",
+          "glyph": null,
+          "before": "Target can hear/understand me and is affected by fear, emotion and mental effects.",
+          "steps": [
+            "State the threat and demand. Roll vs Will DC. Success: complies for up to <b>1 day</b> without obviously exposing itself to harm; it becomes unfriendly or hostile afterward."
+          ],
+          "outcomes": null,
+          "note": "Auditory, linguistic, mental, emotion, fear, concentrate, exploration. This can damage a relationship.",
+          "results": [
+            "Critical success: same, but it is too scared to retaliate in the short term. Failure: refuses, becomes less friendly. Critical failure: refuses, becomes hostile, and is immune to my Coercion for at least a week."
+          ]
+        }
+      ],
+      "source": "Core pp. 198–200, 222"
+    },
+    {
+      "id": "Y4",
+      "section": "Y",
+      "title": "Bargains, languages and downtime",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Bargain Hunter: Earn Income",
+          "cost": "Downtime • Diplomacy",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Ask the GM what trading work is available and how many days I can spend.",
+            "Roll Diplomacy against the task DC. The GM uses the Earn Income table to tell me the credits per day.",
+            "Choose <b>cash income</b>, or use the same earnings as a <b>discount on one item</b>. Mark the total and the days spent."
+          ],
+          "outcomes": null,
+          "note": "Critical success uses the next-higher task level’s earnings. Failure gives reduced earnings; critical failure gives none and can cost the job."
+        },
+        {
+          "type": "text",
+          "text": "<b>Character creation:</b> Bargain Hunter adds 20 starting credits when selected then.",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Emissary and Multilingual"
+        },
+        {
+          "type": "text",
+          "text": "Background benefits are on my sheet. <b>Multilingual grants two languages</b>: common languages or others I have access to. Keep my language list on my sheet.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "Check the listener understands my language. A comm unit does not extend an ability’s listed range.",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Other downtime options"
+        },
+        {
+          "type": "text",
+          "text": "<b>Earn Income:</b> a trained Lore or Performance may also fit a job. <b>Subsist:</b> use Society in a settlement or Survival in the wild to seek food and shelter; the GM sets time, DC and results.",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 186–187, 191, 216, 224 • Emissary / sheet"
+    },
+    {
+      "id": "C1",
+      "section": "C",
+      "title": "My FED equipment",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "M-Series pressure suit",
+          "cost": "Interact to activate or deactivate",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Activate protection for <b>1 day</b>. Recharge for <b>10 minutes</b> at a suitable ship or station."
+          ],
+          "outcomes": null,
+          "note": "Protects against vacuum, thin/thick air and non-hazardous liquid. Inhaled poisons require separate protection. Tech: V3. Manipulate: can trigger reactions; grabbed requires flat DC 5."
+        },
+        {
+          "type": "text",
+          "text": "<b>M-Series / Estex:</b> Strength threshold <b>+1</b>. If my STR is below this, apply <b>–1 to Stealth, Thievery and Piloting</b>. <b>Flexible:</b> Acrobatics/Athletics avoid this penalty. <b>Comfort:</b> sleep normally. This suit has no Speed penalty.",
+          "style": "body"
+        },
+        {
+          "type": "action",
+          "title": "NS-1 null-space module",
+          "cost": "1 Interact to store or retrieve an item",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Open access and move the item. Stored gear gives no benefits and adds no carried Bulk. Capacity: <b>8 Bulk</b>."
+          ],
+          "outcomes": null,
+          "note": "Tech, manipulate: needs a hand; can trigger reactions; grabbed needs flat DC 5. <b>Extradimensional:</b> stops working inside another extradimensional space. Air: C4."
+        },
+        {
+          "type": "action",
+          "title": "FED-12 survey carbine",
+          "cost": "Strike 1 action • Reload 1 action",
+          "glyph": "1",
+          "before": "Held in two hands; charged; SDI interlock permits the target.",
+          "steps": [
+            "Use the carbine’s <b>attack modifier and damage on my sheet</b>. Apply my attack penalty (B1). Range increment: <b>100 feet</b>. Spend <b>2 charges</b> per shot; a full 10-charge battery gives <b>5 shots</b>."
+          ],
+          "outcomes": null,
+          "note": "Charge tracker: <b>C10</b>; tokens/battery log: <b>C11</b>. Tech: V3. Shots may trigger reactions. Reload includes grip changes; manipulate, free hand, grabbed needs flat DC 5."
+        },
+        {
+          "type": "text",
+          "text": "<b>Don or doff armor:</b> 10 minutes each. Update my sheet.",
+          "style": "body"
+        }
+      ],
+      "source": "FED cards • Estex suit: Core pp. 245, 248 • campaign timing"
+    },
+    {
+      "id": "C2",
+      "section": "C",
+      "title": "Tools and crew equipment",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "FED comm unit",
+          "cost": "Voice communication; Interact for device tasks",
+          "glyph": "1",
+          "before": null,
+          "steps": [
+            "Use suit voice comms hands-free at planetary range. Hold the personal device to type or use apps. Check that the receiver is on the channel."
+          ],
+          "outcomes": null,
+          "note": "Tech. In-character table talk is free within the GM’s time limit. Mechanical social actions still cost their listed actions. Physical device use is manipulate."
+        },
+        {
+          "type": "action",
+          "title": "Bypass an SDI-68 interlock",
+          "cost": "10 minutes • Computers or Crafting",
+          "steps": [
+            "Roll <b>Computers</b> or <b>Crafting</b> vs <b>DC 17</b>."
+          ],
+          "note": "An active lock blocks attacks against authenticated Erbium personnel before actions are spent. Damaged, missing, disabled or spoofed credentials can defeat recognition. A service terminal can detect tampering and restore the lock. Tech; GM confirms access requirements.",
+          "before": "10 minutes and access to the interlock.",
+          "results": [
+            "<b>Success:</b> bypass the lock. <b>Critical failure:</b> weapon becomes glitching 1."
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "<b>PES-DR4 / Ghost Box</b>",
+              "Personal recorder. Logs duty/mission data offline and uploads when relay coverage returns."
+            ],
+            [
+              "<b>Survival roll</b>",
+              "Shelter, bedding and 7 days of rations. Kit Bulk includes its contents."
+            ],
+            [
+              "<b>Sample claim kit</b>",
+              "Six canisters. <b>Seal Sample: 1 action</b> with an accessible sample; a paired Ghost Box logs it. GM sets Bulk."
+            ],
+            [
+              "<b>Shared crew tools</b>",
+              "Find the medkit, repair toolkit and cable. My autograppler has no cable."
+            ],
+            [
+              "<b>Assay wand / beacon</b>",
+              "Wand: 1-minute mineral scan, +1 circumstance to relevant mineral checks. Beacon: activate for a rescue signal; its location can be traced."
+            ]
+          ],
+          "widths": [
+            1,
+            2.15
+          ],
+          "compact": true
+        }
+      ],
+      "source": "FED equipment cards • Full gear details remain on item cards"
+    },
+    {
+      "id": "C3",
+      "section": "C",
+      "title": "Track pistol ammunition",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Set up:</b> one LOADED token per bullet in my pistol; remaining tokens go in SPENT."
+        },
+        {
+          "type": "diagram",
+          "name": "magazine"
+        },
+        {
+          "type": "text",
+          "text": "<b>Reserve ammunition:</b> __________ bullets"
+        },
+        {
+          "type": "action",
+          "title": "Fire",
+          "cost": "Move 1 token per pistol shot",
+          "steps": [
+            "Move 1 token <b>LOADED → SPENT</b>, hit or miss. Include shots within other abilities."
+          ],
+          "glyph": null,
+          "before": null,
+          "note": null
+        },
+        {
+          "type": "action",
+          "title": "Reload",
+          "cost": "1 action • free hand + reserve ammunition",
+          "steps": [
+            "Return SPENT tokens to empty LOADED circles, up to 10 loaded or my available reserve. Subtract that many from reserve."
+          ],
+          "glyph": "1",
+          "before": null,
+          "note": "Reuse tokens each reload. Manipulate: may trigger reactions; grabbed needs flat DC 5. Keep counts between sessions."
+        }
+      ],
+      "source": "Core pp. 254–255, 265 • Session 2 transcript"
+    },
+    {
+      "id": "C4",
+      "section": "C",
+      "title": "Track stored air",
+      "blocks": [
+        {
+          "type": "diagram",
+          "name": "air"
+        },
+        {
+          "type": "text",
+          "text": "Circle one digit in each row with pencil or erasable pen. Read them together: <b>2 then 3 = 23 minutes</b>. Update when air is used, lost or replenished."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Air volume",
+              "Breathing time"
+            ],
+            [
+              "<b>1 light Bulk</b>",
+              "<b>1 minute</b>"
+            ],
+            [
+              "<b>1 Bulk (10 light)</b>",
+              "<b>10 minutes</b>"
+            ]
+          ],
+          "widths": [
+            1,
+            1
+          ],
+          "header": true
+        },
+        {
+          "type": "action",
+          "title": "Use or lose air",
+          "cost": "Track the amount in whole minutes",
+          "steps": [
+            "Subtract the number of minutes I spend breathing from this supply.",
+            "If air escapes when I open the chamber, subtract the loss the GM gives me in minutes."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "Replenish the supply",
+          "cost": "Access to breathable air",
+          "steps": [
+            "Confirm the amount replenished with the GM. Update the tracker to the new total."
+          ],
+          "note": "Stored equipment reduces the room available for air. Use C5 to calculate the chamber’s remaining capacity."
+        },
+        {
+          "type": "text",
+          "text": "<b>Current refill capacity:</b> __________ minutes"
+        }
+      ],
+      "source": "Campaign null-space air accounting • module capacity: C5"
+    },
+    {
+      "id": "C5",
+      "section": "C",
+      "title": "Keep track of Bulk",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Update my inventory",
+          "cost": "When equipment changes",
+          "steps": [
+            "Record the item and quantity on my sheet. Mark whether I carry it, store it in the null chamber, or leave it with someone else.",
+            "Use the item’s listed Bulk. For armor, check whether it is worn or carried.",
+            "Count gear I carry. Gear in the null chamber does not add to my carried Bulk."
+          ],
+          "note": null,
+          "before": null,
+          "glyph": null
+        },
+        {
+          "type": "action",
+          "title": "Count carried Bulk",
+          "cost": "Use whole Bulk and light items",
+          "steps": [
+            "Add the whole-Bulk entries. Group light items in tens: <b>10 light = 1 Bulk</b>. Add each complete group.",
+            "Ignore leftover light items for encumbrance. Negligible items normally add no Bulk.",
+            "Compare with my sheet’s carrying limits. <b>More than my encumbered limit:</b> clumsy 1 and –10 feet to Speeds, minimum 5 feet."
+          ],
+          "note": null,
+          "before": null,
+          "glyph": null
+        },
+        {
+          "type": "text",
+          "text": "<b>Standard limits:</b> encumbered above <b>5 + STR</b> Bulk; maximum <b>10 + STR</b>. Include any abilities that change those limits. Small size does not halve them."
+        },
+        {
+          "type": "action",
+          "title": "Leave room for air",
+          "cost": "Null-space storage",
+          "steps": [
+            "Check the module’s capacity against the gear stored inside. Stored gear still uses that capacity.",
+            "Ask the GM for the remaining space in <b>air minutes</b>. Record the refill capacity on C4: each free light unit holds 1 minute of air."
+          ],
+          "note": null,
+          "before": null,
+          "glyph": null
+        }
+      ],
+      "source": "Core pp. 233, 245 • Null-space and air: campaign rules",
+      "lead": "Keep the item list, quantities and locations on my character sheet. Use this page when I add, lose or move gear."
+    },
+    {
+      "id": "C6",
+      "section": "C",
+      "title": "Cutout tokens",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Print at <b>100% / Actual Size</b>. Each token is ¾ inch across and fits its matching tracker circle."
+        },
+        {
+          "type": "diagram",
+          "name": "tokens"
+        },
+        {
+          "type": "text",
+          "text": "<b>Destinations:</b> turn tokens → C8; bullets → C3; bonuses / BON MOT → C9; SIZED UP → Y1. Park unused bonus and asset tokens on C9."
+        }
+      ],
+      "source": "Matching trackers: C3, C8–C9, Y1 • Print at actual size"
+    },
+    {
+      "id": "C7",
+      "section": "C",
+      "title": "Grappler and extraction cutter",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Use my autograppler",
+          "cost": "Attach cable: 1 Interact; then throw it",
+          "glyph": "1",
+          "before": "An available cable line and a suitable anchor surface.",
+          "steps": [
+            "Attach the cable. Throw with a <b>secret ranged attack</b> using my sheet’s modifier; typical anchor DC is <b>20 or higher</b>. Ask the GM the throw’s action cost and range."
+          ],
+          "outcomes": null,
+          "note": "The commercial grappler has no safety sensor. Cable is a separate item. Attaching it is manipulate: needs hands, can trigger reactions; grabbed requires flat DC 5.",
+          "results": [
+            "Success: secure anchor. Failure: no hold. Critical failure: seems secure but lets go when I am partway up. Clamps make the cable climbable like a knotted rope."
+          ]
+        },
+        {
+          "type": "action",
+          "title": "EC-4 cutter",
+          "cost": "Strike 1 action; extraction work 10 minutes",
+          "glyph": "1",
+          "before": "Held in one hand, charged and activated; interlock permits the target.",
+          "steps": [],
+          "outcomes": null,
+          "note": "<b>Powered:</b> activate/deactivate with 1 Interact or while drawing/stowing; 1 battery charge per day. Unpowered: improvised weapon. <b>Professional (Crafting):</b> toolkit; its weapon item bonus applies to Crafting. <b>Tech:</b> V3. Activation is manipulate: needs a hand; may trigger reactions; grabbed needs flat DC 5.",
+          "choices": [
+            "<b>Strike — 1 action:</b> reach 5 feet. Use my sheet’s attack/damage and attack penalty (B1). Critical hit: double damage. <b>Unwieldy:</b> one Strike per round, no reaction Strikes. <b>Razing:</b> +2 damage per weapon damage die to objects, structures and vehicles.",
+            "<b>Extract a sample — 10 minutes:</b> ignores 5 Hardness against a suitable unattended object."
+          ]
+        }
+      ],
+      "source": "Core pp. 238, 256, 258 • FED cutter card"
+    },
+    {
+      "id": "C8",
+      "section": "C",
+      "title": "My turn tracker",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Start my turn:</b> actions → AVAILABLE; reaction → READY; NEXT ATTACK → FIRST. Conditions can reduce my actions."
+        },
+        {
+          "type": "diagram",
+          "name": "turn_tracker"
+        },
+        {
+          "type": "text",
+          "text": "<b>Actions:</b> move one token to USED per action spent. A two-action activity moves two tokens."
+        },
+        {
+          "type": "text",
+          "text": "<b>Reaction:</b> move to USED when spent. <b>Directive:</b> move to ISSUED when used; reset at the GM’s new-round cue."
+        },
+        {
+          "type": "text",
+          "text": "<b>NEXT ATTACK:</b> advance after every attack, hit or miss, including Escape. Stay on THIRD+ afterward. All weapons share this count."
+        }
+      ],
+      "source": "Core encounter rules • Matching cutouts: C6"
+    },
+    {
+      "id": "C9",
+      "section": "C",
+      "title": "Effects and spare tokens",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Set up:</b> park all seven effect / asset tokens on the left. Move each token to its tracker when used; SIZED UP tokens go on Y1."
+        },
+        {
+          "type": "diagram",
+          "name": "effects"
+        },
+        {
+          "type": "text",
+          "text": "<b>Start my turn:</b> park the Get ’Em! and Digital Assessment! tokens; erase those targets. Keep assets on Y1. For extra Bon Mot targets, use another copy of this tracker."
+        }
+      ],
+      "source": "Ability rules: P1–P3, Y1 • Cutouts: C6"
+    },
+    {
+      "id": "C10",
+      "section": "C",
+      "title": "FED-12 battery tracker",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Installed battery ID:</b> __________<br/><b>Set up:</b> 1 CHARGED token per charge remaining; rest in SPENT. Fill pairs first. Full battery: 10 charges / 5 shots."
+        },
+        {
+          "type": "diagram",
+          "name": "carbine_battery"
+        },
+        {
+          "type": "text",
+          "text": "<b>Fire:</b> move <b>2 tokens CHARGED → SPENT</b> per shot, hit or miss. Each filled pair is one available shot. Advance NEXT ATTACK (C8)."
+        },
+        {
+          "type": "action",
+          "title": "Reload: swap the battery",
+          "cost": "1 action • free hand and replacement battery",
+          "steps": [
+            "Record the removed battery’s remaining charges on C11. Put in the replacement and write its ID above.",
+            "Set the tokens to that battery’s remaining charges. Put leftover tokens in SPENT."
+          ],
+          "glyph": "1",
+          "before": null,
+          "note": "Grip changes are included. Manipulate: may trigger reactions; grabbed requires flat DC 5. Keep the counts between turns and sessions."
+        }
+      ],
+      "source": "FED-12 equipment card • Core pp. 254–255 • Rules: C1"
+    },
+    {
+      "id": "C11",
+      "section": "C",
+      "title": "Carbine tokens and batteries",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Print at <b>100% / Actual Size</b>. Cut around the ten ¾-inch circles. Use these tokens on C10."
+        },
+        {
+          "type": "diagram",
+          "name": "carbine_tokens"
+        },
+        {
+          "type": "head",
+          "text": "Keep this battery log below the cutouts"
+        },
+        {
+          "type": "text",
+          "text": "Give each battery I own a letter or name. Record its charges when I remove it. Mark its location: <b>carbine, pack or null chamber</b>."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Battery ID",
+              "Charges left",
+              "Location"
+            ],
+            [
+              "________",
+              "________",
+              "_______________"
+            ],
+            [
+              "________",
+              "________",
+              "_______________"
+            ],
+            [
+              "________",
+              "________",
+              "_______________"
+            ],
+            [
+              "________",
+              "________",
+              "_______________"
+            ]
+          ],
+          "widths": [
+            1,
+            1,
+            1.7
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<b>Installed battery:</b> the tokens on C10 show its current charge. Update this log when I remove it."
+        },
+        {
+          "type": "text",
+          "text": "<b>Recharging:</b> increase a battery’s recorded charges when charging is completed. Confirm the available power source and charging time with the GM."
+        },
+        {
+          "type": "text",
+          "text": "<b>Odd number of charges?</b> Keep one unpaired token in CHARGED. Firing requires two charge tokens."
+        }
+      ],
+      "source": "Battery capacity and expend • Core pp. 254–255"
+    },
+    {
+      "id": "V1",
+      "section": "V",
+      "title": "Rolls and bonuses",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Make a check",
+          "cost": "Attack, skill check or saving throw",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Roll <b>d20</b>. Add the relevant modifier from my <b>character sheet</b> and current bonuses or penalties.",
+            "Compare the total with the <b>DC</b>. An attack compares with AC, which is a kind of DC.",
+            "Total at least DC +10: critical success. At least DC: success. Below DC: failure. DC –10 or lower: critical failure.",
+            "A natural 20 improves the result one step. A natural 1 worsens it one step. They do not automatically replace the comparison."
+          ],
+          "outcomes": null,
+          "note": null
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Basic save result",
+              "Damage taken"
+            ],
+            [
+              "Critical success",
+              "None"
+            ],
+            [
+              "Success",
+              "Half, rounded down"
+            ],
+            [
+              "Failure",
+              "Full"
+            ],
+            [
+              "Critical failure",
+              "Double"
+            ]
+          ],
+          "widths": [
+            1,
+            1
+          ],
+          "compact": true
+        },
+        {
+          "type": "text",
+          "text": "<b>“Basic save” describes damage.</b> Extra effects use the ability’s own wording. A flat check is a d20 with no modifier; a secret check is rolled by the GM.",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Use the best bonus of each type"
+        },
+        {
+          "type": "text",
+          "text": "Add my base number and the highest bonus of each type: <b>status, circumstance, item</b>. Same-type bonuses do not add together.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "Penalties are separate: use the worst penalty of each type. Untyped penalties, including multiple attack and range penalties, usually add together.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Example:</b> Get ’Em! +1 status and Aid +1 circumstance can both help my attack. Standard cover +2 circumstance is better than Digital Assessment!’s +1 circumstance AC; those two do not total +3.",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 390–398"
+    },
+    {
+      "id": "V2",
+      "section": "V",
+      "title": "Conditions I am likely to see",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "<b>Frightened X</b>",
+              "Subtract X from checks and DCs, including AC and saves. Usually reduce by 1 at the end of my turn."
+            ],
+            [
+              "<b>Stupefied X</b>",
+              "Subtract X from INT, WIS and CHA checks/DCs: social skills, knowledge, Perception, Will, class DC and spell DC. Before a spell, flat check DC 5 + X or the spell is disrupted."
+            ],
+            [
+              "<b>Clumsy X</b>",
+              "Subtract X from DEX checks/DCs, including ranged attacks, AC, Reflex, Acrobatics and Stealth."
+            ],
+            [
+              "<b>Off-guard</b>",
+              "–2 circumstance AC. It may apply only against particular creatures or attacks."
+            ],
+            [
+              "<b>Concealed</b>",
+              "An attacker targeting me must pass a DC 5 flat check. If I attack a concealed creature, I make that check. Areas ignore it."
+            ],
+            [
+              "<b>Hidden</b>",
+              "Attacker knows my space but needs a DC 11 flat check to target me. A creature I am hidden from is off-guard to me. Areas ignore the check."
+            ],
+            [
+              "<b>Slowed X</b>",
+              "Regain X fewer actions at the start of my turn."
+            ],
+            [
+              "<b>Encumbered</b>",
+              "Clumsy 1 and –10 feet to all Speeds (minimum 5). Begins above my encumbered Bulk limit; see my sheet and C5."
+            ]
+          ],
+          "widths": [
+            1,
+            2.35
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<b>Common status penalties do not pile up:</b> frightened 1 and stupefied 1 give –1 to an affected mental check, not –2. Use the worse applicable status penalty.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "Glitching → <b>V3</b> • dying → <b>V4</b> • grabbed/prone → <b>B6</b>.",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 435–441"
+    },
+    {
+      "id": "V3",
+      "section": "V",
+      "title": "A piece of equipment is glitching",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Try to use a glitching item",
+          "cost": "Flat check before each action involving that item",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Check the item’s glitching value. Roll <b>d20 with no bonus</b> against <b>DC 5 + that value</b>.",
+            "Use the result below. For <b>glitching 1</b>, the DC is <b>6</b>."
+          ],
+          "outcomes": [
+            [
+              "16–20",
+              "Critical success: reduce glitching by 1. At glitching 1, it clears and the item works."
+            ],
+            [
+              "6–15",
+              "Success: item works normally; glitching remains."
+            ],
+            [
+              "2–5",
+              "Failure: use it with an item penalty equal to its glitching value to checks and DCs affected by the condition."
+            ],
+            [
+              "1",
+              "Critical failure: item fails to function. Lose the actions spent trying to use it."
+            ]
+          ],
+          "note": "These roll ranges apply only to <b>glitching 1</b>. If the value changes, compare against the new DC, including ±10 and natural 1/20."
+        },
+        {
+          "type": "text",
+          "text": "<b>Ponderer’s equipment:</b> check the affected tech item when I use it. My analog pistol and neural lash are immune to effects that specifically target technology.",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Track each affected item"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Item",
+              "Glitching value"
+            ],
+            [
+              "________________________",
+              "_______"
+            ],
+            [
+              "________________________",
+              "_______"
+            ],
+            [
+              "________________________",
+              "_______"
+            ]
+          ],
+          "widths": [
+            2,
+            1
+          ],
+          "compact": true
+        },
+        {
+          "type": "text",
+          "text": "Ask Tarn whether Troubleshoot can reduce the item’s glitching. Update its value here after each change."
+        }
+      ],
+      "source": "Core p. 437 • GM adjudicates the affected item’s checks/DCs"
+    },
+    {
+      "id": "V4",
+      "section": "V",
+      "title": "Damage, dying and Hero Points",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Take damage",
+          "cost": "When an attack or effect hurts me",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Apply the save result and any immunity, weakness or resistance. Use the resistance values on my <b>character sheet</b>.",
+            "Use temporary HP first, then lower current HP. At <b>0 HP</b>, tell the GM. I normally fall unconscious, drop held items and gain dying 1, or dying 2 from a critical hit/critical failure. Add wounded to the starting dying value."
+          ],
+          "outcomes": null,
+          "note": null
+        },
+        {
+          "type": "action",
+          "title": "If I am dying",
+          "cost": "At the start of my turn",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Roll a <b>flat recovery check</b>: DC 10 + my dying value.",
+            "Critical success lowers dying by 2; success lowers it by 1. Failure raises it by 1; critical failure raises it by 2. Dying 4 normally means death.",
+            "At dying 0: stable, usually unconscious at 0 HP. Healing above 0 removes dying and wakes me. Losing dying normally adds wounded 1."
+          ],
+          "outcomes": null,
+          "note": null
+        },
+        {
+          "type": "action",
+          "title": "Spend a Hero Point to reroll",
+          "cost": "1 Hero Point • fortune",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "Reroll <b>my</b> check and keep the second result. Only one fortune effect can apply to a roll."
+          ],
+          "outcomes": null,
+          "note": null
+        },
+        {
+          "type": "action",
+          "title": "Heroic Recovery",
+          "cost": "All remaining Hero Points • minimum 1",
+          "glyph": null,
+          "before": null,
+          "steps": [
+            "When dying would increase, spend all remaining Hero Points. Remove dying; stabilize at 0 HP. Keep my current wounded value."
+          ],
+          "outcomes": null,
+          "note": "I still need healing to wake up."
+        },
+        {
+          "type": "text",
+          "text": "<b>Persistent damage:</b> take it at my turn’s end, then flat check DC 15 to end it. Ask for help; an appropriate response can grant another recovery check or reduce the DC.",
+          "style": "body"
+        }
+      ],
+      "source": "Core pp. 403–406, 438–439"
+    },
+    {
+      "id": "V5",
+      "section": "V",
+      "title": "My Fonqugon abilities and Adhere",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Oozy:</b> use my climb Speed on smooth walls and ceilings (G4). Gaps of 2 feet or more do not require Squeeze. <b>Low-light vision:</b> dim light works like bright light for my vision.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Psychic Blight:</b> +1 circumstance to saves against <b>mental</b> effects. Mental resistance equals <b>half my level, rounded down, minimum 1</b>; keep that value on my sheet.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Feelings Brain:</b> +1 circumstance to saves against <b>emotion</b> effects, and a rolled success becomes a critical success. The two +1 circumstance bonuses overlap; use <b>+1 total</b> for an emotion effect that is also mental.",
+          "style": "body"
+        },
+        {
+          "type": "action",
+          "title": "Adhere",
+          "cost": "1 action • primal innate cantrip",
+          "glyph": "1",
+          "before": "Target within touch range.",
+          "steps": [],
+          "outcomes": null,
+          "note": "<b>Duration:</b> 1 minute. This cantrip uses no spell slot. <b>Concentrate and manipulate:</b> focus and gestures; can trigger reactions. If grabbed, flat DC 5. If stupefied, also pass its spellcasting flat check (V2).",
+          "choices": [
+            "<b>Bond an object:</b> touch an object I hold, or an unattended object, while it touches another object/surface. They stick together. Pulling it free requires Athletics to Force Open vs my <b>spell DC on my sheet</b>.",
+            "<b>Make sticky ground:</b> touch an <b>unoccupied 5-foot square</b>. It becomes greater difficult terrain: entering normally costs 15 feet of movement."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "<b>Scion of the Fonqugon Tree:</b> Adhere’s cantrip rank is half my level, rounded up. With <b>1 day of downtime</b> in a natural environment with trees, I can choose another primal cantrip. Add its instructions if I do.",
+          "style": "body"
+        }
+      ],
+      "source": "Fonqugon vault / ancestry cards • Core pp. 299, 313"
+    },
+    {
+      "id": "V6",
+      "section": "V",
+      "title": "Ponder Unity",
+      "blocks": [
+        {
+          "type": "action",
+          "title": "Read surface thoughts aloud",
+          "cost": "Free action • once per day",
+          "glyph": "F",
+          "before": "Target within reach, normally 5 feet. It has a mind and can hear the effect.",
+          "steps": [
+            "Use the ability and mark today’s use spent. The target attempts a <b>Will save vs my Class DC on my sheet</b>, adjusted for current conditions.",
+            "<b>Incapacitation:</b> if the target’s level is higher than my level, it improves the save’s degree of success by one.",
+            "Apply the result below. The target then becomes immune to Ponder Unity for <b>1 hour</b>."
+          ],
+          "outcomes": [
+            [
+              "Critical success",
+              "The target perceives vague surface thoughts from me."
+            ],
+            [
+              "Success",
+              "I learn whether its Intelligence is higher than, equal to, or lower than mine."
+            ],
+            [
+              "Failure",
+              "As success, and I repeat its vague surface thoughts aloud."
+            ],
+            [
+              "Critical failure",
+              "As failure. I may make the target attempt another <b>Will save vs my Class DC</b>. Failure reveals a secret. Attempting this deeper read makes the target permanently immune."
+            ]
+          ],
+          "note": "<b>Auditory:</b> needs sound and hearing. <b>Mental:</b> no effect on objects or mindless creatures. <b>Concentrate:</b> needs focus. <b>Manipulate:</b> gestures can trigger reactions; grabbed requires flat DC 5. <b>Detection:</b> this reveals information."
+        },
+        {
+          "type": "text",
+          "text": "<b>Available today:</b> □ &nbsp;&nbsp; <b>Used:</b> □<br/><b>Target / immunity ends:</b> __________________________",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Thought — GM ruling:</b> Ponder Unity counts as telepathy for my lash (B2). This weapon benefit is always available and uses no daily activation."
+        }
+      ],
+      "source": "Ponder Unity.md • save DC and deeper read confirmed by GM"
+    },
+    {
+      "id": "V7",
+      "section": "V",
+      "title": "Update numbers on my sheet",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Proficiency rank",
+              "Bonus"
+            ],
+            [
+              "Untrained",
+              "0"
+            ],
+            [
+              "Trained",
+              "My level + 2"
+            ],
+            [
+              "Expert",
+              "My level + 4"
+            ],
+            [
+              "Master",
+              "My level + 6"
+            ],
+            [
+              "Legendary",
+              "My level + 8"
+            ]
+          ],
+          "widths": [
+            1.8,
+            2
+          ],
+          "compact": true
+        },
+        {
+          "type": "action",
+          "title": "Armor Class",
+          "cost": "When my armor or armor proficiency changes",
+          "steps": [
+            "Start at <b>10</b>. Add proficiency for the armor I wear, or unarmored defense if appropriate.",
+            "Add my <b>DEX modifier</b>, up to the armor’s Dex cap. Add the armor’s <b>item bonus</b>. Record the result as AC.",
+            "Check the armor’s Strength threshold and skill/Speed penalties. Apply its traits, such as Flexible. Record the affected skills and Speed."
+          ],
+          "note": null,
+          "before": null,
+          "glyph": null
+        },
+        {
+          "type": "action",
+          "title": "Weapon attack and damage",
+          "cost": "For each weapon on my sheet",
+          "steps": [
+            "<b>Ranged attack:</b> DEX + proficiency + item bonus. <b>Melee attack:</b> STR + proficiency + item bonus, unless a trait changes the attribute.",
+            "Write all three attack modifiers: first; second with <b>–5</b>; third with <b>–10</b>. For an agile weapon, use <b>–4 / –8</b>.",
+            "Record damage dice for the weapon’s grade and upgrades. Add STR to melee damage and other permanent damage bonuses. Gun damage normally adds no DEX."
+          ],
+          "note": null,
+          "before": null,
+          "glyph": null
+        },
+        {
+          "type": "text",
+          "text": "<b>During play:</b> read the finished modifier or damage entry. Apply temporary effects, range and conditions once. Get ’Em!’s extra damage is on P1."
+        }
+      ],
+      "source": "Core pp. 244–258, 394–397 • Character sheet holds current totals",
+      "lead": "Use this when my level, training or equipment changes. Write the results on my character sheet."
+    },
+    {
+      "id": "V8",
+      "section": "V",
+      "title": "Index: A–F",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "AC / armor math",
+              "V7; character sheet"
+            ],
+            [
+              "Adhere",
+              "V5"
+            ],
+            [
+              "Aid",
+              "P4"
+            ],
+            [
+              "Air supply / Bulk conversion",
+              "C4"
+            ],
+            [
+              "Ammo / batteries",
+              "C3, C10–C11"
+            ],
+            [
+              "Analyze Environment",
+              "G6"
+            ],
+            [
+              "Assets / Size Up",
+              "Y1, C9"
+            ],
+            [
+              "Attack penalty",
+              "B1–B2, C8"
+            ],
+            [
+              "Autograppler",
+              "C7"
+            ],
+            [
+              "Avert Gaze",
+              "B6"
+            ],
+            [
+              "Avoid Notice",
+              "G1"
+            ],
+            [
+              "Bargain Hunter",
+              "Y4"
+            ],
+            [
+              "Basic saves",
+              "V1"
+            ],
+            [
+              "Bon Mot",
+              "P3, C9"
+            ],
+            [
+              "Bulk / inventory",
+              "C5; character sheet"
+            ],
+            [
+              "Climb / Oozy",
+              "G4"
+            ],
+            [
+              "Concealed / hidden",
+              "V2"
+            ],
+            [
+              "Cover",
+              "B3"
+            ],
+            [
+              "Create a Diversion",
+              "B4"
+            ],
+            [
+              "Delay / Ready / decision guide",
+              "O3, O5"
+            ],
+            [
+              "Demoralize",
+              "P3"
+            ],
+            [
+              "Digital Assessment!",
+              "P2"
+            ],
+            [
+              "Digital Diversion",
+              "B4"
+            ],
+            [
+              "Dying / Hero Points",
+              "V4"
+            ],
+            [
+              "Escape",
+              "B6"
+            ],
+            [
+              "Example turns",
+              "O4"
+            ],
+            [
+              "FED equipment",
+              "C1–C2, C7, C10–C11"
+            ],
+            [
+              "Feelings Brain",
+              "V5"
+            ]
+          ],
+          "widths": [
+            2.3,
+            1
+          ],
+          "compact": true
+        }
+      ],
+      "source": "Page IDs stay fixed when inserting new pages"
+    },
+    {
+      "id": "V9",
+      "section": "V",
+      "title": "Index: F–W",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Feint",
+              "B7"
+            ],
+            [
+              "First Aid / medpatch",
+              "P5"
+            ],
+            [
+              "Follow the Expert",
+              "G6"
+            ],
+            [
+              "Frightened / stupefied",
+              "V2"
+            ],
+            [
+              "Gather Information",
+              "Y3"
+            ],
+            [
+              "Get ’Em!",
+              "P1, C9"
+            ],
+            [
+              "Glitching",
+              "V3"
+            ],
+            [
+              "Grabbed / restrained",
+              "B6"
+            ],
+            [
+              "Group Impression",
+              "Y2"
+            ],
+            [
+              "Hack / Repair",
+              "G3, G6"
+            ],
+            [
+              "Hide / Sneak",
+              "B5"
+            ],
+            [
+              "Hobnobber",
+              "Y3"
+            ],
+            [
+              "Investigate / Scout",
+              "G1"
+            ],
+            [
+              "Languages",
+              "Y4"
+            ],
+            [
+              "Leap / prone / Stand",
+              "B6"
+            ],
+            [
+              "Neural lash / Thought",
+              "B2"
+            ],
+            [
+              "No Cause for Alarm",
+              "P4"
+            ],
+            [
+              "Pistol / carbine / Reload",
+              "B1, C1, C3, C10"
+            ],
+            [
+              "Point Out / Seek",
+              "B7, G2"
+            ],
+            [
+              "Ponder Unity",
+              "V6"
+            ],
+            [
+              "Psychic Blight",
+              "V5"
+            ],
+            [
+              "Recall Knowledge",
+              "G2, P2"
+            ],
+            [
+              "Release / swap items",
+              "B2"
+            ],
+            [
+              "Request / Impression",
+              "Y2"
+            ],
+            [
+              "Sense Motive",
+              "G2"
+            ],
+            [
+              "Step / Stride",
+              "B3"
+            ],
+            [
+              "Tokens / turn tracker",
+              "C6, C8–C11"
+            ],
+            [
+              "Treat Poison / Wounds",
+              "G5"
+            ],
+            [
+              "Tumble Through",
+              "B7"
+            ],
+            [
+              "Weapon math",
+              "V7"
+            ]
+          ],
+          "widths": [
+            2.3,
+            1
+          ],
+          "compact": true
+        }
+      ],
+      "source": "Page IDs stay fixed when inserting new pages"
+    }
+  ],
+  "gm_pages": [
+    {
+      "id": "GM1",
+      "section": "GM",
+      "title": "Set up the binder",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Print the player PDF single-sided on US Letter at 100% / Actual Size.</b> The left margin is over 1 inch for a three-hole punch. Color bars also have written color names; the pages remain navigable in grayscale.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "Place O1 first, then use the seven dividers in the listed order. IDs stay fixed. Add new pages such as P6 or C12 without changing existing IDs.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "Start with O2 and P1 nearby. <b>Ponderer-Table-Mats.pdf</b> collects the trackers and cutouts. <b>Ponderer-FED-12-Tracker.pdf</b> contains just the two new carbine pages. Sheet protectors allow erasable tracking.",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Before play"
+        },
+        {
+          "type": "text",
+          "text": "1. Review the sheet corrections on GM2 with Jonah.<br/>2. Fill starting air, batteries and ammunition.<br/>3. Put tokens in their starting positions.<br/>4. Try one attack, reload and turn reset together.",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "At the table"
+        },
+        {
+          "type": "text",
+          "text": "Give Jonah the situation and a moment to choose. When he asks for an explanation, have one person answer, then point to the relevant step. Ask whether he wants alternatives before supplying several.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "State the action cost, likely result and failure consequence before he commits to an unfamiliar action. Show the target and range on the map. Let him state intent in his own words; do not require the exact rules term.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "Use a visible initiative list and a brief “you are next” cue. Mark enemy AC/save changes publicly when they are known. Ask Jonah which aids are useful after trying them; retire ones that add work.",
+          "style": "body"
+        }
+      ],
+      "source": "Ponderer binder • GM setup • 9 October 2026",
+      "lead": "The player pages do not label Jonah’s disability or assume he needs someone else to make his choices."
+    },
+    {
+      "id": "GM2",
+      "section": "GM",
+      "title": "Sheet and rules corrections",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Review once",
+              "What to check on Jonah’s character sheet"
+            ],
+            [
+              "Attributes / skills",
+              "Confirm faint handwriting and training marks. Update skills and Perception on his sheet."
+            ],
+            [
+              "Saving throws",
+              "The photographed save totals appear to omit level from proficiency. Recalculate on his sheet."
+            ],
+            [
+              "AC / HP / DCs",
+              "The reported AC appears to omit armor proficiency. Review AC, max HP, Class DC and spell DC together. Keep corrected totals on his sheet."
+            ],
+            [
+              "Weapons / armor",
+              "Record attack modifiers and damage for each weapon. Track the suit worn and any armor penalties on his sheet."
+            ],
+            [
+              "Get ’Em!",
+              "The two-action version keeps the +1 status attack bonus. Its included Strike adds CHA as status damage; later Strikes use P1’s level table even if it missed. Mine save damage is not a Strike."
+            ],
+            [
+              "Size Up",
+              "Once per hour. Asset limit equals CHA modifier. One-action Get ’Em! against an asset includes the full two-action benefit."
+            ],
+            [
+              "Digital Diversion",
+              "Needs adjacency, target’s tech item, a held/worn hacking toolkit, and a free hand. The old card omits some requirements."
+            ],
+            [
+              "Hobnobber",
+              "Halves Gather Information time. One old card copied Group Impression instead. Corrected here."
+            ]
+          ],
+          "widths": [
+            1,
+            2.65
+          ]
+        }
+      ],
+      "source": "Ponderer binder • GM setup • 9 October 2026",
+      "lead": "Make corrections on the character sheet. The player binder refers to those numbers and does not keep a second copy."
+    },
+    {
+      "id": "GM3",
+      "section": "GM",
+      "title": "Homebrew and table conventions",
+      "blocks": [
+        {
+          "type": "head",
+          "text": "Ponder Unity"
+        },
+        {
+          "type": "text",
+          "text": "You confirmed both saves use <b>Ponderer’s Class DC</b>, reduced by applicable conditions. On the first save’s critical failure, Ponderer may have the <b>target</b> roll another Will save. Failure reveals a secret; attempting the deeper read makes the target permanently immune.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "These clarifications are in V6. The original vault file was not edited. A success or critical success on the deeper save reveals no secret; the initial information still applies.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "The vault applies incapacitation to all of Ponder Unity; V6 follows it. <b>Your Thought ruling</b> allows repeated and readied lash Strikes, and lethal attacks without the nonlethal penalty. The weapon benefits use no daily activation.",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Campaign choices retained"
+        },
+        {
+          "type": "text",
+          "text": "M-Series uses Estex statistics: STR threshold +1. Below that threshold, apply –1 Stealth/Thievery/Piloting; Flexible exempts Acrobatics/Athletics. Record the worn suit and penalties on the character sheet. Armor timing stays 10 minutes to don and 10 to doff.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "Air accounting: 1 light Bulk of air gives 1 minute; 1 Bulk gives 10 minutes. C4 tracks this supply across locations. Offline Digital Assessment! has no published fixed +5 DC increase; decide from the records available.",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Accessibility choices"
+        },
+        {
+          "type": "text",
+          "text": "14-point main text, stable page IDs, explicit costs and requirements, numbered instructions and separate results. Every cutout has a tracker and reset rule. Action/reaction shapes follow Tarn’s cards; free-action artwork follows Gib’s.",
+          "style": "body"
+        }
+      ],
+      "source": "Ponderer binder • GM setup • 9 October 2026",
+      "lead": "Confirmed homebrew, campaign conventions and how they appear in the handout."
+    },
+    {
+      "id": "GM4",
+      "section": "GM",
+      "title": "Initial inventory audit",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The photographed inventory columns are empty. A handwritten line confirms <b>autograppler, 2 medpatches and hacking toolkit</b>; the combat page confirms the pistol, lash and second skin. The transcript uses one medpatch and five pistol rounds.",
+          "style": "body"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Known personal kit",
+              "Bulk"
+            ],
+            [
+              "Pistol + lash + worn second skin + hacking kit",
+              "4 L"
+            ],
+            [
+              "Two original medpatches",
+              "2 L"
+            ],
+            [
+              "Autograppler",
+              "Negligible"
+            ],
+            [
+              "Personal subtotal, second skin worn",
+              "<b>6 L</b>"
+            ],
+            [
+              "After one medpatch was used",
+              "<b>5 L</b>"
+            ],
+            [
+              "FED gear, M-Series suit carried",
+              "6 Bulk + 1 L"
+            ],
+            [
+              "Combined current known gear, all carried outside",
+              "<b>6 Bulk + 6 L</b>"
+            ]
+          ],
+          "widths": [
+            2.2,
+            1
+          ]
+        },
+        {
+          "type": "text",
+          "text": "FED subtotal: carbine 2 + cutter 1 + survival roll 2 + carried suit 1; comm L. Swapping which armor is worn gives the same combined total. Null module, GhostBox and ordinary ammunition are negligible. Sample claim kit Bulk is undefined; shared tools and loot are excluded.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "All known gear outside: <b>6 counted Bulk, encumbered</b>. Store the spare armor in the null module: <b>5 Bulk + 6 L</b>, counted as 5, within his limit. Adding a 1-Bulk crew medkit then makes it 6 again. Confirm actual storage locations.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Ammunition:</b> 10 rounds cost 1 credit. No purchase has been made and no rounds or magazines have been added. Confirm starting loaded/reserve counts; offer ammunition in clearly labeled 10-round packs. A spare magazine’s separate price is not specified here.",
+          "style": "body"
+        }
+      ],
+      "source": "Ponderer binder • GM setup • 9 October 2026",
+      "lead": "Historical setup audit from the sheet and Session 2. Keep later changes on the character sheet."
+    },
+    {
+      "id": "GM5",
+      "section": "GM",
+      "title": "Session 2 checkpoint and sources",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pistol bullets used",
+              "<b>5</b>: gunfire Aid; ordinary shot; Get ’Em! shot; two final-round shots. No reload is stated."
+            ],
+            [
+              "Current loaded bullets",
+              "<b>5 only if he began with 10 loaded.</b> Reserve count is unknown."
+            ],
+            [
+              "Medpatches",
+              "Began with 2; used 1. Expected remaining 1. Its +1 item bonus to poison/disease saves lasts 10 minutes from use."
+            ],
+            [
+              "HP / conditions",
+              "Last spoken HP: <b>2</b>. Stupefied 1 from nitrous. His affected tech gear is glitching 1; he is not personally a tech creature. Confirm with the table before prefilling."
+            ],
+            [
+              "Air losses",
+              "At least <b>12 minutes</b> explicitly charged: 10 on suit recovery, 2 drawing the pistol. Another retrieval occurred without a clearly stated charge. Starting air is unknown."
+            ],
+            [
+              "Clock",
+              "GM-approved endpoint: about <b>30 minutes</b> after the crash. Next diluted-atmosphere save is about due."
+            ]
+          ],
+          "widths": [
+            1.05,
+            2.35
+          ],
+          "compact": true
+        },
+        {
+          "type": "head",
+          "text": "Authority used"
+        },
+        {
+          "type": "text",
+          "text": "<b>Published rules:</b> supplied Starfinder 2e Player Core, plus Archives of Nethys 2e pages and Paizo’s FAQ/errata, checked 9 October 2026. Bon Mot uses Pathfinder Player Core 2 p. 228 with your express approval.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Campaign:</b> current Fonqugon.md, Heritages.md, Ponder Unity.md, Nitrous-Oxide Atmosphere.md and FED_Equipment_Cards.json. Character sheet photos and the Session 2 transcript establish character choices and expenditure.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "<b>Source priority:</b> your corrections and current vault homebrew take precedence over older cards or published ancestry material. The player binder paraphrases the rules; no additional feats, purchases or inventory changes were made.",
+          "style": "body"
+        }
+      ],
+      "source": "Ponderer binder • GM setup • 9 October 2026"
+    },
+    {
+      "id": "GM6",
+      "section": "GM",
+      "title": "Source links and future updates",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "<b>Published references</b>",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "Starfinder 2e rules: https://2e.aonsrd.com<br/>Envoy: https://2e.aonsrd.com/classes/1-envoy<br/>Digital Assessment!: https://2e.aonsrd.com/actions/127-digital-assessment<br/>Digital Diversion: https://2e.aonsrd.com/feats/790-digital-diversion<br/>Adhere: https://2e.aonsrd.com/Spells/3<br/>Bon Mot: https://2e.aonprd.com/Feats.aspx?ID=6466<br/>Paizo corrections: https://paizo.com/faq",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Files used from the vault"
+        },
+        {
+          "type": "text",
+          "text": "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Fonqugon/<br/>• Fonqugon.md<br/>• Heritages.md<br/><br/>Campaign/Party/Jonah/<br/>• Ponder Unity.md<br/>• Ponderer’s Cards (lvl 1 draft 3).json<br/><br/>Campaign/Player Handouts/FED_Equipment_Cards.json<br/>Campaign/Table Management/Jonah Pain Point Transcript.md<br/>Starfinder 2e Rules/Environment/Atmosphere/Nitrous-Oxide Atmosphere.md",
+          "style": "body"
+        },
+        {
+          "type": "head",
+          "text": "Editing and expansion"
+        },
+        {
+          "type": "text",
+          "text": "Use <b>Ponderer-Editable.html</b> for readable editable text, or edit <b>binder-content.json</b> and run <b>build_binder.py</b> with Python, ReportLab and PyMuPDF. Each page is explicitly defined. Add a new ID without changing the old ones; update the contents/index if needed.",
+          "style": "body"
+        },
+        {
+          "type": "text",
+          "text": "On level-up or a gear change, update the character sheet. Existing pages use its modifiers, DCs, defenses, damage and Speeds. Add pages only for new procedures or equipment rules; keep the page IDs. The index can be annotated by hand. Use pencil or erasable pen for tracking.",
+          "style": "body"
+        }
+      ],
+      "source": "Ponderer binder • GM setup • 9 October 2026"
+    }
+  ]
+}

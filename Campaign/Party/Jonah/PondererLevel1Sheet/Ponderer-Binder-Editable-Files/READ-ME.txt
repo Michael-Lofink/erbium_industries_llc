@@ -1,0 +1,118 @@
+PONDERER'S TABLE REFERENCE
+Prepared 9 October 2026
+
+QUALITY REVIEW
+The package has been checked again for rules, page references, print layout,
+tracker dimensions and agreement between the PDF and editable sources.
+QUALITY-REVIEW.txt lists the corrections and the exact pages to reprint.
+
+PRINTING
+Print Ponderer-Table-Reference.pdf single-sided on US Letter at 100% / Actual
+Size. Do not use Fit to Page for the token sheet. The left margin is 1.14 inches
+for a three-hole punch. Bullet tokens and their tracker spaces are 3/4 inch wide.
+
+The player reference has 47 pages. The first five pages are the contents,
+turn reference, Delay/Ready, example turns, and a decision guide. This is a
+reference to use as situations arise, not a reading assignment.
+
+DIVIDERS
+Orange: O1–O5 — My turn
+Pink:   P1–P5 — Help the party
+Blue:   B1–B7 — Fight and move
+Green:  G1–G6 — Explore
+Yellow: Y1–Y4 — Talk and prepare
+Cyan:   C1–C11 — Equipment and tracking
+Purple: V1–V9 — Rules, abilities and index
+
+Place O1 in front of the dividers if preferred. Page IDs stay fixed when you
+insert new pages. The PDF also has bookmarks and clickable page references.
+
+TRACKERS
+Ponderer-Table-Mats.pdf contains eight pages that can stay open beside the binder:
+C3 pistol, C10 carbine, C8 turn, C9 effects, C4 air, Y1 assets, C6 cutouts,
+and C11 carbine charge tokens / battery log. Ponderer-FED-12-Tracker.pdf
+contains only C10 and C11 for printing these additions separately.
+All token circles are 3/4 inch across. Print the mats and cutouts at the same
+100% scale. Use pencil or sheet protectors with erasable pen for written fields.
+
+Set up and reset:
+- ACTION x3: C8 AVAILABLE; move to USED per action spent; reset on your turn.
+- REACTION: C8 READY; move to USED when spent; reset on your turn.
+- DIRECTIVE: C8 AVAILABLE; move to ISSUED when used; reset on the GM round cue.
+- NEXT ATTACK: C8 FIRST; advance after every attack, including misses and Escape.
+  Stay at THIRD+ afterward; reset on your turn. Switching weapons keeps the count.
+- BULLET x10: C3 LOADED for actual loaded rounds, remaining tokens in SPENT.
+  Shots move to SPENT. Reload returns tokens to LOADED and reduces written reserve.
+  Ammunition persists between turns and sessions.
+- +1 ATTACK / DAMAGE / +1 AC: start PARKED on C9. Move to the named ability
+  when gained. Return at the start of your next turn and clear its target field.
+- BON MOT: start PARKED. Record each affected person, penalty and expiry; keep
+  the token in its box while any listed effect remains. P3 gives early endings.
+- SIZED UP 1/2/3: start PARKED on C9. Move to Y1 above the matching asset name.
+  Assets persist; the limit equals CHA modifier. At the limit, a new asset
+  replaces an existing one. Y1 has extra lines for assets without tokens.
+- FED-12 CHARGE x10: C10 CHARGED for actual installed battery charges; all
+  remaining tokens go in SPENT. Fill vertical pairs first. Each shot moves
+  two tokens to SPENT. On reload, record the old battery on C11, install a
+  replacement and set tokens to its charge. Preserve partially used batteries.
+- AIR: circle tens and ones on C4; record use/loss in whole minutes.
+  Campaign conversion: 1 light Bulk = 1 minute; 1 Bulk = 10 minutes.
+  Record refill capacity from the gear stored in the chamber (C5).
+
+Use the trackers Jonah finds helpful. You do not need every mat open at once.
+
+GM SETUP
+Read Ponderer-GM-Setup.pdf before filling the tracker blanks. It records the
+sheet corrections, inventory assumptions, source priority, and unresolved
+starting quantities. Ponder Unity's additional save is confirmed: the target
+rolls Will against Ponderer's Class DC; failure reveals a secret, and attempting
+the deeper read makes it permanently immune. Your Thought-trait ruling is also
+applied: Ponder Unity qualifies as telepathy, permitting repeated/readied lash
+Strikes and lethal damage without the nonlethal penalty. The vault was not modified.
+
+CURRENT NUMBERS AND FUTURE UPDATES
+Keep AC, HP, saves, DCs, skills, Speeds, weapon modifiers/damage, armor worn
+and the inventory on the character sheet. The binder supplies the procedure.
+V7 explains calculations without repeating current character totals.
+C5 explains Bulk without keeping a second item list. M-Series / Estex has
+Strength threshold +1; C1 explains when its skill penalty applies.
+On level-up, update the sheet. Add pages for new abilities or gear procedures
+using new IDs; existing IDs and trackers stay usable. P1 and C9 use a DAMAGE
+token with P1's level table, so the token does not need a new printed number.
+
+Carbine charge and spare-battery counts need confirmation before play.
+
+Five pistol bullets were used in Session 2. A current load of five is conditional
+on starting with a full ten-round magazine and not reloading. Reserve ammunition
+and current air remain blank until confirmed. No purchases were made.
+
+EDITING
+Open Ponderer-Editable.html in a browser. Its Edit text button lets you change
+the text; Finish editing closes edit mode. Save edited HTML downloads those
+changes and closes edit mode. Player and GM copies use different download names.
+That changes the HTML only,
+not the PDFs or the JSON. Browser printing may paginate differently from the PDF.
+Fonts and diagrams are embedded, so the HTML does not need an internet connection.
+
+To rebuild the checked PDF layout:
+  1. Install Python 3, ReportLab and PyMuPDF.
+     python -m pip install reportlab pymupdf
+  2. Edit binder-content.json. Keep existing page IDs.
+  3. Run: python build_binder.py
+  4. Inspect layout-check.json and visually check changed PDF pages before printing.
+
+The fonts and their licenses are included. The action-symbols folder contains
+the individual SVGs. One-action and reaction artwork follows Tarn's cards;
+free-action artwork follows Gib's cards. Two/three-action icons use the same
+chevron geometry.
+
+RULES AND SCOPE
+The supplied Starfinder 2e Player Core, current official rules references,
+Ponderer's sheet, the Session 2 transcript, and the current Erbium vault were
+used. Bon Mot is the Pathfinder feat expressly granted by the GM. Homebrew
+ancestry, Ponder Unity, FED equipment and atmosphere rulings take priority over
+older cards and published ancestry versions. See the GM PDF for source links.
+
+The binder covers Ponderer's selected abilities and commonly useful actions.
+It is not the complete Player Core. When an unusual situation arises, ask the
+GM to resolve it and add a page if it becomes a recurring need.
