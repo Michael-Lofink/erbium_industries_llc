@@ -1,12 +1,12 @@
 ```sf2e-stats
 # Grinrunner Hunting Truck
 ## Vehicle 2
-
 ==Huge== ==Tech==
 
 **Source** Homebrew
 **Price** 1,200 credits
 **Description** A patched six-wheeled utility truck with a two-seat cab, rear bench seats, and a reinforced cargo bed. Its mismatched panels bear electrical scorch marks. Hooks, restraint cables, and a folding loading ramp accommodate electrovore carcasses and recovered salvage.
+![[vehiclePortrait_GrinrunnerTruck.png#wrapright|800]]
 
 ---
 

@@ -158,21 +158,3 @@ Her relationship with Erbium creates a separate disagreement. Critics describe h
 KE$HRA usually responds to political criticism by saying that she makes party music.
 
 Her audience generally believes her.
-
-> [!danger] GM Only
-> 
-> ## Impersonating KE$HRA
-> 
-> A person closely matching KE$HRA's appearance would attract attention quickly in a populated Settled Systems venue. Her likeness appears throughout commercial entertainment channels, advertisements, concert footage, merchandise, and relay broadcasts.
-> 
-> Tribute performers are common enough that most civilians initially assume they are seeing an impersonator, promotional holoskin, or performer using a KE$HRA-inspired appearance.
-> 
-> Her physical details become harder to reproduce at close range. KE$HRA's crystalline hair has a distinctive growth structure beneath its sculpted orange coloration. Her mineral patterns continue beneath her clothing, and commercial biometric records include her eyes, voice, gait, and other identifiers.
-> 
-> Fans are more likely to test an impersonator through behavior. They may request a lyric, mention a famous interview, ask for a familiar concert gesture, or deliberately name one of her handlers to see how she reacts.
-> 
-> Security personnel use ordinary identity verification.
-> 
-> KE$HRA has publicly encouraged tribute performers and considers good impersonations flattering.
-> 
-> She is considerably less amused when someone uses her identity to get free drinks.

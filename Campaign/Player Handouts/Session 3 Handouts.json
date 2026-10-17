@@ -1,0 +1,176 @@
+[
+  {
+    "count": 1,
+    "title": "Bon Mot",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Auditory",
+      "p2e_trait | common | Concentrate",
+      "p2e_trait | common | Emotion",
+      "p2e_trait | common | General",
+      "p2e_trait | common | Linguistic",
+      "p2e_trait | common | Mental",
+      "p2e_trait | common | Skill",
+      "p2e_end_trait_section",
+      "p2e_ruler",
+      "text | You launch an insightful quip at a foe, distracting them. <b> Choose a foe within 30 feet </b> and roll a <b>Diplomacy</b> check against the <b>target's Will DC</b>.",
+      "fill | 0.1",
+      "text | <b> Critical Success </b> The target takes a <b>–3 status penalty </b> to <b>Perception</b> and <b>Will saves</b> for 1 minute. The target can end the effect early with a retort to your Bon Mot. This can either be a single action that has the concentrate trait or an appropriate skill action to frame their retort. The GM determines which skill actions qualify.",
+      "text | <b> Success </b> As critical success, but the penalty is –2.",
+      "text | <b> Critical Failure </b> Your quip is atrocious. You take the same penalty an enemy would take had you succeeded. This ends after 1 minute or if you issue another Bon Mot and succeed.",
+      "text | <u> Linguistic, Mental, and Emotional traits dictate who this can effect.</u>"
+    ],
+    "tags": [],
+    "title_color": "",
+    "icon_front": "p2e-1-action",
+    "icon_back": "speaker",
+    "color_front": "SaddleBrown",
+    "auto_fit_font_size": true
+  },
+  {
+    "count": "4",
+    "title": "Parted the Fabric",
+    "card_type": "",
+    "contents": [
+      "text | <i>Contact with the anomaly has changed you. With practice, you can reproduce a small part of what happened there.</i>",
+      "text | You gain this bonus heritage in addition to your existing heritage and gain the <b>Parted the Fabric</b> trait."
+    ],
+    "tags": [
+      "Parted the Fabric",
+      "Homebrew",
+      "Heritage"
+    ],
+    "title_color": "",
+    "icon_front": "portal",
+    "icon_back": "portal",
+    "color_front": "DarkSlateBlue",
+    "auto_fit_font_size": true,
+    "title_size": "11"
+  },
+  {
+    "count": 1,
+    "title": "Fold the Fabric",
+    "card_type": "Feat 1",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Parted the Fabric",
+      "p2e_end_trait_section",
+      "p2e_ruler",
+      "property | Frequency | Once per day",
+      "text | <i>You reproduce the anomaly's distortion, bending light across a thin fold in space.</i>",
+      "text | Create an <b>intangible barrier of shimmering light within 30 feet</b>. It is straight and vertical, up to <b>10 feet long and 10 feet high</b>, and lasts for <b>5 rounds</b>.",
+      "text | The barrier grants <b>concealment</b> to creatures targeted through it. <b>You ignore any concealment granted by this barrier.</b>",
+      "text | It sheds <b>bright light for 10 feet on each side</b> and <b>dim light for the next 10 feet</b>.",
+      "p2e_ruler",
+      "text | <b>Reminder:</b> Concealment requires a <b>DC 5 flat check</b> to target the concealed creature; failure wastes the effect against it. Area effects bypass this check."
+    ],
+    "tags": [
+      "Parted the Fabric",
+      "Homebrew",
+      "Feat 1",
+      "Drift-Touched Adaptation"
+    ],
+    "title_color": "",
+    "icon_front": "p2e-1-action",
+    "icon_back": "portal",
+    "color_front": "DarkSlateBlue",
+    "auto_fit_font_size": true,
+    "title_size": "11"
+  },
+  {
+    "count": 1,
+    "title": "Living Conduit",
+    "card_type": "Feat 1",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Concentrate",
+      "p2e_trait | common | Parted the Fabric",
+      "p2e_end_trait_section",
+      "p2e_ruler",
+      "text | <i>Electrical charge builds in your body. You can discharge it into creatures or feed it into equipment.</i>",
+      "text | You can cast <b>electric arc</b> as a <b>divine innate cantrip at will</b>. Its rank equals <b>half your level, rounded up</b>. See the Electric Arc card for its 2-action casting and damage.",
+      "text | When you cast it, you can also target <b>batteries or tech items powered by batteries</b>, in any combination with its normal targets. The spell still has a total of <b>1 or 2 targets within 30 feet</b>.",
+      "text | A targeted battery or battery-powered tech item takes <b>no damage</b> and instead regains <b>2 charges per spell rank</b>.",
+      "text | If a tech item needs a battery but has none, treat it as having a battery with <b>2 charges per spell rank for 1 minute</b>.",
+      "text | <b>Innate spellcasting attribute:</b> Charisma. Only the temporary battery effect has the 1-minute duration."
+    ],
+    "tags": [
+      "Parted the Fabric",
+      "Homebrew",
+      "Feat 1",
+      "Living Battery Adaptation"
+    ],
+    "title_color": "",
+    "icon_front": "lightning-branches",
+    "icon_back": "portal",
+    "color_front": "DarkSlateBlue",
+    "auto_fit_font_size": true,
+    "title_size": "11"
+  },
+  {
+    "count": "2",
+    "title": "Resonant Mind",
+    "card_type": "Feat 1",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Parted the Fabric",
+      "p2e_end_trait_section",
+      "p2e_ruler",
+      "text | <i>You can form words in your mind and transmit them to certain artificial and anomalous beings.</i>",
+      "text | You can <b>communicate mentally</b> with <b>intelligent constructs with the tech trait</b> and with <b>anomaly beings</b> within <b>30 feet</b>.",
+      "text | A tech creature you have bonded with, that would otherwise be ineligible, counts as intelligent for this feat, as determined by the GM. ",
+      "text | You do <b>not need to share a language</b> with an eligible creature to communicate in this way.",
+      "text | This grants <b>no special access to its thoughts</b> and communicates <b>no more information than normal speech</b>.",
+      "p2e_ruler",
+      "text | <b>Anomaly beings:</b> A specific category of anomalous creatures designated by the GM."
+    ],
+    "tags": [
+      "Parted the Fabric",
+      "Homebrew",
+      "Feat 1",
+      "Spectrasoul Adaptation"
+    ],
+    "title_color": "",
+    "icon_front": "brain",
+    "icon_back": "portal",
+    "color_front": "DarkSlateBlue",
+    "auto_fit_font_size": true,
+    "title_size": "11"
+  },
+  {
+    "count": 1,
+    "title": "Electric Arc",
+    "card_type": "Cantrip 1",
+    "contents": [
+      "p2e_start_trait_section",
+      "p2e_trait | common | Cantrip",
+      "p2e_trait | common | Concentrate",
+      "p2e_trait | common | Electricity",
+      "p2e_trait | common | Manipulate",
+      "p2e_end_trait_section",
+      "p2e_ruler",
+      "property | Actions | 2",
+      "property | Casting | Divine innate; at will through Living Conduit",
+      "property | Range | 30 feet",
+      "property | Targets | 1 or 2 creatures",
+      "property | Defense | Basic Reflex against your spell DC",
+      "text | An arc of lightning leaps between your targets. Each takes <b>2d4 electricity damage</b>, with a <b>basic Reflex save</b>.",
+      "text | <b>Critical Success:</b> No damage. <b>Success:</b> Half damage. <b>Failure:</b> Full damage. <b>Critical Failure:</b> Double damage.",
+      "text | <b>Heightened (+1):</b> Damage increases by <b>1d4</b>. Your cantrip rank is <b>half your level, rounded up</b>.",
+      "text | <b>Levels 1–2:</b> Rank 1, 2d4 damage. <b>Levels 3–4:</b> Rank 2, 3d4 damage.",
+      "text | <b>Living Conduit:</b> You may replace either or both creature targets with eligible batteries or tech items; apply the charging effect on that feat card instead of damage.",
+      "text | Use <b>Charisma</b> for this innate spell. Spell DC = <b>10 + proficiency bonus + Charisma modifier</b>, adjusted by applicable bonuses and penalties."
+    ],
+    "tags": [
+      "Parted the Fabric",
+      "Homebrew",
+      "Spell Reference"
+    ],
+    "title_color": "",
+    "icon_front": "p2e-2-actions",
+    "icon_back": "portal",
+    "color_front": "DarkSlateBlue",
+    "auto_fit_font_size": true,
+    "title_size": "11"
+  }
+]

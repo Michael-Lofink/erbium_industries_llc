@@ -149,21 +149,3 @@ Hondue remains one of the most recognizable dwarves in the Settled Systems. Olde
 Among lower-deck workers and dwarven forge watches, Hondue remains closely associated with mutual aid, maintenance accountability, and resistance to craft-warrant abuse. Independent settlements hire the Last Warrant for performances, salvage, transportation, or protection. Erbium-aligned ports issue detention orders when the vessel enters their jurisdiction, while other governments tolerate its presence until one of their own ships appears on Hondue’s cargo records.
 
 Corporate media claims that Hondue uses worker grievances to build a profitable outlaw brand. Hondue earns considerable money from recordings, concerts, merchandise, salvage, and captured cargo, with a substantial portion leaving the ship through medical funds, equipment purchases, legal assistance, transport costs, and payments to the families of detained crew members. His supporters call him a free captain, Erbium calls him a pirate, and Hondue answers to both.
-
-> [!danger] GM Only
->## Impersonating Hondue
->
->A person wearing Hondue’s current face would attract immediate attention from corporate security. Most unauthorized Hondue holoskins reproduce an earlier appearance.
->
->The licensed promotional scan used by Reen dates from Hondue’s first career, before the Great Volunteering, the Frame Twelve accident, and his reconstruction. It presents a younger Hondue with two natural eyes, clear skin, an intact left arm, no neck augmentation, cleaner hair and clothing, and the polished stage presentation associated with his early tours.
->
->Most civilians who notice the resemblance assume they are seeing a fan, tribute performer, promotional projection, or someone using old concert merchandise. Hondue’s present appearance is older, scarred, augmented, and widely associated with the Last Warrant. The difference is large enough that a person matching the early holoskin does not immediately appear to be the wanted free captain.
->
->Older fans and dwarven workers may recognize the exact tour-era image. They can identify the hair arrangement, clothing, jewelry, and facial scan used in official merchandise. Some may ask for songs from Hondue’s early career or comment that the wearer looks like an unusually convincing recreation.
->
->A biometric checkpoint remains dangerous. The holoskin reproduces surface appearance while failing skeletal, gait, voiceprint, genetic, implant, and age verification. Erbium systems may flag it as an unauthorized celebrity likeness, false identity tool, or modified commercial holoskin. The result prompts closer inspection without directly identifying the wearer as Hondue Last-Tether.
->
->Fans associate the old likeness with the performer Hondue used to be.
->
->Security personnel associate the scars and augmentations with the captain he became.
-

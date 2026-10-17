@@ -10,7 +10,7 @@
 ---
 
 **Significantites** Sub-surface frozen water, electrovores for food.
-**Major Settlements** Fresh-Breath (off-stamp)
+**Major Settlements** [[Fresh-Breath]] (off-stamp)
 **Government 1** Authoritarian
 
 ---
