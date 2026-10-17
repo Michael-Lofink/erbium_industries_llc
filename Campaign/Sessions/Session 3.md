@@ -36,6 +36,7 @@ And that is where we will begin, "Wait there's Life?"
 ## Collapsible "[[The Last Grin]]" Stats
 ![[The Last Grin]]
 # Wait there's Life?
+<!-- pes: {"id":"pes-mvcw1l9t-n802qoj9","plan":{"kind":"offset","minutes":0}} -->
 *The Day We Choose To Die, Trailer Rebel*
 
 > 8-Ball, your eyes are transfixed on the pulsing light of the FED beacon. Red light, creeps in and out, towards the corners of your vision. There's a ventilation duct above you. There’s condensation on the wall beneath it.  "Your plan won't work, all it will do is lead them back to us." 
@@ -61,6 +62,7 @@ PPPPP already picked up Chief and took him back to Fresh-Breath but will not be 
 ![[Chuckle Vent]]
 
 # Where did the Cockpit go?
+<!-- pes: {"id":"pes-mvcw1xll-te0uibga","plan":{"kind":"offset","minutes":60}} -->
 *tenative signals, Michael Lofink*
 The Pilot, Chief, successfully disengaged the cockpit from the Block Ship after taking a direct hit. He was picked up by PPPPP who was sent to scavenge by A.Sop after the surface-to-space missile dismantled the block ship mid flight.
 
@@ -68,6 +70,7 @@ The cockpit has been mostly excavated but you can find:
 Its surviving flight recorder contains a short warning sequence identifying incoming fire from the moon’s surface
 
 # Fresh-Breath
+<!-- pes: {"id":"pes-mvcw2fww-ms648fov","plan":{"kind":"after","scene":"pes-mvcw1xll-te0uibga","minutes":30}} -->
 *tenative signals, Michael Lofink*
 Exterior Far
 >Fresh-Breath stands among the black rock outcrops, its metal buildings crowded together at different heights. Blue-white lights mark the stairs and connecting platforms. Frost has gathered beneath the roof edges, and wind pushes loose snow across the lower steps, filling the grooves left by boots. Above the roofs, two heavy gun emplacements stand clear of the surrounding stone, their barrels angled toward the sky.
@@ -93,6 +96,7 @@ Combat with Fresh-Breath - *Cantina Menace, Michael Lofink*
 ![[Fresh-Breath Two-Level Habitat Atlas.png]]
 
 # The Quantum Cave
+<!-- pes: {"id":"pes-mvcw3j0h-bl5tswhm","plan":{"kind":"after","scene":"pes-mvcw2fww-ms648fov","minutes":180}} -->
 ==🔵[[Quantum]]==
 
 ## Quantum Cave Stats
