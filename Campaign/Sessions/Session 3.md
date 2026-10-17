@@ -71,7 +71,7 @@ Its surviving flight recorder contains a short warning sequence identifying inco
 
 # Fresh-Breath
 <!-- pes: {"id":"pes-mvcw2fww-ms648fov","plan":{"kind":"after","scene":"pes-mvcw1xll-te0uibga","minutes":30}} -->
-*tenative signals, Michael Lofink*
+*Cydonia, Inon Zur*
 Exterior Far
 >Fresh-Breath stands among the black rock outcrops, its metal buildings crowded together at different heights. Blue-white lights mark the stairs and connecting platforms. Frost has gathered beneath the roof edges, and wind pushes loose snow across the lower steps, filling the grooves left by boots. Above the roofs, two heavy gun emplacements stand clear of the surrounding stone, their barrels angled toward the sky.
 
@@ -91,6 +91,8 @@ Interior
 
 Combat with Fresh-Breath - *Cantina Menace, Michael Lofink*
 
+MAKE SURE TO MENTION THE SHIP IS SUPPOSED TO BE IN THE MOUTH OF THE QUANTUM CAVE
+
 
 ## Collapsible Fresh-Breath Interior Map
 ![[Fresh-Breath Two-Level Habitat Atlas.png]]
@@ -98,6 +100,8 @@ Combat with Fresh-Breath - *Cantina Menace, Michael Lofink*
 # The Quantum Cave
 <!-- pes: {"id":"pes-mvcw3j0h-bl5tswhm","plan":{"kind":"after","scene":"pes-mvcw2fww-ms648fov","minutes":180}} -->
 ==🔵[[Quantum]]==
+*The Uncertainty Principle, Andrew Prahlow*
+See [[Quantum_Cave_Session_3_GM_Guide]] for the cave layout and walkthrough.
 
 ## Quantum Cave Stats
 ```sf2e-stats
@@ -128,3 +132,21 @@ Combat with Fresh-Breath - *Cantina Menace, Michael Lofink*
 
 Source: Erbium Industries LLC
 ```
+
+# The Anomaly
+Hidden in the [[Quantum Caves#Quantum Chamber|Quantum Chamber Deep Landing]] there is an anomaly that once the team interacts with it then it will make them Part The Fabric.
+
+Seeing the Anomaly
+*The Nomai, Andrew Prahlow*
+>A faceted shape hangs at chest height near the center of the chamber, casting pale blue light across the rock. Broad, translucent faces surround a brilliant white core. Narrow gaps separate them, and through those gaps you can see smaller pieces turning within. A few fragments drift farther out, pause, then slide back into alignment.
+>As you move, the stone visible through its surfaces shifts out of place. A crack in the far wall appears several times across neighboring faces, each image at a different angle. Fine threads of light briefly connect the hovering fragments. With each connection comes a faint, dry click, audible over the low vibration you can feel through the soles of your boots.
+>As you draw closer, the facets nearest you turn. Their edges separate, opening a narrow gap toward the bright center. Blue light falls across your hands, and the fragments hold that position.
+
+Interacting with the Anomaly
+*The Ash Twin Project, Andrew Prahlow*
+>At the touch, a bright point forms beneath the outstretched fingers. The anomaly’s facets stop moving. Then each separates along a precise edge, opening around the hand in overlapping layers. White light shines through the gaps and casts narrow bands across the chamber. Those bands pass over your equipment, your clothing, your skin. For an instant, you can see the bones of your hands.
+>A low vibration travels through the floor and into your chest. The separated facets turn outward, each catching a different view of the cave. You glimpse yourselves from above, from beside the entrance, from somewhere beneath the stone. The images draw together. There is a sharp pressure behind your eyes, and the chamber disappears.
+>Stars fill your vision. You recognize the sensation of the Star Dream: the movement, the depth, the certainty of having experienced this before. You follow it toward the moment you remember waking. This time, it continues.
+>A pale star hangs inside an immense circular structure. One section of the circle is missing; its broken ends expose rows of narrow chambers, each illuminated by the star beyond. A small red light crosses the gap. You watch it reach the far edge, then see it cross again along exactly the same path. As you move closer, the star’s surface resolves into curling streams of white fire. Something passes across it, large enough to eclipse the entire circle. In the sudden darkness, you can see the others beside you, suspended at different angles, their faces lit by the same red point.
+>The light stretches into a line. You feel it pass through your chest, followed by a pressure that spreads down both arms. For a moment, you can feel the position of every person around you with the same immediacy as your own hands. You reach toward one another. Your fingers meet cold stone.
+>You are back in the cave. Someone draws a breath, and the sound carries farther than it did before. The anomaly has vanished. A seam you remember beneath it still cuts across the floor, but the wall beyond now stands several paces closer. Your entrance has closed into solid rock. To your right, a low passage opens beneath a shelf of dark crystal, with a faint current of air coming through it. Small angular lights remain visible beneath your skin for another heartbeat, then fade.

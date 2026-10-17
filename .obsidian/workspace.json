@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sessions/Session 3.md",
-                "mode": "preview",
+                "file": "Campaign/GM Notes/Quantum_Cave_Session_3_GM_Guide.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3"
+              "title": "Quantum_Cave_Session_3_GM_Guide"
             }
           }
         ]
@@ -214,8 +214,9 @@
   },
   "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
-    "Campaign/Player Handouts/Session3handout.pdf",
     "Campaign/Sessions/Session 3.md",
+    "Campaign/GM Notes/Quantum_Cave_Session_3_GM_Guide.md",
+    "Campaign/Player Handouts/Session3handout.pdf",
     "Campaign/Player Handouts/Session 3 Handouts.json",
     "Worldbuilding/Mechanics/Environmental Features/Quantum Caves.md",
     "Campaign/Sessions/Session 2.md",
