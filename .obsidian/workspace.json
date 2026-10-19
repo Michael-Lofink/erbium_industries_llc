@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign/Sessions/Session 4.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Session 4"
@@ -215,8 +215,8 @@
   "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
     "Campaign/Sessions/Session 3.md",
-    "Campaign/Sessions/Session 2.md",
     "Campaign/Sessions/Session 4.md",
+    "Campaign/Sessions/Session 2.md",
     "Campaign/Sessions/Session 1.md",
     "Campaign/GM Notes/Quantum_Cave_Session_3_GM_Guide.md",
     "Campaign/OBS_ASSETS/Session 3/Midnight Basalt Valley Beneath a Teal Giant.png",
