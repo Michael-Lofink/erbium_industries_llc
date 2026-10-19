@@ -5,10 +5,14 @@ stamp-start-minute: 8472389
 type: session
 stamp-session-id: pes-mv03bw0e-ep0mpbh4
 stamp-lapse-size: 16777216
-stamp-status: prep
+stamp-status: completed
 stamp-planned-minutes: 0
-stamp-actual-minutes: 0
+stamp-actual-minutes: 60
 stamp-sync-status: unspecified
+stamp-end-lapse: 29
+stamp-end-minute: 8472449
+stamp-commit-id: pes-mv03bw0e-ep0mpbh4
+elapsed-minutes: 60
 ---
 
 
