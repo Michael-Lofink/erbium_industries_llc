@@ -245,7 +245,7 @@ When a player’s action could release a feature:
 
 > Pale blue light fills an enclosed cavern beyond the doorway. At its center, translucent facets hang around a brilliant white core, separating and turning before sliding back into alignment. The rock behind them appears displaced across their surfaces. Fine threads of light connect the outer fragments with faint, dry clicks, and a low vibration carries through the floor.
 
-**Contact:** Once someone touches the anomaly while the team is gathered here, run the shared vision. All four gain **Parted the Fabric** and the individual ability you assign. Use the interaction passage in [[Session 3]]; its final return paragraph is replaced below to match this layout.
+**Contact:** Once someone touches the anomaly while the team is gathered here, run the shared vision. All four gain **Parted the Fabric** and the individual ability you assign. Use the interaction passage in [[Campaign/Sessions/Session 3]]; its final return paragraph is replaced below to match this layout.
 
 ### Read aloud — returning from the vision
 

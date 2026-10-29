@@ -1,0 +1,1516 @@
+{
+  "backings": [
+    {
+      "id": "Entrance-NW",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 8.4,
+      "height_inches": 12.582658,
+      "rotation_clockwise": 90,
+      "map_width_inches": 12.582658,
+      "map_height_inches": 8.4,
+      "panels": [
+        "Entrance-NW-R1C1",
+        "Entrance-NW-R1C2"
+      ],
+      "cut_sha256": "9b8da6b55b803e49b3182018444ff1cf47f9f7aae5c02eeccc19df5bb4e7c2f9"
+    },
+    {
+      "id": "Entrance-NE",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 8.4,
+      "height_inches": 12.194393,
+      "rotation_clockwise": 90,
+      "map_width_inches": 12.194393,
+      "map_height_inches": 8.4,
+      "panels": [
+        "Entrance-NE-R1C1",
+        "Entrance-NE-R1C2"
+      ],
+      "cut_sha256": "5ee09a493105260814176d8c434261b1c83e5dc64e8b64835720561aa1fa8ae6"
+    },
+    {
+      "id": "Entrance-SW",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 8.6,
+      "height_inches": 12.58,
+      "rotation_clockwise": 90,
+      "map_width_inches": 12.58,
+      "map_height_inches": 8.6,
+      "panels": [
+        "Entrance-SW-R1C1",
+        "Entrance-SW-R1C2"
+      ],
+      "cut_sha256": "70deac83eff749d3bd9da601fedeef2a662974f1623999f9bede2ec73f0eb8f3"
+    },
+    {
+      "id": "Entrance-SE",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 8.6,
+      "height_inches": 12.184404,
+      "rotation_clockwise": 90,
+      "map_width_inches": 12.184404,
+      "map_height_inches": 8.6,
+      "panels": [
+        "Entrance-SE-R1C1",
+        "Entrance-SE-R1C2"
+      ],
+      "cut_sha256": "82f693cfcf1d6f83eca4187206bd556c41cb4600d01eda84432916a30648aa02"
+    },
+    {
+      "id": "Entrance-Passage",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 5.434558,
+      "height_inches": 9.2,
+      "rotation_clockwise": 0,
+      "map_width_inches": 5.434558,
+      "map_height_inches": 9.2,
+      "panels": [
+        "Entrance-Passage-R1C1",
+        "Entrance-Passage-R2C1"
+      ],
+      "cut_sha256": "2df72b9910e5d6e13036e7dbe050ff1038788bf57ce0d78abfa96a1f01281ac4"
+    },
+    {
+      "id": "Nest-Junction",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 9.4,
+      "height_inches": 8.379172,
+      "rotation_clockwise": 0,
+      "map_width_inches": 9.4,
+      "map_height_inches": 8.379172,
+      "panels": [
+        "Nest-Junction-R1C1",
+        "Nest-Junction-R1C2"
+      ],
+      "cut_sha256": "cbcb6d730fde626745d895142fa121acd048aecf1e3c926f0ad0187226caaf61"
+    },
+    {
+      "id": "Feeding-West",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 7.199463,
+      "height_inches": 10.388142,
+      "rotation_clockwise": 0,
+      "map_width_inches": 7.199463,
+      "map_height_inches": 10.388142,
+      "panels": [
+        "Feeding-West-R1C1",
+        "Feeding-West-R2C1"
+      ],
+      "cut_sha256": "a3dbde61ece73d52ff70adff34f00952ab56788c75af89fbb50386ca5a2628cb"
+    },
+    {
+      "id": "Feeding-East",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 7.6,
+      "height_inches": 10.383397,
+      "rotation_clockwise": 0,
+      "map_width_inches": 7.6,
+      "map_height_inches": 10.383397,
+      "panels": [
+        "Feeding-East-R1C1",
+        "Feeding-East-R2C1"
+      ],
+      "cut_sha256": "242bc61e6a2f6ad170c169c28360c9d35269d37a3ff48468f20cd6f677db30f0"
+    },
+    {
+      "id": "Lift-Cavern",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 10.390067,
+      "height_inches": 8.388374,
+      "rotation_clockwise": 0,
+      "map_width_inches": 10.390067,
+      "map_height_inches": 8.388374,
+      "panels": [
+        "Lift-Cavern-R1C1",
+        "Lift-Cavern-R1C2"
+      ],
+      "cut_sha256": "7351cda5d962bcb2c1307fff51d28c0d8800f8debe34a46007643fd97c26f482"
+    },
+    {
+      "id": "West-Passage-A",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 9.58,
+      "height_inches": 5.38,
+      "rotation_clockwise": 0,
+      "map_width_inches": 9.58,
+      "map_height_inches": 5.38,
+      "panels": [
+        "West-Passage-A-R1C1",
+        "West-Passage-A-R1C2"
+      ],
+      "cut_sha256": "b94e47d77d0bd1986523fe43579e54afd0758d644aea779f76bdc31889695484"
+    },
+    {
+      "id": "West-Passage-B",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 8.9,
+      "height_inches": 2.36,
+      "rotation_clockwise": 0,
+      "map_width_inches": 8.9,
+      "map_height_inches": 2.36,
+      "panels": [
+        "West-Passage-B-R1C1",
+        "West-Passage-B-R1C2"
+      ],
+      "cut_sha256": "a81043125d6b62200c47043290df53b4342e5a5e516dd98264976e61cdb4ff34"
+    },
+    {
+      "id": "East-Passage-A",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 8.9,
+      "height_inches": 2.36,
+      "rotation_clockwise": 0,
+      "map_width_inches": 8.9,
+      "map_height_inches": 2.36,
+      "panels": [
+        "East-Passage-A-R1C1",
+        "East-Passage-A-R1C2"
+      ],
+      "cut_sha256": "44830648c669862c94ef78e9f61b3698228da5ed7e0a7b46a7d58c2c293dc9bb"
+    },
+    {
+      "id": "East-Passage-B",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 8.18,
+      "height_inches": 7.38,
+      "rotation_clockwise": 0,
+      "map_width_inches": 8.18,
+      "map_height_inches": 7.38,
+      "panels": [
+        "East-Passage-B-R1C1",
+        "East-Passage-B-R2C1"
+      ],
+      "cut_sha256": "743c0240454074549eaea8e7878f2632dc62f4cf42bc79f25759b5d4fe44d5c2"
+    },
+    {
+      "id": "Low-Tunnel-A",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 1.36,
+      "height_inches": 13.2,
+      "rotation_clockwise": 90,
+      "map_width_inches": 13.2,
+      "map_height_inches": 1.36,
+      "panels": [
+        "Low-Tunnel-A-R1C1",
+        "Low-Tunnel-A-R1C2"
+      ],
+      "cut_sha256": "7559711198197a58f41f9ed934b3991b5e9467b81cd7ed75f7276679dfd99404"
+    },
+    {
+      "id": "Low-Tunnel-B",
+      "kind": "fixed",
+      "panel": "lower",
+      "family": null,
+      "width_inches": 3.36,
+      "height_inches": 13.2,
+      "rotation_clockwise": 90,
+      "map_width_inches": 13.2,
+      "map_height_inches": 3.36,
+      "panels": [
+        "Low-Tunnel-B-R1C1",
+        "Low-Tunnel-B-R1C2"
+      ],
+      "cut_sha256": "f297d0402fa60a773772d9d2fe5222b685ebc95a31d2979751d431c4d79ee011"
+    },
+    {
+      "id": "Gallery-West",
+      "kind": "fixed",
+      "panel": "upper",
+      "family": null,
+      "width_inches": 10.58,
+      "height_inches": 9.36,
+      "rotation_clockwise": 0,
+      "map_width_inches": 10.58,
+      "map_height_inches": 9.36,
+      "panels": [
+        "Gallery-West-R1C1",
+        "Gallery-West-R1C2",
+        "Gallery-West-R2C1"
+      ],
+      "cut_sha256": "75ea03ff421b9a583bc01e9d63913e3ea78d39c59fd5eee7eef6480621282b9a"
+    },
+    {
+      "id": "Gallery-Middle",
+      "kind": "fixed",
+      "panel": "upper",
+      "family": null,
+      "width_inches": 10.4,
+      "height_inches": 7.36,
+      "rotation_clockwise": 0,
+      "map_width_inches": 10.4,
+      "map_height_inches": 7.36,
+      "panels": [
+        "Gallery-Middle-R1C1",
+        "Gallery-Middle-R1C2"
+      ],
+      "cut_sha256": "ceb3c403cc8a89ddc58396b8a37e64882e083bc11f636af834a4437747df5b25"
+    },
+    {
+      "id": "Gallery-East",
+      "kind": "fixed",
+      "panel": "upper",
+      "family": null,
+      "width_inches": 10.18,
+      "height_inches": 8.36,
+      "rotation_clockwise": 0,
+      "map_width_inches": 10.18,
+      "map_height_inches": 8.36,
+      "panels": [
+        "Gallery-East-R1C1",
+        "Gallery-East-R1C2"
+      ],
+      "cut_sha256": "6e9e2169abd35ad67a0c763807990db31528b59a2ac8cf30671828769bec1774"
+    },
+    {
+      "id": "Grotto-West",
+      "kind": "fixed",
+      "panel": "deep",
+      "family": null,
+      "width_inches": 8.58,
+      "height_inches": 10.369932,
+      "rotation_clockwise": 0,
+      "map_width_inches": 8.58,
+      "map_height_inches": 10.369932,
+      "panels": [
+        "Grotto-West-R1C1",
+        "Grotto-West-R2C1"
+      ],
+      "cut_sha256": "9ee4427d344116a198042434875c46f35bbbd8ab8326d4cdcd7defefce01160f"
+    },
+    {
+      "id": "Grotto-East",
+      "kind": "fixed",
+      "panel": "deep",
+      "family": null,
+      "width_inches": 8.18,
+      "height_inches": 10.36737,
+      "rotation_clockwise": 0,
+      "map_width_inches": 8.18,
+      "map_height_inches": 10.36737,
+      "panels": [
+        "Grotto-East-R1C1",
+        "Grotto-East-R2C1"
+      ],
+      "cut_sha256": "dee605e49926ce4c7b50d5730df4f15fc2cb6bd6d55802b741e8cf32ee85d7f2"
+    },
+    {
+      "id": "Q1-Bright-Side",
+      "kind": "mouth",
+      "panel": "lower",
+      "family": "Q1",
+      "width_inches": 2.4,
+      "height_inches": 12.0,
+      "rotation_clockwise": 90,
+      "map_width_inches": 12.0,
+      "map_height_inches": 2.4,
+      "panels": [
+        "Q1-Bright-Side-R1C1",
+        "Q1-Bright-Side-R1C2"
+      ],
+      "cut_sha256": "94596d86e6f3933d6b4de1e0027e1ba6bf6e61e31ef8da73e379a4af54fa44e1"
+    },
+    {
+      "id": "Q1-Dark-Side",
+      "kind": "mouth",
+      "panel": "lower",
+      "family": "Q1",
+      "width_inches": 2.4,
+      "height_inches": 12.0,
+      "rotation_clockwise": 90,
+      "map_width_inches": 12.0,
+      "map_height_inches": 2.4,
+      "panels": [
+        "Q1-Dark-Side-R1C1",
+        "Q1-Dark-Side-R1C2"
+      ],
+      "cut_sha256": "94596d86e6f3933d6b4de1e0027e1ba6bf6e61e31ef8da73e379a4af54fa44e1"
+    },
+    {
+      "id": "Q1-Underground",
+      "kind": "mouth",
+      "panel": "lower",
+      "family": "Q1",
+      "width_inches": 2.4,
+      "height_inches": 12.0,
+      "rotation_clockwise": 90,
+      "map_width_inches": 12.0,
+      "map_height_inches": 2.4,
+      "panels": [
+        "Q1-Underground-R1C1",
+        "Q1-Underground-R1C2"
+      ],
+      "cut_sha256": "94596d86e6f3933d6b4de1e0027e1ba6bf6e61e31ef8da73e379a4af54fa44e1"
+    },
+    {
+      "id": "Q2-Slab",
+      "kind": "slab",
+      "panel": null,
+      "family": "Q2",
+      "width_inches": 3.4,
+      "height_inches": 3.0,
+      "rotation_clockwise": 0,
+      "map_width_inches": 3.4,
+      "map_height_inches": 3.0,
+      "panels": [
+        "Q2-Slab-R1C1"
+      ],
+      "cut_sha256": "105a90d8c2ba05d16e3db63ab140bbcf79f3bb86a1557c19c8321ac90eee72c7"
+    },
+    {
+      "id": "Q2-Lower-Empty",
+      "kind": "lower-empty",
+      "panel": null,
+      "family": "Q2",
+      "width_inches": 3.4,
+      "height_inches": 3.0,
+      "rotation_clockwise": 0,
+      "map_width_inches": 3.4,
+      "map_height_inches": 3.0,
+      "panels": [
+        "Q2-Lower-Empty-R1C1"
+      ],
+      "cut_sha256": "105a90d8c2ba05d16e3db63ab140bbcf79f3bb86a1557c19c8321ac90eee72c7"
+    },
+    {
+      "id": "Q2-Upper-Empty",
+      "kind": "upper-empty",
+      "panel": null,
+      "family": "Q2",
+      "width_inches": 3.4,
+      "height_inches": 3.0,
+      "rotation_clockwise": 0,
+      "map_width_inches": 3.4,
+      "map_height_inches": 3.0,
+      "panels": [
+        "Q2-Upper-Empty-R1C1"
+      ],
+      "cut_sha256": "105a90d8c2ba05d16e3db63ab140bbcf79f3bb86a1557c19c8321ac90eee72c7"
+    },
+    {
+      "id": "Q3-Room",
+      "kind": "room",
+      "panel": null,
+      "family": "Q3",
+      "width_inches": 4.4,
+      "height_inches": 4.0,
+      "rotation_clockwise": 0,
+      "map_width_inches": 4.4,
+      "map_height_inches": 4.0,
+      "panels": [
+        "Q3-Room-R1C1"
+      ],
+      "cut_sha256": "2034182230d8638b4494ba1410c82b2391d829f00554f92821934e1e43940cad"
+    },
+    {
+      "id": "Q3-Empty",
+      "kind": "room-empty",
+      "panel": null,
+      "family": "Q3",
+      "width_inches": 4.4,
+      "height_inches": 4.0,
+      "rotation_clockwise": 0,
+      "map_width_inches": 4.4,
+      "map_height_inches": 4.0,
+      "panels": [
+        "Q3-Empty-R1C1"
+      ],
+      "cut_sha256": "2034182230d8638b4494ba1410c82b2391d829f00554f92821934e1e43940cad"
+    },
+    {
+      "id": "Ship-Hull",
+      "kind": "ship",
+      "panel": null,
+      "family": null,
+      "width_inches": 10.0,
+      "height_inches": 11.8,
+      "rotation_clockwise": 0,
+      "map_width_inches": 10.0,
+      "map_height_inches": 11.8,
+      "panels": [
+        "Ship-Hull-R1C1",
+        "Ship-Hull-R1C2",
+        "Ship-Hull-R2C1",
+        "Ship-Hull-R2C2"
+      ],
+      "cut_sha256": "09ee7b71ade4af10d19de100606311459fbe6e44ed898d0628a308949946efa6"
+    },
+    {
+      "id": "Ship-Ramp",
+      "kind": "ship",
+      "panel": null,
+      "family": null,
+      "width_inches": 2.155172,
+      "height_inches": 1.5,
+      "rotation_clockwise": 0,
+      "map_width_inches": 2.155172,
+      "map_height_inches": 1.5,
+      "panels": [
+        "Ship-Ramp-R1C1"
+      ],
+      "cut_sha256": "6f4c331efc3efa964bca5dd8a38988e10f6a518d95018f09ec983c61073bed4f"
+    },
+    {
+      "id": "Anomaly",
+      "kind": "anomaly",
+      "panel": null,
+      "family": null,
+      "width_inches": 3.0,
+      "height_inches": 3.0,
+      "rotation_clockwise": 0,
+      "map_width_inches": 3.0,
+      "map_height_inches": 3.0,
+      "panels": [
+        "Anomaly-R1C1"
+      ],
+      "cut_sha256": "43356446f97cfd2966702bd5001f071761bb5d31ff1009bc6c21b329b9fc3718"
+    },
+    {
+      "id": "Maintenance-Case",
+      "kind": "case",
+      "panel": null,
+      "family": null,
+      "width_inches": 1.1,
+      "height_inches": 0.85,
+      "rotation_clockwise": 0,
+      "map_width_inches": 1.1,
+      "map_height_inches": 0.85,
+      "panels": [
+        "Maintenance-Case-R1C1"
+      ],
+      "cut_sha256": "a86056f006af584f9ea56564f3f2454ff986e42e7871ca4af371ae980cb59db1"
+    }
+  ],
+  "cardstock_panels": [
+    {
+      "id": "Entrance-NW-R1C1",
+      "backing": "Entrance-NW",
+      "width_inches": 6.291329,
+      "height_inches": 8.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        17.817342091494652,
+        2.0,
+        24.108671045747325,
+        10.399999999999999
+      ],
+      "png": "Entrance-NW-R1C1.png",
+      "pdf_page": 1
+    },
+    {
+      "id": "Entrance-NW-R1C2",
+      "backing": "Entrance-NW",
+      "width_inches": 6.291329,
+      "height_inches": 8.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        24.108671045747325,
+        2.0,
+        30.4,
+        10.399999999999999
+      ],
+      "png": "Entrance-NW-R1C2.png",
+      "pdf_page": 2
+    },
+    {
+      "id": "Entrance-NE-R1C1",
+      "backing": "Entrance-NE",
+      "width_inches": 6.097196,
+      "height_inches": 8.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        30.0,
+        2.0,
+        36.09719647229289,
+        10.400000000000006
+      ],
+      "png": "Entrance-NE-R1C1.png",
+      "pdf_page": 3
+    },
+    {
+      "id": "Entrance-NE-R1C2",
+      "backing": "Entrance-NE",
+      "width_inches": 6.097196,
+      "height_inches": 8.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        36.09719647229289,
+        2.0,
+        42.19439294458578,
+        10.400000000000006
+      ],
+      "png": "Entrance-NE-R1C2.png",
+      "pdf_page": 4
+    },
+    {
+      "id": "Entrance-SW-R1C1",
+      "backing": "Entrance-SW",
+      "width_inches": 6.29,
+      "height_inches": 8.18957,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        17.82,
+        10.0,
+        24.11,
+        18.18956985855838
+      ],
+      "png": "Entrance-SW-R1C1.png",
+      "pdf_page": 5
+    },
+    {
+      "id": "Entrance-SW-R1C2",
+      "backing": "Entrance-SW",
+      "width_inches": 6.29,
+      "height_inches": 8.6,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        24.11,
+        10.0,
+        30.4,
+        18.599999999999998
+      ],
+      "png": "Entrance-SW-R1C2.png",
+      "pdf_page": 6
+    },
+    {
+      "id": "Entrance-SE-R1C1",
+      "backing": "Entrance-SE",
+      "width_inches": 6.092202,
+      "height_inches": 8.6,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        30.0,
+        10.0,
+        36.09220203070667,
+        18.599999999999998
+      ],
+      "png": "Entrance-SE-R1C1.png",
+      "pdf_page": 7
+    },
+    {
+      "id": "Entrance-SE-R1C2",
+      "backing": "Entrance-SE",
+      "width_inches": 6.092202,
+      "height_inches": 8.182866,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        36.09220203070667,
+        10.0,
+        42.18440406141335,
+        18.18286607994654
+      ],
+      "png": "Entrance-SE-R1C2.png",
+      "pdf_page": 8
+    },
+    {
+      "id": "Entrance-Passage-R1C1",
+      "backing": "Entrance-Passage",
+      "width_inches": 5.36,
+      "height_inches": 4.6,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        28.82,
+        18.2,
+        34.18,
+        22.800000000000004
+      ],
+      "png": "Entrance-Passage-R1C1.png",
+      "pdf_page": 9
+    },
+    {
+      "id": "Entrance-Passage-R2C1",
+      "backing": "Entrance-Passage",
+      "width_inches": 2.948505,
+      "height_inches": 4.6,
+      "rotation_ccw": 0,
+      "row": 2,
+      "column": 1,
+      "bounds": [
+        31.30605353486153,
+        22.800000000000004,
+        34.25455844122716,
+        27.400000000000006
+      ],
+      "png": "Entrance-Passage-R2C1.png",
+      "pdf_page": 10
+    },
+    {
+      "id": "Nest-Junction-R1C1",
+      "backing": "Nest-Junction",
+      "width_inches": 4.7,
+      "height_inches": 8.369586,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        26.5,
+        26.810413895697867,
+        31.200000000000003,
+        35.18
+      ],
+      "png": "Nest-Junction-R1C1.png",
+      "pdf_page": 11
+    },
+    {
+      "id": "Nest-Junction-R1C2",
+      "backing": "Nest-Junction",
+      "width_inches": 4.7,
+      "height_inches": 8.189586,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        31.200000000000003,
+        27.0,
+        35.900000000000006,
+        35.18958610430214
+      ],
+      "png": "Nest-Junction-R1C2.png",
+      "pdf_page": 12
+    },
+    {
+      "id": "Feeding-West-R1C1",
+      "backing": "Feeding-West",
+      "width_inches": 5.194071,
+      "height_inches": 7.190581,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        2.8094190982383376,
+        35.8,
+        10.0,
+        40.9940710773949
+      ],
+      "png": "Feeding-West-R1C1.png",
+      "pdf_page": 13
+    },
+    {
+      "id": "Feeding-West-R2C1",
+      "backing": "Feeding-West",
+      "width_inches": 5.194071,
+      "height_inches": 7.193161,
+      "rotation_ccw": 90,
+      "row": 2,
+      "column": 1,
+      "bounds": [
+        2.8157215186965963,
+        40.9940710773949,
+        10.00888241198533,
+        46.1881421547898
+      ],
+      "png": "Feeding-West-R2C1.png",
+      "pdf_page": 14
+    },
+    {
+      "id": "Feeding-East-R1C1",
+      "backing": "Feeding-East",
+      "width_inches": 5.191699,
+      "height_inches": 7.6,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        10.0,
+        35.8,
+        17.599999999999998,
+        40.99169853054269
+      ],
+      "png": "Feeding-East-R1C1.png",
+      "pdf_page": 15
+    },
+    {
+      "id": "Feeding-East-R2C1",
+      "backing": "Feeding-East",
+      "width_inches": 5.191699,
+      "height_inches": 7.190581,
+      "rotation_ccw": 90,
+      "row": 2,
+      "column": 1,
+      "bounds": [
+        10.0,
+        40.99169853054269,
+        17.19058090176166,
+        46.18339706108538
+      ],
+      "png": "Feeding-East-R2C1.png",
+      "pdf_page": 16
+    },
+    {
+      "id": "Lift-Cavern-R1C1",
+      "backing": "Lift-Cavern",
+      "width_inches": 5.195034,
+      "height_inches": 8.365708,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        42.8,
+        37.82,
+        47.995033684292544,
+        46.185708157831044
+      ],
+      "png": "Lift-Cavern-R1C1.png",
+      "pdf_page": 17
+    },
+    {
+      "id": "Lift-Cavern-R1C2",
+      "backing": "Lift-Cavern",
+      "width_inches": 5.195034,
+      "height_inches": 8.388374,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        47.995033684292544,
+        37.8,
+        53.19006736858509,
+        46.1883739030929
+      ],
+      "png": "Lift-Cavern-R1C2.png",
+      "pdf_page": 18
+    },
+    {
+      "id": "West-Passage-A-R1C1",
+      "backing": "West-Passage-A",
+      "width_inches": 4.79,
+      "height_inches": 5.38,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        8.82,
+        30.82,
+        13.61,
+        36.199999999999996
+      ],
+      "png": "West-Passage-A-R1C1.png",
+      "pdf_page": 19
+    },
+    {
+      "id": "West-Passage-A-R1C2",
+      "backing": "West-Passage-A",
+      "width_inches": 4.79,
+      "height_inches": 2.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        13.61,
+        30.82,
+        18.4,
+        33.18
+      ],
+      "png": "West-Passage-A-R1C2.png",
+      "pdf_page": 20
+    },
+    {
+      "id": "West-Passage-B-R1C1",
+      "backing": "West-Passage-B",
+      "width_inches": 4.45,
+      "height_inches": 2.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        18.0,
+        30.82,
+        22.45,
+        33.18
+      ],
+      "png": "West-Passage-B-R1C1.png",
+      "pdf_page": 21
+    },
+    {
+      "id": "West-Passage-B-R1C2",
+      "backing": "West-Passage-B",
+      "width_inches": 4.45,
+      "height_inches": 2.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        22.45,
+        30.82,
+        26.9,
+        33.18
+      ],
+      "png": "West-Passage-B-R1C2.png",
+      "pdf_page": 22
+    },
+    {
+      "id": "East-Passage-A-R1C1",
+      "backing": "East-Passage-A",
+      "width_inches": 4.45,
+      "height_inches": 2.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        35.5,
+        30.82,
+        39.95,
+        33.18
+      ],
+      "png": "East-Passage-A-R1C1.png",
+      "pdf_page": 23
+    },
+    {
+      "id": "East-Passage-A-R1C2",
+      "backing": "East-Passage-A",
+      "width_inches": 4.45,
+      "height_inches": 2.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        39.95,
+        30.82,
+        44.400000000000006,
+        33.18
+      ],
+      "png": "East-Passage-A-R1C2.png",
+      "pdf_page": 24
+    },
+    {
+      "id": "East-Passage-B-R1C1",
+      "backing": "East-Passage-B",
+      "width_inches": 3.69,
+      "height_inches": 8.18,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        44.0,
+        30.82,
+        52.18,
+        34.510000000000005
+      ],
+      "png": "East-Passage-B-R1C1.png",
+      "pdf_page": 25
+    },
+    {
+      "id": "East-Passage-B-R2C1",
+      "backing": "East-Passage-B",
+      "width_inches": 2.36,
+      "height_inches": 3.69,
+      "rotation_ccw": 0,
+      "row": 2,
+      "column": 1,
+      "bounds": [
+        49.82,
+        34.510000000000005,
+        52.18,
+        38.2
+      ],
+      "png": "East-Passage-B-R2C1.png",
+      "pdf_page": 26
+    },
+    {
+      "id": "Low-Tunnel-A-R1C1",
+      "backing": "Low-Tunnel-A",
+      "width_inches": 1.36,
+      "height_inches": 6.6,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        17.2,
+        38.82,
+        23.799999999999997,
+        40.18
+      ],
+      "png": "Low-Tunnel-A-R1C1.png",
+      "pdf_page": 27
+    },
+    {
+      "id": "Low-Tunnel-A-R1C2",
+      "backing": "Low-Tunnel-A",
+      "width_inches": 1.36,
+      "height_inches": 6.6,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        23.799999999999997,
+        38.82,
+        30.4,
+        40.18
+      ],
+      "png": "Low-Tunnel-A-R1C2.png",
+      "pdf_page": 28
+    },
+    {
+      "id": "Low-Tunnel-B-R1C1",
+      "backing": "Low-Tunnel-B",
+      "width_inches": 1.36,
+      "height_inches": 6.6,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        30.0,
+        38.82,
+        36.6,
+        40.18
+      ],
+      "png": "Low-Tunnel-B-R1C1.png",
+      "pdf_page": 29
+    },
+    {
+      "id": "Low-Tunnel-B-R1C2",
+      "backing": "Low-Tunnel-B",
+      "width_inches": 3.36,
+      "height_inches": 6.6,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        36.6,
+        38.82,
+        43.2,
+        42.18
+      ],
+      "png": "Low-Tunnel-B-R1C2.png",
+      "pdf_page": 30
+    },
+    {
+      "id": "Gallery-West-R1C1",
+      "backing": "Gallery-West",
+      "width_inches": 5.29,
+      "height_inches": 4.68,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        2.82,
+        2.82,
+        8.11,
+        7.5
+      ],
+      "png": "Gallery-West-R1C1.png",
+      "pdf_page": 31
+    },
+    {
+      "id": "Gallery-West-R1C2",
+      "backing": "Gallery-West",
+      "width_inches": 5.29,
+      "height_inches": 4.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        8.11,
+        2.82,
+        13.399999999999999,
+        7.18
+      ],
+      "png": "Gallery-West-R1C2.png",
+      "pdf_page": 32
+    },
+    {
+      "id": "Gallery-West-R2C1",
+      "backing": "Gallery-West",
+      "width_inches": 2.36,
+      "height_inches": 4.68,
+      "rotation_ccw": 0,
+      "row": 2,
+      "column": 1,
+      "bounds": [
+        2.82,
+        7.5,
+        5.18,
+        12.18
+      ],
+      "png": "Gallery-West-R2C1.png",
+      "pdf_page": 33
+    },
+    {
+      "id": "Gallery-Middle-R1C1",
+      "backing": "Gallery-Middle",
+      "width_inches": 5.2,
+      "height_inches": 7.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        13.0,
+        2.82,
+        18.2,
+        10.18
+      ],
+      "png": "Gallery-Middle-R1C1.png",
+      "pdf_page": 34
+    },
+    {
+      "id": "Gallery-Middle-R1C2",
+      "backing": "Gallery-Middle",
+      "width_inches": 5.2,
+      "height_inches": 7.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        18.2,
+        2.82,
+        23.4,
+        10.18
+      ],
+      "png": "Gallery-Middle-R1C2.png",
+      "pdf_page": 35
+    },
+    {
+      "id": "Gallery-East-R1C1",
+      "backing": "Gallery-East",
+      "width_inches": 5.09,
+      "height_inches": 8.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        23.0,
+        2.82,
+        28.09,
+        11.18
+      ],
+      "png": "Gallery-East-R1C1.png",
+      "pdf_page": 36
+    },
+    {
+      "id": "Gallery-East-R1C2",
+      "backing": "Gallery-East",
+      "width_inches": 5.09,
+      "height_inches": 8.36,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        28.09,
+        2.82,
+        33.18,
+        11.18
+      ],
+      "png": "Gallery-East-R1C2.png",
+      "pdf_page": 37
+    },
+    {
+      "id": "Grotto-West-R1C1",
+      "backing": "Grotto-West",
+      "width_inches": 5.184966,
+      "height_inches": 8.58,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        1.82,
+        2.8162423680335946,
+        10.399999999999999,
+        8.001208451318842
+      ],
+      "png": "Grotto-West-R1C1.png",
+      "pdf_page": 38
+    },
+    {
+      "id": "Grotto-West-R2C1",
+      "backing": "Grotto-West",
+      "width_inches": 5.184966,
+      "height_inches": 8.58,
+      "rotation_ccw": 90,
+      "row": 2,
+      "column": 1,
+      "bounds": [
+        1.82,
+        8.001208451318842,
+        10.399999999999999,
+        13.186174534604088
+      ],
+      "png": "Grotto-West-R2C1.png",
+      "pdf_page": 39
+    },
+    {
+      "id": "Grotto-East-R1C1",
+      "backing": "Grotto-East",
+      "width_inches": 5.183685,
+      "height_inches": 8.18,
+      "rotation_ccw": 90,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        10.0,
+        2.81880403784653,
+        18.18,
+        8.002489286225309
+      ],
+      "png": "Grotto-East-R1C1.png",
+      "pdf_page": 40
+    },
+    {
+      "id": "Grotto-East-R2C1",
+      "backing": "Grotto-East",
+      "width_inches": 5.183685,
+      "height_inches": 8.18,
+      "rotation_ccw": 90,
+      "row": 2,
+      "column": 1,
+      "bounds": [
+        10.0,
+        8.002489286225309,
+        18.18,
+        13.186174534604088
+      ],
+      "png": "Grotto-East-R2C1.png",
+      "pdf_page": 41
+    },
+    {
+      "id": "Q1-Bright-Side-R1C1",
+      "backing": "Q1-Bright-Side",
+      "width_inches": 6.0,
+      "height_inches": 2.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        24.0,
+        0.0,
+        30.0,
+        2.3999999999999986
+      ],
+      "png": "Q1-Bright-Side-R1C1.png",
+      "pdf_page": 42
+    },
+    {
+      "id": "Q1-Bright-Side-R1C2",
+      "backing": "Q1-Bright-Side",
+      "width_inches": 6.0,
+      "height_inches": 2.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        30.0,
+        0.0,
+        36.0,
+        2.4000000000000057
+      ],
+      "png": "Q1-Bright-Side-R1C2.png",
+      "pdf_page": 43
+    },
+    {
+      "id": "Q1-Dark-Side-R1C1",
+      "backing": "Q1-Dark-Side",
+      "width_inches": 6.0,
+      "height_inches": 2.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        24.0,
+        0.0,
+        30.0,
+        2.3999999999999986
+      ],
+      "png": "Q1-Dark-Side-R1C1.png",
+      "pdf_page": 44
+    },
+    {
+      "id": "Q1-Dark-Side-R1C2",
+      "backing": "Q1-Dark-Side",
+      "width_inches": 6.0,
+      "height_inches": 2.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        30.0,
+        0.0,
+        36.0,
+        2.4000000000000057
+      ],
+      "png": "Q1-Dark-Side-R1C2.png",
+      "pdf_page": 45
+    },
+    {
+      "id": "Q1-Underground-R1C1",
+      "backing": "Q1-Underground",
+      "width_inches": 6.0,
+      "height_inches": 2.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        24.0,
+        0.0,
+        30.0,
+        2.3999999999999986
+      ],
+      "png": "Q1-Underground-R1C1.png",
+      "pdf_page": 46
+    },
+    {
+      "id": "Q1-Underground-R1C2",
+      "backing": "Q1-Underground",
+      "width_inches": 6.0,
+      "height_inches": 2.4,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        30.0,
+        0.0,
+        36.0,
+        2.4000000000000057
+      ],
+      "png": "Q1-Underground-R1C2.png",
+      "pdf_page": 47
+    },
+    {
+      "id": "Q2-Slab-R1C1",
+      "backing": "Q2-Slab",
+      "width_inches": 3.4,
+      "height_inches": 3.0,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        0.0,
+        0.0,
+        3.4000000000000004,
+        3.0
+      ],
+      "png": "Q2-Slab-R1C1.png",
+      "pdf_page": 48
+    },
+    {
+      "id": "Q2-Lower-Empty-R1C1",
+      "backing": "Q2-Lower-Empty",
+      "width_inches": 3.4,
+      "height_inches": 3.0,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        0.0,
+        0.0,
+        3.4000000000000004,
+        3.0
+      ],
+      "png": "Q2-Lower-Empty-R1C1.png",
+      "pdf_page": 49
+    },
+    {
+      "id": "Q2-Upper-Empty-R1C1",
+      "backing": "Q2-Upper-Empty",
+      "width_inches": 3.4,
+      "height_inches": 3.0,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        0.0,
+        0.0,
+        3.4000000000000004,
+        3.0
+      ],
+      "png": "Q2-Upper-Empty-R1C1.png",
+      "pdf_page": 50
+    },
+    {
+      "id": "Q3-Room-R1C1",
+      "backing": "Q3-Room",
+      "width_inches": 4.4,
+      "height_inches": 4.0,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        0.0,
+        0.0,
+        4.4,
+        4.0
+      ],
+      "png": "Q3-Room-R1C1.png",
+      "pdf_page": 51
+    },
+    {
+      "id": "Q3-Empty-R1C1",
+      "backing": "Q3-Empty",
+      "width_inches": 4.4,
+      "height_inches": 4.0,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        0.0,
+        0.0,
+        4.4,
+        4.0
+      ],
+      "png": "Q3-Empty-R1C1.png",
+      "pdf_page": 52
+    },
+    {
+      "id": "Ship-Hull-R1C1",
+      "backing": "Ship-Hull",
+      "width_inches": 3.546154,
+      "height_inches": 5.9,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        1.4538461538461538,
+        0.0,
+        5.0,
+        5.9
+      ],
+      "png": "Ship-Hull-R1C1.png",
+      "pdf_page": 53
+    },
+    {
+      "id": "Ship-Hull-R1C2",
+      "backing": "Ship-Hull",
+      "width_inches": 3.546154,
+      "height_inches": 5.9,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 2,
+      "bounds": [
+        5.0,
+        0.0,
+        8.546153846153846,
+        5.9
+      ],
+      "png": "Ship-Hull-R1C2.png",
+      "pdf_page": 54
+    },
+    {
+      "id": "Ship-Hull-R2C1",
+      "backing": "Ship-Hull",
+      "width_inches": 5.0,
+      "height_inches": 5.9,
+      "rotation_ccw": 0,
+      "row": 2,
+      "column": 1,
+      "bounds": [
+        0.0,
+        5.9,
+        5.0,
+        11.8
+      ],
+      "png": "Ship-Hull-R2C1.png",
+      "pdf_page": 55
+    },
+    {
+      "id": "Ship-Hull-R2C2",
+      "backing": "Ship-Hull",
+      "width_inches": 5.0,
+      "height_inches": 5.9,
+      "rotation_ccw": 0,
+      "row": 2,
+      "column": 2,
+      "bounds": [
+        5.0,
+        5.9,
+        10.0,
+        11.8
+      ],
+      "png": "Ship-Hull-R2C2.png",
+      "pdf_page": 56
+    },
+    {
+      "id": "Ship-Ramp-R1C1",
+      "backing": "Ship-Ramp",
+      "width_inches": 2.155172,
+      "height_inches": 1.5,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        -2.0,
+        8.0,
+        0.1551724137931032,
+        9.5
+      ],
+      "png": "Ship-Ramp-R1C1.png",
+      "pdf_page": 57
+    },
+    {
+      "id": "Anomaly-R1C1",
+      "backing": "Anomaly",
+      "width_inches": 3.0,
+      "height_inches": 3.0,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        0.0,
+        0.0,
+        3.0,
+        3.0
+      ],
+      "png": "Anomaly-R1C1.png",
+      "pdf_page": 58
+    },
+    {
+      "id": "Maintenance-Case-R1C1",
+      "backing": "Maintenance-Case",
+      "width_inches": 1.1,
+      "height_inches": 0.85,
+      "rotation_ccw": 0,
+      "row": 1,
+      "column": 1,
+      "bounds": [
+        0.0,
+        0.0,
+        1.1,
+        0.85
+      ],
+      "png": "Maintenance-Case-R1C1.png",
+      "pdf_page": 59
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "finished_pieces": 32,
+  "fixed_sections": 20,
+  "printed_panels": 59,
+  "state_maps": 12,
+  "gm_pages": 23,
+  "state_atlas_first_page": 10,
+  "stock_envelope_inches": [
+    10.7,
+    13.7
+  ],
+  "cardstock_envelope_inches": [
+    6.4,
+    8.8
+  ],
+  "fixed_coverage_exact": true,
+  "fixed_overlap_area": 0,
+  "artwork_panel_coverage_exact": true,
+  "matching_quantum_families": [
+    "Q1",
+    "Q2",
+    "Q3"
+  ],
+  "physical_cut_test": "pending",
+  "joints": 25
+}
