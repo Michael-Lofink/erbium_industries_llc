@@ -11,12 +11,14 @@
             "id": "5c9d61b320043b4a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Campaign/GM Notes/Quantum-Cave-Map-Packet/Backing-and-Panel-Guide.pdf"
+                "file": "Campaign/Sessions/Session 4.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "Backing-and-Panel-Guide"
+              "icon": "lucide-file",
+              "title": "Session 4"
             }
           }
         ]
@@ -212,6 +214,19 @@
   },
   "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
+    "Campaign/Session Transcripts/Session 3.md",
+    "Campaign/Sessions/Session 4.md",
+    "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
+    "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
+    "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
+    "Campaign/Sessions/Session 3.md",
+    "Campaign/Sessions/Session 2.md",
+    "Campaign/Party/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.pdf.md",
+    "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
+    "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
+    "Campaign/Session Transcripts/Session 2.md",
+    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Connector-Test-Sheet.pdf",
+    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Backing-and-Panel-Guide.pdf",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/Entrance-NW-R1C1.png",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/Entrance-NE-R1C2.png",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/Entrance-NE-R1C1.png",
@@ -222,30 +237,20 @@
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/Anomaly-R1C1.png",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Chipboard/West-Passage-B.svg",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Chipboard/West-Passage-A.svg",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Chipboard/Ship-Ramp.svg",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Setup-and-Navigation.pdf",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/README.md",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Quantum-Cave-Players.pdf",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Quantum-Cave-Player-Tiles-Letter.pdf",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Quantum-Cave-GM-Packet.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Connector-Test-Sheet.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Backing-and-Panel-Guide.pdf",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/validation.json",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/build_kit.py",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/base_geometry.py",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/source",
     "Campaign/GM Notes/PES Timekeeping Toolkit.md",
     "Campaign/GM Notes/Quantum_Cave_Session_3_GM_Guide.md",
-    "Campaign/Sessions/Session 3.md",
-    "Campaign/Session Transcripts/Session 3.md",
-    "Campaign/Session Transcripts/Session 2.md",
     "Campaign/Session Transcripts/Session 1.md",
-    "Campaign/Sessions/Session 4.md",
-    "Campaign/Sessions/Session 2.md",
     "Campaign/Sessions/Session 1.md",
     "Worldbuilding/Mechanics/Environmental Features/Quantum Caves.md",
-    "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
-    "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
     "Worldbuilding/Mechanics/Traits/Quantum.md",
     "Worldbuilding/Mechanics/Creatures/Level 4/Construct/Enforcer Robot.md",
     "Campaign/Party/Gregory/8-Ball Scene.md",
@@ -254,9 +259,6 @@
     "Worldbuilding/Society and Economy/Erbium Credit Trust and Equipment Financing.md",
     "Worldbuilding/People/Celebrities/Untitled.md",
     "Worldbuilding/People/Celebrities/KE$HRA.md",
-    "Worldbuilding/People/Celebrities/Hondue Last-Tether.md",
-    "Campaign/GM Notes/Erbium_Session_1_Assessment_Recap_Continuity.md",
-    "Campaign/Party/00 - Party Index.md",
-    "Campaign/Party/Jonah/Ponder Unity.md"
+    "Worldbuilding/People/Celebrities/Hondue Last-Tether.md"
   ]
 }
