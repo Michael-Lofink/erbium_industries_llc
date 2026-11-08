@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sessions/Session 4.md",
+                "file": "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/START-HERE.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 4"
+              "title": "START-HERE"
             }
           }
         ]
@@ -214,8 +214,12 @@
   },
   "active": "5c9d61b320043b4a",
   "lastOpenFiles": [
-    "Campaign/Session Transcripts/Session 3.md",
+    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Quantum_Cave_Session_3_GM_Guide.md",
+    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Quantum-Cave-Table-Reference.pdf",
+    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Session-4-Music.md",
+    "Campaign/GM Notes/Quantum_Cave_Session_3_GM_Guide.md",
     "Campaign/Sessions/Session 4.md",
+    "Campaign/Session Transcripts/Session 3.md",
     "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
     "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
     "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
@@ -245,9 +249,7 @@
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/validation.json",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/build_kit.py",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/base_geometry.py",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/source",
     "Campaign/GM Notes/PES Timekeeping Toolkit.md",
-    "Campaign/GM Notes/Quantum_Cave_Session_3_GM_Guide.md",
     "Campaign/Session Transcripts/Session 1.md",
     "Campaign/Sessions/Session 1.md",
     "Worldbuilding/Mechanics/Environmental Features/Quantum Caves.md",
@@ -256,9 +258,6 @@
     "Campaign/Party/Gregory/8-Ball Scene.md",
     "Starfinder 2e Rules/Vehicles/Level 2/Grinrunner Hunting Truck.md",
     "Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore.md",
-    "Worldbuilding/Society and Economy/Erbium Credit Trust and Equipment Financing.md",
-    "Worldbuilding/People/Celebrities/Untitled.md",
-    "Worldbuilding/People/Celebrities/KE$HRA.md",
-    "Worldbuilding/People/Celebrities/Hondue Last-Tether.md"
+    "Worldbuilding/Society and Economy/Erbium Credit Trust and Equipment Financing.md"
   ]
 }

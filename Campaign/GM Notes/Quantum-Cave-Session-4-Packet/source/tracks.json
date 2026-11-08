@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Cydonia",
+    "artists": [
+      "Inon Zur"
+    ],
+    "url": "https://open.spotify.com/track/09apQdrRojzAS1SeWLcDQb?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=7b5ec960-c667-4c16-b8e5-d89d0b40b57f",
+    "duration_ms": "256346"
+  },
+  {
+    "name": "Home",
+    "artists": [
+      "Michael McCann"
+    ],
+    "url": "https://open.spotify.com/track/40E0DYxwAh5L3PDDY90hV4?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=31b1311d-f19e-496e-b95f-bb8388502e92",
+    "duration_ms": "137893"
+  },
+  {
+    "name": "Detroit City Ambient (Part 1)",
+    "artists": [
+      "Michael McCann"
+    ],
+    "url": "https://open.spotify.com/track/0XUBDdyDYXnbozXj5Mtkrk?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=4998165f-7023-4478-93dd-70a031777f8e",
+    "duration_ms": "123464"
+  },
+  {
+    "name": "The Uncertainty Principle",
+    "artists": [
+      "Andrew Prahlow"
+    ],
+    "url": "https://open.spotify.com/track/74Me8e65iEdkjwNfLXt3Vi?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=9e43e348-7ca1-4449-863e-b5f3a9d3a580",
+    "duration_ms": "207290"
+  },
+  {
+    "name": "The Nomai",
+    "artists": [
+      "Andrew Prahlow"
+    ],
+    "url": "https://open.spotify.com/track/3zWTP6thyHCj8FVAMoFT4d?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=a60d944a-ec7d-4a43-9d71-bcdead018bcf",
+    "duration_ms": "234843"
+  },
+  {
+    "name": "The Ash Twin Project",
+    "artists": [
+      "Andrew Prahlow"
+    ],
+    "url": "https://open.spotify.com/track/4RgYLomGIqt5iKhnWVNQPx?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=a8f4981d-b741-43c7-8e26-d2d84394ee01",
+    "duration_ms": "234843"
+  },
+  {
+    "name": "Robot Getaway",
+    "artists": [
+      "Sophus Alf",
+      "Troels Rohde J\u00f8rgensen"
+    ],
+    "url": "https://open.spotify.com/track/2xP3RG5GgWFGy9SZRox6KO?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=48dab3b9-3f78-4bd1-be14-0f6f3c5a30d7",
+    "duration_ms": "176000"
+  },
+  {
+    "name": "Attack of the Glyphids",
+    "artists": [
+      "Sophus Alf",
+      "Troels Rohde J\u00f8rgensen"
+    ],
+    "url": "https://open.spotify.com/track/58RxGt45xfBb9vzIIpVdJf?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=749ca287-3553-44b5-a00b-d39e906afb23",
+    "duration_ms": "133545"
+  },
+  {
+    "name": "Who's Ready for Tomorrow",
+    "artists": [
+      "RAT BOY",
+      "IBDY"
+    ],
+    "url": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=5e0cd708-a84e-4f5b-8690-0cd27e6d09d8",
+    "duration_ms": "116161"
+  }
+]

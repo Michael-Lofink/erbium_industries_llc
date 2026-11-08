@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Electrovore-1-1in",
+    "width_in": 1,
+    "height_in": 1
+  },
+  {
+    "name": "Electrovore-2-1in",
+    "width_in": 1,
+    "height_in": 1
+  },
+  {
+    "name": "Electrovore-3-1in",
+    "width_in": 1,
+    "height_in": 1
+  },
+  {
+    "name": "Electrovore-4-1in",
+    "width_in": 1,
+    "height_in": 1
+  },
+  {
+    "name": "J-Stone-1in",
+    "width_in": 1,
+    "height_in": 1
+  },
+  {
+    "name": "H1-Stone-1in",
+    "width_in": 1,
+    "height_in": 1
+  },
+  {
+    "name": "H2-Stone-1in",
+    "width_in": 1,
+    "height_in": 1
+  },
+  {
+    "name": "J-A-Marker-half-inch",
+    "width_in": 0.5,
+    "height_in": 0.5
+  },
+  {
+    "name": "J-B-Marker-half-inch",
+    "width_in": 0.5,
+    "height_in": 0.5
+  },
+  {
+    "name": "H1-A-Marker-half-inch",
+    "width_in": 0.5,
+    "height_in": 0.5
+  },
+  {
+    "name": "H1-B-Marker-half-inch",
+    "width_in": 0.5,
+    "height_in": 0.5
+  },
+  {
+    "name": "H2-A-Marker-half-inch",
+    "width_in": 0.5,
+    "height_in": 0.5
+  },
+  {
+    "name": "H2-B-Marker-half-inch",
+    "width_in": 0.5,
+    "height_in": 0.5
+  }
+]
