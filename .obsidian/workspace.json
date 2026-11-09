@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/START-HERE.md",
+                "file": "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Session-4-Music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "START-HERE"
+              "title": "Session-4-Music"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e25e744e1f5e86d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "968f586c3a1a8ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Sessions/Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4"
             }
           }
         ]
@@ -158,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/Settled Systems Code/A2/1/4/13/A2%1&4-13.md",
+                "file": "Campaign/Sessions/Session 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -212,43 +232,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c9d61b320043b4a",
+  "active": "968f586c3a1a8ab5",
   "lastOpenFiles": [
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Print-Then-Cut/Quantum-Stone-Pawns.png",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Print-Then-Cut/Optional-Position-Markers.png",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Print-Then-Cut/Electrovore-Pawns.png",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Print-Then-Cut",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Pawns-Actual-Size-Letter.pdf",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Pawn-Assembly.svg",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Pawn-Assembly.png",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Pawn-Assembly.pdf",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Individual/Quantum-Stone-Pawns-J-Body.png",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Individual/Quantum-Stone-Pawns-H2-Body.png",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Individual/Quantum-Stone-Pawns-H1-Body.png",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Individual/Electrovore-Pawns-4-Body.png",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Basic-Cut/Seven-Base-Backings.svg",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Basic-Cut/Quantum-Stone-Pawns-J-Body-Cardstock-Outlines.svg",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Individual",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Basic-Cut",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/ASSEMBLY.md",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns",
+    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns.zip",
+    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Session-4-Music.md",
+    "Campaign/Sessions/Session 4.md",
+    "Campaign/Sessions/Session 2.md",
+    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/START-HERE.md",
     "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Quantum_Cave_Session_3_GM_Guide.md",
     "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Quantum-Cave-Table-Reference.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Session-4-Music.md",
     "Campaign/GM Notes/Quantum_Cave_Session_3_GM_Guide.md",
-    "Campaign/Sessions/Session 4.md",
     "Campaign/Session Transcripts/Session 3.md",
     "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
     "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
     "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
     "Campaign/Sessions/Session 3.md",
-    "Campaign/Sessions/Session 2.md",
     "Campaign/Party/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.pdf.md",
     "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
     "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
     "Campaign/Session Transcripts/Session 2.md",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Connector-Test-Sheet.pdf",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/Backing-and-Panel-Guide.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/Entrance-NW-R1C1.png",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/Entrance-NE-R1C2.png",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/Entrance-NE-R1C1.png",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/East-Passage-B-R2C1.png",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/East-Passage-B-R1C1.png",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/East-Passage-A-R1C2.png",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/East-Passage-A-R1C1.png",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Cardstock/Anomaly-R1C1.png",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Chipboard/West-Passage-B.svg",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Chipboard/West-Passage-A.svg",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Setup-and-Navigation.pdf",
     "Campaign/GM Notes/Quantum-Cave-Map-Packet/README.md",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Quantum-Cave-Players.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Quantum-Cave-Player-Tiles-Letter.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/Quantum-Cave-GM-Packet.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/validation.json",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/build_kit.py",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/source/base_geometry.py",
     "Campaign/GM Notes/PES Timekeeping Toolkit.md",
     "Campaign/Session Transcripts/Session 1.md",
     "Campaign/Sessions/Session 1.md",
@@ -256,8 +279,6 @@
     "Worldbuilding/Mechanics/Traits/Quantum.md",
     "Worldbuilding/Mechanics/Creatures/Level 4/Construct/Enforcer Robot.md",
     "Campaign/Party/Gregory/8-Ball Scene.md",
-    "Starfinder 2e Rules/Vehicles/Level 2/Grinrunner Hunting Truck.md",
-    "Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore.md",
-    "Worldbuilding/Society and Economy/Erbium Credit Trust and Equipment Financing.md"
+    "Starfinder 2e Rules/Vehicles/Level 2/Grinrunner Hunting Truck.md"
   ]
 }

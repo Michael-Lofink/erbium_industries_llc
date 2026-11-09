@@ -81,7 +81,7 @@ Interior
 >“Hold on Hunter. I need to make sure they aren't infected with anything before you take them traipsing through our home. I'm sure my dad wouldn't be happy to see the commonwealth all sick and such.”
 
 ## Scene 2. The Clinic
-
+*Home, Michael McCann*
 Nera brings the party in for a medical check. Chief is already there and asks who survived and what happened to the wreck.
 
 **Suggested staging:** the guards wait outside, and PPPPP leaves to report to A. Sop. Chief minimizes his injuries while Nera examines the party; he wants her affection.
@@ -101,7 +101,7 @@ Nera brings the party in for a medical check. Chief is already there and asks wh
 - The clinic's environmental unit bears an **OutCry IV** plate. Nera knows it came from the ancestors' ship.
 
 ## Scene 3. A. Sop's Office
-
+*Detroit City Ambient (Part 1), Michael McCann*
 A. Sop receives the party with PPPPP beside him. PPPPP argues that they should be eliminated because they could expose Fresh-Breath or return with others. A. Sop is open to their departure under conditions of secrecy and permanent separation from the colony.
 
 **Questions he may ask:** Who expects their arrival? Have they transmitted their location? Who knew their route? What equipment survived?
@@ -120,21 +120,21 @@ A. Sop receives the party with PPPPP beside him. PPPPP argues that they should b
 **Optional escalation:** PPPPP demands their transmitters or continued confinement. A. Sop can overrule him while offering the cave expedition.
 
 ## Scene 4. Supplies and Travel
-
+*tenative signals, Michael Lofink*
 Fresh-Breath has little to spare. Baron Bon Bortish is a friendly, awkward scavenger who wants approval and supports PPPPP; he could help locate equipment or share a cave warning.
 
-| Suggested supplies | Terms |
-| - | - |
-| Worn climbing line or lamp | Hunting crew's equipment; return it afterward. |
-| Spare power cell | Trade usable salvage. |
-| Small quantity of medical supplies | Nera asks for replacements from the wreck. |
+| Suggested supplies                 | Terms                                          |
+| ---------------------------------- | ---------------------------------------------- |
+| Worn climbing line or lamp         | Hunting crew's equipment; return it afterward. |
+| Spare power cell                   | Trade usable salvage.                          |
+| Small quantity of medical supplies | Nera asks for replacements from the wreck.     |
 
 **Hunter's information:** the cave is an electrovore breeding ground because of its abundant Chuckle Vents. The entrance can disappear for days when left unobserved.
 
 The party can walk or bargain for a **Grinrunner** ride with PPPPP or another authorized driver. **Optional arrangement:** a driver drops them off and returns for a scheduled hauling job. Baron could fill this role if he is qualified.
 
 ## Scene 5. Entering the Cave
-
+*The Uncertainty Principle, Andrew Prahlow*
 The cave is currently on the **Dark-Side**, near Fresh-Breath. The entrance is empty; **OutCry IV appears there only in the Underground state**.
 
 **Exterior shift:** after the party leaves and observation ends, the Dark-Side entrance shifts Underground. It naturally resurfaces Bright-Side after **1d4+1 days**, each 24 hours.
@@ -146,8 +146,10 @@ The cave is currently on the **Dark-Side**, near Fresh-Breath. The entrance is e
 Layout and hazards: [[Quantum_Cave_Session_3_GM_Guide]].
 
 ## Scene 6. Feeding Hollow
-
+*The Uncertainty Principle, Andrew Prahlow* -> Combat: *Robot Getaway; Sophus Alf, Troels Rohde Jørgensen*
 Electrovores feed around the Chuckle Vents and defend their nesting ground. Powered equipment attracts their attention. Planned break before the encounter; level-up afterward.
+
+Fight gets tense, transition to *Attack of the Glyphids, Sophus Alf, Troels Rohde Jørgensen*
 
 ### Proposed Quantum Cover
 
