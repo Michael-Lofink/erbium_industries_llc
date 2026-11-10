@@ -12,11 +12,11 @@ tags:
 
 Some survivors of true Void Calling retain physical changes after the crisis ends. Their breathing may pause for several minutes, and injuries that should have killed them leave them conscious. Others hear voices through sealed hulls or sense a nearby person before seeing them. Spacers call these survivors **Void-Returned**.
 
-A survivor may have a dormant infection or have been cured. Record that status separately from this archetype. A dormant infection resumes according to [[Rules/Campaign/Afflictions/Void Calling|Void Calling's rules]], and an infected survivor can transmit the disease while it is active. A cured survivor retains the abilities gained here.
+A survivor may have a dormant infection or have been cured. Record that status separately from this archetype. A dormant infection continues progressing according to [[Rules/Campaign/Afflictions/Void Calling|Void Calling's rules]], and an infected survivor can transmit the disease while it is active. A cured survivor retains the abilities gained here.
 
 Examinations inside a natural planetary atmosphere are inconclusive because the affliction is dormant there. The changes represented by these feats continue to function in atmosphere. A Void-Returned remains a living creature.
 
-When a feat grants the cosmic trait, use [[Rules/Campaign/Afflictions/Void Calling#Cosmic carriers|the cosmic carrier rules]]: harmful stage effects are suppressed while the normal timer continues. Saves can reduce an existing infection to stage 1; a cure requires an effect that counteracts or removes the disease. When temporary protection ends, use the current recorded stage and remaining interval.
+When a feat grants the cosmic trait, use [[Rules/Campaign/Afflictions/Void Calling#Cosmic carriers|the cosmic carrier rules]]: harmful stage effects are suppressed while the normal timer continues. Failures and critical failures hold the stage in either environment. Outside atmosphere, successful saves can reduce the infection to stage 1. In natural planetary atmosphere, recovery saves continue at stage 1 and can cure the infection. When temporary protection ends, use the current recorded stage and remaining interval, applying atmospheric suppression where relevant.
 
 ```sf2e-stats
 # Void-Returned Dedication

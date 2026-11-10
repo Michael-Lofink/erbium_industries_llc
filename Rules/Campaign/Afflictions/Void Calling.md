@@ -20,7 +20,7 @@ updated: 2026-11-09
 
 **Void Calling**, also called the **Star Plague**, is an occult disease encountered during travel beyond natural planetary atmospheres. Early symptoms can interrupt ordinary shipboard work: someone hears a relative calling through a ventilation grille, or repeatedly checks an exterior camera for a person the other watch officer cannot see. Over several days, the afflicted may become suspicious of their crewmates and try to leave the vessel to reach whoever they believe is outside.
 
-This slower exposure syndrome can develop into true Void Calling after the victim enters vacuum. The true form causes severe weakness and confusion within minutes, followed by death and transformation into a Void-Drawn. Survivors sometimes retain physical changes associated with the [[Rules/Campaign/Archetypes/Void-Returned Archetype|Void-Returned archetype]]. Settled Systems Code `A9%11&4-6` classifies the disease as **vacuum-associated cognitive exposure syndrome**, usually shortened to **vacuum sickness** in official reports.
+This slower exposure syndrome can develop into true Void Calling after the victim enters vacuum. The true form causes severe weakness and confusion within minutes, followed by death and transformation into a Void-Drawn. Survivors sometimes retain physical changes associated with the [[Void-Returned Archetype|Void-Returned archetype]]. Settled Systems Code `A9%11&4-6` classifies the disease as **vacuum-associated cognitive exposure syndrome**, usually shortened to **vacuum sickness** in official reports.
 
 ## Shared Affliction Rules
 
@@ -28,11 +28,11 @@ This slower exposure syndrome can develop into true Void Calling after the victi
 
 Either form becomes **dormant immediately** within a natural planetary atmosphere. A toxic or unbreathable atmosphere qualifies, including while the person is inside a sealed habitat on that world. Use the setting's atmosphere boundary; trace gas in near-vacuum does not qualify. Air maintained aboard a ship, station, or spacesuit outside that boundary provides ordinary life support while the affliction remains active.
 
-Record the form, stage, and remaining time until the next stage save or the end of onset. Also record any consecutive success required by virulent. During dormancy, pause these timers and suppress the affliction's symptoms, conditions, vacuum adaptation, and transmission. Injuries and Hit Points already lost require ordinary recovery.
+Track the form, current stage, and remaining onset or stage interval. Timers continue during dormancy, and the GM resolves stage saves privately at their normal intervals, retaining any pending virulent success. Use ordinary save outcomes, subject to the cosmic carrier rules below: the infection can improve, worsen, or be cured by recovery below stage 1. Suppress its stage effects, vacuum adaptation, and transmission throughout dormancy. Injuries and Hit Points already lost require ordinary recovery.
 
-Leaving the natural atmosphere restores the recorded stage effects and resumes the remaining timer. If a body has reached the lethal stage, atmosphere pauses its pending transformation; the victim remains dead.
+A living creature that reaches true Void Calling's stage 4 in atmosphere remains alive and attempts another stage save each minute. Failed saves hold it at stage 4. Leaving atmosphere applies the current stage's effects immediately and preserves the remaining interval; leaving at stage 4 causes death unless cosmic protection suppresses it. A creature that died before entering atmosphere remains dead, with its transformation countdown paused until departure.
 
-A dormant infection is **undetectable**, so examinations during dormancy are inconclusive. Previous symptoms and exposure records can justify suspicion.
+A dormant infection is **undetectable**, so examinations during dormancy are inconclusive. The GM keeps progression and recovery results private. Previous symptoms and exposure records can justify suspicion.
 
 ### The Drift
 
@@ -40,11 +40,11 @@ Travel within the Drift prevents new exposure to either form. Crews commonly bel
 
 ### Cosmic carriers
 
-A creature that contracts either form while it has the cosmic trait begins at **stage 1** after any onset, even on a critically failed initial save. Its harmful stage effects are suppressed, and it remains a carrier until an effect counteracts or removes the disease.
+A creature that contracts either form while it has the cosmic trait begins at **stage 1** after any onset, even on a critically failed initial save. The trait suppresses harmful stage effects and prevents failed or critically failed stage saves from increasing the stage in either environment. An infection acquired while cosmic stays capped at stage 1. Transmission follows the usual environmental rules.
 
-If a creature gains the cosmic trait while already afflicted, retain its recorded stage and suppress the harmful stage effects. It functions as a stage-1 carrier for transmission. Continue the existing onset or stage timer, using the normal interval for the recorded stage. While that stage is above 1, attempt a stage save at each interval: successes reduce it according to the infection's recovery rules, to a **minimum of stage 1**; failures leave it unchanged. Apply virulent normally. At stage 1, intervals continue without a roll.
+Gaining the cosmic trait while already infected preserves the infection's current stage and remaining interval. It functions as a stage-1 carrier for transmission. At each normal stage interval, successful saves reduce the recorded stage, applying virulent normally; failures leave it unchanged. Outside a natural planetary atmosphere, recovery stops at stage 1, where intervals continue without a roll.
 
-If the cosmic trait ends, apply the effects and ordinary save outcomes of the current recorded stage, preserving the remaining interval and any pending virulent success. Natural planetary atmosphere pauses all of these timers under the dormancy rules.
+Within a natural planetary atmosphere, continue recovery saves at the normal intervals, including at stage 1. Recovery below stage 1 cures the infection; failures and critical failures leave its stage unchanged. If the cosmic trait ends, apply the current stage's effects unless atmospheric dormancy suppresses them. Preserve the remaining interval and any pending virulent success.
 
 ### Transmission and exposure checks
 
@@ -54,7 +54,7 @@ A creature can carry one form at a time. If a creature with Exposure contracts t
 
 ### Saves and recovery
 
-Use the usual affliction rules: an initial failure produces stage 1, and an initial critical failure produces stage 2 after any onset. At each stage interval, a failure increases the stage by 1 and a critical failure by 2. A success reduces it by 1 and a critical success by 2, subject to virulent. For a creature without the cosmic trait, recovering below stage 1 cures the infection.
+Use the usual affliction rules: an initial failure produces stage 1, and an initial critical failure produces stage 2 after any onset. At each stage interval, a failure increases the stage by 1 and a critical failure by 2. A success reduces it by 1 and a critical success by 2, subject to virulent. Within a natural planetary atmosphere, recovering below stage 1 cures the infection. Outside it, recovery saves stop at **stage 1** for every creature. Effects that counteract or remove disease can cure an infection in either environment.
 
 A virulent affliction requires two consecutive successful stage saves for a one-stage reduction. A critical success reduces the stage by 1 immediately. After a reduction or a failed save, start a fresh count. Initial saves use their normal results.
 
@@ -67,30 +67,49 @@ A virulent affliction requires two consecutive successful stage saves for a one-
 
 The afflicted hears familiar voices through machinery noise or the exterior hull. As the syndrome develops, those voices become easier to recognize than the people aboard the vessel.
 
+---
+
 **Exposure** Spending 24 consecutive hours outside a natural planetary atmosphere and the Drift aboard a vessel or habitat without a functioning void-grounding protocol; spending 8 consecutive hours aboard the same occupied vessel or habitat as a creature with an active stage-1-or-higher infection; or an exposure ability of a Void-Drawn.
 
 **Saving Throw** DC 22 Will
+
 **Onset** 3 days
 
 **Virulent proximity** This form gains virulent for stage saves made within 30 feet of another active carrier of either form. If that proximity ends, the next save uses ordinary recovery rules and clears any pending virulent success.
 
+---
+
 **Stage 1** Asymptomatic carrier. (1 day)
+
+---
 
 **Stage 2** Stupefied 1. A familiar voice seems to speak through ventilation, machinery, or the hull. (4 hours)
 
+---
+
 **Stage 3** Stupefied 1. Before taking a move action that would bring you within 10 feet of another creature, attempt a DC 5 flat check. On a failure, the action is lost. (4 hours)
+
+---
 
 **Stage 4** As stage 3, and other creatures are hidden from you. A creature within your reach is observed. A creature within 30 feet becomes observed from the moment it uses a move or manipulate action until the end of its turn. These are the ways this stage allows a creature to become observed. (1 day)
 
+---
+
 **Stage 5** As stage 4, with the airlock compulsion below. (1 hour)
+
+---
 
 **Airlock compulsion** At the start of your turn in an encounter, or once per 10 minutes during exploration, attempt a DC 22 Will save. These are compulsion saves and do not change the disease's stage.
 
 **Critical Success or Success** You act normally.
+
 **Failure** Spend your first available action moving toward the nearest known route into open space. If adjacent to its access mechanism, use that action to Interact with it.
+
 **Critical Failure** Spend all available actions pursuing that route and operating its access mechanisms.
 
 If you know no route, the GM describes the direction indicated by the hallucination. The required movement follows that direction. This is a compulsion effect.
+
+---
 
 **Vacuum escalation** Entering vacuum at any active stage exposes you to true Void Calling, including while wearing a spacesuit. If this form becomes active while you are already in vacuum, resolve that exposure immediately. Make at most one initial save per 24 hours from this trigger.
 ```
@@ -106,20 +125,33 @@ If you know no route, the GM describes the direction indicated by the hallucinat
 
 True Void Calling develops immediately after a failed initial save. Breathing stops or becomes irregular, the victim's limbs weaken, and their responses become slow and confused. They may continue describing people or structures visible only to them.
 
+---
+
 **Exposure** Vacuum escalation from Void Calling, Exposure; spending 10 minutes within 30 feet of a Void-Drawn; or direct exposure to a powerful manifestation designated by the GM. Ordinary proximity to a living carrier exposes a susceptible creature to the slower Exposure form.
 
 **Saving Throw** DC 27 Will
+
 **Onset** Immediate
 
 **Vacuum adaptation** Throughout active stages 1–3, you can survive the basic environmental effects of vacuum and function without breathing there.
 
+---
+
 **Stage 1** Stupefied 1 and enfeebled 1. (1 minute)
+
+---
 
 **Stage 2** Stupefied 2, enfeebled 2, and slowed 1. You gain resistance 5 to cold and void damage. (1 minute)
 
+---
+
 **Stage 3** Stupefied 3, enfeebled 3, and slowed 2. Your resistance to cold and void damage is 10. Your limbs respond slowly, and speaking requires considerable effort. (1 minute)
 
-**Stage 4** Death. After 1d4 rounds, the body rises as a Void-Drawn under the GM's control.
+---
+
+**Stage 4** Death. After 1d4 rounds, the body rises as a Void-Drawn under the GM's control. While this stage is suppressed, a living patient continues stage saves at 1-minute intervals.
+
+---
 
 An initial failure followed by ordinary failed stage saves causes death after 3 minutes. Critical failures can shorten that interval to 1 minute.
 ```
@@ -130,7 +162,7 @@ Void Calling spreads through an occult interaction between minds. Several people
 
 Long driftless voyages create repeated opportunities for exposure, especially when crew members sleep poorly or work alone for extended periods. An asymptomatic carrier can expose crewmates aboard a well-run vessel.
 
-Entering a natural planetary atmosphere suppresses the infection. A patient can recover clear speech and recognize their companions while still carrying the disease, which resumes when they depart. This makes exposure records important during crew transfers: a medical examination conducted planetside yields an inconclusive result even for an infected traveler.
+Entering a natural planetary atmosphere suppresses the infection. A patient can recover clear speech and recognize their companions while still carrying the disease, whose effects return at its current stage if they depart while still infected. This makes exposure records important during crew transfers: a medical examination conducted planetside yields an inconclusive result even for an infected traveler.
 
 ## Hallucinations
 
@@ -160,7 +192,7 @@ Before departure, crew members choose **anchors** they can use during a groundin
 
 Treat Disease uses its normal eight-hour activity to prepare for a subsequent stage save. Grounding Check provides a shorter way to prepare for a stage save. During true Void Calling's minute-long intervals, use Emergency Grounding below, a suitable disease-removal effect, or rapid transport into a natural atmosphere.
 
-Effects that counteract or remove diseases can cure either form, including a dormant infection, if their targeting requirements are met. For counteracting, Exposure is rank 3 at DC 22 and true Void Calling is rank 5 at DC 27. Treatment that only improves stage saves remains subject to the cosmic carrier’s stage-1 floor. An effect used on a suspected dormant carrier gives no diagnostic confirmation of infection or cure while the target remains in atmosphere; the GM tracks the result privately. Disease-removal effects apply to pending transformation only if their normal targeting permits affecting the body.
+Effects that counteract or remove diseases can cure either form, including a dormant infection, if their targeting requirements are met. For counteracting, Exposure is rank 3 at DC 22 and true Void Calling is rank 5 at DC 27. Treatment that improves stage saves follows the environmental recovery rules. An effect used on a suspected dormant carrier gives no diagnostic confirmation of infection or cure while the target remains in atmosphere; the GM tracks the result privately. Disease-removal effects apply to pending transformation only if their normal targeting permits affecting the body.
 
 Caregivers bring a patient with Exposure to a compartment with covered viewports and supervised exits. Someone familiar stays with them, explains where they are, and checks reported emergencies with the rest of the crew. During the true disease's crisis, attendants clear space around the patient and prepare for immediate transport. A patient being cured in vacuum needs a functioning suit or other environmental protection as the disease's vacuum adaptation ends.
 
@@ -196,6 +228,8 @@ You guide an afflicted creature through familiar memories, physical sensations, 
 
 Attempt a Diplomacy, Medicine, or Occultism check against the DC of the target's Void Calling affliction. The target is temporarily immune to further Grounding Checks for 8 hours.
 
+---
+
 **Critical Success** The target gains a +2 circumstance bonus to its next stage save against Void Calling. For 10 minutes, the target treats creatures within 30 feet as observed unless another effect would make them hidden or undetected.
 
 **Success** The target gains a +1 circumstance bonus to its next stage save against Void Calling.
@@ -203,6 +237,8 @@ Attempt a Diplomacy, Medicine, or Occultism check against the DC of the target's
 **Failure** You provide comfort but no mechanical benefit.
 
 **Critical Failure** As failure.
+
+---
 
 A bonus from Grounding Check doesn't stack with the bonus from Treat Disease.
 ```
@@ -215,11 +251,19 @@ A bonus from Grounding Check doesn't stack with the bonus from Treat Disease.
 
 **Requirements** You are trained in Medicine or Occultism; the target has active true Void Calling and is within your reach. Using Medicine requires a medkit and gives this activity the manipulate trait. Using Occultism requires a conscious, willing target that can perceive you and gives it the auditory trait.
 
+---
+
 You support the patient's failing coordination or guide them through a brief orientation to their surroundings. Attempt a Medicine or Occultism check against DC 27. The target is then immune to further Emergency Grounding attempts until after its next stage save.
 
+---
+
 **Critical Success** The target gains a +2 circumstance bonus to its next stage save against true Void Calling.
+
 **Success** The target gains a +1 circumstance bonus to that save.
+
 **Failure or Critical Failure** No effect.
+
+---
 
 Use the highest applicable circumstance bonus if the target also benefits from Grounding Check or Treat Disease.
 ```
@@ -243,7 +287,7 @@ While you can perceive at least one allied creature within 30 feet, you gain a +
 ```
 
 ---
-![[Rules/Campaign/Archetypes/Void-Returned Archetype]]
+![[Void-Returned Archetype]]
 
 ---
 
@@ -264,11 +308,11 @@ While you can perceive at least one allied creature within 30 feet, you gain a +
 
 ## Drift adjudication
 
-Before running an infected creature’s journey through the Drift, decide whether that transit suppresses the infection or allows it to remain active. For suppression, use atmospheric dormancy’s bookkeeping; for continued activity, use the existing stage timer and active-state diagnosis rules. Record the observed result for that episode while leaving the broader cause and reliability of suppression open.
+Before running an infected creature’s journey through the Drift, decide whether that transit suppresses the infection or allows it to remain active. For suppression, use atmospheric dormancy’s effects and continuing stage saves, including recovery below stage 1; for continued activity, use the rules for travel outside atmosphere. This is an episode-specific GM ruling on the Drift’s effect. Record the observed result for that episode while leaving the broader cause and reliability of suppression open.
 
 ## Revision record
 
-Revised November 9, 2026. The GM's October messages establish transmission beginning at stage 1, including asymptomatic carriers. This revision separates the slow Exposure syndrome from the one-minute crisis, introduces atmospheric dormancy and diagnostic silence, and establishes persistent cosmic carriers. Cosmic suppression retains normal stage intervals and permits improvement down to stage 1; curing a carrier requires an effect that counteracts or removes disease. Existing PDF exports are earlier snapshots.
+Revised November 9, 2026. The GM's October messages establish transmission beginning at stage 1, including asymptomatic carriers. This revision separates the slow Exposure syndrome from the one-minute crisis, introduces atmospheric dormancy and diagnostic silence, and applies a stage-1 recovery floor to everyone outside natural planetary atmosphere. Atmospheric dormancy suppresses effects while normal stage saves continue, allowing worsening, improvement, and recovery below stage 1. Cosmic protection prevents worsening in either environment, and atmospheric recovery saves can cure a cosmic carrier. Existing PDF exports are earlier snapshots.
 
 Rules reference: Starfinder 2e Player Core p. 201 for Treat Disease and pp. 422–423 for affliction onset, stage saves, repeated exposure, and virulent. The dormancy, carrier intervals, examination, and Emergency Grounding procedures above are campaign homebrew. See [[Campaign/GM Notes/Continuity/Void Calling Revision and UNITY Keys|the design and continuity note]] for timing examples and unresolved lore.
 

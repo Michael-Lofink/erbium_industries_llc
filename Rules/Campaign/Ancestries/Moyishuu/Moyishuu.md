@@ -283,7 +283,7 @@ Additional languages equal to your Intelligence modifier, if it is positive. Cho
 #### Cosmic
 You have the cosmic trait, allowing you to survive in the harsh vacuum of space and the vast distances between planets and stars. You don’t need to breathe while in space or in a vacuum. You can use your fly Speed to Fly normally in a vacuum or zero-gravity environment.
 
-Your cosmic adaptation suppresses the harmful effects of [[Rules/Campaign/Afflictions/Void Calling|Void Calling]]. An infection acquired while cosmic begins at stage 1 after any onset and persists until an effect counteracts or removes the disease. Use the affliction’s [[Rules/Campaign/Afflictions/Void Calling#Cosmic carriers|cosmic carrier rules]] for progression and its dormancy rules in a natural planetary atmosphere.
+Your cosmic adaptation suppresses the harmful effects of [[Rules/Campaign/Afflictions/Void Calling|Void Calling]]. An infection acquired while cosmic begins at stage 1 after any onset and stays capped there. Outside natural planetary atmosphere, recovery saves stop at stage 1. In atmosphere, recovery saves can cure the infection through recovery below stage 1; failures and critical failures leave it at stage 1. Use the affliction’s [[Rules/Campaign/Afflictions/Void Calling#Cosmic carriers|cosmic carrier rules]] for progression and its dormancy rules in a natural planetary atmosphere.
 
 #### Drift Eikon
 
