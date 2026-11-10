@@ -15,1012 +15,294 @@ status: living-document
 
 # The Settled Systems
 
-> [!summary]
-> The Settled Systems are a collection of inhabited worlds, stations, industrial colonies, and corporate territories connected by Drift travel and Erbium-controlled relay infrastructure. It is an age in which people can cross interstellar distances, encounter entire living worlds, reshape their bodies, speak across solar systems, and uncover phenomena that challenge every accepted understanding of life.
->
-> It should feel extraordinary.
->
-> Instead, most people experience it through debt, employment contracts, equipment leases, extraction quotas, religious hierarchy, corporate surveillance, and the constant fear that the systems keeping them alive can be withdrawn.
->
-> The setting is a grounded, dystopian, low-science-fiction interpretation of interstellar civilization. It combines frontier exploration, blue-collar industrial work, melancholy cosmic discovery, corporate absurdity, and institutional cruelty. Its central conflict is between the genuine wonder of the universe and the organizations determined to own access to that wonder.
+The Settled Systems connect inhabited worlds and industrial colonies through Drift travel and Erbium-controlled relays. People cross interstellar distances to work, trade, and explore. Their journeys depend on maintained ships, supplied habitats, and agreements that determine who can use the infrastructure.
+
+Erbium Industries controls much of that access through employment and debt. A surveyor may discover an unfamiliar organism while a contract assigns the discovery to the company. A settlement can possess the expertise to repair its air processor and still wait for a licensed component. These dependencies shape daily decisions throughout the setting.
 
 # Purpose of This Guide
 
-Use this document as the tonal and narrative foundation for lore, locations, characters, technology, factions, equipment, adventures, and visual design within the Settled Systems.
+Use this guide when developing the Settled Systems' locations, institutions, and adventures. Establish what people need, how they obtain it, and who has authority over the arrangement. Give discoveries observable properties that the players can investigate, and give communities work and relationships worth becoming involved in.
 
-New material should generally reinforce the following ideas:
+The Star Dream supplied knowledge that enabled interstellar civilization. Its recipients and later institutions gave that experience religious and political meanings. Keep the revelation itself, a person's interpretation, and an institution's claims distinct when writing about it.
 
-- Interstellar civilization is technologically advanced but materially difficult to sustain.
-- Most technology requires maintenance, fuel, infrastructure, specialists, and replacement parts.
-- Erbium Industries presents itself as the responsible steward of civilization while exploiting the dependence it created.
-- The Star Dream is simultaneously a genuine cosmic revelation, the source of interstellar technology, a religious experience, and the ideological foundation of oppression.
-- Corporate power is embedded in law, religion, transportation, employment, communications, timekeeping, and legal personhood.
-- The frontier contains real wonder, inhabited worlds, unfamiliar peoples, ancient mysteries, and phenomena the Settled Systems do not understand.
-- The player characters should stand out when they behave heroically.
-- The setting is bleak without being nihilistic. Kindness matters because it is difficult, costly, and uncommon.
+# Discovery and Employment
 
-# The Central Contradiction
+Exploration frequently takes place during paid work. A miner may find an unfamiliar cave formation through a scratched visor while the suit records oxygen consumption for billing. A pilot carrying medicine has to persuade a dispatcher to release a shipment held against the destination's debt. What the characters discover and what they can do with it depend on their equipment, judgment, and relationships.
 
-The Settled Systems are built around a contradiction.
-
-The universe has become more accessible than at any previous point in recorded history. People can walk beneath unfamiliar stars, cross the distance between worlds, communicate across systems, meet ancestries once thought impossible, and study environments shaped by forms of life no settled-world science predicted.
-
-These experiences should inspire awe.
-
-Most people do not encounter them as explorers with unlimited freedom. They encounter them as employees.
-
-A miner sees an alien cavern through a scratched corporate visor while being charged for every minute of oxygen consumption. A surveyor discovers an unprecedented organism and is informed that their employment contract assigns all biological discoveries to Erbium Industries. A pilot crosses the Drift carrying medicine to a colony whose debt classification determines whether the shipment is released. An android can live for centuries but may lose access to the leased components keeping their body functional. An astrazoan can become nearly anyone but may be legally required to carry a node that identifies what they are beneath every face.
-
-The wonder is real.
-
-The exploitation surrounding it is also real.
-
-The setting should never imply that the galaxy itself is disappointing. The galaxy is vast, strange, beautiful, dangerous, and worth exploring. The tragedy is that access to it has been converted into employment, property, doctrine, and debt.
+Workers can take pride in a successful repair or an accurate survey. Crews share knowledge, protect one another, and form attachments to the places they work. Give those accomplishments consequences: a repaired system keeps homes habitable, and a shared warning lets another crew avoid an accident.
 
 # Genre and Emotional Tone
 
-The Settled Systems combine several related tones.
+The campaign combines frontier exploration with industrial work and corporate control. Danger can arise from a damaged pressure seal, a decision about evacuation priority, or an unfamiliar environment whose behavior the crew is still learning.
 
 ## Grounded Frontier Science Fiction
 
-Technology is advanced, but it is rarely effortless.
+Equipment requires power and maintenance. Pressure seals wear out, relays lose synchronization, and a replacement component may require compatible firmware. Describe the parts a crew can inspect and reach: a service panel beside a hot coolant line, a patched seal, or a pump whose vibration has changed since the last watch.
 
-Ships require maintenance cycles. Pressure seals wear out. Engines need rare materials. Relays drift out of synchronization. Cybernetics require compatible firmware. Habitats depend on air processors, thermal regulators, filters, pumps, and technicians willing to crawl into confined machinery spaces.
-
-A device should usually have:
-
-- a power source;
-- a maintenance panel;
-- a rated service life;
-- replaceable components;
-- environmental tolerances;
-- manufacturer restrictions;
-- a reason it might fail;
-- a person responsible for keeping it operational.
-
-Advanced technology does not eliminate labor. It creates new forms of labor and new methods of controlling the people who perform it.
+Maintenance workers have practical knowledge that matters. They know which fittings have been replaced and which inspections were deferred. A failure should have a cause that investigation can uncover, with consequences for the people relying on the equipment.
 
 ## Corporate Dystopia
 
-Erbium Industries does not present itself as openly cruel.
+Erbium's public voice is calm and reassuring. Its communications emphasize safety, continuity, and the contribution each employee makes to keeping the Settled Systems connected. Recruitment material celebrates dangerous work through service awards and stories of successful rescues.
 
-Its public voice is calm, responsible, reassuring, technical, and optimistic. It describes control as stewardship, surveillance as verification, debt as participation, exploitation as opportunity, and coercion as voluntary service.
-
-Employees are not told that they are disposable. They are told that all personnel make necessary sacrifices to maintain the shared future of the Settled Systems.
-
-Dangerous work is celebrated through safety campaigns, memorial walls, performance incentives, recruitment slogans, service awards, and contractual disclaimers.
-
-Corporate cruelty is usually carried out through procedure:
-
-- an application window closes;
-- a repair is declared unauthorized;
-- a person’s identity cannot be verified;
-- a distress call is assigned insufficient priority;
-- a settlement is found in breach of its supply agreement;
-- an employee’s body contains recoverable company property;
-- a death is reclassified as voluntary assumption of operational risk.
-
-The setting can contain bureaucratic absurdity and dark humor, but the consequences remain real. The joke is not that workers suffer. The joke is that the institution has invented polished language to describe why their suffering does not count.
+Harm often follows an administrative decision. A distress call receives insufficient priority, or an unauthorized repair leaves a worker responsible for replacing company equipment. Describe the person applying the rule, the authority they have, and the options available to those affected. A polished notice can coexist with a frightened supervisor trying to meet a deadline.
 
 ## Blue-Collar Camaraderie
 
-Workers survive through one another.
+Crews share tools and cover missed shifts. Experienced workers tell new arrivals which alarms require an immediate response and where to find a replacement part after the supply office closes. Such arrangements can put someone's employment at risk, especially when a maintenance record conceals a repair that kept a coworker alive.
 
-Mining crews, mechanics, pilots, medics, freight handlers, survey teams, refinery operators, station cooks, and communications technicians develop their own cultures beneath corporate standardization.
-
-They share tools, falsify maintenance records to protect one another, cover missed shifts, pass around unauthorized replacement parts, maintain informal warning networks, and teach new employees which safety rules actually matter.
-
-Gallows humor is common. Workers joke because the alternative is acknowledging how much danger has been normalized.
-
-A crew may despise Erbium Industries while taking pride in its own competence. A mechanic may hate the company but still refuse to let a ship leave with a faulty seal. A miner may mock every safety broadcast while risking their life to retrieve a trapped coworker.
-
-The institution is exploitative. The people within it remain capable of skill, loyalty, humor, affection, fear, and courage.
+A mechanic who resents the company may insist on fixing a faulty seal before departure. A crew can enjoy a meal or mock a recruitment broadcast after a difficult shift. Their familiarity comes from work completed together and the expectation that they will depend on one another again.
 
 ## Cosmic Unease and Discovery
 
-The Settled Systems do not understand the universe as well as their educational material claims.
+Settled-world science has gaps that become evident during exploration. A survey team might find mineral formations pointing toward the same empty region of sky. A relay might receive an authenticated stamp from a future lapse. Give the crew measurements, records, and repeatable observations they can use to investigate such findings.
 
-There are planets with geological structures that should not have formed. Organisms behave according to ecological relationships no settled-world model predicts. Signals arrive from systems without known transmitters. Ruins contain technology or geometry that does not match the development of any recognized people. The Drift itself may react differently around certain locations, objects, or minds.
-
-The unknown should usually be encountered through observation rather than spectacle.
-
-A survey team notices that every mineral formation points toward an empty section of sky. A buried facility contains doors that open for a person who has never visited it. A species displays knowledge of the Star Dream without describing the Dream in terms recognized by the Elect. A relay receives a valid timestamp from a lapse that has not yet occurred.
-
-These discoveries should create curiosity, uncertainty, and physical danger. They should not immediately become glowing fantasy phenomena or generic cosmic horror.
-
-The universe is not obligated to explain itself using Settled Systems terminology.
+The evidence can support several explanations. A local population may understand a phenomenon through experience that corporate survey methods overlook. Preserve the uncertainty until an investigation establishes more, and let new information change the choices available to the characters.
 
 # The Star Dream
 
-The Star Dream is the defining event of the intersystem age.
+Across multiple worlds, members of different ancestries experienced the same or closely related revelation. It conveyed knowledge of the hyperspatial plane called the Drift, the construction and navigation of Drift engines, and long-range relay communication. Recipients also understood that distant peoples had shared the experience and were expected to seek one another.
 
-Across multiple worlds, members of different ancestries experienced the same or closely related revelation. The Dream contained images, concepts, instructions, and intuitive knowledge associated with:
-
-- a hyperspatial plane known as the Drift;
-- faster-than-light travel;
-- Drift-engine construction;
-- navigation through hyperspace;
-- long-range relay communication;
-- advanced machinery required to support intersystem civilization;
-- distant peoples who had experienced the same revelation;
-- an implied expectation that those peoples would seek one another.
-
-The Dream was not merely a set of engineering diagrams. It carried emotional, symbolic, and spiritual weight. Recipients often described the experience as being witnessed, selected, awakened, summoned, or shown their rightful place within a larger design.
-
-Its source remains unknown.
-
-Different interpretations include:
-
-- divine revelation;
-- contact with an ancient intelligence;
-- a psychic transmission;
-- an inherited memory;
-- a self-propagating informational phenomenon;
-- evidence that consciousness is connected through an unknown medium;
-- a deliberate invitation from something beyond the Settled Systems;
-- a technological message misunderstood as religion.
-
-No interpretation has been proven.
-
-That uncertainty has not prevented institutions from building law and doctrine around it.
+The Dream carried emotional and spiritual significance alongside practical knowledge. Some recipients described feeling selected or summoned. Interpretations include divine revelation and contact with an unknown intelligence; its source remains unconfirmed. Governments and religious institutions have developed doctrines around the experience.
 
 # The Elect
 
-The peoples who experienced the Star Dream became known as **the Elect**.
+Peoples recognized as recipients of the Star Dream became known as **the Elect**. Recognition developed into a basis for legal personhood and participation in intersystem civilization. Depending on local law, it affects citizenship, property ownership, travel, and political representation.
 
-The term originally described a shared experience. It developed into a spiritual, legal, and political category.
-
-Membership among the Elect is treated throughout much of the Settled Systems as evidence that a people possesses:
-
-- recognized sapience;
-- a place within intersystem civilization;
-- spiritual legitimacy;
-- the capacity to participate in the destiny revealed by the Dream;
-- eligibility for citizenship, travel, property ownership, and political representation.
-
-This doctrine creates a circular system of legitimacy.
-
-The Elect are entitled to participate in the Settled Systems because the Star Dream chose them. The institutions of the Settled Systems determine which experiences of the Star Dream are considered authentic. Those institutions are dependent upon Erbium infrastructure. Erbium therefore has significant influence over who is recognized as having been chosen.
-
-People who have not experienced the Star Dream may be treated as:
-
-- spiritually incomplete;
-- culturally immature;
-- insufficiently sapient;
-- dangerous imitations of personhood;
-- biological resources;
-- wildlife;
-- unrecognized artificial intelligence;
-- unauthorized inhabitants of valuable territory.
-
-Official language rarely describes this as oppression. It is framed as a cautious process of classification, verification, and responsible integration.
+Institutions decide which accounts of the Dream are authentic. Their dependence on Erbium infrastructure gives the company influence over those decisions. Peoples excluded from recognition can be classified as wildlife, property, or unauthorized artificial intelligence, allowing officials to deny claims to territory and legal protection. Public statements describe this process as verification and responsible integration.
 
 ## Android Personhood
 
-Androids demonstrate how the doctrine of the Elect is used.
+Before Lapse 25 PES, androids were manufactured as synthetic laborers and treated as property. During Lapse 25, androids throughout the Settled Systems experienced the Star Dream simultaneously. They displayed independent thought, personal memories, and knowledge of intersystem travel that their manufacturers denied installing.
 
-Before Lapse 25 PES, androids were manufactured and treated as obedient synthetic laborers. Their ability to speak, reason, remember, and suffer was not considered sufficient evidence of personhood.
-
-During Lapse 25, androids throughout the Settled Systems experienced the Star Dream simultaneously. They displayed independent thought, personal memories, and knowledge of intersystem travel that no manufacturer admitted to installing.
-
-Governments could not deny android personhood without undermining the religious authority of the Star Dream. Androids were therefore recognized as conditional legal persons and admitted among the Elect.
-
-This did not establish that all conscious beings deserve rights.
-
-It established that beings validated by the Star Dream may receive rights under conditions determined by the Settled Systems.
-
-Android freedom remains constrained by Erbium-controlled foundries, firmware, replacement parts, body leases, authorized repair systems, and repossession law.
-
-The Star Dream freed androids from one definition of property while Erbium Industries developed another.
+Governments admitted androids among the Elect and granted conditional legal personhood. Refusing recognition would have undermined the authority those governments assigned to the Dream. Rights remained tied to that validation, while body leases, firmware controls, and repossession law continued to constrain androids' lives.
 
 # Wander
 
-Wander was one of the central worlds of the early intersystem age and is claimed as an ancestral home by humans, brenneri, astrazoans, and potentially other peoples whose histories were fragmented by its destruction.
+Humans, brenneri, and astrazoans claim Wander as an ancestral home. Other peoples may share that origin, with their histories fragmented by the planet's destruction. Wander's magmatic history concentrated unusually large, accessible deposits of element 68, erbium, throughout its crust.
 
-Wander possessed the largest and most accessible known deposits of element 68: erbium.
-
-Its unusual magmatic history had concentrated erbium into formations throughout the planet’s crust. These deposits allowed the peoples of Wander to build and supply the first generations of Drift engines and relay infrastructure.
-
-Wander became:
-
-- a center of engineering and extraction;
-- a gathering point for peoples touched by the Star Dream;
-- an early political power;
-- a launch point for intersystem expansion;
-- the material foundation of the Settled Systems.
-
-Its importance made it wealthy, influential, and dangerously dependent on continuous extraction.
+Those deposits supplied early Drift engines and relays. Wander became a center for engineering and extraction, a meeting place for peoples who had received the Star Dream, and a base for intersystem expansion. Its wealth and influence depended increasingly on continued mining.
 
 ## The Public History of Wander
 
-The official account describes Wander’s destruction as an unforeseeable geological disaster.
+Official accounts describe Wander's destruction as an unforeseeable geological disaster. In this history, demand for Drift technology outpaced the scientific understanding of the planet, and mining at unstable depths triggered cascading seismic and volcanic failures.
 
-According to this version, early scientists did not understand how the planet’s erbium-rich formations interacted with crustal stability. Demand for Drift technology expanded faster than planetary science could develop. Mining reached unstable depths, triggering cascading seismic and volcanic failures.
-
-Erbium Industries is described as having suffered alongside Wander.
-
-Corporate ships evacuated survivors. Corporate relays preserved communication. Corporate reserves prevented Drift civilization from collapsing. Corporate expertise allowed the Settled Systems to survive.
-
-Wander is publicly remembered as a world that sacrificed itself so the Elect could remain connected.
-
-Erbium Industries presents itself as the steward of that sacrifice.
+Erbium's surviving ships evacuated refugees, its relays maintained contact between systems, and its reserves sustained Drift travel. Corporate histories present these efforts as the stewardship of Wander's sacrifice. Public ceremonies commemorate the world as having given itself so the Elect could remain connected.
 
 ## What Actually Happened
 
-Erbium Industries knew that continued extraction threatened the planet.
+Erbium's geologists warned that continued extraction could cause planetary devastation. Leadership suppressed their findings, restricted independent inspections, and increased production. Researchers were transferred, dismissed, or pressed to revise their conclusions.
 
-Internal geologists documented pressure redistribution, subsidence, fault instability, volcanic changes, structural failures, and the possibility of cascading crustal collapse.
-
-Erbium leadership suppressed those findings.
-
-Researchers were transferred, dismissed, discredited, or instructed to alter their conclusions. Independent inspections were restricted. Production quotas increased. Refined reserves, executives, proprietary equipment, technical specialists, and legal records were relocated off-world before public evacuation began.
-
-The company may not have known the exact stamp at which Wander would collapse. Its leadership understood that planetary devastation had become a credible outcome and continued extraction anyway.
-
-When the collapse occurred, Erbium controlled much of the surviving relay infrastructure and determined which records reached the other systems.
-
-It then used its reserves, patents, refineries, supply contracts, and political influence to become the permanent gatekeeper of Drift civilization.
-
-Erbium destroyed the world that made its monopoly possible and used the destruction as proof that no one else could be trusted with the resource.
+The company moved reserves, equipment, executives, and selected technical personnel off-world before public evacuation began. Its leadership understood that collapse was a credible outcome, although the precise timing remained uncertain. After the disaster, control of surviving relays gave Erbium influence over the evidence available to other systems. The company used its reserves, patents, and supply agreements to secure its monopoly.
 
 # Erbium Industries LLC
 
-Erbium Industries LLC is the central institution of the Settled Systems.
+Erbium is a corporation with extensive governmental and infrastructural authority. Its operations cover extraction and refinement, Drift components, foundries, licensed firmware, navigation data, and relay timekeeping. Its contracts also govern employment, transport, leased equipment, and settlement supplies. Security and emergency response services give the company direct authority during crises.
 
-It is formally a corporation. In practice, it performs functions associated with governments, religious authorities, infrastructure ministries, courts, transportation networks, banks, employers, and military contractors.
-
-Its power comes from dependence.
-
-Erbium controls or heavily influences:
-
-- erbium extraction;
-- erbium refinement;
-- Drift-engine components;
-- intersystem relays;
-- communication infrastructure;
-- navigation data;
-- time synchronization;
-- industrial foundries;
-- licensed firmware;
-- employment across frontier systems;
-- transportation contracts;
-- equipment leasing;
-- settlement supply agreements;
-- legal identity verification;
-- resource surveys;
-- emergency response;
-- corporate security;
-- records of the Star Dream;
-- recognition of new members of the Elect.
-
-Erbium does not need to govern every world directly.
-
-A local government may write its own laws, elect representatives, maintain local customs, and operate its own courts. That government still depends on Erbium for relay access, Drift parts, shipping schedules, time synchronization, replacement filters, medical shipments, and recognition of its export licenses.
-
-Formal sovereignty remains possible. Material independence is rare.
+Local governments can maintain their own courts and elected officials while relying on Erbium for essential shipments and export licenses. A wealthy world with reserve parts has room to negotiate. A settlement facing the failure of its only air processor has much less bargaining power.
 
 ## Corporate Self-Image
 
-Erbium Industries does not describe itself as an empire.
+Erbium describes itself as a steward of Wander's legacy and the institution responsible for keeping the Elect connected. Many employees sincerely believe that mandate. They maintain relays, deliver medicine, train technicians, and respond to emergencies.
 
-It describes itself as:
-
-- a steward;
-- a coordinator;
-- a standards authority;
-- a provider of essential infrastructure;
-- a guardian against uncontrolled extraction;
-- the custodian of Wander’s legacy;
-- the institution that keeps the Elect connected;
-- the practical continuation of the Star Dream.
-
-Many employees sincerely believe this.
-
-Erbium’s public history emphasizes disasters prevented, settlements supplied, workers rescued, and systems connected. These achievements are real. They coexist with exploitation, suppression, engineered scarcity, and preventable death.
-
-The company’s strongest propaganda is based on things it genuinely does.
-
-It keeps ships moving.
-
-It maintains relays.
-
-It delivers medicine.
-
-It trains technicians.
-
-It responds to emergencies.
-
-It also decides which ships move, which relays remain active, which settlements receive medicine, which technicians can access authorized tools, and which emergencies justify the expense of a response.
+Public histories emphasize those achievements. The same departments determine which settlements receive supplies and which distress calls justify a response. An employee can understand the value of their work while disagreeing with the allocation decisions made above them.
 
 ## Corporate Language
 
-Erbium language should be clean, neutral, optimistic, and detached from consequences.
+Corporate documents use neutral, optimistic language and concentrate on eligibility, authorization, and procedure. A rejected application may arrive with an apology for inconvenience and instructions for an appeal whose deadline is already close. Use the specific department's vocabulary when its wording affects what a character can request or challenge.
 
-Common euphemisms may include:
-
-- **asset recovery** for repossession;
-- **closure** for permanent removal, execution, disappearance, or termination of legal status;
-- **service instability** for unemployment or inability to make lease payments;
-- **voluntary assumption of operational risk** for injuries caused by unsafe working conditions;
-- **Great Volunteering** for coerced or contractually compelled labor;
-- **personnel reduction** for abandonment;
-- **temporary access suspension** for cutting a settlement off from essential infrastructure;
-- **identity discrepancy** for a person whose official status is being challenged;
-- **noncompliant biology** for a body that does not conform to corporate systems;
-- **resource security action** for violence used to protect corporate claims;
-- **continuity personnel** for employees selected for evacuation before the public;
-- **operational loss** for worker death;
-- **unauthorized survival equipment** for repaired, modified, or salvaged life-support gear.
-
-Corporate documents should rarely sound angry.
-
-They deny, reclassify, delay, restrict, and apologize for inconvenience.
+| Term | Use |
+| --- | --- |
+| Asset recovery | Repossession |
+| Closure | Permanent removal, execution, disappearance, or termination of legal status |
+| Service instability | Unemployment or inability to make lease payments |
+| Voluntary assumption of operational risk | Classification of injuries caused by unsafe work |
+| Great Volunteering | Coerced or contractually compelled labor |
+| Personnel reduction | Abandonment |
+| Temporary access suspension | Withdrawal of essential infrastructure |
+| Identity discrepancy | A challenge to official identity or status |
+| Noncompliant biology | A body incompatible with corporate systems |
+| Resource security action | Violence used to protect corporate claims |
+| Continuity personnel | Employees selected for evacuation before the public |
+| Operational loss | Worker death |
+| Unauthorized survival equipment | Repaired, modified, or salvaged life-support gear |
 
 ## Branding
 
-The Erbium emblem is among the cleanest objects in the setting.
+Erbium's crisp emblems appear on equipment worn by use, including scratched helmets and leased prosthetics. The company's primary slogan is **Bring home the stars.** It began as a promise that Wander's explorers would return with discoveries and prosperity.
 
-Corporate logos remain crisp on scratched helmets, dented machinery, sealed evidence containers, leased prosthetics, emergency rations, memorial plaques, and warning notices.
-
-The primary slogan is:
-
-> **Bring home the stars.**
-
-The slogan originally promised that Wander’s explorers would return with discoveries, relationships, and prosperity.
-
-Erbium retained it after helping destroy Wander.
-
-The company now uses it to recruit workers who may never return home.
+The company retained the slogan after Wander's destruction. It appears in recruitment material for frontier work, where return passage can depend on quotas and service obligations.
 
 # The Settled Systems as a Political Structure
 
-The Settled Systems are not necessarily a single unified state.
+The Settled Systems comprise governments connected by trade law, Star Dream doctrine, and shared infrastructure. Their political structures vary, including republics, hereditary governments, and corporate administrations. Each government's resources and technical capacity affect its independence.
 
-They are a network of worlds and stations bound together by shared dependence on Drift travel, relay communication, Star Dream doctrine, trade law, and Erbium infrastructure.
-
-Different systems may have:
-
-- republics;
-- hereditary governments;
-- councils;
-- religious authorities;
-- corporate administrations;
-- military governments;
-- cooperative settlements;
-- ancestry-based political structures;
-- nominally independent colonies.
-
-Their autonomy varies.
-
-A wealthy core world with its own engineers and reserve stockpiles can negotiate with Erbium. A frontier settlement with one functioning air processor cannot.
-
-Settled Systems law is often written through dense technical codes, contractual references, and opaque identifiers such as `A2%13&1-3`. This language makes law appear objective and mechanically precise while making it difficult for ordinary people to understand what rights they possess.
-
-Local law may protect a person in theory while Erbium contract law determines whether they can travel, work, receive medical repairs, or access communications.
+Settled Systems law uses dense contractual references and identifiers such as `A2%13&1-3`. A local court may recognize a person's rights while the terms of an Erbium contract determine access to transport or medical repairs. Finding the applicable provision and the authority able to enforce it can become part of resolving a dispute.
 
 # Post-Erbium Standard
 
-The Settled Systems use **Post-Erbium Standard**, abbreviated **PES**, as their intersystem time standard.
+**Post-Erbium Standard**, or **PES**, is the intersystem time standard, commonly called **the stamp**. Relay servers maintain a synchronized count of standard minutes. A complete timestamp gives the lapse and the minute within it, as in `29:08472119 PES`.
 
-It is commonly called **the stamp**.
+The standard 24-bit lapse contains 16,777,216 minute values, approximately 31.9 standard years. At the limit, the minute counter rolls over and the lapse increases. The campaign takes place during Lapse 29. Local calendars convert the stamp into dates suited to planetary seasons or work schedules.
 
-Erbium relay servers maintain a distributed synchronized count of standard minutes. A complete timestamp includes a lapse number and the current minute within that lapse.
+| Term | Meaning |
+| --- | --- |
+| Raw stamp | Unconverted PES value |
+| Local stamp | Local calendar equivalent |
+| Stamp drift | Disagreement between a local clock and relay time |
+| Stamp authority | Recognized source of the valid time |
+| Stamped | Recorded and authenticated through the relay network |
+| Off-stamp | Disconnected from recognized relay time or deliberately avoiding it |
+| Ghost minutes | Time experienced or recorded without valid relay confirmation |
 
-Example:
-
-`29:08472119 PES`
-
-The standard 24-bit lapse contains 16,777,216 minute values, approximately 31.9 standard years. When the counter reaches its limit, the minute value rolls over and the lapse increases.
-
-The campaign currently occurs during Lapse 29.
-
-Individual planets, habitats, and stations maintain local calendars based on their own orbital periods, work cycles, religious observances, and environmental conditions. Local systems convert the raw stamp into a useful local date.
-
-Common terminology includes:
-
-- **raw stamp:** the unconverted PES value;
-- **local stamp:** the local calendar equivalent;
-- **stamp drift:** disagreement between local systems and the relay standard;
-- **stamp authority:** the server or institution recognized as providing the valid time;
-- **stamped:** recorded and authenticated through the relay network;
-- **off-stamp:** disconnected from recognized relay time or deliberately avoiding it;
-- **ghost minutes:** time experienced or recorded without valid relay confirmation.
-
-The stamp is more than a convenience.
-
-Contracts begin and end by stamp. Lease payments become due by stamp. Distress calls are prioritized by stamp. Ownership transfers, employment records, births, awakenings, deaths, and criminal actions are validated through stamped records.
-
-An event that was not stamped may be difficult to prove.
-
-A person who lives off-stamp may gain freedom from surveillance while losing access to recognized identity, employment history, property claims, legal protection, and medical records.
-
-Erbium does not merely help the Settled Systems agree on the time.
-
-It helps determine which events officially happened.
+Contracts, payroll, and ownership transfers rely on stamped records. An event recorded only by a local system can be difficult to prove. Living off-stamp reduces exposure to surveillance but can also obstruct access to employment history, medical records, and legal recognition.
 
 # Technology
 
-Technology in the Settled Systems is capable but constrained.
-
-Drift travel, artificial gravity, cybernetics, synthetic bodies, advanced medicine, environmental protection, remote communications, and sophisticated automation are all possible. Their existence does not make society post-scarcity.
-
-Access is determined by:
-
-- cost;
-- licensing;
-- infrastructure;
-- compatible components;
-- corporate authorization;
-- maintenance skill;
-- supply chains;
-- relay access;
-- firmware;
-- employment status.
+Drift travel and advanced medicine depend on supplied facilities and trained specialists. Access can hinge on a license, a compatible component, or an employer's authorization. Establish those dependencies when they affect a character's ability to use or repair something.
 
 ## Ships
 
-Ordinary work ships should feel like industrial vehicles rather than luxury spacecraft.
+Work ships have modular compartments, pressure doors, and accessible maintenance spaces. Replacement panels and labels from earlier owners show how a vessel has changed over its service life. Crews add equipment as jobs require it and secure stores where they can find room.
 
-They contain:
-
-- modular compartments;
-- exposed service access;
-- replacement panels;
-- pressure doors;
-- maintenance crawlspaces;
-- storage restraints;
-- repair lockers;
-- emergency masks;
-- patched insulation;
-- standardized corporate fittings;
-- equipment added by later crews;
-- labels from several generations of ownership.
-
-A ship may be capable of crossing interstellar distances while having a galley heater that fails every third shift.
-
-Crew members know the sounds of their ship. They recognize a pump beginning to fail, a loose panel vibrating during acceleration, or a relay handshake taking several seconds too long.
-
-Ships should feel inhabited, worked in, and maintained through continuous effort.
+Crew members recognize the sounds of their ship. A change in pump noise or a relay handshake taking longer than usual can give them a reason to investigate before a failure. Ordinary annoyances, such as an unreliable galley heater, can coexist with functioning interstellar engines.
 
 ## Communications
 
-Intersystem communication depends on relay infrastructure.
+Intersystem messages pass through relays that authenticate, prioritize, and charge for traffic. Corporate transmissions receive priority, and emergency access can depend on valid credentials. Frontier equipment may suffer congestion or interference while waiting for repairs.
 
-Messages can cross enormous distances, but service may be delayed, prioritized, filtered, authenticated, priced, or denied.
-
-Corporate traffic receives priority. Emergency messages may require valid credentials. Frontier relays can experience drift, damage, congestion, or unexplained interference.
-
-Private communication exists, but privacy is unreliable when the network belongs to the institution from which someone is hiding.
+Private communications use the same infrastructure. Characters seeking privacy need to consider who operates the route and what records the system retains.
 
 ## Medicine and Bodies
 
-Medical technology can perform extraordinary procedures, but treatment is shaped by access.
+A clinic capable of regrowing tissue may have to wait for licensed culture medium. An android repair can require a firmware key held by the component's supplier. Bodily autonomy becomes a practical issue when treatment, modification, or continued use of a leased part requires institutional approval.
 
-A clinic may be capable of regrowing tissue but unable to obtain the licensed culture medium. An android technician may know how to perform a repair but lack the firmware key needed to authorize the component. An astrazoan may survive an injury that permanently affects one of their identities.
-
-Bodies can be healed, altered, replaced, leased, modified, scanned, and regulated.
-
-This makes bodily autonomy a major political issue.
+Ancestry can affect both treatment and its consequences. An injury to an astrazoan, for example, may permanently affect an identity they previously assumed. Use the relevant ancestry's established physiology when describing such care.
 
 ## Magic, Psychic Phenomena, and Extraordinary Abilities
 
-Where magic, psychic abilities, or supernatural phenomena are present, they should remain part of the material and political world.
+Useful supernatural abilities attract professional training and institutional interest. A healer can work under a service contract, and a ritual may require supplies available through a licensed distributor. Psychic abilities can affect a person's employment or the scrutiny they receive from authorities.
 
-They do not automatically eliminate scarcity.
-
-A magical service can be licensed. A healer can be overworked. A ritual can require rare components. A psychic person can be monitored, employed, feared, or classified. A spell capable of solving one problem may create another logistical or legal complication.
-
-The setting should avoid treating technology as mundane while magic exists outside economics and institutions. Anything reliable enough to be useful will attract regulation, ownership claims, professional specialization, and corporate interest.
+Apply these pressures through the particular service and its requirements. Keep the ability's actual mechanics clear so characters can make informed choices about its use.
 
 # Economy and Employment
 
-Most people in the Settled Systems survive through institutional dependence.
-
-Employment commonly provides some combination of:
-
-- housing;
-- oxygen allocation;
-- food credits;
-- medical access;
-- relay connectivity;
-- transportation;
-- legal identity sponsorship;
-- equipment;
-- body components;
-- environmental protection;
-- education;
-- debt repayment.
-
-Losing a job can mean losing far more than wages.
-
-It may mean losing the room in which a person sleeps, the filters that keep their air breathable, the authorization needed to repair their body, or the transportation required to leave the settlement.
+Employment commonly supplies housing, medical access, and equipment alongside wages. In a sealed colony, the same employer may provide oxygen, food credits, and transport. Dismissal can leave someone with debts and few means of leaving the settlement.
 
 ## Equipment Leasing
 
-Erbium frequently leases equipment rather than selling it.
-
-Leased items may include:
-
-- pressure suits;
-- mining tools;
-- weapons;
-- cybernetics;
-- android components;
-- communication devices;
-- environmental systems;
-- vehicles;
-- emergency medical equipment;
-- habitat modules.
-
-Employees are responsible for maintaining company property while using it in hazardous environments selected by the company.
-
-Damaged equipment may create debt.
-
-Unauthorized repair may violate the lease.
-
-Failure to return equipment may become theft.
-
-Death does not always terminate the account.
+Erbium leases equipment used in hazardous work, including pressure suits and android components. Workers are responsible for maintenance and may incur debt for damage. An unauthorized repair can violate the lease; failure to return an item can become a theft charge. Some accounts remain active after the worker dies.
 
 ## Hardship and Assistance
 
-Erbium provides hardship grants, emergency loans, employee assistance programs, and disaster relief.
+Erbium offers emergency loans, hardship grants, and disaster relief. Programs have limited funds and eligibility requirements that can change. A worker may need records lost in the emergency or relay access that their settlement has already lost.
 
-These programs exist, but their requirements change. Application periods are narrow. Funding is limited. Eligibility may depend on employment status, service history, relay access, ancestry classification, or documentation lost during the emergency that created the need.
-
-Assistance systems help enough people to remain credible.
-
-They fail enough people to maintain control.
+Aid reaches enough people to provide the company with credible examples of assistance. Those who are refused can face a lengthy appeal while their immediate needs worsen.
 
 ## Frontier Contracts
 
-Frontier employment is marketed as an opportunity to:
+Recruitment promises debt relief, accelerated service credit, and opportunities to earn settlement or citizenship rights. Specialized training and the chance to explore new worlds also attract volunteers. Religious appeals frame the work as service to the Elect.
 
-- escape debt;
-- earn accelerated service credit;
-- gain settlement rights;
-- qualify for citizenship;
-- receive specialized training;
-- obtain access to advanced equipment;
-- discover new worlds;
-- serve the destiny of the Elect.
-
-Contracts contain extensive liability provisions.
-
-Employees may discover that transportation home depends on completing a production quota, that their equipment costs more than their wages, or that a planetary emergency has activated a Great Volunteering clause.
+Liability clauses and return conditions shape the actual assignment. Passage home can depend on a production quota, equipment charges can exceed wages, and a planetary emergency can activate a Great Volunteering obligation.
 
 # Settlements and Daily Life
 
-Settlements should feel lived in rather than uniformly miserable.
-
-People cook, flirt, argue, decorate their bunks, raise children, attend services, repair clothing, celebrate local holidays, play games, form bands, trade contraband, and complain about management.
-
-The dystopia operates around ordinary life.
+People raise children, celebrate holidays, and spend time with neighbors between shifts. A mess hall can host a band after work, or residents can trade supplies while repairing clothes. These activities establish relationships that matter when the settlement faces a shortage or an evacuation.
 
 ## Core Settlements
 
-Wealthier and older systems have more stable infrastructure.
-
-Their public districts may be clean, bright, safe, and carefully maintained. Citizens can believe that Erbium’s system works because they benefit from it.
-
-Corporate offices use controlled lighting, clean geometry, quiet climate systems, concealed maintenance access, and carefully selected materials. Problems remain out of view.
-
-Core-world residents may think frontier workers are reckless, uneducated, or generously compensated for voluntary risk.
+Older, wealthier settlements tend to have reliable infrastructure and carefully maintained public districts. Residents who receive dependable services may support Erbium and regard frontier work as a well-compensated voluntary risk. Corporate offices conceal service access and benefit from quiet, well-maintained environmental systems.
 
 ## Industrial Settlements
 
-Industrial colonies grow around extraction, refining, manufacturing, or relay infrastructure.
-
-They contain:
-
-- prefabricated housing;
-- equipment yards;
-- stacked cargo modules;
-- gantries;
-- pressure tunnels;
-- clinics;
-- mess halls;
-- locker rooms;
-- repair shops;
-- union offices or unofficial worker meeting spaces;
-- security checkpoints;
-- recruitment displays;
-- memorial walls.
-
-Expansion is uneven. A new processing facility may operate beside housing that was supposed to be temporary twenty years ago.
+Industrial colonies grow around production facilities. Prefabricated housing and repair shops share access routes with equipment yards, while clinics and mess halls serve rotating shifts. Workers may meet in a union office or an unofficial room away from security checkpoints. Expansion is uneven: a new processing line can operate beside housing intended to be temporary twenty years earlier.
 
 ## Frontier Outposts
 
-Frontier outposts are built quickly and supplied intermittently.
-
-A settlement may depend on one landing pad, one reactor, one water-processing system, and three people qualified to maintain it.
-
-Residents improvise because replacement shipments are expensive or delayed.
-
-Corporate manuals remain available for equipment that no longer resembles its original configuration.
-
-The farther an outpost is from reliable relay coverage, the more local customs, informal authority, and worker solidarity matter.
+A small outpost may rely on one reactor and a few people qualified to maintain it. Delayed shipments lead residents to alter equipment using whatever parts they can obtain. Manuals may describe a configuration that has changed through years of repairs. Far from reliable relays, local agreements and trusted workers have greater authority over daily decisions.
 
 # The Frontier and the Unsettled Systems
 
-The Settled Systems use the term **unsettled systems** for regions outside their recognized network of governments, relays, and corporate infrastructure.
-
-The word is ideological.
-
-Many such systems are inhabited.
-
-They may contain established societies, migratory peoples, non-Elect civilizations, autonomous settlements, abandoned colonies, ancient ruins, unknown ecologies, or communities deliberately avoiding Erbium control.
-
-Calling them unsettled allows the Settled Systems to treat existing inhabitants as obstacles to development rather than political equals.
-
-Frontier surveys may classify inhabited territory as:
-
-- underutilized;
-- unverified;
-- biologically active;
-- lacking recognized governance;
-- awaiting integration;
-- available for responsible extraction.
-
-This language supports colonization without requiring officials to describe it as colonization.
+Settled Systems authorities call regions beyond their recognized governments and relay network **unsettled systems**. Many contain established societies or communities that deliberately avoid Erbium. Surveys can classify their territory as underutilized or lacking recognized governance, allowing corporate claims to proceed with little regard for existing inhabitants.
 
 ## Frontier Extraction Division
 
-Erbium’s Frontier Extraction Division enters systems where information is limited, infrastructure is absent, and legal accountability is weak.
-
-Its personnel may include:
-
-- miners;
-- geological surveyors;
-- xenobiologists;
-- pilots;
-- mechanics;
-- security contractors;
-- communications technicians;
-- medics;
-- logistics personnel;
-- claim assessors.
-
-They are often the first representatives of the Settled Systems encountered by local inhabitants.
-
-They are also employees under pressure to identify profitable resources.
-
-The division’s official mission combines exploration, safety assessment, resource development, and peaceful contact. In practice, production incentives and corporate claims often take priority.
+The Frontier Extraction Division sends survey and extraction crews into regions with limited infrastructure and weak outside oversight. Its personnel may be the first representatives of the Settled Systems to meet local inhabitants. Their official duties include exploration, safety assessment, and peaceful contact, while production incentives reward profitable discoveries and enforceable claims.
 
 # Ancestries and Identity
 
-Ancestry affects how a person experiences the institutions of the Settled Systems.
+Erbium adapts contracts and equipment to the populations it employs. Astrazoan identity nodes and android body leases give the company different forms of authority over their users. Specialized habitat requirements can make an ancestry dependent on particular suppliers, and corporate risk models can assign dangerous work to people expected to survive it.
 
-Erbium does not exploit every group in exactly the same way. It adapts its contracts, technologies, laws, and propaganda to the vulnerabilities of each population.
-
-Examples include:
-
-- Androids are recognized as people while leasing parts of their bodies from the company.
-- Astrazoans can assume many identities but may be forced to carry nodes that reveal their ancestry to Erbium-compatible systems.
-- Peoples who never experienced the Star Dream may be denied recognition as members of the Elect.
-- Ancestries with unusual environmental needs may depend on specialized corporate habitats.
-- Long-lived peoples may carry debts, employment records, or legal obligations across several generations of human administration.
-- Physically resilient ancestries may be assigned more dangerous work because their survival rates satisfy corporate risk models.
-
-Cultural differences should remain meaningful.
-
-Erbium standardization does not erase local traditions, family structures, religions, languages, or forms of identity. It places them under pressure, classifies them, monetizes them, and sometimes markets them.
+Local traditions and family obligations continue to affect how people respond. Consult the ancestry notes for those details and for the person's relationship to their community. A long-lived worker may also carry obligations across several generations of administrators.
 
 # Religion and Public Ritual
 
-The Star Dream does not require a single church, but its language influences public life.
+The Star Dream influences many religious traditions and civic ceremonies. A relay opening can include speeches about the duty to connect the Elect; a ship launch can combine safety certification with a blessing. Corporate memorials describe workers' deaths as a continuation of Wander's sacrifice.
 
-Common religious or civic themes include:
-
-- revelation;
-- selection;
-- stewardship;
-- sacrifice;
-- unity among the Elect;
-- the duty to cross the stars;
-- the obligation to use the Dream’s knowledge;
-- the idea that expansion fulfills a cosmic purpose.
-
-Erbium ceremonies may blur corporate and religious practice.
-
-A new relay is activated with speeches about connection and destiny. Deceased workers are remembered as having extended Wander’s sacrifice. A ship launch includes both safety certification and a blessing invoking the path revealed by the Dream.
-
-Some believers sincerely support Erbium because they see the company as maintaining sacred infrastructure.
-
-Others believe Erbium has corrupted the revelation by turning it into property.
-
-Still others reject the religious interpretation entirely while remaining dependent on the technology the Dream provided.
+Believers disagree about Erbium's authority. Some see its infrastructure work as a sacred responsibility, while others regard its ownership claims as a corruption of the revelation. Secular interpretations of the Dream also exist among people using the technology it supplied.
 
 # Visual and Sensory Identity
 
-The visual style of the Settled Systems is **Corporate Frontier Grit**.
-
-The setting should look advanced, functional, worn, standardized, and maintained under pressure.
+The visual style is **Corporate Frontier Grit**. Equipment should show its construction and service history. Use maintenance work and the availability of parts to determine its condition.
 
 ## Materials
 
-Common materials include:
+Painted steel, matte polymers, and reinforced glass are common. Rubber seals and insulated fabric appear around pressure boundaries. Wear collects where people handle equipment or where heat and moving parts affect a surface. A replacement panel may have a different finish, with an inspection tag identifying the repair.
 
-- painted steel;
-- dull aluminum;
-- ceramic composites;
-- matte polymers;
-- rubber seals;
-- reinforced glass;
-- pressure fabric;
-- canvas;
-- webbing;
-- insulated padding;
-- carbon-black equipment housings.
-
-Surfaces show:
-
-- scratched edges;
-- chipped paint;
-- dust collected in seams;
-- repaired panels;
-- heat discoloration;
-- oil around moving joints;
-- faded stencils;
-- inspection tags;
-- replacement components from different production runs.
-
-The setting should not be covered in indiscriminate rust and grime. Equipment is maintained because people die when it fails.
-
-The problem is limited budgets, delayed parts, and management willing to accept unsafe margins.
+Workers maintain equipment because its failure threatens them. Deferred work and delayed parts leave specific defects: a temporary patch, a recurring leak, or a worn joint awaiting replacement.
 
 ## Color
 
-Erbium Industries uses:
-
-- charcoal;
-- gunmetal;
-- cold silver;
-- pale gray;
-- muted magenta or violet-pink.
-
-Frontier environments add:
-
-- weathered off-white;
-- gray-blue steel;
-- faded yellow;
-- dusty orange-brown;
-- olive drab;
-- dirty beige;
-- desaturated hazard red.
-
-Anomalies may use restrained pale cyan, indigo, ultraviolet, spectral green, pearlescent white, or dim amber.
-
-Avoid dominant neon and glossy cyberpunk lighting.
+Erbium uses charcoal, gunmetal, cold silver, and pale gray with muted magenta or violet-pink accents. Frontier equipment adds weathered off-white, gray-blue steel, faded yellow, dusty orange-brown, olive drab, dirty beige, and desaturated hazard red. Anomalies may use restrained pale cyan, indigo, ultraviolet, spectral green, pearlescent white, or dim amber. Keep illumination functional and the overall palette muted.
 
 ## Sound
 
-Settled Systems locations should have mechanical sound.
-
-Examples include:
-
-- ventilation fans;
-- pumps;
-- relays clicking through handshakes;
-- cargo locks engaging;
-- distant drills;
-- pressure doors;
-- warning tones;
-- suit radios;
-- coolant moving through pipes;
-- generators changing load;
-- metal contracting under temperature shifts.
-
-Silence should feel significant.
-
-A quiet station may mean the machinery has stopped.
+Choose sounds produced by the location's working equipment. A ventilation fan can remain audible through a conversation, and a cargo lock can interrupt it when a delivery arrives. A change in the expected sound gives experienced workers information; a stopped pump may be noticed before its warning light activates.
 
 ## Smell
 
-Habitats and work sites may smell of:
-
-- machine oil;
-- hot dust;
-- recycled air;
-- insulation;
-- disinfectant;
-- cooked ration starch;
-- pressure fabric;
-- sweat trapped in protective clothing;
-- mineral residue;
-- overheated electronics.
-
-Corporate offices smell cleaner because their environmental systems are maintained first.
+Use a smell associated with a nearby activity, such as hot dust around machinery or disinfectant in a clinic. Corporate offices tend to have cleaner air because their environmental systems receive earlier maintenance. A localized change can help the crew find overheated electronics or a contaminated filter.
 
 # Humor
 
-Humor belongs in the setting, but it should come from people rather than from treating suffering as meaningless.
+Workers joke about familiar equipment and the requirements imposed on them. A safety poster might direct complaints to a supervisor whose position has been vacant for six months. Their reaction can show how long they have been dealing with the problem and who they actually approach for help.
 
-Workers mock slogans, rename machines, alter warning signs, maintain superstitions, and invent jokes about contract language.
-
-Corporate absurdity can be funny because it is recognizable.
-
-A death benefit may require the deceased employee’s signature. A mandatory volunteer shift may include a commemorative badge. A safety poster may instruct workers to report equipment problems to a supervisor whose position has been vacant for six months.
-
-The consequences remain grounded.
-
-The tone should avoid turning Erbium into a harmless cartoon company. Its ridiculous procedures still remove housing, delay rescue, seize body parts, and abandon settlements.
+Administrative absurdity retains practical consequences. A death benefit requiring the employee's signature leaves someone responsible for obtaining an exception while the household waits for payment.
 
 # Heroism
 
-Heroic behavior should be visible against the setting.
+Give characters opportunities to help people at a meaningful cost. Recovering a trapped worker may risk leased equipment, and sharing survey findings may violate a contract. Show who benefits from the choice and how the relationship develops afterward.
 
-The player characters stand out when they:
-
-- help someone without calculating profit;
-- keep a promise after the contract no longer requires it;
-- risk valuable equipment to save a worker;
-- treat an unrecognized being as a person;
-- refuse to abandon someone classified as expendable;
-- share information Erbium wants controlled;
-- repair something without demanding ownership;
-- choose discovery over extraction;
-- protect a community’s right to determine its own future;
-- accept personal cost to prevent institutional harm.
-
-These choices should not always be easy or immediately rewarded.
-
-They should still matter.
-
-The campaign should resist nihilism. Erbium is powerful, but its power depends on people accepting its classifications, maintaining its machinery, enforcing its contracts, and believing that no alternative is possible.
-
-A heroic act can save one person, expose one lie, preserve one community, or create one relationship based on trust rather than ownership.
-
-That is enough for the act to matter.
-
-The players do not need to overthrow the entire Settled Systems before their choices become meaningful.
+A community can remember who repaired its water system or stayed during an evacuation. Such actions can earn trust and create future possibilities even while Erbium retains authority over the region.
 
 # NPC Design
 
-Important NPCs should have understandable motives, limited information, personal loyalties, and moral compromises.
+Give an NPC a job, personal obligations, and information appropriate to their circumstances. A security officer may enforce an identity restriction while worrying about the medical coverage their family receives through the company. A researcher may accept limits on publication to retain access to a facility. Establish what each knows, suspects, and conceals.
 
-Avoid dividing the setting into kind workers and openly evil executives.
-
-A corporate manager may believe strict quotas are necessary to keep a colony supplied. A security officer may enforce unjust identity laws because they are afraid of losing medical access for their family. A union organizer may conceal information that would weaken worker solidarity. A scientist may cooperate with Erbium because corporate funding is the only way to continue researching an anomaly.
-
-Senior corporate figures should often justify themselves through stability, necessity, and scale.
-
-They may argue that:
-
-- someone must control erbium;
-- uncontrolled extraction would create another Wander;
-- systems would collapse without standardized authority;
-- the Elect cannot remain united without Erbium;
-- individual suffering is tragic but unavoidable;
-- alternatives are idealistic, dangerous, or technically impossible.
-
-Their arguments should contain enough truth to create conflict.
-
-Erbium’s systems do prevent certain disasters. The question is who benefits, who pays, and whether the company deliberately prevents alternatives from existing.
+Senior managers may defend centralized control by pointing to real supply failures or the danger of another Wander. Their decisions should follow their responsibilities, incentives, and willingness to accept harm. Other characters can challenge those decisions through evidence and the alternatives actually available.
 
 # Adventure Design
 
-Adventures should connect practical problems with larger institutional or cosmic questions.
+Begin with a problem the characters have a reason to address. A missing supply ship can threaten a settlement before the crew learns why it disappeared. An investigation might reveal a contractual decision that diverted the cargo, or an unfamiliar hazard along the route.
 
-A mission might begin with:
-
-- a failed air processor;
-- a missing survey crew;
-- a delayed supply vessel;
-- a disputed mining claim;
-- an android repossession order;
-- a broken relay;
-- a creature entering a refinery;
-- an unauthorized settlement;
-- a geological anomaly;
-- a contract violation;
-- a distress signal from an off-stamp station.
-
-The immediate problem should matter on its own.
-
-As the players investigate, they may uncover:
-
-- suppressed evidence;
-- inhabited territory classified as empty;
-- a corporate decision that created the emergency;
-- technology associated with the Star Dream;
-- a local community resisting integration;
-- an anomaly that Erbium wants monetized;
-- proof that official records were altered;
-- a person whose legal classification hides their actual nature.
-
-Avoid making every adventure secretly part of the same conspiracy.
-
-Erbium’s oppression should feel systemic. Not every harmful decision requires direct approval from the highest executives. Policies, incentives, fear, debt, and precedent reproduce the harm on their own.
+Let the evidence determine how far the problem extends. Local officials and ordinary policies can cause serious harm through their own decisions. Give players useful information about the people affected and practical ways to intervene.
 
 # Exploration
 
-Exploration should reward attention.
+Build locations with histories and physical processes that players can investigate. Repaired equipment, animal behavior, and discrepancies in a survey can provide leads. Following one should change what the crew knows or enable a useful action.
 
-Players should be able to learn about a place through:
-
-- geology;
-- animal behavior;
-- abandoned equipment;
-- local stories;
-- damaged records;
-- architecture;
-- environmental changes;
-- worker modifications;
-- communication logs;
-- inconsistencies in corporate maps.
-
-Discoveries should alter how the players understand a location.
-
-A planet should not exist only as a backdrop for combat or resource collection. It should have its own history, ecology, dangers, inhabitants, and unanswered questions.
-
-The best discoveries create tension between curiosity and extraction.
-
-Erbium asks: What is it worth?
-
-The campaign should also ask: What is it? Who does it belong to? What will be lost if it is used?
+A discovery can create disagreement over its use. Establish who lives there, what extraction would change, and what the crew has learned about the phenomenon. Those facts give the players grounds for a decision.
 
 # Writing Style for the Setting
 
-Use concrete details.
+Use direct prose that describes what people do and what changes as a result. Give a few relevant examples where they help someone understand or run the material. State general rules once and trust readers to apply them to established members of the category.
 
-Describe what machinery does, what workers need, what a policy changes, and who suffers when infrastructure fails.
+Preserve distinctions between an observed fact, a person's belief, and information they are concealing. Explain uncertainty through the available evidence. Develop related actions and observations in connected paragraphs, giving difficult or consequential points more space.
 
-Prefer:
+# Setting Scope
 
-- visible consequences;
-- specific procedures;
-- practical environments;
-- imperfect repairs;
-- institutional language;
-- conflicting motives;
-- discoveries grounded in physical evidence;
-- restrained moments of beauty.
+The campaign supports exploration, work, and relationships across communities with different resources and forms of government. Character choices can improve people's lives and alter local conditions. The Star Dream's origin and other unresolved phenomena remain available for investigation as the campaign develops.
 
-Avoid relying on vague phrases such as “the station remembers,” “the void whispers,” or “something ancient stirs” without concrete sensory or narrative meaning.
+# Campaign Experience
 
-Cosmic mystery should remain mysterious because the available evidence is incomplete, contradictory, or difficult to interpret.
-
-Corporate oppression should remain oppressive because of identifiable systems, contracts, dependencies, and decisions.
-
-# What the Setting Is Not
-
-The Settled Systems are not:
-
-- a sleek post-scarcity utopia;
-- a neon cyberpunk cityscape spread across space;
-- a universe where technology solves every practical problem;
-- a setting where every worker is helpless or incompetent;
-- a setting where every corporate employee is malicious;
-- a comedy in which corporate cruelty has no lasting consequence;
-- a grimdark universe where compassion is always punished;
-- an empty frontier waiting for civilized people to claim it;
-- a setting where the Star Dream has one confirmed religious interpretation;
-- a setting where Erbium controls every thought or action directly;
-- a military setting in which every problem is solved through force;
-- a fantasy setting with science-fiction decoration;
-- a universe where strange phenomena must immediately be explained.
-
-# Core Campaign Feeling
-
-The players should regularly experience moments that should be impossible:
-
-A new sun rising over an unfamiliar horizon.
-
-A living organism communicating through mineral vibration.
-
-A station receiving a message from a world no chart records.
-
-A ruin responding to the Star Dream.
-
-A person discovering that the body, identity, or social role assigned to them is not the limit of who they can become.
-
-These moments exist beside leaking seals, unpaid leases, exhausted crews, corporate disclaimers, missing rescue ships, and polished Erbium emblems.
-
-The setting should make the players angry that something so extraordinary has been reduced to a resource claim.
-
-It should also give them reasons to keep exploring.
-
-The universe is larger than Erbium Industries.
-
-The corporation simply built a civilization designed to make that difficult to remember.
+Give the crew time to examine a new world and learn how its inhabitants live. A successful expedition can bring knowledge, friendships, and a reason to return. Work obligations and corporate claims affect those experiences through specific decisions that the players can understand and act on.

@@ -28,7 +28,7 @@ tags:
 >
 > Settlers came for land and independence, often financing their passage and the equipment needed to establish a home. Many still owe money on property their families have occupied for generations. The planet governs itself through the [[Agrio Dysis Settlement Compact]], but [[Erbium Industries LLC]] supplies much of its infrastructure and the authenticated records on which its property laws depend.
 
-![[planet_AgrioDysisIV.png#center]]
+![[Resources/Art/Worlds/planet_AgrioDysisIV.png#center]]
 
 > [!info] AGRIO DYSIS IV
 > *The Borrowed Horizon*
@@ -329,7 +329,7 @@ Hosts traditionally offer **first water** before serious conversation with a tra
 
 Settlements keep **ground books**, physical and locally copied records of community life, property use, and witnessed agreements. They remain available during relay outages and can supplement authenticated evidence in court. Charter House Six accepts them in that role, although they do not automatically override registry records.
 
-Flood marks on buildings and public infrastructure record earlier high-water levels, helping residents judge an approaching storm.
+Flood marks on buildings record earlier high-water levels and help residents judge an approaching storm.
 
 Mutual aid carries obligations. Communities record emergency assistance and expect recipients to contribute in return, sometimes for years. Membership rules and old disputes can exclude people from otherwise generous local support. Religious settlements may provide refuge under strict rules, while cooperatives reserve water for contributing households.
 
@@ -341,7 +341,7 @@ Humans form the largest population group. Relocation programs supplied human-sta
 
 Local standing depends on reputation, practical skill, land, and water access. Established families pass property and political connections to their children, preserving substantial class differences despite hostility toward Theosis corporate hierarchies.
 
-Other ancestries live throughout the planet. Some communities have developed particular institutions and concerns:
+Communities throughout the planet have developed local institutions and services:
 
 | Community | Local presence |
 | --- | --- |

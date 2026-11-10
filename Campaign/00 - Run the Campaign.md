@@ -5,31 +5,22 @@ audience: gm
 
 # Run the Campaign
 
-[[00 - Start Here|Home]] · [[Worldbuilding/00 - Worldbuilding Index|Worldbuilding]] · [[Starfinder 2e Rules/00 - Rules Index|Rules]]
+[[00 - Start Here|Home]] · [[Worldbuilding/00 - Worldbuilding Index|Worldbuilding]] · [[Rules/00 - Rules Index|Rules]] · [[Table Materials/00 - Table Materials Index|Table materials]]
 
 ## At the table
 
 | Need | Open |
 | --- | --- |
-| Current preparation | [[Campaign/Sessions/Session 2|Session 2]] |
-| Clock and recorded time | [[Campaign/System/Campaign Clock|Campaign Clock]] · [[Campaign/Campaign Timeline|Timeline]] |
-| PES commands and hotkeys | [[Campaign/GM Notes/PES Timekeeping Toolkit|PES Timekeeping Toolkit]] |
-| Previous session and continuity | [[Campaign/Sessions/Session 1|Session 1]] · [[Campaign/GM Notes/Erbium_Session_1_Assessment_Recap_Continuity|Assessment, recap, and GM continuity]] |
-| Player characters and opening scenes | [[Campaign/Party/00 - Party Index|Party Index]] |
-| Shared equipment and agreements | [[Campaign/Player Handouts/00 - Player Handouts Index|Player Handouts]] |
-
-## Session 2 references
-
-These links support the existing preparation. Outcomes and open questions remain in the session note.
-
-- [[Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin|The Last Grin]]
-- [[Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath|Fresh-Breath]]
-- [[Starfinder 2e Rules/Creature/Level 2/Beast/Electrovore|Electrovore]]
-- [[Starfinder 2e Rules/Actions/Analyze Environment|Analyze Environment]]
-- [[Starfinder 2e Rules/Environment/Atmosphere/Nitrous-Oxide Atmosphere|Nitrous-Oxide Atmosphere]]
-- [[Starfinder 2e Rules/Environment/Atmosphere/Thin Atmosphere|Thin Atmosphere]]
-- [[Starfinder 2e Rules/Equipment/Armor/Environmental Protection|Environmental Protection]]
-- [[Starfinder 2e Rules/Conditions/Broken|Broken]]
+| Current preparation | [[Campaign/Sessions/Session 4\|Session 4]] |
+| Last played session | [[Campaign/Sessions/Session 3\|Session 3]] |
+| Current adventure | [[Campaign/Adventures/The Last Grin/00 - The Last Grin\|The Last Grin and Fresh-Breath]] |
+| Cave guide and physical pieces | [[Table Materials/Quantum Cave/00 - Quantum Cave Materials\|Quantum Cave Materials]] |
+| Clock and recorded time | [[Campaign/System/Campaign Clock\|Campaign Clock]] · [[Campaign/Campaign Timeline\|Timeline]] |
+| Timekeeping commands | [[Campaign/System/PES Timekeeping Toolkit\|PES Timekeeping Toolkit]] |
+| Characters and personal scenes | [[Campaign/Party/00 - Party Index\|Party]] |
+| Agreements and shared cards | [[Campaign/Player Handouts/00 - Player Handouts Index\|Player handouts]] |
+| General house rules | [[Rules/Campaign/General Play homebrew\|General Play homebrew]] |
+| Continuity and private table matters | [[Campaign/GM Notes/00 - GM Index\|GM notes]] |
 
 ## Sessions
 
@@ -40,34 +31,17 @@ WHERE type = "session"
 SORT session DESC
 ```
 
-## Campaign locations
+[[Campaign/Sessions/00 - Session Index|Session notes and matching transcripts]]
+
+## Adventures
 
 ```dataview
 LIST
-FROM "Campaign/Locations"
-WHERE type != "navigation"
-SORT file.name ASC
-```
-
-## GM notes and table management
-
-```dataview
-LIST
-FROM "Campaign/GM Notes"
-WHERE type != "navigation"
-SORT file.name ASC
-```
-
-
-```dataview
-LIST
-FROM "Campaign/Table Management"
+FROM "Campaign/Adventures"
 WHERE type != "navigation"
 SORT file.name ASC
 ```
 
 ## Campaign premise
 
-[[Campaign/Plot Hook|Frontier Extraction Division recruitment pitch]]
-
-OBS scenes and media are in `Campaign/OBS_ASSETS`; Discord records are indexed under [[Resources/00 - Resource Index|Resources]].
+[[Campaign/GM Notes/Frontier Extraction Recruitment|Frontier Extraction Division recruitment pitch]]

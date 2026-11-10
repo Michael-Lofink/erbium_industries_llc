@@ -4,7 +4,7 @@ Your responsibilities include routine personnel review, behavioral observation, 
 
 # 8-Ball
 
-![[characterPortrait_8Ball.png#wrapright|300]]
+![[Resources/Art/Characters/characterPortrait_8Ball.png#wrapright|300]]
 
 8-Ball will be your main assignment. His cerebral data banks have been freshly wiped. After being informed of his crimes on `REDACTED`, where he `REDACTED`, he voluntarily chose to remain wiped.
 
@@ -22,7 +22,7 @@ Please help 8-Ball repay his debt to society.
 
 # Ponderer of Oceanus
 
-![[characterPortrait_Ponderer.png#wrapleft|300]]
+![[Resources/Art/Characters/characterPortrait_Ponderer.png#wrapleft|300]]
 
 Ponderer will acquire special attention as well. His closure was overturned internally, and he remains a special interest of the `REDACTED` party. Service in F.E.D. has been issued as deferment for closure.
 
@@ -42,7 +42,7 @@ Please help Ponderer repay his debt to society.
 
 # Mordrun Stronglimb
 
-![[characterPortrait_Mordrun.png#wrapright|300]]
+![[Resources/Art/Characters/characterPortrait_Mordrun.png#wrapright|300]]
 
 Mordrun is a proud volunteer hailing from the clan-holdings on Theosis. A payment has been made out to VSP interests in compliance with Settled Systems Code `A4%9&4-7`, the **Vuddarian Cultural Sanctuary Exemption**.
 

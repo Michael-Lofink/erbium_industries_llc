@@ -17,7 +17,7 @@ tags:
 
 # Settled Systems Administrative Code
 
-The **Settled Systems Code** is the shared law used across the [[Settled Systems]]. It governs rights and obligations between people, institutions, and governments. Erbium administers much of the infrastructure used to apply it; that does not give the company sole power to make law.
+The **Settled Systems Code** is the shared law used across the [[Settled Systems]]. It governs rights and obligations between people, institutions, and governments. The Council of Settled Systems Administration drafts and amends the Code. Erbium administers much of the infrastructure used to apply it.
 
 Start with the [[Code Index]] to find a provision. Each page explains its effect and links to the notes that use it. [[Code Inbox]] lists new citations and unfinished provisions.
 
@@ -32,7 +32,7 @@ Start with the [[Code Index]] to find a provision. Each page explains its effect
 | `&1` | Section: a narrower topic. |
 | `-3` | Clause: the particular rule. |
 
-The title number tells you the field of law. The remaining numbers are permanent registry positions. They do not encode the penalty, the affected ancestry, or the date. Gaps are normal because the Code incorporates older standards, treaties, and amendments.
+Chapter, section, and clause numbers are permanent registry positions. Gaps result from incorporating older standards, treaties, and amendments.
 
 A letter after a citation identifies a subclause. For example, `A2%1&4-13.g` covers emergency medical interference with a continuity node. It belongs to the parent provision.
 
@@ -61,7 +61,7 @@ See [[Code Chapters]] for existing chapter assignments. A rule creating an oblig
 
 | Status | Meaning |
 | --- | --- |
-| Established | The source notes describe it as law. The page may summarize those notes rather than supply full statutory text. |
+| Established | The source notes describe it as law. The page may provide a summary or full statutory text. |
 | Provisional | A source reserves the citation and subject, but the law still needs development. |
 | Example | A drafting exercise, not established law. |
 | Unreviewed | Automatically detected or newly entered; its meaning has not been checked. |

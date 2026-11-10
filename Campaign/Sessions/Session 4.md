@@ -143,7 +143,7 @@ The cave is currently on the **Dark-Side**, near Fresh-Breath. The entrance is e
 
 **Suggested first discovery:** a cracked, white-striped stone in Nest Junction changes between two positions beside the central buttress when unobserved. Watching it holds it in place.
 
-Layout and hazards: [[Quantum_Cave_Session_3_GM_Guide]].
+Layout and hazards: [[Table Materials/Quantum Cave/Session 4 Packet/Quantum Cave Session 4 Guide|Quantum Cave Session 4 Guide]].
 
 ## Scene 6. Feeding Hollow
 *The Uncertainty Principle, Andrew Prahlow* -> Combat: *Robot Getaway; Sophus Alf, Troels Rohde Jørgensen*
@@ -181,7 +181,7 @@ Combat with Fresh-Breath - *Cantina Menace, Michael Lofink*
 | . | . | . | . | . | . | . |
 | Chief [2] (19/+11/+5/+8) | FED 7000 142 pilot | rough, rugged, unlikeable | . | Racist (Fonqugon, Brenneri) | Nera Sop's affection | . |
 ## Collapsible Fresh-Breath Interior Map
-![[Fresh-Breath Two-Level Habitat Atlas.png]]
+![[Table Materials/OBS/Session 3/Fresh-Breath Two-Level Habitat Atlas.png]]
 
 
 # GM Background
@@ -245,9 +245,9 @@ PPPPP fears leaving Fresh-Breath will cost him his father. He despises Nera for 
 # Extra
 
 ## The Quantum Cave
-==🔵[[Quantum]]==
+==🔵[[Rules/Campaign/Traits/Quantum|Quantum]]==
 *The Uncertainty Principle, Andrew Prahlow*
-See [[Quantum_Cave_Session_3_GM_Guide]] for the cave layout and walkthrough.
+See [[Table Materials/Quantum Cave/Session 4 Packet/Quantum Cave Session 4 Guide|Quantum Cave Session 4 Guide]] for the cave layout and walkthrough.
 
 ### Quantum Cave Stats
 ```sf2e-stats
@@ -272,7 +272,7 @@ See [[Quantum_Cave_Session_3_GM_Guide]] for the cave layout and walkthrough.
 **Transition** Bright-Side → Dark-Side → Underground → Bright-Side.
 **Passengers** Creatures inside.
 **Placement** On "The Last Grin"
-**Rules** [[Quantum]]
+**Rules** [[Rules/Campaign/Traits/Quantum|Quantum]]
 
 ---
 
@@ -280,7 +280,7 @@ Source: Erbium Industries LLC
 ```
 
 ## The Anomaly
-Hidden in the [[Quantum Caves#Quantum Chamber|Quantum Chamber Deep Landing]] there is an anomaly that once the team interacts with it then it will make them Part The Fabric.
+Hidden in the [[Rules/Campaign/Environment/Quantum Caves#Quantum Chamber|Quantum Chamber Deep Landing]] there is an anomaly that once the team interacts with it then it will make them Part The Fabric.
 
 Seeing the Anomaly
 *The Nomai, Andrew Prahlow*

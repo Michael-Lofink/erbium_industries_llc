@@ -33,4 +33,4 @@ Run these through the existing Templater commands or hotkeys. Opening a template
 - [[Templates/PES/PES Synchronization|PES Synchronization]]
 - [[Templates/PES/PES Upgrade displays|PES Upgrade displays]]
 
-[[Templates/Advance Stamp|Legacy Advance Stamp entry point]] · [[Campaign/GM Notes/PES Timekeeping Toolkit|PES instructions]]
+[[Templates/Advance Stamp|Legacy Advance Stamp entry point]] · [[Campaign/System/PES Timekeeping Toolkit|PES instructions]]

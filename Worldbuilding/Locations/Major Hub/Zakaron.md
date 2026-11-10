@@ -17,11 +17,11 @@ tags:
   - major-hub
 ---
 > [!summary]
-> **Zakaron**, the **Inverted Arsenal**, is the ancestral world of the [[Madrosarai]] and [[Vesk]]. The Rupture Wars destroyed its surface and much of the original planet. Its survivors rebuilt within a reinforced remnant, arranging their city around a central cavity. Artificial gravity holds residents against the inside of the shell, with the opposite districts hanging upside down overhead. A contained fragment of the old core, the **Sunlock**, lights the city.
+> **Zakaron**, the **Inverted Arsenal**, is the ancestral world of the [[Rules/Campaign/Ancestries/Madrosarai/Madrosarai|Madrosarai]] and [[Rules/Campaign/Ancestries/Vesk/Vesk|Vesk]]. The Rupture Wars destroyed its surface and much of the original planet. Its survivors rebuilt within a reinforced remnant, arranging their city around a central cavity. Artificial gravity holds residents against the inside of the shell, with the opposite districts hanging upside down overhead. A contained fragment of the old core, the **Sunlock**, lights the city.
 >
 > **Kharosai** houses 3.1 billion people across its inward-facing skyline and the densely inhabited rock behind it. Zakaron leads the [[Settled Systems]] in military technology and cybernetics. It remains independent of [[Erbium Industries LLC]], though its fleets depend on access to refined erbium and recognized Drift infrastructure.
 
-![[planet_Zakaron.png#center]]
+![[Resources/Art/Worlds/planet_Zakaron.png#center]]
 
 > [!info] ZAKARON
 > *The Inverted Arsenal*
@@ -75,7 +75,7 @@ The **Sunlock** occupies the center of the cavity. It contains a small remnant o
 
 The installation supplies much of Kharosai's power. Controlled plasma illumination provides its civic day and night cycle, supplemented by local lighting in enclosed districts. Heat exchangers carry waste heat to the exterior radiator fields. Containment failures can interrupt power and gravity, and every major faction insists on retaining access to the machinery.
 
-Residents call the city across the cavity the **Overcity**. The name is relative: someone looking back from those districts would use it for the streets beneath the observer's feet.
+Residents call the districts across the cavity the **Overcity**, a term relative to the observer’s location.
 
 The distance between opposing districts is measured in kilometers. On clear cycles, residents can pick out individual towers and follow the lights of overhead trains. Large advertisements face across the cavity. With advanced image stabilization and atmospheric correction, a scope can follow a person along an exposed street or balcony on the opposite side.
 

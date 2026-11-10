@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9561e07012fd4a21",
+        "id": "ca43bf98fab63836",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9d61b320043b4a",
+            "id": "5a1ebc6906eb45ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Session-4-Music.md",
-                "mode": "source",
-                "source": false
+                "file": "Rules/Campaign/Archetypes/Nostalgic.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Session-4-Music"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7e25e744e1f5e86d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "968f586c3a1a8ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Sessions/Session 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 4"
+              "title": "Nostalgic"
             }
           }
         ]
@@ -116,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Ancestries of the Settled Systems/Fonqugon/Fonqugon.md",
+                "file": "Rules/Campaign/Ancestries/Fonqugon/Fonqugon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Sessions/Session 4.md",
+                "file": "Rules/Campaign/Archetypes/Nostalgic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,53 +212,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "968f586c3a1a8ab5",
+  "active": "5a1ebc6906eb45ac",
   "lastOpenFiles": [
-    "Campaign/GM Notes/Erbium_CoGM_Handoff_Prompt.txt",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Print-Then-Cut/Quantum-Stone-Pawns.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Print-Then-Cut/Optional-Position-Markers.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Print-Then-Cut/Electrovore-Pawns-5-8.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Print-Then-Cut/Electrovore-Pawns-1-4.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Print-Then-Cut/Chuckle-Vents-Spent.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Print-Then-Cut/Chuckle-Vents-Active.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Print-Then-Cut",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Pawns-Actual-Size-Letter.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Pawn-Assembly.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Pawn-Assembly.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Individual/Quantum-Stone-Pawns-J-Body.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Individual/Quantum-Stone-Pawns-H2-Body.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Individual/Quantum-Stone-Pawns-H1-Body.png",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Individual",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/Basic-Cut",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)/ASSEMBLY.md",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2)",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns (2).zip",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Print-Then-Cut",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Pawns-Actual-Size-Letter.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/Pawn-Assembly.pdf",
-    "Campaign/GM Notes/Quantum-Cave-Upright-Pawns/ASSEMBLY.md",
-    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Session-4-Music.md",
-    "Campaign/Sessions/Session 4.md",
-    "Campaign/Sessions/Session 2.md",
-    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/START-HERE.md",
-    "Campaign/GM Notes/Quantum-Cave-Session-4-Packet/Quantum_Cave_Session_3_GM_Guide.md",
-    "Campaign/GM Notes/Quantum_Cave_Session_3_GM_Guide.md",
-    "Campaign/Session Transcripts/Session 3.md",
-    "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Brenneri/Brenneri.md",
-    "Campaign/Locations/Outside Settled Systems/The Last Grin/Fresh-Breath.md",
-    "Campaign/Locations/Outside Settled Systems/The Last Grin/The Last Grin.md",
-    "Campaign/Sessions/Session 3.md",
-    "Campaign/Party/Mary Beth/Reen of The Dustbound Voyage (aka Mordrun Stronglimb)  Scene.pdf.md",
-    "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Astrazoan/Astrazoan.md",
-    "Worldbuilding/Mechanics/Ancestries of the Settled Systems/Moyishuu/Moyishuu.md",
-    "Campaign/Session Transcripts/Session 2.md",
-    "Campaign/GM Notes/Quantum-Cave-Map-Packet/README.md",
-    "Campaign/GM Notes/PES Timekeeping Toolkit.md",
-    "Campaign/Session Transcripts/Session 1.md",
-    "Campaign/Sessions/Session 1.md",
-    "Worldbuilding/Mechanics/Environmental Features/Quantum Caves.md",
-    "Worldbuilding/Mechanics/Traits/Quantum.md",
-    "Worldbuilding/Mechanics/Creatures/Level 4/Construct/Enforcer Robot.md",
-    "Campaign/Party/Gregory/8-Ball Scene.md"
+    "Rules/Campaign/Archetypes/Telepath.md",
+    "Rules/Campaign/Afflictions/Void Calling.md",
+    "Rules/Campaign/Afflictions/Sulfur-Rot.md",
+    "Rules/Campaign/Archetypes/Void-Returned Archetype.md",
+    "Campaign/GM Notes/Continuity/Void Calling Revision and UNITY Keys.md",
+    "Rules/Campaign/Ancestries/Versatile Heritages.md",
+    "Rules/Campaign/Archetypes/Nostalgic.md",
+    "Rules/Campaign/Creatures/Enforcer Robot.md",
+    "Rules/Campaign/Demi-Ancestries/Copaxi.md",
+    "Rules/Campaign/Demi-Ancestries/Goblin.md",
+    "Rules/Campaign/Environment/Nitrous-Oxide Atmosphere.md",
+    "Rules/Campaign/Environment/Quantum Caves.md",
+    "Rules/SF2e/Spells/Level 1/Hydraulic Push.md",
+    "Rules/SF2e/Perception and Detection/Senses/Imprecise Senses.md",
+    "Rules/PF2e/PF2e_All_Archetypes.md",
+    "Rules/Campaign/General Play homebrew.md",
+    "Campaign/Adventures/The Last Grin/Fresh-Breath.md",
+    "Campaign/Adventures/The Last Grin/The Last Grin.md",
+    "Inbox/2026-11-09.md",
+    "Campaign/GM Notes/Continuity/Annabelle the Disc and UNITY Brainstorm.md",
+    "Campaign/Party/Jonah/Ponderer Telepath Advancement.md",
+    "Campaign/Party/Jonah/Ponderer (of Oceanus) Scene.md",
+    "Campaign/Party/Jonah/Ponder Unity.md",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/PondererLvl1_page4.png",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/PondererLvl1_page3.png",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/PondererLvl1_page2.png",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/PondererLvl1_page1.png",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer-Table-Reference.pdf",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer-Binder-Editable-Files/Ponderer-Table-Reference.pdf",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer-Binder-Editable-Files/Ponderer-Table-Mats.pdf",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer-Binder-Editable-Files/Ponderer-GM-Setup.pdf",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer-Binder-Editable-Files/Ponderer-FED-12-Tracker.pdf",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer-Binder-Editable-Files/action-symbols/free-action.svg",
+    "Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer-Binder-Editable-Files/action-symbols/one-action.svg",
+    "Campaign/GM Notes/Continuity/Telepath Archetype Design.md",
+    "Campaign/GM Notes/Continuity/Erbium_Session_1_Assessment_Recap_Continuity.md",
+    "Campaign/Party/Gregory/Secret Backstory.md",
+    "Campaign/Adventures/The Last Grin/battlemap_CrashSite_sectioned.pdf",
+    "Campaign/Adventures/The Last Grin/battlemap_CrashSite.png",
+    "Campaign/Party/Maggie/RoutineEvalFor8Ball.png",
+    "Table Materials/Exports/Maps/Erbium_Battle_Mat_Templates.pdf",
+    "Table Materials/Exports/Party/Gregory/8-Ball Scene.pdf",
+    "Table Materials/Exports/Party/Gregory/Animated Firearm.pdf",
+    "Table Materials/Exports/GM Only/Jonah Pain Point Transcript.pdf",
+    "Resources/Art/Worlds/planet_Zakaron.png",
+    "Resources/Art/Worlds/planet_Theosis.png"
   ]
 }

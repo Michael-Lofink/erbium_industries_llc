@@ -18,9 +18,9 @@ status: draft
 ---
 
 # Hondue Last-Tether
-![[characterPortrait_Hondue.png#wrapright|300]]
+![[Resources/Art/Characters/characterPortrait_Hondue.png#wrapright|300]]
 > [!summary]
-> **Hondue Last-Tether** is a dwarven singer, instrumentalist, free captain, and former exterior maintenance rigger from [[Theosis]]. His music combines forge-watch work songs, layered dwarven vocals, strings, hand percussion, electric instruments, and modern popular production.
+> **Hondue Last-Tether** is a dwarven singer, instrumentalist, free captain, and former exterior maintenance rigger from [[Theosis]]. His music combines forge-watch work songs and layered dwarven vocals with electric instruments.
 >
 > Hondue was already a successful performer when Erbium Industries compelled him into service through the Great Volunteering. His prior forge-watch qualifications led to an exterior maintenance assignment on Theosis, where he survived a catastrophic separation during the [[Theosis#The Shredder Passage|Shredder Passage]]. The accident left him with sulfur-scarred hands and face, a reconstructed throat, a cybernetic eye, and a bladed prosthetic arm.
 >
@@ -30,7 +30,7 @@ status: draft
 
 Hondue was born **Hondue of Clan Tavran** and raised within one of the lower industrial districts of Crown Meridian. He trained within his clan’s forge watches as an atmospheric rigger and pressure-envelope inspector, learning to work docking structures, stabilizer assemblies, guide rails, work cages, and the exterior frames used during preparations for the Shredder Passage.
 
-Hondue was known for singing over the shared channel during long assignments. Some songs kept a common rhythm while crews shifted ballast, secured guide rails, or hauled equipment between maintenance frames. Others helped workers remain awake, confirm who was still responding, and fill the time while one team waited for another to complete a repair.
+Hondue sang over the shared channel during long assignments. Work songs kept crews in rhythm while hauling equipment; quieter exchanges helped them stay awake and check that everyone was still responding during delays.
 
 He eventually left regular exterior work to pursue music full-time, though he retained his technical qualifications and remained involved with clan gatherings, forge-watch memorials, and worker relief funds.
 
@@ -40,7 +40,7 @@ Hondue’s first recordings grew from the songs he had learned and written durin
 
 His career began in lower-deck halls and clan gatherings before reaching major venues throughout the Settled Systems. His early touring band included dwarven string musicians, work-song singers, percussionists, and several former riggers. The verses often carried names, measurements, warnings, routes, and places, while the choruses used simple responses that could be sung by a work crew or a concert audience.
 
-Hondue’s early career established a carefully controlled stage persona that became recognizable throughout the Settled Systems. He performed in bright shirts, polished work boots, fitted vests, forge-watch jewelry, carefully arranged hair ornaments, and pink eye makeup that became closely associated with his public image. Licensed merchandise reproduced the look across posters, concert recordings, clothing, collectible figures, promotional hardlight displays, and commercial holoskins.
+Hondue’s early career established a carefully controlled stage persona that became recognizable throughout the Settled Systems. Bright shirts, forge-watch jewelry, and pink eye makeup made him recognizable. Licensed merchandise reproduced the look in collectible figures and commercial holoskins.
 
 ## The Great Volunteering
 
@@ -56,9 +56,7 @@ Hondue received his title during a Shredder Passage accident involving **Frame T
 
 The rescue damaged his suit and exposed his left side to the surrounding atmosphere. His hands and face suffered severe chemical burns, while debris destroyed his left eye, crushed part of his neck, and damaged his forearm beyond ordinary reconstruction.
 
-The last recording recovered from the work channel contained Hondue singing between rescue instructions. His voice continued beneath warning alarms, suit telemetry, and the names of workers moving along the tether. Erbium’s official report described the accident as a successful personnel-recovery procedure, though a member of Hondue’s forge watch later released part of the channel recording through a clan archive along with earlier repair requests concerning Frame Twelve.
-
-Lower-deck workers began calling him **Last-Tether** before he left medical care.
+The last recording recovered from the work channel contained Hondue singing between rescue instructions. His voice continued beneath warning alarms, suit telemetry, and the names of workers moving along the tether. Erbium’s official report described the accident as a successful personnel-recovery procedure, though a member of Hondue’s forge watch later released part of the channel recording through a clan archive along with earlier repair requests concerning Frame Twelve. Lower-deck workers began calling him **Last-Tether** before he left medical care.
 
 ## Reconstruction
 
@@ -66,9 +64,7 @@ Erbium Industries financed much of Hondue’s reconstruction after the work-chan
 
 The augmentation around his neck reinforces damaged vertebrae and replaces portions of his larynx and upper airway. Its resonant chambers restored his ability to speak and gave his singing voice a deeper mechanical undertone. Early producers attempted to smooth the resonance during recording. Hondue required that it remain audible.
 
-His left forearm contains a retractable seam blade used for cutting pressure fabric, restraint cable, damaged suit material, and emergency access panels. The blade incorporates his clan crystal and represents the current form of the weapon given to him at birth.
-
-The sulfur damage across his hands and the left fringe of his face could be softened or covered through continued treatment. Hondue leaves it visible.
+His left forearm contains a retractable seam blade for cutting restraint cable and emergency access panels. The blade incorporates his clan crystal and represents the current form of the weapon given to him at birth. The sulfur damage across his hands and the left fringe of his face could be softened or covered through continued treatment. Hondue leaves it visible.
 
 ## Return to the Stage
 
@@ -78,17 +74,15 @@ The song spread through clan archives, maintenance channels, freight crews, and 
 
 His altered appearance made the difference between his two careers immediately recognizable. The younger performer preserved in old concert merchandise had become a scarred industrial survivor with visible augmentations and a roughened voice. Hondue used his renewed attention to discuss the workers on Frame Twelve, the repair requests filed before the accident, and the names preserved in the channel recording.
 
-When asked whether Erbium knew Frame Twelve was unsafe, Hondue usually gave the same answer:
+When asked whether Erbium knew Frame Twelve was unsafe, Hondue referred interviewers to the stamped repair request and the decision to keep the frame in service.
 
-> The inspection was signed. The repair request was stamped. The frame was kept in service.
-
-His performances again grew into major Settled Systems tours. A portion of his income funded pressure-equipment replacement, sulfur-rot treatment, clan mutual-aid accounts, and transportation for dwarves returning to Vuddar for reorientation. Erbium assigned Hondue and his touring company the converted personnel transport that would eventually become the **Last Warrant**.
+His performances again grew into major Settled Systems tours. A portion of his income funded pressure-equipment replacement, sulfur-rot treatment, clan mutual-aid accounts, and transportation for dwarves returning to Vuddar for reorientation. 
 
 ## The Warranted Return
 
 Erbium assigned Hondue and his touring company a converted personnel transport called the **Warranted Return**. The vessel carried musicians, equipment, production staff, corporate handlers, temporary stage structures, and several cargo holds large enough to transport complete concert installations. It traveled through major ports, extraction settlements, company stations, and communities that rarely received independent civilian traffic.
 
-Touring exposed Hondue to workers beyond Theosis. He met discharged miners who could not afford passage home, settlements waiting months for replacement filters, androids avoiding component repossession, and civic-service crews whose contracts had been extended while they were already in transit. The unused sections of the Warranted Return soon began carrying medicine, pressure components, unregistered repair parts, and passengers.
+Touring exposed Hondue to workers beyond Theosis. He met discharged miners unable to afford passage home and settlements waiting months for replacement filters. The unused sections of the Warranted Return soon began carrying medicine, pressure components, unregistered repair parts, and passengers.
 
 Some cargo was purchased using ticket revenue or clan mutual-aid funds. Some was donated by workers attending the concerts. Other shipments came from Erbium stores after the company had refused to release them to the settlements requesting them. Stage cases gained false walls, empty speaker housings carried medical supplies, and touring manifests listed replacement lighting rigs that weighed as much as filtration equipment. Discharged workers joined the production crew for the exact length of time required to reach another system, and Hondue’s musicians, technicians, and riggers became the vessel’s first smuggling crew.
 
@@ -102,7 +96,7 @@ The Warranted Return departed with the boarding team locked inside an empty rehe
 
 ## The Last Warrant
 
-The Last Warrant now operates as a concert ship, salvage vessel, smuggling transport, and pirate craft. Its crew includes musicians, mechanics, former exterior riggers, discharged service workers, freight specialists, and several people who originally joined the sponsored tour. Stage equipment shares cargo space with pressure doors, boarding cable, spare life-support systems, hidden bunks, salvage tools, and goods awaiting delivery to settlements unable to purchase them through authorized channels.
+The Last Warrant carries concert equipment alongside salvage tools and unauthorized relief supplies. Several original touring staff remain aboard, joined by discharged service workers and freight specialists. Hidden bunks accommodate passengers, and spare life-support equipment supports long crossings.
 
 Concert lighting has been adapted for exterior salvage and boarding operations. Stage winches move cargo and secure disabled vessels, amplifier housings conceal tools, weapons, and replacement parts, and the main performance chamber can become temporary shelter for passengers during long crossings.
 
@@ -148,4 +142,4 @@ Hondue remains one of the most recognizable dwarves in the Settled Systems. Olde
 
 Among lower-deck workers and dwarven forge watches, Hondue remains closely associated with mutual aid, maintenance accountability, and resistance to craft-warrant abuse. Independent settlements hire the Last Warrant for performances, salvage, transportation, or protection. Erbium-aligned ports issue detention orders when the vessel enters their jurisdiction, while other governments tolerate its presence until one of their own ships appears on Hondue’s cargo records.
 
-Corporate media claims that Hondue uses worker grievances to build a profitable outlaw brand. Hondue earns considerable money from recordings, concerts, merchandise, salvage, and captured cargo, with a substantial portion leaving the ship through medical funds, equipment purchases, legal assistance, transport costs, and payments to the families of detained crew members. His supporters call him a free captain, Erbium calls him a pirate, and Hondue answers to both.
+Corporate media claims that Hondue uses worker grievances to build a profitable outlaw brand. Hondue earns considerable money from recordings, concerts, merchandise, salvage, and captured cargo, with a substantial portion leaving the ship through medical funds, equipment purchases, legal assistance, transport costs, and payments to the families of detained crew members. He accepts both the free-captain and pirate titles.

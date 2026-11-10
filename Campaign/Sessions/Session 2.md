@@ -23,7 +23,7 @@ await dv.view("Campaign/System/PES/view", {mode: "session"});
 ```
 
 ## Session 2 Action Reminders Collapsible
-![[Session_2_Action_Reminders]]
+![[Campaign/Player Handouts/Session 2/Session_2_Action_Reminders]]
 
 # Recap
 *Hope (Title Theme), Justin E. Bell*
@@ -44,14 +44,14 @@ And that is where we will begin: "Awake on Planet 'X'"
 
 >8-Ball, Mordrun, your surroundings are cold, ridged, and gray. The main hab has shattered to bits, but a chunk remains large enough to create an overhang. That is where you, Mordrun, find yourself now as you follow closely the instructions on the medkit to resuscitate your pairing Ponderer. 8-Ball, your head is on backwards, and you see over the horizon a ginormous celestial body covering most of your view. It is green and blue, covered in harrowing clouds.
 
-Remind them of [[Analyze Environment]] exploration activity
+Remind them of [[Rules/SF2e/Actions/Analyze Environment|Analyze Environment]] exploration activity
 
 Ponderer's Spacesuit; hidden in the wreckage. Use Seek `pf2:1`  **Stealth DC** 15.
 - Trapped under debris, careful removal can be done to keep it from being  damaged when removing it from the debris. **Thievery DC** 15
 	- **Critical Success** Retrieved with no damage
 	- **Success** As Critical Success, but lose 1 bulk of air
 	- **Failure** lose 2 bulk of air
-	- **Critical Failure** Spacesuit is [[Broken|broken]], lose 4 bulk of air
+	- **Critical Failure** Spacesuit is [[Rules/SF2e/Conditions/Broken|broken]], lose 4 bulk of air
 
 The Last Grin is tidally locked. (The same face is always pointed towards the planet surface)
 Cockpit and back of ship are nowhere to be found, only main hab.
@@ -63,13 +63,13 @@ There is a settlement on the darkside: Fresh-Breath, occupied by people a couple
 - **Mordrun — assess the missing cockpit.** Give Mary Beth an opening to apply Piloting: the cockpit separated deliberately, and its emergency descent system could have carried Chief beyond the main debris field. Describe this publicly as piloting knowledge.
 
 ## Collapsible "The Last Grin" Stats
-![[The Last Grin]]
+![[Campaign/Adventures/The Last Grin/The Last Grin]]
 
 # Electrovores at the wreckage
 <!-- pes: {"id":"pes-musz71rg-fw82smx9","plan":{"kind":"after","scene":"pes-musz5vdj-iyuer1lo","minutes":30}} -->
 Electrovores show up to the wreckage eventually because of concentration of electricity at the wreckage. 
 
-if they are struggling and left emergency beacon on then hunting party led by PPPPP could show up? PPPPP shows up in Fresh-Breath's [[Grinrunner Hunting Truck|Grinrunner]]
+if they are struggling and left emergency beacon on then hunting party led by PPPPP could show up? PPPPP shows up in Fresh-Breath's [[Rules/Campaign/Vehicles/Grinrunner Hunting Truck|Grinrunner]]
 
 I’d use PPPPP for an attempted salvage seizure. If his group encounters the party outside Fresh-Breath, he offers directions and transport, then starts identifying equipment as payment: a spare battery, a toolkit, anything portable that still works. One of his companions begins loading an unattended supply case while he keeps the survivors talking.
 
@@ -85,8 +85,8 @@ attempt observable and interruptible
 
 
 ## Collapsible Electrovore Stats
-![[Electrovore#Electrovore]]
-![[Electrovore#Weak Electrovore]]
+![[Rules/SF2e/Creatures/Electrovore#Electrovore]]
+![[Rules/SF2e/Creatures/Electrovore#Weak Electrovore]]
 
 # Where did the Cockpit go?
 <!-- pes: {"id":"pes-muszc4r6-ucdnr8zd","plan":{"kind":"after","scene":"pes-musz943u-ukybpyvt","minutes":30}} -->
@@ -119,4 +119,4 @@ A.Sop knows where the entrance was and what earlier salvage crews removed. He ha
 - **Mordrun — ask useful questions about the old ship.** Invite Mary Beth to distinguish what A.Sop remembers from what would require a current inspection. Keep every planned contribution explainable through Mordrun’s skills and equipment.
 
 ## Collapsible Fresh-Breath Stats
-![[Fresh-Breath#Fresh-Breath Statblock]]
+![[Campaign/Adventures/The Last Grin/Fresh-Breath#Fresh-Breath Statblock]]

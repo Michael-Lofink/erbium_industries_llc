@@ -35,7 +35,7 @@ Financing remains subject to item availability and the seller's participation in
 
 ## 1. Calculate Your Credit Trust
 
-At an account review, find your **reference reserve** by character level. This number is a benchmark for assessment; it is not money added to your account.
+At an account review, find your **reference reserve** by character level. This is the benchmark used to assess your reserves.
 
 | Level | Reference reserve | Level | Reference reserve |
 | ---: | ---: | ---: | ---: |
@@ -188,7 +188,7 @@ Lease charges reflect the actual time used, including partial cycles. Installmen
 | Assess standing | Apply the escalation below and review the credit rating using the remaining liquid credits. |
 | Advance the deadline | Add **10,080 offsets** to the scheduled due stamp. |
 
-**Past Due is the overdue portion of amounts already owed.** It is a tracking total, not another fee added on top of those amounts. Return charges that are unpaid when due enter Past Due immediately; account escalation is assessed on the regular billing dates.
+**Past Due tracks the overdue portion of amounts already owed.** Return charges that are unpaid when due enter Past Due immediately; account escalation is assessed on the regular billing dates.
 
 ### Escalation
 
@@ -224,7 +224,7 @@ If the scanner is returned immediately after that bill in acceptable condition, 
 
 ## 8. Copyable Account Tracker
 
-Record the approved limit at review. Update the agreement rows when you borrow, return, buy, or pay. The account summary is a total of those rows; it does not create additional debts.
+Record the approved limit at review and update the agreement rows as transactions occur. Use their totals for the account summary.
 
 | Account field | Value |
 | --- | --- |

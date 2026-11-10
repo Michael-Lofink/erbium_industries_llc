@@ -37,8 +37,8 @@ After a brief but dangerous encounter with the native wildlife, our team takes a
 And that is where we will begin, "Wait there's Life?"
 
 
-## Collapsible "[[The Last Grin]]" Stats
-![[The Last Grin]]
+## Collapsible "[[Campaign/Adventures/The Last Grin/The Last Grin|The Last Grin]]" Stats
+![[Campaign/Adventures/The Last Grin/The Last Grin]]
 # Wait there's Life?
 <!-- pes: {"id":"pes-mvcw1l9t-n802qoj9","plan":{"kind":"offset","minutes":0}} -->
 *The Day We Choose To Die, Trailer Rebel*
@@ -59,11 +59,11 @@ PPPPP wants to scavenge the goods from the crash site, he sends Baron Bon Bortis
 
 PPPPP already picked up Chief and took him back to Fresh-Breath but will not be forthcoming with this information.
 
-## Collapsible "[[Grinrunner Hunting Truck|Grinrunner]]" Stats
-![[Grinrunner Hunting Truck]]
+## Collapsible "[[Rules/Campaign/Vehicles/Grinrunner Hunting Truck|Grinrunner]]" Stats
+![[Rules/Campaign/Vehicles/Grinrunner Hunting Truck]]
 
-## Collapsible [[Chuckle Vent]] Stats
-![[Chuckle Vent]]
+## Collapsible [[Rules/Campaign/Hazards/Chuckle Vent|Chuckle Vent]] Stats
+![[Rules/Campaign/Hazards/Chuckle Vent]]
 
 # Where did the Cockpit go?
 <!-- pes: {"id":"pes-mvcw1xll-te0uibga","plan":{"kind":"offset","minutes":60}} -->
@@ -99,13 +99,13 @@ MAKE SURE TO MENTION THE SHIP IS SUPPOSED TO BE IN THE MOUTH OF THE QUANTUM CAVE
 
 
 ## Collapsible Fresh-Breath Interior Map
-![[Fresh-Breath Two-Level Habitat Atlas.png]]
+![[Table Materials/OBS/Session 3/Fresh-Breath Two-Level Habitat Atlas.png]]
 
 # The Quantum Cave
 <!-- pes: {"id":"pes-mvcw3j0h-bl5tswhm","plan":{"kind":"after","scene":"pes-mvcw2fww-ms648fov","minutes":180}} -->
-==🔵[[Quantum]]==
+==🔵[[Rules/Campaign/Traits/Quantum|Quantum]]==
 *The Uncertainty Principle, Andrew Prahlow*
-See [[Quantum_Cave_Session_3_GM_Guide]] for the cave layout and walkthrough.
+See [[Archive/Preparation/The Last Grin/Quantum Cave Session 3 Guide|Quantum Cave Session 3 Guide]] for the cave layout and walkthrough.
 
 ## Quantum Cave Stats
 ```sf2e-stats
@@ -130,7 +130,7 @@ See [[Quantum_Cave_Session_3_GM_Guide]] for the cave layout and walkthrough.
 **Transition** Bright-Side → Dark-Side → Underground → Bright-Side.
 **Passengers** Creatures inside.
 **Placement** On "The Last Grin"
-**Rules** [[Quantum]]
+**Rules** [[Rules/Campaign/Traits/Quantum|Quantum]]
 
 ---
 
@@ -138,7 +138,7 @@ Source: Erbium Industries LLC
 ```
 
 # The Anomaly
-Hidden in the [[Quantum Caves#Quantum Chamber|Quantum Chamber Deep Landing]] there is an anomaly that once the team interacts with it then it will make them Part The Fabric.
+Hidden in the [[Rules/Campaign/Environment/Quantum Caves#Quantum Chamber|Quantum Chamber Deep Landing]] there is an anomaly that once the team interacts with it then it will make them Part The Fabric.
 
 Seeing the Anomaly
 *The Nomai, Andrew Prahlow*

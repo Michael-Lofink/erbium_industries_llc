@@ -28,7 +28,7 @@ tags:
 >
 > Erbium established its permanent headquarters here after the destruction of [[Wander]]. It governs through the Theosis Directorate and controls most of the infrastructure residents depend on for housing, employment, and life support. Municipal councils have their own powers, though their work depends heavily on corporate funding and equipment.
 
-![[planet_Theosis.png#center]]
+![[Resources/Art/Worlds/planet_Theosis.png#center]]
 
 > [!info] THEOSIS
 > *The Gilded Suspension*
@@ -131,7 +131,7 @@ Separated employees are entitled to a transitional review, but safety, identity,
 
 ## The Shredder Passage
 
-During **periastron atmospheric compression**, or the **Shredder Passage**, Theosis's eccentric orbit causes rapid changes in stellar heating and atmospheric circulation. The planet remains gravitationally intact. Cloud layers expand, contract, and shift altitude; winds strengthen, and adjacent bands develop dangerous shear. Cities rebalance and reposition themselves to follow the moving buoyancy zones.
+During **periastron atmospheric compression**, or the **Shredder Passage**, Theosis's eccentric orbit causes rapid changes in stellar heating and atmospheric circulation. Cloud layers expand, contract, and shift altitude; winds strengthen, and adjacent bands develop dangerous shear. Cities rebalance and reposition themselves to follow the moving buoyancy zones.
 
 Preparations start thousands of minutes before the forecast approach. Crews secure exposed structures, rebalance the city, and prepare its emergency systems and rescue fleet. Unnecessary movement is restricted.
 
@@ -272,7 +272,7 @@ The oldest buoyant city, planetary capital, and formal seat of Erbium grew aroun
 
 ### Erbium Central
 
-The headquarters and planetary administration occupy Crown Meridian's upper structural core. Its facilities and role in government are described in the earlier **Erbium Central** section.
+The headquarters and planetary administration occupy Crown Meridian's upper structural core. See [[#Erbium Central]] for its facilities and role in government.
 
 ### Concordance Hall
 

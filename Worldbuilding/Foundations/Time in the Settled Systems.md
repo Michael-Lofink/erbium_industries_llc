@@ -14,152 +14,45 @@ status: draft
 # Post-Erbium Standard
 
 > [!summary]
-> The **Post-Erbium Standard**, commonly abbreviated **PES**, is the universal timekeeping protocol used throughout the [[Settled Systems]]. Its central measurement is the **stamp**, a synchronized count of standard minutes maintained across the communications infrastructure operated by [[Erbium Industries LLC]].
+> The **Post-Erbium Standard (PES)** is the official timekeeping protocol of the [[Settled Systems]]. Its central measurement is the **stamp**, a synchronized count of standard minutes maintained through the communications infrastructure of [[Erbium Industries LLC]].
 
 ## Origin
 
-As interstellar travel and communication expanded, local calendars became increasingly difficult to reconcile. Planets, stations, vessels, and orbital habitats measured days and years according to different rotations, orbits, and artificial cycles.
-
-Erbium Industries introduced PES alongside its interstellar relay network, presenting it as a neutral solution for navigation, commerce, communications, and government administration.
-
-Because most settlements depended on Erbium infrastructure to access the standard, PES became the legal basis for timekeeping throughout the Settled Systems.
+Interstellar travel brought together calendars based on different rotations, orbits, and artificial cycles. Erbium introduced PES with its relay network to coordinate navigation and commerce. Dependence on that infrastructure helped establish PES as the legal time standard throughout the Settled Systems.
 
 ## The Stamp
 
-The **stamp** is a continuously increasing count of standard minutes.
-
-Each complete stamp contains two values:
-
-1. The current **lapse**
-2. The number of minutes elapsed within that lapse
-
-A complete stamp is written as:
-
-`Lapse:Minute PES`
-
-Example:
-
-`29:08472119 PES`
-
-The campaign begins during the **29th Lapse**.
-
-Colloquially, **the stamp** may refer to:
-
-- The raw PES number
-- The current official time
-- The Erbium-operated timekeeping network
-- An event's legally recognized timestamp
+A complete stamp records the current **lapse** and the minutes elapsed within it, written `Lapse:Minute PES`. For example, `29:08472119 PES` identifies a minute in the **29th Lapse**, when the campaign begins. In conversation, “the stamp” can mean the official time, an event’s timestamp, or the network maintaining it.
 
 ## Lapses
 
-The minute counter can only increase to the maximum value permitted by the PES protocol.
-
-When that value is reached:
-
-1. The minute counter returns to zero
-2. The lapse number increases by one
-3. PES continues without interruption
-
-The exact duration of a lapse depends on the counter limit established by the protocol.
-
-A lapse is primarily a technical division. Most people use local years, seasons, days, or work cycles in ordinary conversation.
+When the minute counter reaches the protocol’s limit, it returns to zero and the lapse number increases by one. This keeps the count continuous. People usually discuss everyday schedules in local days, years, or work cycles.
 
 ## Local Time Conversion
 
-Planets, stations, vessels, and habitats connect to the Erbium relay network and convert the current stamp into a locally useful calendar.
-
-A single stamp might be displayed as:
-
-- A planetary date and local hour
-- A station cycle and work shift
-- A shipboard mission day
-- A seasonal or agricultural calendar
-- A settlement-specific religious or civil date
-
-Local time systems determine how people ordinarily understand their schedules, birthdays, holidays, and daily routines.
-
-The underlying stamp remains unchanged.
+Connected settlements and vessels convert the same raw stamp into their local calendars. A planet might display a date and hour, while a station displays a cycle and work shift. These local calendars govern ordinary routines and holidays; both displays refer to the same PES minute.
 
 ## Legal Use
 
-PES is the official time standard for:
-
-- Employment contracts
-- Payroll
-- Equipment leases
-- Shipping manifests
-- Navigation records
-- Transmission logs
-- Insurance claims
-- Criminal and civil deadlines
-- Government filings
-- Corporate service obligations
-- Automated industrial systems
-
-When a local calendar conflicts with the stamp, the PES record is generally treated as legally authoritative.
+PES supplies timestamps for official records, including payroll and shipping manifests. Contracts and automated industrial systems use it to measure deadlines and service periods. Courts usually accept the PES record when it conflicts with a local calendar.
 
 ## Common Terminology
 
-### Raw Stamp
+| Term | Meaning |
+| --- | --- |
+| **Raw stamp** | The untranslated PES value, such as `29:08472119 PES`. |
+| **Local stamp** | A local date or time converted from the raw stamp. |
+| **Stamp drift** | A difference between a local clock and official PES. Faulty hardware or delayed synchronization can cause it; severe drift can invalidate contracts or safety and navigation logs. |
+| **Stamp authority** | The relay, server cluster, or institution whose record is accepted in a dispute. Erbium systems usually hold this authority. |
+| **Stamped** | Recorded by a PES-connected system. |
+| **Off-stamp** | Disconnected, unsynchronized, or absent from the official record. |
+| **Ghost minutes** | Time experienced or worked locally that is absent from the accepted PES record. |
 
-The untranslated PES value.
-
-Example:
-
-`29:08472119 PES`
-
-### Local Stamp
-
-A local date or time derived from the current raw stamp.
-
-### Stamp Drift
-
-A measurable difference between a local clock and the official PES value.
-
-Minor drift may result from faulty hardware or delayed synchronization. Severe drift can invalidate navigation records, contracts, or automated safety logs.
-
-### Stamp Authority
-
-The relay, server cluster, or institutional record recognized as the official source for a disputed stamp.
-
-Erbium-controlled systems are usually treated as the default authority.
-
-### Stamped
-
-Officially recorded by a PES-connected system.
-
-> “The inspection was stamped before the pressure loss.”
-
-### Off-Stamp
-
-Disconnected from PES, operating without synchronization, or absent from the official record.
-
-> “That settlement has been off-stamp for eleven local days.”
-
-### Ghost Minutes
-
-Time experienced or worked locally that does not appear in the accepted PES record.
-
-Ghost minutes may occur during relay outages, damaged transmissions, synchronization errors, or disputes over which server held stamp authority.
-
-Erbium Industries commonly refuses to recognize ghost minutes for payroll, lease compliance, or service-credit calculations.
+Ghost minutes can result from outages, damaged transmissions, synchronization errors, or disputes over stamp authority. Erbium commonly excludes them from payroll, lease compliance, and service-credit calculations.
 
 ## Social and Political Significance
 
-Erbium Industries publicly describes PES as a shared civic utility that allows the Settled Systems to function as a unified civilization.
-
-In practice, Erbium controls much of the infrastructure that determines when an action legally occurred.
-
-This gives the company considerable influence over:
-
-- Whether labor hours are recognized
-- Whether a shipment arrived on time
-- When a lease expires
-- Whether a service obligation has been fulfilled
-- Which version of a disputed event becomes official
-- Whether activity during an outage legally occurred
-
-Independent settlements frequently maintain private backups, mechanical clocks, or locally signed records in case an Erbium stamp is challenged.
+Erbium presents PES as a shared civic utility. Its control of the accepted record gives it influence over whether workers receive pay for a disputed shift or a shipment meets its deadline. Independent settlements keep backup records and mechanical clocks to support challenges to company timestamps.
 
 ## Corporate Language
 

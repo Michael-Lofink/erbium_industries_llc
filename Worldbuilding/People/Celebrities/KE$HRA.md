@@ -15,146 +15,60 @@ status: draft
 ---
 
 # KE$HRA
-![[characterPortrait_KE$HRA.png#wrapright|300]]
-> [!summary]  
-> **KE$HRA** is a Moyishuu singer and performer whose loud dance-pop, deliberately messy public image, and Court of Flames stage presence have made her one of the most recognizable celebrities in the [[Settled Systems]].
-> 
-> Her breakout single, **STaMP STaMP**, turned sponsor tabs, access scans, transit windows, shift changes, security checks, and the [[Post-Erbium Standard|stamp]] itself into a party anthem. The song established the persona she still performs publicly: glamorous, vulgar, impulsive, perpetually late, and somehow always cleared to enter the next venue.
-> 
-> KE$HRA maintains a close commercial relationship with [[Erbium Industries LLC]]. Her tours rely heavily on Erbium transit and relay infrastructure, and she regularly appears at sponsored events, employee celebrations, product launches, and corporate entertainment broadcasts. She complains freely about handlers, schedules, publicists, security, and sponsorship requirements while remaining comfortably aligned with the corporation itself.
+![[Resources/Art/Characters/characterPortrait_KE$HRA.png#wrapright|300]]
+> [!summary]
+> **KE$HRA** is a Moyishuu dance-pop singer known throughout the [[Settled Systems]] for **STaMP STaMP**, a party anthem built around the [[Post-Erbium Standard|stamp]]. She performs at [[Erbium Industries LLC]] events and relies on its transit and relay networks for touring and distribution. Her complaints about handlers and schedules coexist comfortably with her support for the company funding her career.
 
 ## Early Life
 
-KE$HRA grew up aboard a Moyishuu constellation that spent much of its time moving between commercial stations and densely populated Settled Systems ports. Her childhood included the ordinary work of constellation life alongside constant exposure to whatever entertainment, fashion, slang, and nightlife could be found at the next stop.
+KE$HRA grew up aboard a Moyishuu constellation traveling between commercial stations and populated ports. She took part in the work of constellation life and sought out music and nightlife at each stop. Drawn to competition and quick decisions, she joined the [[Rules/Campaign/Ancestries/Moyishuu/Moyishuu#The Four Courts|Court of Flames]] while young.
 
-She gravitated toward the [[Moyishuu#The Four Courts|Court of Flames]] while young. Competition suited her, and she enjoyed situations where a decision had to be made quickly and in front of other people. She sang at constellation celebrations, entered local performance competitions, volunteered for improvised shows during long crossings, and developed a reputation for taking over any stage she was allowed near.
-
-Her early performances depended more on presence than formal polish. KE$HRA could get a room moving quickly, recover from mistakes without losing momentum, and turn interruptions into part of the show. Those habits remained central to her performances after professional producers became involved.
+She sang at constellation celebrations and entered local competitions. By the time professional producers became involved, she could keep a crowd involved through mistakes and interruptions, often responding to people in the room during a song.
 
 ## First Career
 
-KE$HRA's earliest public recordings circulated through station entertainment channels and personal relay feeds. Most were short live clips recorded in bars, temporary performance halls, docking concourses, and parties aboard larger ships.
+Her first recordings were live clips from bars and temporary venues, circulated through station channels and personal feeds. Microphones clipped, crowds interrupted, and she frequently abandoned prepared material. Her copper-gold skin and thick orange crystalline hair made her recognizable even in poor recordings.
 
-The recordings were technically uneven. Lighting changed between shots, crowds interrupted songs, microphones clipped, and KE$HRA regularly abandoned prepared material to respond to people in the room.
-
-That presentation became part of her appeal.
-
-Her copper-gold skin, bright mineral markings, heavy orange crystalline hair, and preference for saturated pink, red, black, and green made her recognizable even in poor recordings. Her performances were loud, confrontational, flirtatious, and easy to clip into short relay broadcasts.
-
-An Erbium-backed entertainment distributor began carrying several of her performances after one live recording accumulated enough relay traffic to attract commercial attention. Larger venues followed, and KE$HRA signed with the distributor willingly.
-
-The agreement gave her access to professional production, intersystem touring, major relay distribution, security, wardrobe budgets, promotional staff, and the transportation schedule required to turn a popular local performer into a Settled Systems celebrity.
+An Erbium-backed distributor picked up her performances after one attracted substantial relay traffic. She willingly signed an agreement that supplied professional production and the staff and transport needed for intersystem tours. Larger venues followed.
 
 ## STaMP STaMP
 
-KE$HRA's first major commercial success was **STaMP STaMP**.
+**STaMP STaMP** follows a celebrity waking late, ignoring her handler, and spending sponsor money on a night that lasts until the morning shift arrives. Its hook uses the PES stamp as part of the beat. Audiences familiar with access scans and work schedules began shouting it in clubs across Erbium-connected space.
 
-The song follows a celebrity waking late after a night out, ignoring her handler, spending sponsor money, passing security checkpoints, and remaining at a party while the morning shift begins arriving for work.
-
-Its central hook turns the PES stamp into part of the beat.
-
-The concept was immediately recognizable across Erbium-connected space. Nearly everyone in the Settled Systems deals with timestamps, shift records, access windows, relay logs, or another system tied to the stamp. **STaMP STaMP** took that familiar administrative rhythm and made it something shouted in clubs.
-
-The promotional campaign established most of KE$HRA's lasting visual identity. She appeared in bright cargo shorts, fishnets, high heels, fitted black tops, cropped jackets, heavy makeup, green nails, and aggressively styled crystalline hair.
-
-The single spread rapidly through commercial relay channels. Employee recreation halls, station clubs, shipboard parties, university districts, and corporate-sponsored venues adopted it during the same touring cycle.
-
-Edited versions also appeared at Erbium company events.
-
-KE$HRA found this funny.
+The promotion established her recognizable clothes: bright cargo shorts with fishnets and heels, fitted black tops, and cropped jackets. Heavy makeup and green nails accompanied elaborately styled crystalline hair. The single reached station clubs and employee recreation halls during the same tour. KE$HRA was amused when edited versions appeared at Erbium events.
 
 ## The Sponsored Years
 
-Commercial sponsorship became a permanent part of KE$HRA's career after **STaMP STaMP**.
+KE$HRA tours aboard dedicated vessels with her performers, production staff, and corporate representatives. Friends also travel with her, sometimes with uncertain duties. Sponsorship pays for moving this large production between systems and secures venues and distribution.
 
-She performs aboard dedicated touring vessels and travels with musicians, dancers, production technicians, security personnel, stylists, corporate representatives, and a rotating collection of friends whose official jobs are sometimes difficult to identify.
-
-Moving a major touring production between systems is expensive. Erbium sponsorship gives the production reliable access to routes, docking windows, relay distribution, and large venues throughout Erbium-connected space.
-
-KE$HRA has never hidden the arrangement.
-
-She talks openly about sponsor tabs, contractual appearances, mandatory interviews, wardrobe approvals, handler calls, and the number of people required to get her onto a stage at the correct stamp. Her complaints usually concern inconvenience, embarrassment, or somebody interrupting a good night.
-
-She also understands what the arrangement gives her. Erbium can circulate one of her releases across several systems quickly, move a large production crew between population centers, secure major venues, transport equipment, and advertise through infrastructure already used by much of the Settled Systems.
-
-KE$HRA considers the arrangement worthwhile as long as she retains enough control over the performance itself.
+She speaks openly about the arrangement, usually complaining about wardrobe approval or a handler interrupting her night. She understands how much harder independent touring would be and considers the contract worthwhile while she retains control of her performances.
 
 ## Court of Flames
 
-KE$HRA remains publicly associated with the Court of Flames.
+KE$HRA changes choreography during shows, interrupts songs to answer the crowd, and extends sets when the audience still has energy. In interviews she encourages people to act once they have made a decision and accept the consequences.
 
-Her performances emphasize immediacy. She changes choreography, interrupts her own songs, responds to audience members, starts competitions between sections of a venue, and extends sets when she thinks the crowd still has energy.
-
-She has also brought Court language into mainstream entertainment. Interviews frequently return to acting on a decision once it has been made, dealing with the consequences afterward, and refusing to waste a moment worrying about whether something will become embarrassing.
-
-Traditional Flames instructors disagree about her.
-
-Some consider her a highly visible example of the Court's emphasis on decisive action and responsibility for consequences. Others dislike seeing that philosophy reduced in popular culture to drinking, parties, impulsive decisions, and celebrity excess.
-
-KE$HRA has been asked about the disagreement often enough that her answer depends mostly on how much she likes the interviewer.
+Flames instructors disagree about her public influence. Some see decisive action and responsibility in her performances; others object to audiences associating their teaching with celebrity excess. Her willingness to discuss this depends on her opinion of the interviewer.
 
 ## Music
 
-KE$HRA performs dance-pop built around electronic percussion, distorted synthesizers, heavy bass, chantable choruses, spoken lines, and vocals that move between rough talk-singing and melodic hooks.
+Her dance-pop combines electronic percussion and heavy bass with distorted synthesizers. Vocals move between talk-singing and melodic hooks, with choruses audiences can shout. Songs draw on parties, attraction, and the practical frustrations of touring: sponsor credits pay a bar tab, or a transit departure sets a deadline for staying out.
 
-Her songs usually concern parties, sex, attraction, fame, bad judgment, money, exhaustion, arguments, and travel.
-
-Settled Systems infrastructure appears frequently because it is part of her everyday life. Access scans become flirting jokes. Transit schedules become deadlines for staying out too late. Sponsor credits pay bar tabs. Security officers arrive when a party becomes too loud. Relay records preserve things everyone involved would prefer to forget.
-
-**STaMP STaMP** remains her signature song.
-
-Other popular releases include:
-
-- **PREDATOR**
-    
-- **YAP YAP YAP**
-    
-- **DRiFT RiDE**
-
-Concert versions frequently differ from the commercial recordings. KE$HRA leaves room for spoken asides, crowd interaction, and changes made in response to whatever is happening in the venue.
+**STaMP STaMP** remains her signature song. Other popular releases are **PREDATOR**, **YAP YAP YAP**, and **DRiFT RiDE**. Concert arrangements leave room for spoken asides and changes prompted by the audience.
 
 ## Public Persona
 
-KE$HRA's public image centers on excess.
+KE$HRA wears expensive clothes styled to resemble an improvised night-out outfit. Pink and red fabric, fishnets, and high heels contrast with her green nails and mineral markings. Her crystalline hair forms thick copper-orange locks.
 
-Her usual stage clothing combines bright pink and red with black fabric, exposed legs, fishnets, high heels, and flashes of green that match her nails and mineral markings. Her crystalline hair is grown and sculpted into thick copper-orange locks.
-
-The clothes are expensive while deliberately resembling something somebody could have assembled for a night out.
-
-KE$HRA arrives late enough to be noticed without missing the performance. She carries drinks onto interview sets, swears during corporate broadcasts, flirts with hosts, complains about her publicist while the publicist is standing nearby, and treats promotional products as though someone handed them to her seconds before recording began.
-
-Enough of this behavior is genuine that production staff still plan around it.
-
-Audiences are also aware that KE$HRA has handlers, sponsorship contracts, media training, and a carefully managed touring operation. The tension between the polished machinery around her and the person repeatedly wandering outside its marks became part of the act.
-
-Her sponsors tolerate the unpredictability because she remains dependable where it matters. She performs contracted shows, completes promotional work, draws large audiences, and rarely creates problems serious enough to outweigh the attention she generates.
+She arrives late enough to attract attention while still making her performance. During broadcasts she may carry a drink, swear, or complain about her publicist within their hearing. Production staff plan around these habits even as the touring operation carefully manages her image. Sponsors accept the inconvenience because she completes contracted appearances and draws large audiences.
 
 ## Relationship with Erbium
 
-KE$HRA is genuinely aligned with Erbium Industries.
+KE$HRA supports Erbium because it pays her and makes her career possible. Her music associates company stations and sponsored clubs with an enjoyable social life. Complaints usually concern the staff managing her schedule or access to a venue.
 
-She does not serve as a formal political spokesperson, and her value to the company has little to do with policy. Her music makes ordinary life inside Erbium-connected civilization look exciting.
-
-Her songs take place in company stations, commercial concourses, sponsored clubs, employee districts, transit hubs, and ships moving along Erbium-supported routes. Characters complain about supervisors, access checks, shift schedules, handlers, and security while assuming the surrounding infrastructure will continue working.
-
-KE$HRA sees little contradiction in this.
-
-Erbium pays her, moves her between stars, distributes her music, and gives her access to audiences she could never reach as easily through independent channels. She knows the company manages parts of her image because she expects major entertainment companies to manage their performers.
-
-She is willing to complain about specific treatment, defend members of her crew, or embarrass a sponsor in public. Broader arguments about Erbium's political power rarely hold her attention unless they affect someone she personally cares about.
+She will defend a crew member or embarrass a sponsor over specific treatment. Arguments about Erbium’s wider political power rarely hold her attention until they affect someone she cares about. She expects a major entertainment company to manage its performers’ images.
 
 ## Public Reputation
 
-KE$HRA is one of the most commercially recognizable Moyishuu in the Settled Systems.
+Fans copy her clothes and interview manner; shops sell inexpensive crystal clips in her preferred colors. Bars host KE$HRA nights and local performers cover **STaMP STaMP**. Some Moyishuu welcome a successful performer visibly associated with their ancestry. Others resent the influence of her celebrity on outsiders’ understanding of the Court of Flames.
 
-Fans imitate her clothes, crystalline hairstyles, makeup, gestures, and deliberately careless interview manner. Bars host KE$HRA nights, performers cover **STaMP STaMP**, and inexpensive cosmetic crystal clips are sold in her preferred colors.
-
-Her popularity among Moyishuu is more divided.
-
-Some enjoy seeing a Moyishuu performer achieve mainstream success while remaining visibly associated with her Court and ancestry. Others dislike how strongly some non-Moyishuu audiences now associate the Court of Flames with KE$HRA's particular version of celebrity excess.
-
-Her relationship with Erbium creates a separate disagreement. Critics describe her as corporate-safe rebellion packaged for employees who still have to report for the next shift. Supporters point out that KE$HRA has never presented herself as a political dissident.
-
-KE$HRA usually responds to political criticism by saying that she makes party music.
-
-Her audience generally believes her.
+Critics describe her as a marketable form of rebellion for company employees. Supporters point to her consistent description of herself as a party musician. She usually answers political criticism in those terms.

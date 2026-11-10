@@ -9,7 +9,7 @@ audience: gm
 
 GM reference: includes private scenes and backstory material. Character cards, scene drafts, and supporting documents remain together under the player’s name.
 
-## Tarn — Maggie
+## Tarn - Maggie
 
 
 ```dataview
@@ -25,7 +25,9 @@ SORT file.name ASC
 - [[Campaign/Party/Maggie/TarnLvl1Cards.pdf|TarnLvl1Cards]]
 - [[Campaign/Party/Maggie/Tarn_lvl1(2).json|Tarn_lvl1(2)]]
 
-## Ponderer of Oceanus — Jonah
+- [[Campaign/Party/Maggie/Tarn_lvl1_update.json|Tarn level 1 updated card draft]]
+
+## Ponderer of Oceanus - Jonah
 
 
 ```dataview
@@ -41,7 +43,10 @@ SORT file.name ASC
 - [[Campaign/Party/Jonah/Ponderer's Cards (lvl 1 draft 3).json|Ponderer's Cards (lvl 1 draft 3)]]
 - [[Campaign/Party/Jonah/PondererLvl1Cards.pdf|PondererLvl1Cards]]
 
-## Reen / Mordrun Stronglimb — Mary Beth
+- [[Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer Character Sheet Level 1|Ponderer level 1 working sheet]]
+- [[Campaign/Party/Jonah/PondererLevel1Sheet/Ponderer-Table-Reference.pdf|Ponderer table reference]]
+
+## Reen / Mordrun Stronglimb - Mary Beth
 
 
 ```dataview
@@ -51,7 +56,7 @@ WHERE type != "navigation"
 SORT file.name ASC
 ```
 
-## 8-Ball — Gregory
+## 8-Ball - Gregory
 
 
 ```dataview

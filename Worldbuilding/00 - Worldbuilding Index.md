@@ -7,7 +7,7 @@ aliases:
 
 # Worldbuilding Index
 
-[[00 - Start Here|Home]] · [[Campaign/00 - Run the Campaign|Campaign]] · [[Starfinder 2e Rules/00 - Rules Index|Mechanics reference]]
+[[00 - Start Here|Home]] · [[Campaign/00 - Run the Campaign|Campaign]] · [[Rules/00 - Rules Index|Mechanics reference]]
 
 ## Setting foundations
 
@@ -26,14 +26,16 @@ WHERE type != "navigation"
 SORT file.name ASC
 ```
 
-Campaign-specific locations, including The Last Grin and Fresh-Breath, are accessible here:
+Campaign adventure notes, including The Last Grin and Fresh-Breath, are accessible here:
 
 ```dataview
 LIST
-FROM "Campaign/Locations"
+FROM "Campaign/Adventures"
 WHERE type != "navigation"
 SORT file.name ASC
 ```
+
+[[Campaign/Adventures/The Last Grin/00 - The Last Grin|The Last Grin adventure index]].
 
 Starmap data is indexed in [[Resources/00 - Resource Index|Resources]].
 
@@ -50,9 +52,11 @@ Player character notes and scenes are in the [[Campaign/Party/00 - Party Index|P
 
 ## Ancestries and character options
 
+Ancestry culture and mechanics remain together in the campaign rules notes. [[Rules/00 - Rules Index|Rules and campaign mechanics]] collects these with other custom options.
+
 ```dataview
 TABLE WITHOUT ID file.link AS Note, file.folder AS Folder
-FROM "Worldbuilding/Mechanics"
+FROM "Rules/Campaign"
 WHERE type != "navigation"
 SORT file.name ASC
 ```
@@ -61,7 +65,7 @@ SORT file.name ASC
 
 ```dataview
 LIST
-FROM "Worldbuilding/Hazards and Afflictions"
+FROM "Rules/Campaign/Afflictions"
 WHERE type != "navigation"
 SORT file.name ASC
 ```

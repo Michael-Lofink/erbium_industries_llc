@@ -23,7 +23,7 @@ The old guide's sample subclauses disagreed with the full continuity law. In tha
 
 ## Vuddar and the crew
 
-[[Campaign/Party/Maggie/The Crew|The Crew]] describes a payment to VSP interests in compliance with [[A4%9&4-7]]. [[Worldbuilding/Mechanics/Ancestries of the Settled Systems/Dwarf/Dwarf|Dwarf]] describes a territorial exemption for Vuddar. Neither passage explains how that payment relates to the exemption. No payment mechanism has been added to the law note.
+[[Campaign/Party/Maggie/The Crew|The Crew]] describes a payment to VSP interests in compliance with [[A4%9&4-7]]. [[Rules/Campaign/Ancestries/Dwarf/Dwarf|Dwarf]] describes a territorial exemption for Vuddar. Neither passage explains how that payment relates to the exemption. No payment mechanism has been added to the law note.
 
 ## Titles and source limits
 
