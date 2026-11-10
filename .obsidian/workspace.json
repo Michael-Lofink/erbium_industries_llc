@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Campaign/Archetypes/Nostalgic.md",
+                "file": "Rules/Campaign/Afflictions/Void Calling.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Nostalgic"
+              "title": "Void Calling"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Campaign/Archetypes/Nostalgic.md",
+                "file": "Rules/Campaign/Afflictions/Void Calling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,13 +214,13 @@
   },
   "active": "5a1ebc6906eb45ac",
   "lastOpenFiles": [
+    "Rules/Campaign/Archetypes/Void-Returned Archetype.md",
     "Rules/Campaign/Archetypes/Telepath.md",
+    "Rules/Campaign/Archetypes/Nostalgic.md",
     "Rules/Campaign/Afflictions/Void Calling.md",
     "Rules/Campaign/Afflictions/Sulfur-Rot.md",
-    "Rules/Campaign/Archetypes/Void-Returned Archetype.md",
     "Campaign/GM Notes/Continuity/Void Calling Revision and UNITY Keys.md",
     "Rules/Campaign/Ancestries/Versatile Heritages.md",
-    "Rules/Campaign/Archetypes/Nostalgic.md",
     "Rules/Campaign/Creatures/Enforcer Robot.md",
     "Rules/Campaign/Demi-Ancestries/Copaxi.md",
     "Rules/Campaign/Demi-Ancestries/Goblin.md",

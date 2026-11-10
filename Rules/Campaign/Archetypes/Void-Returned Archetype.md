@@ -16,6 +16,8 @@ A survivor may have a dormant infection or have been cured. Record that status s
 
 Examinations inside a natural planetary atmosphere are inconclusive because the affliction is dormant there. The changes represented by these feats continue to function in atmosphere. A Void-Returned remains a living creature.
 
+When a feat grants the cosmic trait, use [[Rules/Campaign/Afflictions/Void Calling#Cosmic carriers|the cosmic carrier rules]]: harmful stage effects are suppressed while the normal timer continues. Saves can reduce an existing infection to stage 1; a cure requires an effect that counteracts or removes the disease. When temporary protection ends, use the current recorded stage and remaining interval.
+
 ```sf2e-stats
 # Void-Returned Dedication
 

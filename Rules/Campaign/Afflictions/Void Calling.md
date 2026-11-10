@@ -36,13 +36,15 @@ A dormant infection is **undetectable**, so examinations during dormancy are inc
 
 ### The Drift
 
-Travel within the Drift prevents new exposure to either form. Crews commonly believe that entering it also suppresses an existing infection. Whether that belief is correct remains unresolved; see the GM information before running an affected creature's transit.
+Travel within the Drift prevents new exposure to either form. Crews commonly believe that entering it also suppresses an existing infection.
 
 ### Cosmic carriers
 
-A creature that contracts either form while it has the cosmic trait carries the infection at a maximum of **stage 1** and experiences no harmful stage effects. While the infection is active, it attempts a stage save **once per day**.
+A creature that contracts either form while it has the cosmic trait begins at **stage 1** after any onset, even on a critically failed initial save. Its harmful stage effects are suppressed, and it remains a carrier until an effect counteracts or removes the disease.
 
-If a creature gains the cosmic trait while already afflicted, suppress its harmful stage effects and pause its existing stage timer. It functions as a stage-1 carrier for transmission while the trait lasts. Keep the original stage and remaining interval on record: they resume if the trait ends before the affliction is cured or made dormant. Each full active day spent with the cosmic trait grants one recovery save against the recorded stage. Successful saves reduce that stage using the infection's recovery rules; failures leave it unchanged.
+If a creature gains the cosmic trait while already afflicted, retain its recorded stage and suppress the harmful stage effects. It functions as a stage-1 carrier for transmission. Continue the existing onset or stage timer, using the normal interval for the recorded stage. While that stage is above 1, attempt a stage save at each interval: successes reduce it according to the infection's recovery rules, to a **minimum of stage 1**; failures leave it unchanged. Apply virulent normally. At stage 1, intervals continue without a roll.
+
+If the cosmic trait ends, apply the effects and ordinary save outcomes of the current recorded stage, preserving the remaining interval and any pending virulent success. Natural planetary atmosphere pauses all of these timers under the dormancy rules.
 
 ### Transmission and exposure checks
 
@@ -52,7 +54,7 @@ A creature can carry one form at a time. If a creature with Exposure contracts t
 
 ### Saves and recovery
 
-Use the usual affliction rules: an initial failure produces stage 1, and an initial critical failure produces stage 2 after any onset. At each stage interval, a failure increases the stage by 1 and a critical failure by 2. A success reduces it by 1 and a critical success by 2, subject to virulent. Recovering below stage 1 cures the infection.
+Use the usual affliction rules: an initial failure produces stage 1, and an initial critical failure produces stage 2 after any onset. At each stage interval, a failure increases the stage by 1 and a critical failure by 2. A success reduces it by 1 and a critical success by 2, subject to virulent. For a creature without the cosmic trait, recovering below stage 1 cures the infection.
 
 A virulent affliction requires two consecutive successful stage saves for a one-stage reduction. A critical success reduces the stage by 1 immediately. After a reduction or a failed save, start a fresh count. Initial saves use their normal results.
 
@@ -156,9 +158,9 @@ Before departure, crew members choose **anchors** they can use during a groundin
 
 ## Treatment
 
-Treat Disease uses its normal eight-hour activity and can assist the slower Exposure form or a cosmic carrier's daily recovery saves. Grounding Check provides a shorter way to prepare for a stage save. During true Void Calling's minute-long intervals, use Emergency Grounding below, a suitable disease-removal effect, or rapid transport into a natural atmosphere.
+Treat Disease uses its normal eight-hour activity to prepare for a subsequent stage save. Grounding Check provides a shorter way to prepare for a stage save. During true Void Calling's minute-long intervals, use Emergency Grounding below, a suitable disease-removal effect, or rapid transport into a natural atmosphere.
 
-Effects that counteract or remove diseases can cure either form, including a dormant infection, if their targeting requirements are met. For counteracting, Exposure is rank 3 at DC 22 and true Void Calling is rank 5 at DC 27. An effect used on a suspected dormant carrier gives no diagnostic confirmation of infection or cure while the target remains in atmosphere; the GM tracks the result privately. Disease-removal effects apply to pending transformation only if their normal targeting permits affecting the body.
+Effects that counteract or remove diseases can cure either form, including a dormant infection, if their targeting requirements are met. For counteracting, Exposure is rank 3 at DC 22 and true Void Calling is rank 5 at DC 27. Treatment that only improves stage saves remains subject to the cosmic carrier’s stage-1 floor. An effect used on a suspected dormant carrier gives no diagnostic confirmation of infection or cure while the target remains in atmosphere; the GM tracks the result privately. Disease-removal effects apply to pending transformation only if their normal targeting permits affecting the body.
 
 Caregivers bring a patient with Exposure to a compartment with covered viewports and supervised exits. Someone familiar stays with them, explains where they are, and checks reported emergencies with the rest of the crew. During the true disease's crisis, attendants clear space around the patient and prepare for immediate transport. A patient being cured in vacuum needs a functioning suit or other environmental protection as the disease's vacuum adaptation ends.
 
@@ -266,7 +268,7 @@ Before running an infected creature’s journey through the Drift, decide whethe
 
 ## Revision record
 
-Revised November 9, 2026. The GM's October messages establish transmission beginning at stage 1, including asymptomatic carriers. This revision separates the slow Exposure syndrome from the one-minute crisis, introduces atmospheric dormancy and diagnostic silence, and updates the carrier rule. Existing PDF exports are earlier snapshots.
+Revised November 9, 2026. The GM's October messages establish transmission beginning at stage 1, including asymptomatic carriers. This revision separates the slow Exposure syndrome from the one-minute crisis, introduces atmospheric dormancy and diagnostic silence, and establishes persistent cosmic carriers. Cosmic suppression retains normal stage intervals and permits improvement down to stage 1; curing a carrier requires an effect that counteracts or removes disease. Existing PDF exports are earlier snapshots.
 
 Rules reference: Starfinder 2e Player Core p. 201 for Treat Disease and pp. 422–423 for affliction onset, stage saves, repeated exposure, and virulent. The dormancy, carrier intervals, examination, and Emergency Grounding procedures above are campaign homebrew. See [[Campaign/GM Notes/Continuity/Void Calling Revision and UNITY Keys|the design and continuity note]] for timing examples and unresolved lore.
 
