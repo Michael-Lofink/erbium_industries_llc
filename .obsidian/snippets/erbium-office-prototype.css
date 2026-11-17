@@ -1,0 +1,48 @@
+/* A. Sop office prototype only. Reading view keeps scene and NPCs together. */
+.erbium-office-prototype.markdown-preview-view { --file-line-width: 1180px; }
+.erbium-office-prototype .metadata-container,
+.erbium-office-prototype .inline-title { display: none; }
+.erbium-office-prototype .callout[data-callout="gm-screen"] {
+  background: transparent; border: 0; padding: 0; margin: 1em 0;
+  container-type: inline-size;
+}
+.erbium-office-prototype .callout[data-callout="gm-screen"] > .callout-title { display: none; }
+.erbium-office-prototype .callout[data-callout="gm-screen"] > .callout-content {
+  display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(285px, 1fr);
+  gap: 18px; align-items: start; overflow: visible;
+}
+.erbium-office-prototype .callout[data-callout="gm-screen"] > .callout-content > p:empty { display: none; }
+.erbium-office-prototype .callout[data-callout="gm-scene"],
+.erbium-office-prototype .callout[data-callout="gm-npcs"] {
+  min-width: 0; margin: 0; border: 1px solid var(--background-modifier-border);
+  border-radius: 8px; background: var(--background-primary); padding: 12px;
+}
+.erbium-office-prototype .callout[data-callout="gm-scene"] > .callout-title { display: none; }
+.erbium-office-prototype .callout[data-callout="gm-npcs"] > .callout-title { margin-bottom: 12px; }
+.erbium-office-prototype .callout[data-callout="gm-npcs"] .callout-icon { display: none; }
+.erbium-office-prototype .callout[data-callout="gm-npcs"] > .callout-content {
+  max-height: min(72vh, 780px); overflow-y: auto; scrollbar-gutter: stable; padding-right: 4px;
+}
+.erbium-office-prototype .tab-panel-container { padding: 0; border: 0; border-radius: 0; background: transparent; }
+.erbium-office-prototype .tab-panel-container ul.tab-container { margin: 0; padding: 0; gap: 5px; }
+.erbium-office-prototype .tab-panel-container .tab { padding: 8px 11px; font-size: 0.94em; }
+.erbium-office-prototype .tab-panel-container .tab::before,
+.erbium-office-prototype .tab-panel-container .tab::after { display: none; }
+.erbium-office-prototype .tab-panel-container .content-container {
+  max-height: min(72vh, 780px); overflow-y: auto; scrollbar-gutter: stable;
+  padding: 16px 10px 10px; box-shadow: none; border-top: 1px solid var(--background-modifier-border);
+}
+.erbium-office-prototype :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) h3 {
+  font-size: 1.1em; line-height: 1.3; margin: 1.15em 0 0.4em;
+}
+.erbium-office-prototype [data-callout="gm-npcs"] h3:first-child { margin-top: 0; }
+.erbium-office-prototype :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) p { margin: 0.5em 0 0.85em; }
+@container (max-width: 720px) {
+  .erbium-office-prototype .callout[data-callout="gm-screen"] > .callout-content { grid-template-columns: minmax(0, 1fr); }
+  .erbium-office-prototype .callout[data-callout="gm-npcs"] > .callout-content { max-height: none; }
+}
+@media print {
+  .erbium-office-prototype .callout[data-callout="gm-screen"] > .callout-content { display: block; }
+  .erbium-office-prototype .tab-panel-container .content-container,
+  .erbium-office-prototype .callout[data-callout="gm-npcs"] > .callout-content { max-height: none; overflow: visible; }
+}

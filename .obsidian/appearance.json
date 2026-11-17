@@ -13,6 +13,8 @@
     "supercharged-links-gen",
     "image_align_export",
     "its-print-export",
-    "sf2e-feat-level"
-  ]
+    "sf2e-feat-level",
+    "erbium-office-prototype"
+  ],
+  "showRibbon": true
 }
