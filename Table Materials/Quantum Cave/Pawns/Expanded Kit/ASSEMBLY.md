@@ -29,7 +29,7 @@ The upright height makes the art easier to see; the one-inch base sets the occup
 | Basic-Cut/Eight-Vent-Backings.svg | Basic Cut on backing board | **4.2 × 4.6 inches** |
 | Print-Then-Cut/Optional-Position-Markers.png | Optional Print Then Cut | **3.75 × 0.5 inches** |
 
-Upload each transparent PNG as Print Then Cut and set its locked width to the listed value. Print and cut through Design Space on cardstock. Each pawn sheet contains body wraps and matching base labels. Keep the white areas inside each piece opaque during upload; the surrounding area is transparent. The SVGs named **Cardstock-Outlines** provide matching outer cut shapes for the paper pieces; their printed dashed lines are hand-score guides.
+Upload each transparent PNG as Print Then Cut and set its locked width to the listed value. Print and cut through Design Space on cardstock. Each pawn sheet contains body wraps and matching base labels. Keep the white areas inside each piece opaque during upload; the surrounding area is transparent. The SVGs named **Cardstock-Outlines** provide matching outer cut shapes for the paper pieces; their printed dashed lines mark the folds. Machine score overlays and their alignment coordinates are in [[Table Materials/Quantum Cave/Pawns/Expanded Kit/Cricut Upload Reference|Cricut Upload Reference]].
 
 Upload the backing SVGs as Basic Cut and attach their shapes to preserve the arrangement. The eleven pawn bases provide weight. The eleven optional cores stiffen the upright bodies: **0.85 × 1.55 inches** for creatures and **0.85 × 1.1 inches** for stones. All sheets fit your 12 × 12 or 12 × 24 mat and 11 × 14 stock.
 
@@ -40,7 +40,7 @@ For individual bodies, use the Individual folder. Each body strip is **0.9 inch 
 See **Pawn-Assembly.pdf** for the illustrated steps.
 
 1. Cut the printed wrap, matching base label, board base and optional upright core. Glue the base label to its board base.
-2. Use a ruler and blunt scoring tool on the four dashed lines across the wrap. These mark two glue feet and the two edges of the narrow top spine.
+2. Score the four fold lines with the Explore 5 using the linked overlays, or by hand with a ruler and blunt scoring tool. These mark two glue feet and the two edges of the narrow top spine.
 3. Fold the center into a U so the two illustrated panels face outward. Glue them to opposite sides of the core, with its lower edge aligned to the foot folds. Leave both feet free. With cardstock alone, glue the illustrated panels back to back and crease the top flat.
 4. Fold the two feet outward in opposite directions. Center the upright body along the dashed line on its base and glue both feet down. Hold it upright while the glue sets.
 
@@ -48,7 +48,7 @@ The **0.08-inch top spine** allows roughly 2 mm for board, paper and glue. Make 
 
 **Ordinary printing:** Pawns-Actual-Size-Letter.pdf has five art pages at actual size: electrovores on pages 1–2, stones on page 3, active vents on page 4 and spent vents on page 5. Print at **100%** and measure the one-inch check square. For Cricut sensor-guided cutting, print through Design Space using the PNGs.
 
-**Material:** use the backing and blade setup that worked for your finished cave. Explore 4 supports Fine-Point and Deep-Point blades; Cricut's Knife Blade is a Maker tool. If a material setting requires Knife Blade, choose an Explore-compatible backing or cut that backing by hand.
+**Machine and material:** use your Explore 5 with the material and cutting setup that worked for the finished cave. For the pawn artwork, use the Explore 5 Scoring Tool, then swap to the cutting tool when prompted while keeping the mat loaded. See [[Table Materials/Quantum Cave/Pawns/Expanded Kit/Cricut Upload Reference|Cricut Upload Reference]] for setup and alignment.
 
 ## Chuckle Vent markers
 
