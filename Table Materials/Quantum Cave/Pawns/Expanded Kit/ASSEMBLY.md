@@ -1,5 +1,7 @@
 # Quantum Cave: Pawns and Vents
 
+[[Table Materials/Quantum Cave/Pawns/Expanded Kit/Cricut Upload Reference|Cricut upload reference — linked files and sizes]]
+
 ## Upright pawns
 
 Eight double-sided electrovores and three upright stones stand on one-inch bases. Each has matching identifiers on both faces and the base. Backgrounds, glue feet and base interiors are white; colored borders and identifiers are retained. The six optional A/B markers remain thin paper circles.

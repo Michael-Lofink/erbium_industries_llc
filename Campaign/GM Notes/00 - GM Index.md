@@ -33,6 +33,6 @@ SORT file.name ASC
 
 ## Handoffs and premise
 
-- [[Campaign/GM Notes/Handoffs/Erbium_CoGM_Handoff_Prompt.txt|Current co-GM handoff and file map]]
+- [[Campaign/GM Notes/Handoffs/Erbium_CoGM_Handoff_Prompt.md|Current co-GM handoff and file map]]
 - [[Campaign/GM Notes/Frontier Extraction Recruitment|Frontier Extraction recruitment]]
 - [[Vault Guide|Current structure and filing conventions]]

@@ -14,7 +14,8 @@
     "image_align_export",
     "its-print-export",
     "sf2e-feat-level",
-    "erbium-office-prototype"
+    "erbium-office-prototype",
+    "erbium-session-screen"
   ],
   "showRibbon": true
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Sessions/Session 4 - Office Prototype.md",
+                "file": "Campaign/Sessions/Session 4.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 4 - Office Prototype"
+              "title": "Session 4"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Sessions/Session 4 - Office Prototype.md",
+                "file": "Campaign/Sessions/Session 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,8 +214,11 @@
   },
   "active": "579c9cd717e6897d",
   "lastOpenFiles": [
+    "Table Materials/Quantum Cave/Pawns/Expanded Kit/Cricut Upload Reference.md",
+    "Campaign/Sessions/Session 3.md",
     "Campaign/Sessions/Session 4.md",
     "Campaign/Sessions/Session 4 - Office Prototype.md",
+    "Campaign/GM Notes/Handoffs/Erbium_CoGM_Handoff_Prompt.md",
     "Campaign/Adventures/The Last Grin/The Last Grin.md",
     "Campaign/Adventures/The Last Grin/00 - The Last Grin.md",
     "Campaign/GM Notes/00 - GM Index.md",
@@ -256,9 +259,6 @@
     "Table Materials/Quantum Cave/Map Construction/maps/GM-01-B-L-G.pdf",
     "Table Materials/Quantum Cave/Pawns/Expanded Kit/ASSEMBLY.md",
     "Table Materials/Quantum Cave/Pawns/Expanded Kit/Basic-Cut/Quantum-Stone-Pawns-J-Body-Cardstock-Outlines.svg",
-    "Table Materials/Quantum Cave/Pawns/Expanded Kit/Pawns-Actual-Size-Letter.pdf",
-    "Resources/Art Direction/Erbium Campaign Art Style.md",
-    "Campaign/GM Notes/Frontier Extraction Recruitment.md",
-    "Campaign/GM Notes/Continuity/Void Calling Revision and UNITY Keys.md"
+    "Table Materials/Quantum Cave/Pawns/Expanded Kit/Pawns-Actual-Size-Letter.pdf"
   ]
 }

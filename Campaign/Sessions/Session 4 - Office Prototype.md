@@ -80,7 +80,7 @@ cssclasses:
 > > **Conceals:** he learned his paternity.  
 > > **Resents:** Nera's recognition and attention.
 
-[[Campaign/Sessions/Session 4#Scene 3. A. Sop's Office|Session 4 source]] · [[Campaign/Sessions/Session 4#Scene 4. Supplies and Travel|Next: supplies and travel]]
+[[Campaign/Sessions/Session 4|Session 4 — Office tab]] · [[Campaign/Sessions/Session 4|Session 4 — Supplies tab]]
 
 > [!info]- Prototype notes
 > Open this note in **Reading view**. The scene tabs and NPC reference scroll independently; both NPCs remain available as you change tabs. On a narrow screen, the reference moves below the scene.

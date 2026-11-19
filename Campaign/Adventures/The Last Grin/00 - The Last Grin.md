@@ -11,7 +11,7 @@ audience: gm
 
 - [[Campaign/Adventures/The Last Grin/The Last Grin|Moon and environmental conditions]]
 - [[Campaign/Adventures/The Last Grin/Fresh-Breath|Fresh-Breath settlement]]
-- [[Campaign/Sessions/Session 4#GM Background|Current NPC background and who knows what]]
+- [[Campaign/Sessions/Session 4|Current NPC background and who knows what — Background tab]]
 - [[Table Materials/Quantum Cave/Session 4 Packet/Quantum Cave Session 4 Guide|Session 4 cave guide]]
 - [[Table Materials/Quantum Cave/00 - Quantum Cave Materials|Cave maps, pawns, music, and construction files]]
 - [[Rules/Campaign/Environment/Quantum Caves|Quantum cave environmental feature]]
@@ -28,4 +28,4 @@ audience: gm
 
 ## Open preparation
 
-Session 4 records pending decisions about ship repairs, evacuation capacity and supplies, Chief's recovery account, drivers, and unresolved family history. Keep those decisions with the session's GM background until developed into their own subject notes. The [[Archive/Preparation/The Last Grin/Quantum Cave Session 3 Guide|earlier cave guide]] remains available as historical preparation.
+Session 4 records pending decisions about ship repairs, evacuation capacity and supplies, who fired first in Chief's shootout with PPPPP, drivers, and unresolved family history. Keep those decisions with the session's GM background until developed into their own subject notes. The [[Archive/Preparation/The Last Grin/Quantum Cave Session 3 Guide|earlier cave guide]] remains available as historical preparation.

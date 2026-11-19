@@ -1,0 +1,67 @@
+/* Session 4 table workspace. All rules are scoped to this note class. */
+.erbium-session-screen { --file-line-width: 1440px; }
+.erbium-session-screen .metadata-container,
+.erbium-session-screen .inline-title { display: none; }
+.erbium-session-screen .callout[data-callout="gm-screen"] {
+  container-type: inline-size; background: transparent; border: 0; padding: 0; margin: 10px 0 0;
+}
+.erbium-session-screen .callout[data-callout="gm-screen"] > .callout-title { display: none; }
+.erbium-session-screen .callout[data-callout="gm-screen"] > .callout-content {
+  display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(320px, 1fr);
+  gap: 16px; align-items: start; overflow: visible;
+}
+.erbium-session-screen .callout[data-callout="gm-screen"] > .callout-content > p:empty { display: none; }
+.erbium-session-screen :is(.callout[data-callout="gm-scene"], .callout[data-callout="gm-npcs"]) {
+  min-width: 0; margin: 0; border: 1px solid var(--background-modifier-border);
+  border-radius: 8px; background: var(--background-primary); padding: 12px;
+}
+.erbium-session-screen .callout[data-callout="gm-scene"] > .callout-title { display: none; }
+.erbium-session-screen .callout[data-callout="gm-npcs"] > .callout-title { margin-bottom: 10px; }
+.erbium-session-screen .callout[data-callout="gm-npcs"] > .callout-title .callout-icon { display: none; }
+/* Outer scene selection stays in place; each column gets its own scroll area. */
+.erbium-session-screen :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) > .callout-content {
+  max-height: calc(100vh - 410px); min-height: 180px; overflow-y: auto;
+  scrollbar-gutter: stable; padding-right: 4px;
+}
+.erbium-session-screen .tab-panel-container { padding: 0; border: 0; border-radius: 0; background: transparent; min-width: 0; }
+.erbium-session-screen .tab-panel-container > .content-container {
+  padding: 12px 0 0; box-shadow: none; border-radius: 0; overflow: visible;
+  border-top: 1px solid var(--background-modifier-border);
+}
+.erbium-session-screen .tab-panel-container > .tab-scroll-container {
+  position: static; background: var(--background-primary);
+  overflow-x: auto; overflow-y: hidden;
+}
+.erbium-session-screen .tab-panel-container ul.tab-container {
+  margin: 0; padding: 0; gap: 4px; flex-wrap: wrap; width: auto;
+}
+.erbium-session-screen .tab-panel-container .tab { padding: 7px 10px; font-size: 0.94em; }
+.erbium-session-screen .tab-panel-container .tab::before,
+.erbium-session-screen .tab-panel-container .tab::after { display: none; }
+.erbium-session-screen :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) :is(h2,h3,h4) {
+  font-size: 1.08em; line-height: 1.3; margin: 1.15em 0 0.45em;
+}
+.erbium-session-screen :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) p { margin: 0.5em 0 0.85em; }
+.erbium-session-screen :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) blockquote {
+  margin: 0.8em 0; padding-left: 12px; border-left: 2px solid var(--color-accent);
+}
+.erbium-session-screen .callout img { max-width: 100%; height: auto; }
+.erbium-session-screen .callout table { width: 100%; font-size: 0.93em; }
+.erbium-session-screen .callout :is(td,th) { overflow-wrap: anywhere; }
+.erbium-session-screen .markdown-embed { border: 0; padding: 0; }
+@container (max-width: 800px) {
+  .erbium-session-screen .callout[data-callout="gm-screen"] > .callout-content { grid-template-columns: minmax(0, 1fr); }
+  .erbium-session-screen :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) > .callout-content { max-height: 65vh; }
+}
+@media print {
+  .erbium-session-screen .callout[data-callout="gm-screen"] > .callout-content { display: block; }
+  .erbium-session-screen :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) > .callout-content { max-height: none; overflow: visible; }
+  .erbium-session-screen .tab-panel-container > .tab-scroll-container { position: static; }
+}
+/* Protect nested Tab Panels and stat-block separators without adding visual boxes. */
+.erbium-session-screen .callout[data-callout="gm-tabs"] { background: transparent; border: 0; padding: 0; margin: 0; }
+.erbium-session-screen .callout[data-callout="gm-tabs"] > .callout-title { display: none; }
+.erbium-session-screen .callout[data-callout="gm-tabs"] > .callout-content { overflow: visible; }
+
+/* Keep each column's primary selector visible without overlapping nested selectors. */
+.erbium-session-screen :is([data-callout="gm-scene"], [data-callout="gm-npcs"]) > .callout-content > .tab-panel-container > .tab-scroll-container { position: sticky; top: 0; z-index: 2; }

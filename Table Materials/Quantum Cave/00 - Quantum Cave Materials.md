@@ -18,6 +18,8 @@ audience: gm
 
 ## Choose a production bundle
 
+[[Table Materials/Quantum Cave/Pawns/Expanded Kit/Cricut Upload Reference|Cricut upload reference for pawns and vents]] — file links, dimensions, and cutting steps.
+
 | Bundle | Contents and purpose |
 | --- | --- |
 | [[Table Materials/Quantum Cave/Session 4 Packet/START-HERE\|Session 4 Packet]] | Revised guide, music, maps, table PDF, and original flat-token update |
